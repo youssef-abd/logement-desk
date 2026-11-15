@@ -17,6 +17,8 @@ def flags_for(text, profile, title=""):
     ("Caution solidaire demandée", ["garant"]),
     ("Pas d'étudiants", ["student_no"]),
     ("Étudiants acceptés", ["student_ok"]),
+    ("Sans frais d'agence", ["agency_fees_no"]),
+    ("Aucun frais d'agence, étudiants acceptés", ["agency_fees_no", "student_ok"]),
     ("Convient à un étudiant", ["student_ok"]),
     ("Frais d'agence : 200 EUR", ["agency_fees"]),
     ("Écrivez-moi sur WhatsApp", ["scam"]),

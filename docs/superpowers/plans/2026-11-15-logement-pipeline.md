@@ -650,6 +650,8 @@ Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
 
 ### Task 6: Text flags
 
+> Amended during execution: the example profile gained an `agency_fees_no` flag and `agency_fees` is dropped when it matches ("Sans frais d'agence" was flagged as having fees).
+
 **Files:**
 - Create: `logement/flags.py`
 - Test: `tests/test_flags.py`
