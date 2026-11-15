@@ -36,7 +36,7 @@ def _title(rooms, surface, city):
 
 def parse(data, max_photos):
     out = []
-    for a in data.get("realEstateAds", []):
+    for a in data.get("realEstateAds") or []:
         sid = str(a.get("id") or "")
         pro = a.get("adCreatedByPro")
         out.append(Listing(
@@ -48,7 +48,7 @@ def parse(data, max_photos):
             district=a.get("city"), postal_code=a.get("postalCode"), furnished=a.get("isFurnished"),
             poster=None if pro is None else ("agence" if pro else "particulier"),
             published_at=a.get("publicationDate"), description=a.get("description") or "",
-            photos=[p["url"] for p in a.get("photos", []) if p.get("url")][:max_photos],
+            photos=[p["url"] for p in (a.get("photos") or []) if isinstance(p, dict) and p.get("url")][:max_photos],
         ))
     return out
 

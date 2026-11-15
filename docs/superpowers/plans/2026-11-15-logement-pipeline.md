@@ -919,6 +919,8 @@ Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
 
 ### Task 8: Bien'ici adapter
 
+> Amended during execution: `parse` tolerates `photos: null`, non-dict photo entries and `realEstateAds: null` (review finding).
+
 **Files:**
 - Create: `logement/sources/bienici.py`
 - Test: `tests/test_source_bienici.py`

@@ -40,3 +40,11 @@ def test_build_filters_uses_isfurnished_and_the_near_miss_ceiling(profile):
     assert f["sortBy"] == "publicationDate" and f["sortOrder"] == "desc"
     profile["furnished"] = "any"
     assert "isFurnished" not in build_filters(profile)
+
+
+def test_parse_survives_odd_photo_and_list_values():
+    assert parse({"realEstateAds": None}, max_photos=6) == []
+    [l] = parse({"realEstateAds": [{**AD, "photos": None}]}, max_photos=6)
+    assert l.photos == []
+    [l] = parse({"realEstateAds": [{**AD, "photos": ["x", {"url": "https://file.example.test/p1"}]}]}, max_photos=6)
+    assert l.photos == ["https://file.example.test/p1"]
