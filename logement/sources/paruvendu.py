@@ -26,7 +26,11 @@ def _card(raw):
     title = link.group(2).strip()
     rooms = re.search(r"(\d+)\s*pièce", title)
     surface = re.search(r"(\d+(?:[.,]\d+)?)\s*m²", title)
-    poster = POSTER.search(c)
+    m = POSTER.search(c)
+    if m:
+        poster = "particulier" if m.group(1).lower() == "particulier" else "agence"
+    else:
+        poster = "agence" if re.search(r'alt="pro : ', c, re.I) else None
     date = DATE.search(c)
     text = re.sub(r"<[^>]+>", " ", re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", c, flags=re.S))
     text = re.sub(r"\s+", " ", text).strip()
@@ -54,7 +58,7 @@ def parse_html(html, max_photos):
             source="paruvendu", source_id=did, url="https://www.paruvendu.fr" + href, title=title,
             rent_cc=rent, surface_m2=float(surface.group(1).replace(",", ".")) if surface else None,
             rooms=int(rooms.group(1)) if rooms else None, furnished=furnished,
-            poster=None if not poster else ("particulier" if poster.group(1).lower() == "particulier" else "agence"),
+            poster=poster,
             published_at=f"{date.group(3)}-{date.group(2)}-{date.group(1)}" if date else None,
             description=text, photos=photos[:max_photos],
         )

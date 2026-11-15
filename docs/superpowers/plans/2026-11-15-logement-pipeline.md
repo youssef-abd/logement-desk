@@ -1334,6 +1334,8 @@ Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
 
 ### Task 11: ParuVendu adapter
 
+> Amended during execution: a card without a `pseudoinfo` span but with an `alt="pro : ..."` logo is an agency (found by parsing a real page: 25 of 30 cards were professional).
+
 **Files:**
 - Create: `logement/sources/paruvendu.py`
 - Test: `tests/test_source_paruvendu.py`

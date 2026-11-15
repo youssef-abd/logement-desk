@@ -46,3 +46,24 @@ def test_parse_reads_a_professional_hc_card_with_a_thousands_space():
 def test_parse_caps_photos_and_handles_no_cards():
     assert len(parse_html(CARD_1, max_photos=1)[0].photos) == 1
     assert parse_html("<html></html>", max_photos=6) == []
+
+
+CARD_PRO = """
+<div class="blocAnnonce border-1" data-id="1000000003" data-cdp="">
+ <a href="/immobilier/location/appartement/1000000003A1KILHAP000" title=" Appartement - 1 pièce(s) - 20 m²">
+  <span class="text-sm font-bold">3</span>
+ </a>
+ <!-- Prix --> <div> 480 &euro; <span class="f10">CC*</span> </div>
+ <img src="logo.png" alt="pro : agency.example.test" title="Toutes les annonces de agency.example.test" />
+ <p class="text-xs"><img src="x.svg">10/11/2026</p>
+</div>
+"""
+
+
+def test_professional_card_without_pseudoinfo_is_an_agency():
+    assert parse_html(CARD_PRO, max_photos=6)[0].poster == "agence"
+
+
+def test_card_with_neither_marker_has_unknown_poster():
+    html = CARD_PRO.replace('alt="pro : agency.example.test"', 'alt="logo"')
+    assert parse_html(html, max_photos=6)[0].poster is None
