@@ -1,0 +1,1514 @@
+{
+ "health": {
+  "bienici": {
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
+   "cooldown_until": null,
+   "last_error": null,
+   "last_success": "2026-11-15T11:55:33+00:00"
+  },
+  "leboncoin": {
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
+   "cooldown_until": null,
+   "last_error": null,
+   "last_success": "2026-11-15T11:55:33+00:00"
+  }
+ },
+ "listings": {
+  "bienici:ag696825-556428539": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 20,
+    "description": "Au pied de l'université  - A SAISIR Studio meuble de 22,45 m² au 3ème et dernier étage sans ascenseur - kitchenette équipée, pièce de vie, salle d'eau, WC. faibles charges - Proximité toutes commodités\nLIBRE DE SUITE\nCopropriété de 6 lots.\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "district": "Lyon 7e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://file.bienici.com/photo/ag696825-556428539_photos.ubiflow.net_696825_556428539_photos_1.jpg_INSOON_EB_5512801818_20261028044830",
+     "https://file.bienici.com/photo/ag696825-556428539_photos.ubiflow.net_696825_556428539_photos_2.jpg_INSOON_EB_5512801818_20261028044830",
+     "https://file.bienici.com/photo/ag696825-556428539_photos.ubiflow.net_696825_556428539_photos_3.jpg_INSOON_EB_5512801818_20261028044830",
+     "https://file.bienici.com/photo/ag696825-556428539_photos.ubiflow.net_696825_556428539_photos_4.jpg_INSOON_EB_5512801818_20261028044830",
+     "https://file.bienici.com/photo/ag696825-556428539_photos.ubiflow.net_696825_556428539_photos_5.jpg_INSOON_EB_5512801818_20261028044830"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-10-28T03:57:08.634Z",
+    "rent_cc": 522,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag696825-556428539",
+    "surface_m2": 22,
+    "tags": [],
+    "title": "Appartement Lyon 1 pièce(s) 22.45 m2",
+    "url": "https://www.bienici.com/annonce/ag696825-556428539"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag752345-559033751": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 65,
+    "description": "Logement Manda ! Visitez et déposez votre dossier uniquement sur notre plateforme  ! Nous ne vous enverrons jamais le bail ou le RIB par mail - tout est sécurisé sur notre plateforme.\n\nLyon 69007 - 11.97 m² • Studio • Meublé • 578 €\n\nManda vous propose ce beau studio meublé, idéalement situé au 33, Rue Pasteur dans le 7ème arrondissement de Lyon. Parfait pour un étudiant, vous profitez d'une adresse dynamique et recherchée au cœur d'un quartier vivant, à deux pas des universités, des commerces e",
+    "district": "Lyon 7e",
+    "flags": [
+     "available_now"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/ag752345-559033751_photos.ubiflow.net_752345_559033751_photos_1.jpg_INSOON_EB_5512801818_20261109201939",
+     "https://file.bienici.com/photo/ag752345-559033751_photos.ubiflow.net_752345_559033751_photos_2.jpg_INSOON_EB_5512801818_20261109201939",
+     "https://file.bienici.com/photo/ag752345-559033751_photos.ubiflow.net_752345_559033751_photos_3.jpg_INSOON_EB_5512801818_20261109201939",
+     "https://file.bienici.com/photo/ag752345-559033751_photos.ubiflow.net_752345_559033751_photos_4.jpg_INSOON_EB_5512801818_20261109201939",
+     "https://file.bienici.com/photo/ag752345-559033751_photos.ubiflow.net_752345_559033751_photos_5.jpg_INSOON_EB_5512801818_20261109201940",
+     "https://file.bienici.com/photo/ag752345-559033751_photos.ubiflow.net_752345_559033751_photos_6.jpg_INSOON_EB_5512801818_20261109201940"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-11-09T19:58:53.641Z",
+    "rent_cc": 578,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag752345-559033751",
+    "surface_m2": 11,
+    "tags": [],
+    "title": "Studio meublé - 33, Rue Louis Pasteur, 69007, Lyon, France",
+    "url": "https://www.bienici.com/annonce/ag752345-559033751"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag752861-556425503": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Avec IMMOJEUNE, trouvez les meilleurs logements étudiants et jeunes actifs en quelques clics et en toute confiance.\n\nSitué à une distance de 900 mètres de la station de métro \"Jean Macé\" (ligne B) et à 700 mètres de la station \"Garibaldi\" (ligne D), cet emplacement se trouve à seulement 15 minutes des universités Lyon III et Lyon I. En plein cœur d'un quartier dynamique, regorgeant de commerces, il est également à 10 minutes de la place Bellecour et de la gare Lyon-Perrache.\n\nLes logements sont ",
+    "district": "Lyon 7e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/ag752861-556425503_photos.ubiflow.net_752861_556425503_photos_1.jpg_INSOON_EB_5512801818_20261028041120",
+     "https://file.bienici.com/photo/ag752861-556425503_photos.ubiflow.net_752861_556425503_photos_2.jpg_INSOON_EB_5512801818_20261028041120",
+     "https://file.bienici.com/photo/ag752861-556425503_photos.ubiflow.net_752861_556425503_photos_3.jpg_INSOON_EB_5512801818_20261028041120",
+     "https://file.bienici.com/photo/ag752861-556425503_photos.ubiflow.net_752861_556425503_photos_4.jpg_INSOON_EB_5512801818_20261028041120",
+     "https://file.bienici.com/photo/ag752861-556425503_photos.ubiflow.net_752861_556425503_photos_5.jpg_INSOON_EB_5512801818_20261028041120",
+     "https://file.bienici.com/photo/ag752861-556425503_photos.ubiflow.net_752861_556425503_photos_6.jpg_INSOON_EB_5512801818_20261028041120"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-10-28T04:01:08.498Z",
+    "rent_cc": 629,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag752861-556425503",
+    "surface_m2": 18,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio",
+    "url": "https://www.bienici.com/annonce/ag752861-556425503"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag752861-556885868": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Avec IMMOJEUNE, trouvez les meilleurs logements étudiants et jeunes actifs en quelques clics et en toute confiance.\n\nMagnifique studio de 15m²\n\nLes + de la résidence :\n\nLa possibilté de colocation\nToutes charges comprises\nLes commerces de proximité\nLa desserte en termes de transports\n\nMis à jour le 15/11/2026\nUpdated on 15/11/2026",
+    "district": "Lyon 8e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/ag752861-556885868_photos.ubiflow.net_752861_556885868_photos_1.jpg_INSOON_EB_5512801818_20261030111845",
+     "https://file.bienici.com/photo/ag752861-556885868_photos.ubiflow.net_752861_556885868_photos_2.jpg_INSOON_EB_5512801818_20261030111845",
+     "https://file.bienici.com/photo/ag752861-556885868_photos.ubiflow.net_752861_556885868_photos_3.jpg_INSOON_EB_5512801818_20261030111845",
+     "https://file.bienici.com/photo/ag752861-556885868_photos.ubiflow.net_752861_556885868_photos_4.jpg_INSOON_EB_5512801818_20261030111845",
+     "https://file.bienici.com/photo/ag752861-556885868_photos.ubiflow.net_752861_556885868_photos_5.jpg_INSOON_EB_5512801818_20261030111845",
+     "https://file.bienici.com/photo/ag752861-556885868_photos.ubiflow.net_752861_556885868_photos_6.jpg_INSOON_EB_5512801818_20261030111845"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-10-30T10:48:02.353Z",
+    "rent_cc": 491,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag752861-556885868",
+    "surface_m2": 15,
+    "tags": [],
+    "title": "Studio",
+    "url": "https://www.bienici.com/annonce/ag752861-556885868"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag752861-556885883": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Avec IMMOJEUNE, trouvez les meilleurs logements étudiants et jeunes actifs en quelques clics et en toute confiance.\n\nEntièrement équipé\n\nLes + de la résidence :\n\nLa possibilté de colocation\nToutes charges comprises\nLes commerces de proximité\nLa desserte en termes de transports\n\nMis à jour le 15/11/2026\nUpdated on 15/11/2026",
+    "district": "Lyon 8e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://file.bienici.com/photo/ag752861-556885883_photos.ubiflow.net_752861_556885883_photos_1.jpg_INSOON_EB_5512801818_20261030111849",
+     "https://file.bienici.com/photo/ag752861-556885883_photos.ubiflow.net_752861_556885883_photos_2.jpg_INSOON_EB_5512801818_20261030111849",
+     "https://file.bienici.com/photo/ag752861-556885883_photos.ubiflow.net_752861_556885883_photos_3.jpg_INSOON_EB_5512801818_20261030111849",
+     "https://file.bienici.com/photo/ag752861-556885883_photos.ubiflow.net_752861_556885883_photos_4.jpg_INSOON_EB_5512801818_20261030111849",
+     "https://file.bienici.com/photo/ag752861-556885883_photos.ubiflow.net_752861_556885883_photos_5.jpg_INSOON_EB_5512801818_20261030111849",
+     "https://file.bienici.com/photo/ag752861-556885883_photos.ubiflow.net_752861_556885883_photos_6.jpg_INSOON_EB_5512801818_20261030111849"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-10-30T10:48:02.353Z",
+    "rent_cc": 590,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag752861-556885883",
+    "surface_m2": 31,
+    "tags": [],
+    "title": "T1 bis",
+    "url": "https://www.bienici.com/annonce/ag752861-556885883"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag752861-556885916": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Avec IMMOJEUNE, trouvez les meilleurs logements étudiants et jeunes actifs en quelques clics et en toute confiance.\n\nMagnifique studio meublé de 18m² à 23m² à partir de 373€\nLoyer hors éléctricité\n\nMis à jour le 15/11/2026\nUpdated on 15/11/2026",
+    "district": "Lyon 8e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/ag752861-556885916_photos.ubiflow.net_752861_556885916_photos_1.jpg_INSOON_EB_5512801818_20261030111900",
+     "https://file.bienici.com/photo/ag752861-556885916_photos.ubiflow.net_752861_556885916_photos_2.jpg_INSOON_EB_5512801818_20261030111900",
+     "https://file.bienici.com/photo/ag752861-556885916_photos.ubiflow.net_752861_556885916_photos_3.jpg_INSOON_EB_5512801818_20261030111900",
+     "https://file.bienici.com/photo/ag752861-556885916_photos.ubiflow.net_752861_556885916_photos_4.jpg_INSOON_EB_5512801818_20261030111900",
+     "https://file.bienici.com/photo/ag752861-556885916_photos.ubiflow.net_752861_556885916_photos_5.jpg_INSOON_EB_5512801818_20261030111900",
+     "https://file.bienici.com/photo/ag752861-556885916_photos.ubiflow.net_752861_556885916_photos_6.jpg_INSOON_EB_5512801818_20261030111900"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-10-30T10:48:02.353Z",
+    "rent_cc": 409,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag752861-556885916",
+    "surface_m2": 18,
+    "tags": [],
+    "title": "Studio",
+    "url": "https://www.bienici.com/annonce/ag752861-556885916"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag752861-556886336": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Avec IMMOJEUNE, trouvez les meilleurs logements étudiants et jeunes actifs en quelques clics et en toute confiance.\n\nT1 de 18 à 21,5 m²\n\nMis à jour le 15/11/2026\nUpdated on 15/11/2026",
+    "district": "Lyon 9e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://file.bienici.com/photo/ag752861-556886336_photos.ubiflow.net_752861_556886336_photos_1.jpg_INSOON_EB_5512801818_20261030112032",
+     "https://file.bienici.com/photo/ag752861-556886336_photos.ubiflow.net_752861_556886336_photos_2.jpg_INSOON_EB_5512801818_20261030112032",
+     "https://file.bienici.com/photo/ag752861-556886336_photos.ubiflow.net_752861_556886336_photos_3.jpg_INSOON_EB_5512801818_20261030112032",
+     "https://file.bienici.com/photo/ag752861-556886336_photos.ubiflow.net_752861_556886336_photos_4.jpg_INSOON_EB_5512801818_20261030112032",
+     "https://file.bienici.com/photo/ag752861-556886336_photos.ubiflow.net_752861_556886336_photos_5.jpg_INSOON_EB_5512801818_20261030112032"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "published_at": "2026-10-30T10:48:02.353Z",
+    "rent_cc": 428,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag752861-556886336",
+    "surface_m2": 18,
+    "tags": [],
+    "title": "T1",
+    "url": "https://www.bienici.com/annonce/ag752861-556886336"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag752861-559329905": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Avec IMMOJEUNE, trouvez les meilleurs logements étudiants et jeunes actifs en quelques clics et en toute confiance.\n\nCet appartement bénéficie d'une localisation exceptionnelle en plein cœur de Lyon, à proximité immédiate de la place Bellecour et de la gare de Perrache. Idéalement situé sur le quai Claude Bernard, à seulement 100 mètres des Universités Lyon II et Lyon III, ce logement meublé offre un confort optimal et une sécurité renforcée pour les étudiants. Les transports en commun, comme le",
+    "district": "Lyon 7e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/ag752861-559329905_photos.ubiflow.net_752861_559329905_photos_1.jpg_INSOON_EB_5512801818_20261111041211",
+     "https://file.bienici.com/photo/ag752861-559329905_photos.ubiflow.net_752861_559329905_photos_2.jpg_INSOON_EB_5512801818_20261111041211",
+     "https://file.bienici.com/photo/ag752861-559329905_photos.ubiflow.net_752861_559329905_photos_3.jpg_INSOON_EB_5512801818_20261111041211",
+     "https://file.bienici.com/photo/ag752861-559329905_photos.ubiflow.net_752861_559329905_photos_4.jpg_INSOON_EB_5512801818_20261111041211",
+     "https://file.bienici.com/photo/ag752861-559329905_photos.ubiflow.net_752861_559329905_photos_5.jpg_INSOON_EB_5512801818_20261111041211",
+     "https://file.bienici.com/photo/ag752861-559329905_photos.ubiflow.net_752861_559329905_photos_6.jpg_INSOON_EB_5512801818_20261111041211"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-11-11T03:21:04.451Z",
+    "rent_cc": 629,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag752861-559329905",
+    "surface_m2": 18,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio",
+    "url": "https://www.bienici.com/annonce/ag752861-559329905"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:apimo-83521662": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 90,
+    "description": "47 rue GABRIEL SARRAZIN 69008 LYON -\nA deux pas des facs et du métro ligne D.\n\nLoue Studio de 25.28m2 situé au 2eme étage comprenant un coin cuisine équipé, un salon avec canapé convertible, une salle d'eau et un balcon d'hiver (fermé avec baies vitrés).\nL'eau et le chauffage sont compris dans les charges. \nL'appartement sera disponible le 27 novembre 2023.\nDPE F (410/89)\nEncadrement des loyers : référence : 19€/m2 et majoré : 22.8€/m2\nMerci de nous envoyé votre dossier de location avant toute v",
+    "district": "Lyon 8e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/apimo-83521662_media.apimo.pro_cache_d1136c773e24a7078f8b365c3e1da243_9f0f88b78e_640-original.jpg",
+     "https://file.bienici.com/photo/apimo-83521662_media.apimo.pro_cache_8946070036760bd1244fc9060e78a4a9_57e7feb3e8_640-original.jpg",
+     "https://file.bienici.com/photo/apimo-83521662_media.apimo.pro_cache_fac5252291a811470fa675c26356f0c4_2c65e9f8c7_640-original.jpg",
+     "https://file.bienici.com/photo/apimo-83521662_media.apimo.pro_cache_cd3673bb5f55b82157f72ab75f5cef5c_05b73232d9_640-original.jpg",
+     "https://file.bienici.com/photo/apimo-83521662_media.apimo.pro_cache_965789b6cc8efb63ad0e12f213d5fdaf_ad8d086ee9_1920-original.jpg"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-11-05T14:11:15.659Z",
+    "rent_cc": 610,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "apimo-83521662",
+    "surface_m2": 25.28,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "STUDIO PROCHE GRANGE BLANCHE",
+    "url": "https://www.bienici.com/annonce/apimo-83521662"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:citya-immobilier-30578588300029-GES01170017-894": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 20,
+    "description": "A louer - Studio meublé - LYON 9EME METRO VALMY \n\nCitya les Célestins vous propose à la location un studio rénové meublé de 15,53 m² situé place Valmy proximité métro D (Valmy) et proche de toutes commodités. Ce bien comprend une pièce de vie, une kitchenette équipée et une salle d'eau avec wc. \n\nLe bien est soumis à l'encadrement de loyers.\nLoyer de référence 18.10 €/m² et loyer de référence majoré 21.70 €/m². Le complément de loyer est de 118.17 € \n\nDisponibilité : 16 novembre.  Le bien est so",
+    "district": "Lyon 9e",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://file.bienici.com/photo/citya-immobilier-30578588300029-GES01170017-894_box.ics.fr_cit_CITYA_REGIECELESTINS2_tic_location_photo_filigrane-VALMY_2V-3622054824940163343.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-30578588300029-GES01170017-894_box.ics.fr_cit_CITYA_REGIECELESTINS2_tic_location_photo_filigrane-VALMY_1-2958634208967739413.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-30578588300029-GES01170017-894_box.ics.fr_cit_CITYA_REGIECELESTINS2_tic_location_photo_filigrane-VALMY_4-13091817415163477594.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-30578588300029-GES01170017-894_box.ics.fr_cit_CITYA_REGIECELESTINS2_tic_location_photo_filigrane-VALMY_3-2645600057078844301.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-30578588300029-GES01170017-894_box.ics.fr_cit_CITYA_REGIECELESTINS2_tic_location_photo_filigrane-IMG_9572-8074518398246150798.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-30578588300029-GES01170017-894_box.ics.fr_cit_CITYA_REGIECELESTINS2_tic_location_photo_filigrane-VALMY-15677867335423215983.jpg"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "published_at": "2026-11-02T20:07:25.151Z",
+    "rent_cc": 475.18,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "citya-immobilier-30578588300029-GES01170017-894",
+    "surface_m2": 15.53,
+    "tags": [],
+    "title": "1 pièce(s) 15.53 m² Lyon 9e",
+    "url": "https://www.bienici.com/annonce/citya-immobilier-30578588300029-GES01170017-894"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:gedeon-34130445": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 24,
+    "description": "Situé Avenue Lacassagne à Lyon 69003, au sein d’une résidence agréable et sécurisée avec double accès par badge, ce studio meublé de 18,13 m², situé au 1er étage, offre un cadre de vie pratique et fonctionnel, à proximité des transports, des commerces et des commodités.\n\nDescription du bien :\n\nPièce principale meublée\nKitchenette équipée\nCanapé convertible\nBureau et chaises\nRangements\nLaverie commune au sein de la résidence\nRésidence sécurisée avec double accès par badge\n\nPerformance énergétique",
+    "district": "Lyon 3e",
+    "flags": [
+     "agency_fees",
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/gedeon-34130445_media.studio-net.fr_biens_34130445_6ae1fce26a9cb",
+     "https://file.bienici.com/photo/gedeon-34130445_media.studio-net.fr_biens_34130445_6ae1fcdd40fb9",
+     "https://file.bienici.com/photo/gedeon-34130445_media.studio-net.fr_biens_34130445_6ae1fcda66ad3",
+     "https://file.bienici.com/photo/gedeon-34130445_media.studio-net.fr_biens_34130445_6ae1fcdbe95fc",
+     "https://file.bienici.com/photo/gedeon-34130445_media.studio-net.fr_biens_34130445_6ae1fce0b38ca",
+     "https://file.bienici.com/photo/gedeon-34130445_media.studio-net.fr_biens_34130445_6ae1fcdf1ea78"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "published_at": "2026-10-28T13:59:50.957Z",
+    "rent_cc": 571,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "gedeon-34130445",
+    "surface_m2": 18,
+    "tags": [],
+    "title": "À louer – Studio meublé de 18,13 m² – Lyon 3ᵉ (Avenue Lacassagne)",
+    "url": "https://www.bienici.com/annonce/gedeon-34130445"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:gedeon-34191708": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 18,
+    "description": "A louer  meublé studio Lyon 8 \nProche commerces et transports en communu (T4 )",
+    "district": "Lyon 8e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/gedeon-34191708_media.studio-net.fr_biens_34191708_6af2caf0c368e",
+     "https://file.bienici.com/photo/gedeon-34191708_media.studio-net.fr_biens_34191708_6af2caf15e34a",
+     "https://file.bienici.com/photo/gedeon-34191708_media.studio-net.fr_biens_34191708_6af2caf2b9c90",
+     "https://file.bienici.com/photo/gedeon-34191708_media.studio-net.fr_biens_34191708_6af2caf386d9d",
+     "https://file.bienici.com/photo/gedeon-34191708_media.studio-net.fr_biens_34191708_6af2caf4cb4ba"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-11-10T07:50:31.079Z",
+    "rent_cc": 600,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "gedeon-34191708",
+    "surface_m2": 18,
+    "tags": [],
+    "title": "STUDIO MEUBLE QUARTIER  MONTPLAISIR -LYON 08",
+    "url": "https://www.bienici.com/annonce/gedeon-34191708"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:gedeon-34201571": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 45,
+    "description": "Situé Boulevard Eugène Deruelle à Lyon 69003, au sein d’une résidence agréable, ce studio meublé de 24,42 m², situé au 1er étage, offre un cadre de vie pratique et confortable, à proximité des transports, des commerces et des commodités du quartier Part-Dieu.\n\nDescription du bien :\n\n- Pièce principale meublée\n- Cuisine entièrement équipée avec vaisselle\n- Canapé convertible\n- Table et chaise\n- Matériel ménager\n- Laverie commune au sein de la résidence\n\nPerformance énergétique :\n\nDPE : D\n\nGES : B",
+    "district": "Lyon 3e",
+    "flags": [
+     "agency_fees",
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/gedeon-34201571_media.studio-net.fr_biens_34201571_6af5d99f29b3e",
+     "https://file.bienici.com/photo/gedeon-34201571_media.studio-net.fr_biens_34201571_6af5d9a06c61c",
+     "https://file.bienici.com/photo/gedeon-34201571_media.studio-net.fr_biens_34201571_6af5d9a40ceb4",
+     "https://file.bienici.com/photo/gedeon-34201571_media.studio-net.fr_biens_34201571_6af5d9a648a08",
+     "https://file.bienici.com/photo/gedeon-34201571_media.studio-net.fr_biens_34201571_6af5d9a98c250",
+     "https://file.bienici.com/photo/gedeon-34201571_media.studio-net.fr_biens_34201571_6af5d9aa7a230"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "published_at": "2026-11-12T15:20:31.186Z",
+    "rent_cc": 616,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "gedeon-34201571",
+    "surface_m2": 24,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "À louer – Studio meublé de 24,42 m² – Lyon 3ᵉ (Boulevard Eugène Deruelle)",
+    "url": "https://www.bienici.com/annonce/gedeon-34201571"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:hektor-archeconsultant-233": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 23,
+    "description": "Grande rue de Vaise<br> <br>ARCHE GESTION vous propose un bel appartement meublé bénéficiant d'un emplacement privilégié, à proximité immédiate des commerces, des transports en commun (métro D, gare SNCF de Vaise et lignes de bus), ainsi que de toutes les commodités du quotidien.<br>Situé au 3ème étage d'un bel immeuble ancien, cet appartement entièrement rénové se compose d'une entrée avec rangements, d'une cuisine entièrement équipée, d'une salle d'eau avec WC et d'un séjour offrant un agencem",
+    "district": "Lyon 9e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/hektor-archeconsultant-233_archegestion.staticlbi.com_original_images_biens_1_81c68c6fd75440411ed08ce695a38598_photo_481712fb112155127b476ed09709ebdb.jpg",
+     "https://file.bienici.com/photo/hektor-archeconsultant-233_archegestion.staticlbi.com_original_images_biens_1_81c68c6fd75440411ed08ce695a38598_photo_d220ab2a178b13ed11bdaef608dffb86.jpg",
+     "https://file.bienici.com/photo/hektor-archeconsultant-233_archegestion.staticlbi.com_original_images_biens_1_81c68c6fd75440411ed08ce695a38598_photo_d7045bc1ccc8fbd98d73be88c069b46f.jpg",
+     "https://file.bienici.com/photo/hektor-archeconsultant-233_archegestion.staticlbi.com_original_images_biens_1_81c68c6fd75440411ed08ce695a38598_photo_b3572af6f7748aa0a6a97a95f96f73cf.jpg",
+     "https://file.bienici.com/photo/hektor-archeconsultant-233_archegestion.staticlbi.com_original_images_biens_1_81c68c6fd75440411ed08ce695a38598_photo_afecd7d0c26f701b8a9e95e930900ef1.jpg",
+     "https://file.bienici.com/photo/hektor-archeconsultant-233_archegestion.staticlbi.com_original_images_biens_1_81c68c6fd75440411ed08ce695a38598_photo_69b0ad3f13bba0148c0949cf71ec6ae2.jpg"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "published_at": "2026-11-03T15:38:21.786Z",
+    "rent_cc": 615,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "hektor-archeconsultant-233",
+    "surface_m2": 19.38,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Beau Studio en dernier étage au coeur de Vaise",
+    "url": "https://www.bienici.com/annonce/hektor-archeconsultant-233"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:hektor-myhoreapartners69006-372": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 50,
+    "description": "11 Place Raspail 69007 LYON<br> Au premier étage avec ascenseur, My Horea Partners vous propose à la location un studio meublé en très bon état. <br> L'appartement dispose d'une entrée, une cuisine américaine ouverte sur le séjour, une sdb et wc séparé. La chambre avec placard se trouve en mezzanine. <br> Pour toute demande de visites, merci de contacter Simon Croutte au <span class=\"importDescriptionDecorator\" data-type=\"phone\">0640349133</span><br>  <br> ZONE SOUMISE A L'ENCADREMENT DES LOYERS",
+    "district": "Lyon 7e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/hektor-myhoreapartners69006-372_my-horea-partners.staticlbi.com_original_images_biens_1_8c4cbbfbf511c70c130f69963b117f55_photo_a2354cb81e173498753b024d8bdf1e16.jpg",
+     "https://file.bienici.com/photo/hektor-myhoreapartners69006-372_my-horea-partners.staticlbi.com_original_images_biens_1_8c4cbbfbf511c70c130f69963b117f55_photo_98b489327c419cdac0f66cedc73b2eec.jpg",
+     "https://file.bienici.com/photo/hektor-myhoreapartners69006-372_my-horea-partners.staticlbi.com_original_images_biens_1_8c4cbbfbf511c70c130f69963b117f55_photo_488c725d28c854bb56dd942265388128.jpg",
+     "https://file.bienici.com/photo/hektor-myhoreapartners69006-372_my-horea-partners.staticlbi.com_original_images_biens_1_8c4cbbfbf511c70c130f69963b117f55_photo_2ad0c7a78e69e91b1f751374223e3600.jpg",
+     "https://file.bienici.com/photo/hektor-myhoreapartners69006-372_my-horea-partners.staticlbi.com_original_images_biens_1_8c4cbbfbf511c70c130f69963b117f55_photo_88fc226e2ee4d87fe1d40c0a30e8f599.jpg"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-11-02T15:51:12.688Z",
+    "rent_cc": 600,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "hektor-myhoreapartners69006-372",
+    "surface_m2": 21.08,
+    "tags": [],
+    "title": "Studio meublé",
+    "url": "https://www.bienici.com/annonce/hektor-myhoreapartners69006-372"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:immo-facile-54206310": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 20,
+    "description": "Secteur exceptionnel - A Lyon 4ème, à proximité immédiate de la Place de la Croix-Rousse.<br>Studio rénové et meublé d'environ 17m2 en bon état. L'appartement est composé d'une piece de vie comprenant un espace cuisine ainsi qu''un coin nuit et d'une salle d'eau. <br>Emplacement exceptionnel : Boulevard de la Croix rousse<br>L'appartement est situé dans un bel immeuble ancien. Il est loué meublé : frigo-congélateur, plaque de cuisson, micro-onde, TV , machine à laver ainsi que toute la litterie ",
+    "district": "Lyon 4e",
+    "flags": [
+     "agency_fees",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/immo-facile-54206310_media.immo-facile.com_office12_cataneo_28012021_catalog_images_pr_p_5_4_2_0_6_3_1_0_54206310a.jpg_DATEMAJ_31_03_2026-11_52_54",
+     "https://file.bienici.com/photo/immo-facile-54206310_media.immo-facile.com_office12_cataneo_28012021_catalog_images_pr_p_5_4_2_0_6_3_1_0_54206310b.jpg_DATEMAJ_31_03_2026-11_52_54"
+    ],
+    "postal_code": "69004",
+    "poster": "agence",
+    "published_at": "2026-10-29T15:50:04.211Z",
+    "rent_cc": 650,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "immo-facile-54206310",
+    "surface_m2": null,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio meublé",
+    "url": "https://www.bienici.com/annonce/immo-facile-54206310"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:immo-facile-59078374": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 25,
+    "description": "Dans un bel immeuble Renaissance typique du Vieux Lyon, avec traboule reliant la rue des Trois Maries, découvrez ce studio meublé de 22 m², au 1er étage sans ascenseur.<br>Il se compose d'une grande pièce à vivre avec coin cuisine équipée et espace repas, d'un lit en mezzanine et canapé, et d'une salle de bains fonctionnelle avec toilettes et lave-linge. <br>Idéalement situé, vous serez à deux pas de la Presqu'île, emplacement privilégié au coeur de l'animation du Vieux Lyon et des commodités du",
+    "district": "Lyon 5e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/immo-facile-59078374_media.immo-facile.com_office12_andrimmo_catalog_images_pr_p_5_9_0_7_8_3_7_4_59078374a.jpg_DATEMAJ_03_12_2025-16_08_07",
+     "https://file.bienici.com/photo/immo-facile-59078374_media.immo-facile.com_office12_andrimmo_catalog_images_pr_p_5_9_0_7_8_3_7_4_59078374b.jpg_DATEMAJ_03_12_2025-16_08_07",
+     "https://file.bienici.com/photo/immo-facile-59078374_media.immo-facile.com_office12_andrimmo_catalog_images_pr_p_5_9_0_7_8_3_7_4_59078374c.jpg_DATEMAJ_03_12_2025-16_08_07",
+     "https://file.bienici.com/photo/immo-facile-59078374_media.immo-facile.com_office12_andrimmo_catalog_images_pr_p_5_9_0_7_8_3_7_4_59078374d.jpg_DATEMAJ_03_12_2025-16_08_07",
+     "https://file.bienici.com/photo/immo-facile-59078374_media.immo-facile.com_office12_andrimmo_catalog_images_pr_p_5_9_0_7_8_3_7_4_59078374e.jpg_DATEMAJ_03_12_2025-16_08_07"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "published_at": "2026-11-09T18:37:04.147Z",
+    "rent_cc": 535,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "immo-facile-59078374",
+    "surface_m2": 22.47,
+    "tags": [],
+    "title": "STJEAN19 - Studio meublé 23m² - LYON 05 SAINT JEAN",
+    "url": "https://www.bienici.com/annonce/immo-facile-59078374"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:immo-facile-61706207": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 98,
+    "description": "A proximité de toutes commodités, commerces, universités et transports en commun, découvrez ce studio de 24,87 m² situé au 2ème étage, au 25 rue Pauline Kergomard dans le 7ème arrondissement de Lyon.<br>Studio entièrement meublé et équipé, offrant une surface confortable et un espace de vie fonctionnel, idéal pour étudiant ou jeune actif. La résidence dispose également d'une laverie, un véritable atout au quotidien.<br>Un emplacement pratique pour profiter pleinement de la vie lyonnaise, à proxi",
+    "district": "Lyon 7e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://file.bienici.com/photo/immo-facile-61706207_media.immo-facile.com_office8_gedira_lyon_catalog_images_pr_p_6_1_7_0_6_2_0_7_61706207a.jpg_DATEMAJ_04_11_2026-14_37_24",
+     "https://file.bienici.com/photo/immo-facile-61706207_media.immo-facile.com_office8_gedira_lyon_catalog_images_pr_p_6_1_7_0_6_2_0_7_61706207b.jpg_DATEMAJ_04_11_2026-14_37_24",
+     "https://file.bienici.com/photo/immo-facile-61706207_media.immo-facile.com_office8_gedira_lyon_catalog_images_pr_p_6_1_7_0_6_2_0_7_61706207c.jpg_DATEMAJ_04_11_2026-14_37_24",
+     "https://file.bienici.com/photo/immo-facile-61706207_media.immo-facile.com_office8_gedira_lyon_catalog_images_pr_p_6_1_7_0_6_2_0_7_61706207d.jpg_DATEMAJ_04_11_2026-14_37_24",
+     "https://file.bienici.com/photo/immo-facile-61706207_media.immo-facile.com_office8_gedira_lyon_catalog_images_pr_p_6_1_7_0_6_2_0_7_61706207e.jpg_DATEMAJ_04_11_2026-14_37_24"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-11-04T15:19:09.448Z",
+    "rent_cc": 650,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "immo-facile-61706207",
+    "surface_m2": 24.87,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "STUDIO MEUBLE DANS RESIDENCE ETUDIANTE SECURISEE",
+    "url": "https://www.bienici.com/annonce/immo-facile-61706207"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:laforet-immo-facile-53010702": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 50,
+    "description": "En étage élevé, charmant T1 BIS MEUBLE et TRAVERSANT de 26.79 m² Carrez, offrant une entrée, un séjour PLEIN OUEST avec une alcôve servant de coin nuit, une cuisine séparée équipée et aménagée, une salle d'eau (avec lave-linge) et un WC indépendant. FONCTIONNEL ET LUMINEUX - Proche commerces et transports.<br>DISPONIBLE DES MAINTENANT !<br>LAFORET BELLECOUR <span class=\"importDescriptionDecorator\" data-type=\"phone\">04.78.42.25.25</span><br>*Zone soumise à l'encadrement des loyers <br>- Loyer de ",
+    "district": "Lyon 8e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://file.bienici.com/photo/laforet-immo-facile-53010702_media.immo-facile.com_office9_laforet_lyon2_catalog_images_pr_p_5_3_0_1_0_7_0_2_53010702a.jpg_DATEMAJ_04_11_2026-10_44_08",
+     "https://file.bienici.com/photo/laforet-immo-facile-53010702_media.immo-facile.com_office9_laforet_lyon2_catalog_images_pr_p_5_3_0_1_0_7_0_2_53010702b.jpg_DATEMAJ_04_11_2026-10_44_09",
+     "https://file.bienici.com/photo/laforet-immo-facile-53010702_media.immo-facile.com_office9_laforet_lyon2_catalog_images_pr_p_5_3_0_1_0_7_0_2_53010702c.jpg_DATEMAJ_04_11_2026-10_44_09",
+     "https://file.bienici.com/photo/laforet-immo-facile-53010702_media.immo-facile.com_office9_laforet_lyon2_catalog_images_pr_p_5_3_0_1_0_7_0_2_53010702d.jpg_DATEMAJ_04_11_2026-10_44_09",
+     "https://file.bienici.com/photo/laforet-immo-facile-53010702_media.immo-facile.com_office9_laforet_lyon2_catalog_images_pr_p_5_3_0_1_0_7_0_2_53010702e.jpg_DATEMAJ_04_11_2026-10_44_09",
+     "https://file.bienici.com/photo/laforet-immo-facile-53010702_media.immo-facile.com_office9_laforet_lyon2_catalog_images_pr_p_5_3_0_1_0_7_0_2_53010702f.jpg_DATEMAJ_04_11_2026-10_44_09"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-11-04T13:21:57.590Z",
+    "rent_cc": 623,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "laforet-immo-facile-53010702",
+    "surface_m2": 26.79,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "LYON 8e - RUE PAUL CAZENEUVE",
+    "url": "https://www.bienici.com/annonce/laforet-immo-facile-53010702"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:realty-dr2ett5p7bgctmwxlfiawaf2fu": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 10,
+    "description": "Je m’appelle \"Kiff\". Je suis un studio meublé de 17 m² au 3e étage, et si tu cherches un premier chez-toi sans prise de tête, on devrait bien s’entendre.<br>Mon nom, je le dois à l’ambiance : un canapé-lit turquoise qui met de la couleur sur mes murs blancs, deux grandes fenêtres qui laissent entrer la lumière toute la journée, et une belle hauteur sous plafond qui donne de l’air à ma pièce de vie. Le genre d’endroit où on rentre, on pose son sac, et on se sent bien.<br>Tout est déjà là. Mon séj",
+    "district": "Lyon 7e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://file.bienici.com/photo/realty-dr2ett5p7bgctmwxlfiawaf2fu_images.app.realty.fr_1500_1500_ratio_aws_agencies_69857def-9e61-4e54-8be2-0e37d501cde9_582f8939-3ec2-4879-803c-395b69d5cdaf.jpg",
+     "https://file.bienici.com/photo/realty-dr2ett5p7bgctmwxlfiawaf2fu_images.app.realty.fr_1500_1500_ratio_aws_agencies_69857def-9e61-4e54-8be2-0e37d501cde9_25726ff5-f3d5-4666-b4a3-4cca93056ca6.jpg",
+     "https://file.bienici.com/photo/realty-dr2ett5p7bgctmwxlfiawaf2fu_images.app.realty.fr_1500_1500_ratio_aws_agencies_69857def-9e61-4e54-8be2-0e37d501cde9_476fce68-f604-4fa8-b287-7f93f9eeb5ea.jpg"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-11-02T19:37:29.101Z",
+    "rent_cc": 565,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "realty-dr2ett5p7bgctmwxlfiawaf2fu",
+    "surface_m2": 17,
+    "tags": [],
+    "title": "Appartement",
+    "url": "https://www.bienici.com/annonce/realty-dr2ett5p7bgctmwxlfiawaf2fu"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3288858116": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 20.0,
+    "description": "LYON 8 DELORE LOT B1.1\n\nLYON 8ème rue Pierre Delore, A LOUER  Studio entièrement meublé  Idéalement situé, a proximité des transports, écoles, commerces...\ncet appartement au 1er étage d une superficie de 15.38 m² est composé d une pièce de vie, avec coin cuisine meublé et équipée (four, hotte, plaque de cuisson et réfrigérateur), ainsi qu une salle d eau.\nLe chauffage est individuel électrique.\neau chaude par cumulus\neau froide individuelle\nLes charges comprennent l entretien des parties commun",
+    "district": "Lyon 69008",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/7b/3b/f0/7b3bf0ede09bf7f72590708a4e4d2b2cd7dc6de9.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d9/5d/5d/d95d5d28d84cb3385a8460b992816b7714c58a18.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/30/f9/25/30f925768f661cf7cff12a90e7a8e23adadd3862.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/88/bc/e8/88bce8ab5869500c2014d170d1575006f29ad0c6.jpg?rule=ad-large"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-10-15 15:52:18",
+    "rent_cc": 590.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3288858116",
+    "surface_m2": 15.0,
+    "tags": [],
+    "title": "Studio 1 pièce 15 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3288858116"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3297258927": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Studio meublé et équipé - proche métro D\n\nLa résidence Carré Saône vous accueille au sein d'appartements propices au travail, sécurisés et fonctionnels, à seulement 8 minutes en métro du centre et de la Place Bellecour. En plein coeur du dynamique et nouveau Quartier de l'Industrie, la résidence bénéficie de tous les services du quotidien (supermarchés, restaurants, bars, banques) et d'une offre culturelle et sportive riche (Multiplexe Pathé, terrains de sport, quais de Saône…).\n\nA LOUER, Studio",
+    "district": "Lyon 69009",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/23/93/f9/2393f9ae93df51e5e92a24153e26d4e11bf3ef9d.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/af/01/8c/af018c311e785866ce933de913713977da023fdc.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/63/d5/b3/63d5b3bfa5b29432547dee043ffa2e7887da2af3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/3e/45/4c/3e454c4d229dc6959166d98410db833d14ba2a53.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/07/bc/20/07bc20a934b9ae3d5414fc43d0e5ae97a276d11a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fa/8b/0e/fa8b0e8fc268319df48a2739b0e8bed5088bb740.jpg?rule=ad-large"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "published_at": "2026-10-28 20:57:39",
+    "rent_cc": 642.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3297258927",
+    "surface_m2": 18.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio 1 pièce 18 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3297258927"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3298096774": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Studio meublé et équipé - proche Jean Moulin Lyon III\n\nA LOUER, Studio de 19,29m² entièrement meublé et équipé. Prestations de qualité et nombreux services adaptés à la vie étudiante: accès internet gratuit et illimité, accès à la laverie, cafétéria, local à vélo, distribution de courrier, présence rassurante et sécurisante d'un responsable de résidence.\nEn option: nettoyage des appartements, fourniture linge de maison, location place de parking.\n\nVICTORIAN PARK, résidence de standing pour étudi",
+    "district": "Lyon 69007",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/f7/96/16f796860b2484e0a541836db65bb74c19bea09b.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/38/3e/55/383e55f711bf002d14659f4b92af2f5c46f01e3f.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/38/ce/7f/38ce7f43ae44e77b1a42eb1e737e14ae3a2e6a5a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8d/94/40/8d94401d83b0a8a4a02bd281f6c2cb69a3bec854.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/76/5f/4e/765f4e12b9eee86cde8b95c99ac8921e228f3420.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/gh/6c/47/gh6c474f0cd2fab5a47666611cb5f400975d78c4.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-10-30 11:24:28",
+    "rent_cc": 617.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3298096774",
+    "surface_m2": 18.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio 1 pièce 18 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3298096774"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3298096776": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "T1 bis meublé et équipé - proche écoles et transports\n\nSituée au cœur du 9ème arrondissement à Vaise, l'un des quartiers les plus prisés de Lyon, la résidente étudiante Study West bénéficie d'un emplacement exceptionnel à deux pas de nombreux équipements : cinéma Pathé Vaise, commerces, parc de la Tête d'or…  Il est également réputé pour ses nombreuses grandes écoles et universités parmi lesquelles on recense : l'Ecole centrale de Lyon, l'EM Lyon, l'Université René Cassin…\n\nBien desservie par le",
+    "district": "Lyon 69009",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/85/a7/9885a7ea622ab1763945388feac4c2cd06fa9abb.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b0/24/e4/b024e45c57fead879be029ec1ef7743dd0ffb86f.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/cf/3b/1c/cf3b1c722428d42ac3d1ab9d75267b5379b2e3ce.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b8/6b/64/b86b64f70757bfc6861c9729cb6f0676dbc1afed.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a6/1c/c9/a61cc9af062a7348e3e7fe1ce2a59d604aa1b743.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a3/21/d5/a321d519739ae54468f3f0b1c0e0a8380190ae07.jpg?rule=ad-large"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "published_at": "2026-10-30 11:24:29",
+    "rent_cc": 647.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3298096776",
+    "surface_m2": 27.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement 1 pièce 27 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3298096776"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3298097488": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Studio meublé et équipé - Valmy proche métro\n\nSituée à 150 mètres du métro D, arrêt Valmy, la résidence étudiante Lyon UNIVERS 9 profite d'un quartier vivant et rénové à seulement 10 minutes de la place Bellecour et à proximité du pôle universitaire de Vaise regroupant les écoles d'architecture et de commerce (IDRAC Lyon, Ifag, Sup de Com...).\n\nA LOUER, Studio de 18,6m² entièrement meublé et équipé. Prestations de qualité et nombreux services adaptés à la vie étudiante: accès internet fibre grat",
+    "district": "Lyon 69009",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fc/32/3a/fc323ae731dc254da3d11e8022b8b6cd7e4c1fd9.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/af/47/d4/af47d4478d5ab6c05cf3261a6b1888377a2e2ae5.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/c9/c7/e7/c9c7e7461a114ae40b4e2799901a68cf5082b757.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a6/4f/98/a64f9878257651635664b4b72185ef7d21d4d984.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/01/d3/f8/01d3f86481c8a0445585d359d76ea3b353f096e6.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8f/32/a4/8f32a4956f05b13c046817b89a841a77644233b6.jpg?rule=ad-large"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "published_at": "2026-10-30 11:25:29",
+    "rent_cc": 579.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3298097488",
+    "surface_m2": 18.0,
+    "tags": [],
+    "title": "Studio 1 pièce 18 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3298097488"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3298097870": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Studio meublé et équipé - proche écoles et transports\n\nSituée au cœur du 9ème arrondissement à Vaise, l'un des quartiers les plus prisés de Lyon, la résidente étudiante Study West bénéficie d'un emplacement exceptionnel à deux pas de nombreux équipements : cinéma Pathé Vaise, commerces, parc de la Tête d'or…  Il est également réputé pour ses nombreuses grandes écoles et universités parmi lesquelles on recense : l'Ecole centrale de Lyon, l'EM, l'Université René Cassin…\n\nBien desservie par les tra",
+    "district": "Lyon 69009",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/34/e1/2b/34e12ba2e605514e84fb340a3003be890ae144aa.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6b/9a/31/6b9a317820110fbe85310571764257a5f9f25502.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/2b/21/da/2b21da347de38d1b425dd4c933d1d9e817eeb548.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/29/3b/41/293b41cef04f46ae6205cbfcff8a7f315ce95622.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/07/6d/86/076d8639b52504155eb0f384d902756445dda313.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b5/a0/65/b5a065f76cfff80968a83560215fd82be4f561f6.jpg?rule=ad-large"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "published_at": "2026-10-30 11:26:04",
+    "rent_cc": 591.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3298097870",
+    "surface_m2": 18.0,
+    "tags": [],
+    "title": "Studio 1 pièce 18 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3298097870"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3298098270": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Studio meublé et équipé - Jean Jaurès / Quartier Gerland\n\nSitué au sein de la résidence étudiante CAP AVENIR, à deux pas du métro Jean Jaurès et à quelques minutes à pied de la gare Jean Macé, ce logement bénéficie d'un emplacement idéal : proche du centre-ville, des commerces et des principaux établissements d'enseignement supérieur.\n\n Le logement :\nStudio de 18 m², entièrement meublé et équipé, offrant des prestations de qualité.\nParfait pour une colocation étudiante ou un couple d'étudiants s",
+    "district": "Lyon 69007",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/c0/ae/55/c0ae555a4cc600ded3b8f62cd433e03dc9c5ea36.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6b/cb/95/6bcb952294740263548caea325c7b1471bca99e6.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/1c/45/00/1c4500447656263d14650cad595407818387faf3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6e/d9/d5/6ed9d5eda2202e8df8cdd33358aa4384cde311ca.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ea/48/69/ea486918c0c0a2a38004073923d6e5dde0ea6fea.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ef/ed/4d/efed4d7de4ffcb18fd8a3bdfba12ef7621c7cdcf.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-10-30 11:26:35",
+    "rent_cc": 591.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3298098270",
+    "surface_m2": 17.0,
+    "tags": [],
+    "title": "Studio 1 pièce 17 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3298098270"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3302680381": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 33.0,
+    "description": "Studio meublé rénové étage élevé\n\nIDÉAL ÉTUDIANT, venez découvrir ce studio meublé de 13 m² entièrement rénové au 6ème étage (ascenseur jusqu'au 5ème) comprenant une pièce de vie avec kitchenette, une salle d'eau avec WC dans une copropriété de standing. Zone soumise à encadrement des loyers. Loyer de référence 242 euros, Loyer de référence majoré 291 euros.Dépôt de garantie 920 euros. Disponible immédiatement.\n\nHonoraires locataire : 195 €\nDont :\n - Visite, constitution du dossier, rédaction de",
+    "district": "Lyon 69006",
+    "flags": [
+     "agency_fees",
+     "available_now"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d6/d8/4d/d6d84da320eeaf02051e3905cfcd2b56b265c14d.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/93/96/10/939610ad5111ca72b9cdcb86030536106f991585.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e3/b2/bb/e3b2bb1dd770c5d0c8ea8056159603336d479969.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d5/b7/d0/d5b7d0aa612fdd407d734355471630ef13e627f9.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/11/47/ac/1147acfb4774e8045186f80feb3109ae4a9e2845.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/26/8e/78/268e78d2fcc33fc2a7d3530faa851f451e99bbc9.jpg?rule=ad-large"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "published_at": "2026-11-05 12:15:04",
+    "rent_cc": 583.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3302680381",
+    "surface_m2": 13.0,
+    "tags": [],
+    "title": "Appartement 1 pièce 13 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3302680381"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3302680581": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 65.0,
+    "description": "Studio meublé Lyon 8\n\nLibre : studio meublé complet pour étudiant (te) cautionnée par parents. Proximité écoles médecine et infirmiers. Cuisine complète frigo, micro onde, plaque 2 inductions. ustensiles complets avec porte-fenêtre neuve 2Vx. Pièce à vivre avec table, meuble à étagères, armoire 3 portes, lit en 140, matelas de 2020 et seconde porte-fenêtre 2 Vx sur long balcon Orientation sud ouest. Charges locative avec acompte sur eau. Téléphone/Edf à votre charge.\n\nHonoraires locataire : 390 ",
+    "district": "Lyon 69008",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/78/d4/5e/78d45e57d2d363b38eac85eef17ae310d44ce58e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/23/33/71/23337112570a6dae52056318bd786f1972f102d5.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e1/dc/77/e1dc77313a6e777411f0630533aae822479bb54e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/1a/6b/ef/1a6befd552f0e3ac78e8bc653cbda3f5bc44e804.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/95/21/05/952105c4d5a83233501fd6d4dcf1e922fc581447.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/1c/40/3b/1c403b8220fe892259e34b055fbbd9b9192fcf84.jpg?rule=ad-large"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-11-05 12:15:14",
+    "rent_cc": 640.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3302680581",
+    "surface_m2": 26.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement 1 pièce 26 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3302680581"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3304713203": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "À louer – Studio meublé de 16 m² – Lyon 4ᵉ\n\nSitué dans le quartier de la Croix-Rousse, ce studio meublé de 16 m² se trouve au 3ᵉ étage d'un immeuble de canuts aux plafonds particulièrement hauts, sans ascenseur.\n\nLe logement comprend :\n\nUne pièce de vie lumineuse de 12 m² avec grande fenêtre à petits bois, parquet ancien, lit double et canapé deux places\nUne kitchenette équipée avec électroménager et vaisselle\nUne salle d'eau de 3 m² avec douche, WC, fenêtre dépolie et lave-linge\nUn petit balcon",
+    "district": "Lyon 69004",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/18/e4/31/18e43147a26fa15050ac02be5ee4773bb2dc35c0.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a5/88/b3/a588b3d11ee31261bd08eb6dc4519c517396cdac.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b3/a0/7f/b3a07fc5156e42e87f54a501b421bacfd53853b9.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/07/44/b9/0744b9df0dd0c4b59d2f81505fb67fa261ad39e2.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d6/c7/98/d6c798a10153224b22c09e5284c0663a0af64198.jpg?rule=ad-large"
+    ],
+    "postal_code": "69004",
+    "poster": "agence",
+    "published_at": "2026-11-08 11:39:19",
+    "rent_cc": 430.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3304713203",
+    "surface_m2": 16.0,
+    "tags": [],
+    "title": "Studio 1 pièce 16 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3304713203"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3305624182": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": null,
+    "description": "À louer – Studio meublé de 20 m² – Lyon 7ᵉ\n\nRue André Bollier, dans le 7ᵉ arrondissement de Lyon, ce studio meublé de 20 m² se situe au 2ᵉ étage  avec ascenseur.\n\nLe logement comprend :\n- Une pièce de vie avec canapé convertible et espace bureau\n- Une kitchenette équipée avec micro-ondes et réfrigérateur\n- Une salle d'eau avec douche et WC\n\nChauffage électrique • Lumineux • Double vitrage\n\nLoyer mensuel : 565 € + 45 € de charges\nDépôt de garantie : 1 130 €\n\nDPE : D (219 kWh/m².an)\nGES : C (11 kg",
+    "district": "Lyon 69007",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a9/6e/0a/a96e0a9f47ded31b835401cb89e35abf3736c7db.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/91/a9/fd/91a9fdd414e46a3e7b5ecc5df0348af6f87e2883.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/1c/b5/2d/1cb52d773cfc15867a77f4adc407f00f6c3a86de.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fa/36/ca/fa36cab86b322ee5ae94a47e9a6bed9449306174.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-11-09 13:53:05",
+    "rent_cc": 610.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3305624182",
+    "surface_m2": 20.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio 1 pièce 20 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3305624182"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3308533689": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 30.0,
+    "description": "studio meublé lumineux à Lyon 8ème proche VILLON/BACHUT d'une superficie de 16m2 au 8ème et dernier étage, très bien placé , sécurisé et situé sur la ligne du tram t2 entre villon et bachut .\ntout équipé rénové meublé, avec laverie.\nBus et velo’v en bas de la résidence sécurisée,\nIl se compose d'une pièce principale avec TV, coin cuisine équipée et aménagée. avec placard. Une salle de douche avec meuble sous vasque, toilettes.\nChauffage individuel électrique, eau chaude par cumulus.\nProche de to",
+    "district": "Lyon 69008",
+    "flags": [
+     "garant"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/cc/4a/b7/cc4ab771f47f88971a091473fbacb596d0ce0bea.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/49/cd/3b/49cd3b679c2c311fd41a7acfe55d087b2b2f86d5.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a3/ae/63/a3ae6388b3d96fa7de7f8e6fa7f4f9e582bb27b8.jpg?rule=ad-large"
+    ],
+    "postal_code": "69008",
+    "poster": "particulier",
+    "published_at": "2026-11-13 15:16:54",
+    "rent_cc": 650.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3308533689",
+    "surface_m2": 16.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio meublé dernier étage proche tram t2",
+    "url": "https://www.leboncoin.fr/ad/locations/3308533689"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3308721929": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 40.0,
+    "description": "Studette pour étudiant uniquement\nIdéal pour les étudiants de l'INSPE\nComplètement meublée et très bien aménagée\nRésidence sécurisée avec gardien sur place\nChauffage, eau froide et chaude compris dans les charges\nPhotos et vidéos sur demande\nPrévoir frais d'agence et état des lieux",
+    "district": "Lyon 69004",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/5f/52/e5/5f52e5e29884e67c2c2b74d2846edb9681dcf2c6.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/9a/17/b79a17a5366755d830e848bf4025ca671c18f402.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/04/18/69/04186996db8ddbfdb09c689cb93afd9fb25c981f.jpg?rule=ad-large"
+    ],
+    "postal_code": "69004",
+    "poster": "particulier",
+    "published_at": "2026-11-13 19:31:00",
+    "rent_cc": 450.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3308721929",
+    "surface_m2": 13.0,
+    "tags": [],
+    "title": "Studette á proximité de l'INSPE Etudiant seulement",
+    "url": "https://www.leboncoin.fr/ad/locations/3308721929"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3308762729": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 20.0,
+    "description": "Studio de 19 m2 entièrement meublé situé 22 rue d'Anvers dans le 7ème (quartier Saxe Gambetta). \nDisponible le 10 Décembre (le bail débutera à cette date) \n\nComposé d’un séjour (avec placard, bureau, couchage BZ matelas épais), une cuisine équipée (avec plaque induction, micro-ondes + grill, grand réfrigérateur + congélateur, machine à laver), une salle d'eau refaite à neuf. \nAppartement avec belle hauteur sous plafond (3 mètres), lumineux, traversant, avec double vitrage. \nImmeuble équipé d'un ",
+    "district": "Lyon 69007",
+    "flags": [
+     "agency_fees_no",
+     "charges_hc",
+     "garant",
+     "visale"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/af/b5/4c/afb54c49d1dcf9e3c0489b4538153f8ddcb715a8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/0d/68/f6/0d68f6be38fa851caa63e55d3b2fff5804fbe6f0.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/54/a0/95/54a095896786f4868161f8b193a8b3073415f643.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/cd/0e/9c/cd0e9ca13f734de0c7ae4162e81211a8aacb1add.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/10/ea/44/10ea446ca6c2ba2e14e1168e09dad5a9475a0de2.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "particulier",
+    "published_at": "2026-11-13 20:50:24",
+    "rent_cc": 550.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3308762729",
+    "surface_m2": 19.0,
+    "tags": [],
+    "title": "Studio meublé 19 m2 Saxe Gambetta Lyon 7 Idéal Etudiant",
+    "url": "https://www.leboncoin.fr/ad/locations/3308762729"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3308912987": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 60.0,
+    "description": "Particulier loue Studio meublé de 24m² en bon état, calme et lumineux.\n\nDans une résidence récente et sécurisée située rue des Hérideaux (LYON 8).\n\nProche toutes commodités (T2 Arrêt Villon ; T4 jets d’eau ; Metro D Montplaisir lumière),\n\nFaculté Lyon 3 à 15min à pied, Faculté de médecine à 3 arrêts de Tram, Lycée La Martinière à 5min à pied)\n\nLocal Vélo dans la résidence.\n\nLe studio comprend :\n-          Un clic clac et une table basse\n-          Un Lit Mezzanine simple avec Bureau et chaise\n- ",
+    "district": "Lyon 69008",
+    "flags": [
+     "agency_fees_no",
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/53/39/a3/5339a3f822f14e7b309cde8129efbec521a79ce7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f7/1c/2f/f71c2fcc3f23e2dbcc9d5157bf967b0a82f97e72.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/44/d6/ef/44d6efe58961a85eaafc8cedbb4823577005a1ed.jpg?rule=ad-large"
+    ],
+    "postal_code": "69008",
+    "poster": "particulier",
+    "published_at": "2026-11-14 07:01:55",
+    "rent_cc": 610.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3308912987",
+    "surface_m2": 24.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio 24m2 Lyon 8",
+    "url": "https://www.leboncoin.fr/ad/locations/3308912987"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3308934187": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 40.0,
+    "description": "Appartement\n\nIdéal étudiants - Quai du Rhône - Faculté très proche ! Venez découvrir ce joli studio meublé dans la résidence étudiante « Claude Bernard »  à côté des Facultés, au pied des quais du Rhône, des transports (Tram T1 et métro B ), de la place Jean Macé et des commerces. Il se compose d'une pièce de vie agréable ouvert sur une kitchenette équipée (frigo + 2 plaques de cuisson). De plus, l'eau froide est comprise dans les charges.\nRéférence annonce : FL0899659\nDate de réalisation du dia",
+    "district": "Lyon 69007",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/9f/6b/3c/9f6b3c06b8c2b0ab9bdf37837938cc8b4f17a975.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/84/2f/a0/842fa04c857c8b7dbd05d67116282830f2051720.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/9a/43/df/9a43df2a98ddf8d1804204e98b3eab1b41a82263.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a9/93/df/a993df0014fc215007c9c5fe08031a180ef22f34.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/72/a6/84/72a684575814f7f3a7853429859ceb0824146df6.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-11-14 08:24:39",
+    "rent_cc": 472.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3308934187",
+    "surface_m2": 18.0,
+    "tags": [],
+    "title": "Studio 1 pièce 18 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3308934187"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3309573757": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 60.0,
+    "description": "Chambre de service avec coin cuisine (matériel de cuisine fourni)\nExposition cours de la copropriété.\nEau, électricité et chauffage inclus dans le charge.\nToilette et douche en commun avec les 5 autres chambres de l'étage.",
+    "district": "Lyon 69003",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/9e/1a/a19e1a55283086d2c1852e68335fddc878db78a1.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/97/59/c9/9759c9c4cb8f8838e84f34cd8bb6140c9f96e329.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/7c/a8/ca/7ca8ca7099875a0a9e44d0e7e6c1dbb6d35bbe07.jpg?rule=ad-large"
+    ],
+    "postal_code": "69003",
+    "poster": "particulier",
+    "published_at": "2026-11-14 22:36:07",
+    "rent_cc": 325.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3309573757",
+    "surface_m2": 10.0,
+    "tags": [],
+    "title": "Chambre de service",
+    "url": "https://www.leboncoin.fr/ad/locations/3309573757"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3309639535": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 80.0,
+    "description": "Appartement de 18 m2 à louer sur Lyon \n\n Venez découvrir ce joli studio meublé entièrement rénové, d’une surface de 18 m², situé au 5ᵉ et dernier étage avec ascenseur, au cœur du quartier Saxe-Gambetta, à la croisée du 3ᵉ et 7ᵉ.\n\n📍 Emplacement idéal :\n-À 3 min à pied du métro Saxe-Gambetta (lignes B et D)\n-À 4 min du tram T1 – arrêt Guillotière\n-Station vélo Vélo’v, place Bellecour accessible à pied en 15 min, Gare Part Dieu en 13 min\n-Proximité immédiate des commerces, universités et écoles\n\nId",
+    "district": "Lyon 69007",
+    "flags": [
+     "agency_fees_no",
+     "charges_cc",
+     "garant"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/29/ae/72/29ae7219e9ba8f28611f04b3ee2be74494b886d7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b3/c6/0a/b3c60a7491d94df911c1e8734f225e787cdb22cb.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/46/6e/98466eca759eb269c7277a1ed43b77713e4835cf.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/4d/ab/92/4dab920688cdc93692c10bfaf8beddebb3488c98.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/59/a5/59/59a5598092574ce99b24e9f86a48c1c1e1014c2e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ea/82/b2/ea82b233d646f31fda097bb34f5268fa0f01fd37.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-11-15 08:00:21",
+    "rent_cc": 600.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3309639535",
+    "surface_m2": 18.0,
+    "tags": [],
+    "title": "Studio meublé refait à neuf- Saxe Gambetta",
+    "url": "https://www.leboncoin.fr/ad/locations/3309639535"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3309861857": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 30.0,
+    "description": "Studio 1 pièce 20 m²\n\n580€ CC / Mois - A SAISIR SANS TARDER ! Situé dans le quartier SAXE GAMBETTA - Ce studio meublé est composé d'un séjour, kitch équipée, placards, sdd, wc, digicode, double vitrage. Zone soumise à encadrement des loyers. Loyer de base : 456€. Loyer de référence majoré : 94€. TTES NOS OFFRES DE LOCATION SUR LOCA. FR. Réf : 6936608. Frais de convention : 220€. Cette offre s'inscrit dans le cadre de la fourniture d'un fichier. (gedeon_25896_34216052)\n\nSurface : 20 m²\nDate de ré",
+    "district": "Lyon 69007",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fe/16/4c/fe164cf25b97eaec14325f794ae9b3ad62767df1.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/7c/8e/d8/7c8ed8700a20a81aa6b5319c9af79c512ca96048.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/2d/3f/d3/2d3fd3d728edc32fe5d87d56da54f43e2f1ed003.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/55/b2/05/55b2056ca6b662422ddfdd0455c1c615e474685a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/3b/42/da/3b42da1f354e4d7356ade262104971849db418d9.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/25/a2/9e/25a29e7527c567b5f12afaa56a2a961a1e814c20.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-11-15 12:31:49",
+    "rent_cc": 580.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3309861857",
+    "surface_m2": 20.0,
+    "tags": [],
+    "title": "Studio 1 pièce 20 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3309861857"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3309866179": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-15T11:55:33+00:00",
+   "listing": {
+    "charges": 20.0,
+    "description": "Appartement 1 pièce 22 m²\n\n615€ cc / mois - A VISITER SANS TARDER ! Situé dans le quartier de la MARTINIERE - Appartement F1 meublé composé d'un séjour, kitchenette équipée, sdb, wc, digicode, double vitrage. Zone soumise à encadrement des loyers. Loyer de base : 595€. Loyer de référence majoré : 530,20€. Majoration de loyer : 64,80€. TTES NOS OFFRES DE LOCATION SUR LOCA. FR. Réf : 6936611. Frais de convention : 220€. Cette offre s'inscrit dans le cadre de la fourniture d'un fichier. (gedeon_258",
+    "district": "Lyon 69001",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/79/ed/5c/79ed5c57502ab2641ffcae674d4818a51a8fd10a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/43/24/3b/43243bbbe440b79d52e2900c65e67fd682dc15d2.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/47/a1/ce/47a1ce616d2c0b9196add8f70e6c033e5b7da9b3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/92/26/c9/9226c96597fa1e0698eef92a87cf84df94a3b929.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/79/89/9c/79899c189c9ded72550cc2c941eeab206b74ed54.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8e/71/0c/8e710cf54aadeb4467980aeeec5288fae12da83f.jpg?rule=ad-large"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "published_at": "2026-11-15 12:36:25",
+    "rent_cc": 615.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3309866179",
+    "surface_m2": 22.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement 1 pièce 22 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3309866179"
+   },
+   "notified": false,
+   "status": "active"
+  }
+ }
+}
