@@ -1,0 +1,7 @@
+name = "logement-cron"
+main = "src/index.js"
+compatibility_date = "2026-11-01"
+workers_dev = false        # no public URL: this Worker only runs on its cron and through the desk's service binding
+
+[triggers]
+crons = ["*/10 * * * *"]
