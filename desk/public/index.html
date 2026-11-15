@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0f1114">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<link rel="icon" href="/icons/icon-192.png">
+<title>Logement</title>
+<link rel="stylesheet" href="/app.css">
+</head>
+<body>
+<header class="bar"><strong>Logement</strong><span id="updated" class="muted"></span><button id="menu" class="btn" type="button">Settings</button></header>
+<main>
+  <nav class="tabs" id="tabs">
+    <button data-tab="new" aria-selected="true">New <span id="n-new"></span></button>
+    <button data-tab="following" aria-selected="false">Following <span id="n-following"></span></button>
+    <button data-tab="closed" aria-selected="false">Closed <span id="n-closed"></span></button>
+  </nav>
+  <div class="filters">
+    <select id="source" aria-label="Source"><option value="all">All sources</option></select>
+    <select id="poster" aria-label="Poster"><option value="all">Anyone</option><option value="particulier">Private only</option></select>
+    <label class="chk"><input type="checkbox" id="near" checked> near-miss</label>
+    <input id="q" type="search" placeholder="Search" aria-label="Search">
+  </div>
+  <p id="msg" class="muted"></p>
+  <div id="list"></div>
+  <details class="health"><summary>Source health</summary><div id="health"></div></details>
+</main>
+<dialog id="gal"><button id="galx" class="btn" type="button">Close</button><div id="strip"></div></dialog>
+<dialog id="dlg">
+  <h2>Settings</h2>
+  <label for="code">Access code</label><input id="code" type="password" autocomplete="off">
+  <div class="box"><strong>Alerts on this device</strong><p id="pushmsg" class="muted"></p>
+    <button class="btn" id="pushbtn" type="button">Turn on alerts</button> <button class="btn" id="pushtest" type="button">Send a test</button></div>
+  <div class="box"><strong>Run now</strong><p id="runmsg" class="muted"></p><button class="btn" id="runbtn" type="button">Start a run</button></div>
+  <div class="foot"><button class="btn" id="dlgcancel" type="button">Close</button><button class="btn primary" id="dlgsave" type="button">Save</button></div>
+</dialog>
+<script type="module" src="/app.js"></script>
+</body>
+</html>
