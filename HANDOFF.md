@@ -13,6 +13,7 @@ Read this first. State: plan 1 (the pipeline) is built and tested (75 tests). It
 - The real profile is the Actions secret `PROFILE_JSON` and the gitignored `profile.json`. The repo only has `profile.example.json`.
 - No proxies, no IP rotation. A blocked source is retried once, then cooled down.
 - The tool never contacts landlords.
+- Decision (owner, 2026-11-15): state is committed to this PUBLIC repo. `state/seen_listings.json` holds the listings that matched, so the area, rent band and kind of flat are inferable from it. Accepted knowingly; the alternative (a private state repo with a token secret) is documented in the final review and can be adopted later.
 
 ## Secrets (names only)
 `PROFILE_JSON` (required), `NTFY_TOPIC` (optional, failure alerts).
