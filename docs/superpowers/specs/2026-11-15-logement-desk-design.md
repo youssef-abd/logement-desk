@@ -29,6 +29,7 @@ All search behaviour lives in `profile.json`. The real file is stored as a GitHu
 | `sources` | enabled sources, each with its own query options |
 | `flags` | regex lists per flag (garant, visale, student_ok, student_no, agency_fees, charges_cc, charges_hc, availability, scam) |
 | `poll` | interval (Worker cron expression), retry wait, cool-down thresholds |
+| `max_photos` | photo URLs kept per listing (keeps state and `listings.json` small) |
 | `gone_after_polls` | polls without a sighting before a listing is marked gone |
 | `health` | consecutive-failure threshold per source, drift ratio |
 
@@ -108,7 +109,7 @@ Health: per source consecutive-failure counter and last-success time; schema dri
 
 ## 10. Desk
 
-Static Cloudflare Pages site, one access code. Newest-first list with flag chips; filters for source, particulier only, near-miss and furnished; stage select per listing; "no update for N days" hint on contacted listings; source-health panel; "Run now" button. Installable PWA.
+Static Cloudflare Pages site, one access code. Each row shows a thumbnail (first photo) and opens a gallery of up to `max_photos` photos. Photos are never copied: only their URLs are stored, and the page loads them straight from the source with lazy loading and no referrer; a placeholder shows when an image fails to load. Each listing also has an "image search" link so a suspicious photo can be checked by hand. Newest-first list with flag chips; filters for source, particulier only, near-miss and furnished; stage select per listing; "no update for N days" hint on contacted listings; source-health panel; "Run now" button. Installable PWA.
 
 ## 11. Security and privacy
 
@@ -142,6 +143,7 @@ These are facts not yet confirmed; each is a task, not an assumption:
 - Whether Bien'ici's `price` includes charges, and the field for charges.
 - How `lbc` exposes real-estate type, furnished status and surface filters, and whether sort-by-newest can be relied on (promoted ads appeared out of order in an early test).
 - Which Leboncoin and La Carte des Colocs fields carry price and publication or availability dates.
+- Whether each source's photo URLs can be loaded from another site (hotlinking, expiring or signed URLs); Bien'ici `photos[].url`, `lbc` `images`, La Carte des Colocs JSON-LD `image` and ParuVendu card images are the fields to use.
 - Request volume per poll that stays below each source's rate limits.
 
 ## 15. Build order
