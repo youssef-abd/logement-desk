@@ -4,3 +4,5 @@ __pycache__/
 *.tmp
 profile.json
 out/
+.vapid.json
+.desk_secrets.json
