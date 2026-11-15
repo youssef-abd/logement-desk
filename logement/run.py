@@ -5,7 +5,7 @@ import os
 import sys
 import time
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 from . import store
 from .config import load_profile
@@ -14,7 +14,7 @@ from .errors import Blocked, DriftError
 from .filters import hard_filter
 from .flags import apply_flags
 
-DEFAULT_HEALTH = {"consecutive_failures": 0, "blocked_runs": 0, "cooldown_left": 0,
+DEFAULT_HEALTH = {"consecutive_failures": 0, "blocked_runs": 0, "cooldown_until": None,
                   "last_success": None, "last_error": None}
 
 
@@ -42,6 +42,7 @@ def _fetch_with_retry(fetch, profile, sleep):
 def _record_success(h, now, profile):
     h["consecutive_failures"] = 0
     h["blocked_runs"] = 0
+    h["cooldown_until"] = None
     h["last_error"] = None
     if h["last_success"] is None or store.age_minutes(now, h["last_success"]) >= profile["touch_minutes"]:
         h["last_success"] = now
@@ -57,8 +58,7 @@ def run(profile, state, now, fetchers=None, sleep=time.sleep):
         if not opts.get("enabled"):
             continue
         h = health.setdefault(name, dict(DEFAULT_HEALTH))
-        if h["cooldown_left"] > 0:
-            h["cooldown_left"] -= 1
+        if h["cooldown_until"] and store.age_minutes(now, h["cooldown_until"]) < 0:
             report[name] = {"status": "cooldown"}
             continue
         fetch = fetchers.get(name) or load_fetch(name)
@@ -66,15 +66,16 @@ def run(profile, state, now, fetchers=None, sleep=time.sleep):
             items = _fetch_with_retry(fetch, profile, sleep)
             check_drift(items, profile["health"]["drift_ratio"])
         except Blocked:
-            h["consecutive_failures"] += 1
+            h["consecutive_failures"] = min(h["consecutive_failures"] + 1, threshold + 1)
             h["blocked_runs"] += 1
             h["last_error"] = "blocked"
             if h["blocked_runs"] >= profile["poll"]["block_threshold"]:
-                h["cooldown_left"] = profile["poll"]["block_cooldown_runs"]
+                h["cooldown_until"] = (datetime.fromisoformat(now) + timedelta(
+                    minutes=profile["poll"]["block_cooldown_minutes"])).isoformat(timespec="seconds")
                 h["blocked_runs"] = 0
             report[name] = {"status": "blocked"}
         except Exception as e:  # one source must never stop the run; only the class name is kept (logs are public)
-            h["consecutive_failures"] += 1
+            h["consecutive_failures"] = min(h["consecutive_failures"] + 1, threshold + 1)
             h["last_error"] = type(e).__name__
             report[name] = {"status": "error", "error": type(e).__name__}
         else:

@@ -1497,6 +1497,8 @@ Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
 
 ### Task 12: Orchestrator and CLI
 
+> Amended during execution: the cooldown is time-based (`poll.block_cooldown_minutes`, state field `cooldown_until`) and `consecutive_failures` is capped at `fail_threshold + 1`, so a long outage no longer changes state (and commits) on every run.
+
 **Files:**
 - Create: `logement/run.py`
 - Test: `tests/test_run.py`
@@ -2102,6 +2104,7 @@ Append to `docs/superpowers/specs/2026-11-15-logement-desk-design.md`:
 - Dedupe: rent (10), surface (1 m2) and postal code, all known; no title similarity; two listings of one source are not merged when either poster is an agency.
 - Bien'ici uses `isFurnished`; `price` includes charges. Leboncoin is filtered server-side with `real_estate_type=["2"]` and `furnished=["1"]`.
 - `found_by` is the source name; the per-query yield log moves to plan 2.
+- Cooldown is time-based (`poll.block_cooldown_minutes`) and the failure counter is capped, so a persistent outage does not rewrite state on every run.
 ```
 
 - [ ] **Step 4: Commit and push**

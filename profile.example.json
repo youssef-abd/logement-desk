@@ -29,6 +29,6 @@
     "available_now": {"patterns": ["disponible imm[ée]diatement", "libre imm[ée]diatement"]},
     "scam": {"patterns": ["whatsapp", "western union", "mandat cash", "[àa] l.[ée]tranger"]}
   },
-  "poll": {"retry_wait_s": 20, "block_threshold": 3, "block_cooldown_runs": 6},
+  "poll": {"retry_wait_s": 20, "block_threshold": 3, "block_cooldown_minutes": 60},
   "health": {"fail_threshold": 3, "drift_ratio": 0.5}
 }

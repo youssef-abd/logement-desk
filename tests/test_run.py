@@ -1,3 +1,5 @@
+import json
+
 import pytest
 
 from factories import make_listing
@@ -53,18 +55,34 @@ def test_blocked_source_is_retried_once_then_succeeds(profile):
 
 def test_repeated_blocks_trigger_a_cooldown_and_then_resume(profile):
     p = profile_with(profile, "bienici")
-    p["poll"].update(block_threshold=2, block_cooldown_runs=2)
+    p["poll"].update(block_threshold=2, block_cooldown_minutes=60)
     def blocked(_):
         raise Blocked("403")
     state = store.empty()
     fetchers = {"bienici": blocked}
     run(p, state, NOW, fetchers=fetchers, sleep=lambda s: None)
     run(p, state, NOW, fetchers=fetchers, sleep=lambda s: None)
-    assert state["health"]["bienici"]["cooldown_left"] == 2
-    assert run(p, state, NOW, fetchers=fetchers)["report"]["bienici"]["status"] == "cooldown"
-    assert run(p, state, NOW, fetchers=fetchers)["report"]["bienici"]["status"] == "cooldown"
+    assert state["health"]["bienici"]["cooldown_until"] == "2026-11-15T11:00:00+00:00"
+    before = json.dumps(state, sort_keys=True)
+    res = run(p, state, "2026-11-15T10:30:00+00:00", fetchers=fetchers, sleep=lambda s: None)
+    assert res["report"]["bienici"]["status"] == "cooldown"
+    assert json.dumps(state, sort_keys=True) == before
     fetchers["bienici"] = ok_fetcher(make_listing())
-    assert run(p, state, NOW, fetchers=fetchers)["report"]["bienici"]["status"] == "ok"
+    res = run(p, state, "2026-11-15T11:01:00+00:00", fetchers=fetchers, sleep=lambda s: None)
+    assert res["report"]["bienici"]["status"] == "ok"
+    assert state["health"]["bienici"]["cooldown_until"] is None
+
+
+def test_a_persistently_failing_source_stops_changing_state(profile):
+    p = profile_with(profile, "bienici")
+    def boom(_):
+        raise RuntimeError
+    state = store.empty()
+    for _ in range(p["health"]["fail_threshold"] + 1):
+        run(p, state, NOW, fetchers={"bienici": boom})
+    before = json.dumps(state, sort_keys=True)
+    run(p, state, NOW, fetchers={"bienici": boom})
+    assert json.dumps(state, sort_keys=True) == before
 
 
 def test_failure_threshold_is_reported_once(profile):
