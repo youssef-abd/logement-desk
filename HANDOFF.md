@@ -1,6 +1,6 @@
 # logement-desk: handoff
 
-Read this first. State: plan 1 (the pipeline) is built and tested (75 tests). Its Task 15 live runs on GitHub Actions are done afterwards by the controller. Plan 2 (Worker cron, desk, push alerts) is not started.
+Read this first. State: plan 1 (the pipeline) is built, tested (77 offline tests) and verified live on GitHub Actions on 2026-11-15: a dry run and two full runs from a runner IP (Bien'ici and Leboncoin both answer; the first full run saved the state, the immediate second run made no commit). It is started by hand: `gh workflow run run.yml -f mode=full|check`. Plan 2 (Worker cron, desk, push alerts) is not started.
 
 ## What exists
 - `logement/`: the pipeline. `python -m logement.run --check --show --profile profile.json` is the local dry run; `--strict` exits 1 if any source is not ok.
