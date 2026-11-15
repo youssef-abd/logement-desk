@@ -1,0 +1,33 @@
+{
+  "areas": {"allowed_postal_codes": []},
+  "max_rent_cc": 700,
+  "near_miss_margin": 50,
+  "kinds": {"allowed": ["studio", "t1"], "max_surface_for_t1": 35},
+  "min_surface_m2": 9,
+  "furnished": "required",
+  "reject_title_patterns": ["parking", "garage", "\\bbox\\b", "\\bcave\\b", "stockage"],
+  "max_photos": 6,
+  "stale_after_minutes": 720,
+  "touch_minutes": 180,
+  "prune_days": 45,
+  "sources": {
+    "bienici": {"enabled": true, "zone_ids": ["<bienici-zone-id>"], "size": 24},
+    "leboncoin": {"enabled": true, "city": "<city>", "lat": 0.0, "lng": 0.0, "radius_m": 6000, "limit": 35, "max_square": 60},
+    "lacartedescolocs": {"enabled": false, "url": "<list-page-url>"},
+    "paruvendu": {"enabled": false, "url": "<list-page-url>"}
+  },
+  "flags": {
+    "garant_no": {"patterns": ["sans garant", "garant non exig\\w*", "pas de garant", "aucun garant"]},
+    "garant": {"patterns": ["\\bgarants?\\b", "caution solidaire"], "unless": ["garant_no"]},
+    "visale": {"patterns": ["visale"]},
+    "student_no": {"patterns": ["pas d.\\s?[ée]tudiant", "sans [ée]tudiant", "[ée]tudiants? non accept"]},
+    "student_ok": {"patterns": ["[ée]tudiants? (?:accept|bienvenu)", "convient (?:à|a) un [ée]tudiant"], "unless": ["student_no"]},
+    "agency_fees": {"patterns": ["frais d.agence", "honoraires"]},
+    "charges_cc": {"patterns": ["charges comprises", "\\bCC\\b"]},
+    "charges_hc": {"patterns": ["hors charges", "\\bHC\\b"]},
+    "available_now": {"patterns": ["disponible imm[ée]diatement", "libre imm[ée]diatement"]},
+    "scam": {"patterns": ["whatsapp", "western union", "mandat cash", "[àa] l.[ée]tranger"]}
+  },
+  "poll": {"retry_wait_s": 20, "block_threshold": 3, "block_cooldown_runs": 6},
+  "health": {"fail_threshold": 3, "drift_ratio": 0.5}
+}
