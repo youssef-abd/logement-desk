@@ -4,6 +4,7 @@ const HOSTS = ["bienici.com", "leboncoin.fr", "lacartedescolocs.fr", "paruvendu.
 export function safeUrl(u) {
   try {
     const x = new URL(u);
+    if (x.username || x.password || x.port) return "";
     if (x.protocol !== "https:") return "";
     return HOSTS.some((d) => x.hostname === d || x.hostname.endsWith("." + d)) ? x.href : "";
   } catch (e) { return ""; }
@@ -17,8 +18,9 @@ export function cleanListing(l) {
   if (!l || typeof l !== "object") return null;
   const id = str(l.id, 100), url = safeUrl(l.url);
   if (!id || !url) return null;
+  if (typeof l.source !== "string" || !/^[a-z0-9_]{2,30}$/.test(l.source)) return null;
   return {
-    id, source: str(l.source, 30), url, title: str(l.title, 120), rent_cc: num(l.rent_cc), surface_m2: num(l.surface_m2), rooms: num(l.rooms),
+    id, source: l.source, url, title: str(l.title, 120), rent_cc: num(l.rent_cc), surface_m2: num(l.surface_m2), rooms: num(l.rooms),
     kind: str(l.kind, 12) || null, district: str(l.district, 60) || null, postal_code: str(l.postal_code, 10) || null,
     furnished: typeof l.furnished === "boolean" ? l.furnished : null, poster: ["particulier", "agence"].includes(l.poster) ? l.poster : null,
     published_at: str(l.published_at, 40) || null, first_seen: str(l.first_seen, 40), last_seen: str(l.last_seen, 40),
@@ -30,11 +32,16 @@ export function cleanListing(l) {
 export function cleanPayload(p) {
   if (!p || typeof p !== "object" || !Array.isArray(p.listings)) return null;
   const health = {};
-  for (const [name, h] of Object.entries(p.health && typeof p.health === "object" ? p.health : {}).slice(0, 12)) {
-    if (!/^[a-z0-9_]{2,30}$/.test(name) || !h || typeof h !== "object") continue;
+  const healthEntries = Object.entries(p.health && typeof p.health === "object" ? p.health : {})
+    .filter(([name, h]) => /^[a-z0-9_]{2,30}$/.test(name) && h && typeof h === "object").slice(0, 12);
+  for (const [name, h] of healthEntries) {
     const run = h.run && typeof h.run === "object" ? h.run : {};
     health[name] = { last_success: str(h.last_success, 40) || null, failures: num(h.failures) || 0, error: str(h.error, 40) || null,
       cooldown_until: str(h.cooldown_until, 40) || null, status: str(run.status, 12) || null, fetched: num(run.fetched), kept: num(run.kept) };
   }
-  return { updated: str(p.updated, 40), listings: p.listings.slice(0, 400).map(cleanListing).filter(Boolean), health };
+  const seen = new Set(), listings = [];
+  for (const l of p.listings.map(cleanListing)) {
+    if (l && !seen.has(l.id)) { seen.add(l.id); listings.push(l); }
+  }
+  return { updated: str(p.updated, 40), listings: listings.slice(0, 400), health };
 }

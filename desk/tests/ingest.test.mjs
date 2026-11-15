@@ -39,3 +39,12 @@ test("a device that answered 410 is forgotten, a failing push does not break ing
   assert.equal(r.sent, 1);
   assert.deepEqual((await kv.get("push", "json")).map((s) => s.endpoint), ["https://ok", "https://boom"]);
 });
+
+test("an empty payload is skipped: no KV write, not counted as the seeding run", async () => {
+  const kv = fakeKV({});
+  const r = await ingest({ kv, payload: P(), now: NOW, send: async () => 201 });
+  assert.deepEqual(r, { stored: 0, fresh: 0, sent: 0, devices: 0, seeded: false, skipped: true });
+  assert.deepEqual(kv.dump(), {});
+  const first = await ingest({ kv, payload: P(L("a")), now: NOW, send: async () => 201 });
+  assert.equal(first.seeded, true);
+});

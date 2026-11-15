@@ -2,6 +2,7 @@ import { messageFor } from "./message.js";
 
 // payload is already cleaned. kv is the KV binding; send(sub) returns the push HTTP status.
 export async function ingest({ kv, payload, now, send }) {
+  if (payload.listings.length === 0) return { stored: 0, fresh: 0, sent: 0, devices: 0, seeded: false, skipped: true };
   const raw = await kv.get("notified", "json");
   const first = !Array.isArray(raw);
   const notified = new Set(first ? [] : raw);
@@ -11,7 +12,8 @@ export async function ingest({ kv, payload, now, send }) {
   if (fresh.length) {
     const m = messageFor(fresh);
     await kv.put("pending", JSON.stringify({ ...m, t: now }));
-    const subs = (await kv.get("push", "json")) || [];
+    const raw = await kv.get("push", "json");
+    const subs = Array.isArray(raw) ? raw : [];
     const keep = [];
     for (const s of subs) {
       let code = 0;
