@@ -164,3 +164,18 @@ More sources are planned after version 1. A new source touches only `sources/<na
 4. Run `check` mode, enable it in the profile, watch its yield in the query log for a few days, and drop it if it only produces duplicates.
 
 Candidates from the 2026-11-14/15 sweep, in rough priority: AVendreALouer (list JSON-LD works, detail pages blocked from the cloud), Entreparticuliers (Lyon URL not yet found), PAP (blocked from cloud IPs; would need a self-hosted runner on the owner's PC), Foncia, Immojeune, student-residence sites (Estudines, Studelites, Kley, Studea) and HousingAnywhere for the student angle. SeLoger and Logic-Immo stay out while DataDome blocks them. Sources the owner finds later follow the same procedure.
+
+## 17. Amendments found while planning (2026-11-15)
+
+- Code lives in the package `logement/` (run as `python -m logement.run`).
+- `areas` is `{"allowed_postal_codes": [...]}`; per-source location settings live under `sources.<name>`.
+- `gone_after_polls` is replaced by `stale_after_minutes` and `touch_minutes`; status `gone` is `stale` ("not in the latest results"), because only the newest page is polled and `last_seen` must not change every run.
+- `reject_title_patterns` is a profile field (parking guard when the room count is unknown); it is skipped when the title says studio, t1 or f1.
+- Dedupe: rent (10), surface (1 m2) and postal code, all known; no title similarity; two listings of one source are not merged when either poster is an agency.
+- Dedupe matches only active entries; a stale listing seen again refreshes `last_seen`.
+- The profile has an `agency_fees_no` flag; `agency_fees` is dropped when the text says "sans frais d'agence".
+- Bien'ici uses `isFurnished`; `price` includes charges. Leboncoin is filtered server-side with `real_estate_type=["2"]` and `furnished=["1"]`.
+- Leboncoin charges are added to the price only when `charges_included` is explicitly "2".
+- ParuVendu: a card with an `alt="pro : ..."` logo and no `pseudoinfo` span is an agency.
+- `found_by` is the source name; the per-query yield log moves to plan 2.
+- Cooldown is time-based (`poll.block_cooldown_minutes`) and the failure counter is capped, so a persistent outage does not rewrite state on every run.
