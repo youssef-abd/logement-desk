@@ -731,6 +731,8 @@ Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
 
 ### Task 7: Dedupe and state updates
 
+> Amended during execution: `find_match` only matches active entries (a stale listing must not swallow a different flat), and a stale listing seen again always refreshes `last_seen`.
+
 **Files:**
 - Create: `logement/dedupe.py`
 - Test: `tests/test_dedupe.py`

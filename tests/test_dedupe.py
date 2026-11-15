@@ -90,3 +90,22 @@ def test_a_stale_listing_seen_again_becomes_active(profile):
     assert process(state, [make_listing()], {"bienici"}, PLUS_13H, profile) == []
     e = state["listings"]["bienici:a1"]
     assert e["status"] == "active" and e["last_seen"] == PLUS_13H
+
+
+def test_a_stale_listing_does_not_swallow_a_similar_new_one(profile):
+    state = store.empty()
+    process(state, [make_listing(source="leboncoin", source_id="l1", poster="particulier")], {"leboncoin"}, NOW, profile)
+    process(state, [], {"leboncoin"}, PLUS_13H, profile)
+    assert state["listings"]["leboncoin:l1"]["status"] == "stale"
+    similar = make_listing(source="leboncoin", source_id="l2", poster="particulier")
+    assert [a.key for a in process(state, [similar], {"leboncoin"}, PLUS_13H, profile)] == ["leboncoin:l2"]
+
+
+def test_reactivating_a_stale_listing_refreshes_last_seen_even_with_a_long_touch_interval(profile):
+    profile["touch_minutes"] = 100000
+    state = store.empty()
+    process(state, [make_listing()], {"bienici"}, NOW, profile)
+    process(state, [], {"bienici"}, PLUS_13H, profile)
+    process(state, [make_listing()], {"bienici"}, PLUS_13H, profile)
+    e = state["listings"]["bienici:a1"]
+    assert e["status"] == "active" and e["last_seen"] == PLUS_13H

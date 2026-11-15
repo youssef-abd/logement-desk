@@ -16,7 +16,7 @@ def same_flat(a, b, rent_tol=10.0, surface_tol=1.0):
 
 def find_match(entries, d):
     for key, e in entries.items():
-        if e["listing"] is not None and same_flat(e["listing"], d):
+        if e["status"] == "active" and e["listing"] is not None and same_flat(e["listing"], d):
             return key
     return None
 
@@ -31,10 +31,11 @@ def process(state, kept, ok_sources, now, profile):
         seen.add(key)
         e = entries.get(key)
         if e is not None:
-            if store.age_minutes(now, e["last_seen"]) >= touch:
-                e["last_seen"] = now
             if e["status"] == "stale":
                 e["status"] = "active"
+                e["last_seen"] = now
+            elif store.age_minutes(now, e["last_seen"]) >= touch:
+                e["last_seen"] = now
             continue
         d = l.to_dict()
         d["description"] = d["description"][:500]
