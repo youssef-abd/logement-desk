@@ -1783,6 +1783,9 @@ Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
 
 ### Task 13: End-to-end idempotency test
 
+
+> Amended during execution: the second run uses a timestamp 5 minutes later (`FIVE_MINUTES_LATER`), because a same-timestamp rerun would not catch state that changes with time.
+
 **Files:**
 - Test: `tests/test_pipeline.py`
 

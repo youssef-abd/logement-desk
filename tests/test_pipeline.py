@@ -5,6 +5,7 @@ from logement import store
 from logement.run import run
 
 NOW = "2026-11-15T10:00:00+00:00"
+FIVE_MINUTES_LATER = "2026-11-15T10:05:00+00:00"
 
 
 def fetchers():
@@ -23,6 +24,6 @@ def test_whole_pipeline_is_idempotent(profile):
     assert state["listings"]["leboncoin:l1"]["dup_of"] == "bienici:b1"
 
     snapshot = copy.deepcopy(state)
-    second = run(profile, state, NOW, fetchers=fetchers())
+    second = run(profile, state, FIVE_MINUTES_LATER, fetchers=fetchers())
     assert second["alerts"] == []
     assert state == snapshot  # nothing to commit on an unchanged run
