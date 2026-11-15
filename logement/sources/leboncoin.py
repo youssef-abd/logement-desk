@@ -18,7 +18,7 @@ def parse_ad(ad, max_photos):
     price = _num(ad.price)
     charges = _num(_attr(ad, "monthly_charges"))
     rent = price
-    if price is not None and charges and _attr(ad, "charges_included") != "1":
+    if price is not None and charges and _attr(ad, "charges_included") == "2":
         rent = price + charges
     rooms = _num(_attr(ad, "rooms"))
     owner = (ad.raw.get("owner") or {}).get("type")

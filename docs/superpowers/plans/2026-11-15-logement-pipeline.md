@@ -1066,6 +1066,8 @@ Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
 
 ### Task 9: Leboncoin adapter
 
+> Amended during execution: charges are added to the price only when `charges_included` is explicitly "2" (live data: all ads had "1"; a missing attribute must not inflate the rent).
+
 **Files:**
 - Create: `logement/sources/leboncoin.py`
 - Test: `tests/test_source_leboncoin.py`

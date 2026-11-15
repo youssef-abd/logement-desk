@@ -46,3 +46,9 @@ def test_furnished_values_and_missing_attributes():
 def test_professional_owner_is_an_agency():
     assert parse_ad(fake_ad(raw={"owner": {"type": "pro"}}), 6).poster == "agence"
     assert parse_ad(fake_ad(raw={}), 6).poster is None
+
+
+def test_charges_are_not_added_when_the_included_attribute_is_missing():
+    ad = fake_ad({"monthly_charges": "40"})
+    del ad.attributes["charges_included"]
+    assert parse_ad(ad, max_photos=6).rent_cc == 506.0
