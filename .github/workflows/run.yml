@@ -1,0 +1,48 @@
+name: run
+
+# Real run or dry check. By hand for now: gh workflow run run.yml -f mode=full|check
+# (the Cloudflare Worker cron that dispatches it comes with plan 2).
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "full = real run and save state, check = dry run that writes nothing"
+        type: choice
+        options: [full, check]
+        default: full
+
+permissions:
+  contents: write
+
+concurrency:
+  group: logement-run
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      PROFILE_JSON: ${{ secrets.PROFILE_JSON }}
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      PYTHONUTF8: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+      - run: pip install -r requirements.txt
+      - name: Git identity for the state commit
+        run: |
+          git config user.name "logement-desk[bot]"
+          git config user.email "logement-desk@users.noreply.github.com"
+      - name: Scrape
+        run: python -m logement.run ${{ inputs.mode == 'check' && '--check' || '' }}
+      - name: Save state
+        if: always() && inputs.mode != 'check'
+        run: bash scripts/save_state.sh
+      - name: Phone alert if the run failed
+        if: failure() && env.NTFY_TOPIC != ''
+        run: curl -s -d "logement-desk run failed" "https://ntfy.sh/${NTFY_TOPIC}" > /dev/null

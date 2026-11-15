@@ -1,0 +1,32 @@
+name: contract
+
+# Weekly live check: every enabled source must answer with parseable listings. Writes nothing.
+on:
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  contract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      PROFILE_JSON: ${{ secrets.PROFILE_JSON }}
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      PYTHONUTF8: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+      - run: pip install -r requirements.txt
+      - run: python -m logement.run --check --strict
+      - name: Phone alert if a source broke
+        if: failure() && env.NTFY_TOPIC != ''
+        run: |
+          curl -s -d "logement-desk weekly check: a source is broken" "https://ntfy.sh/${NTFY_TOPIC}" > /dev/null
