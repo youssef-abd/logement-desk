@@ -119,3 +119,23 @@ def test_filters_and_flags_are_applied_before_state(profile):
     assert [a.key for a in res["alerts"]] == ["bienici:g"]
     assert res["alerts"][0].flags == ["visale"] and res["alerts"][0].found_by == "bienici"
     assert res["report"]["bienici"] == {"status": "ok", "fetched": 2, "kept": 1}
+
+
+def test_odd_value_from_one_source_does_not_crash_the_run(profile):
+    p = profile_with(profile, "bienici", "leboncoin")
+    odd = make_listing(source="bienici", source_id="o1", rent_cc="450")
+    res = run(p, store.empty(), NOW, fetchers={"bienici": ok_fetcher(odd), "leboncoin": ok_fetcher(make_listing(source="leboncoin", source_id="l1"))})
+    assert res["report"]["bienici"] == {"status": "error", "error": "TypeError"}
+    assert res["report"]["leboncoin"]["status"] == "ok"
+    assert [a.key for a in res["alerts"]] == ["leboncoin:l1"]
+
+
+def test_an_empty_result_is_an_error_and_never_makes_listings_stale(profile):
+    p = profile_with(profile, "bienici")
+    state = store.empty()
+    run(p, state, NOW, fetchers={"bienici": ok_fetcher(make_listing())})
+    later = "2026-11-15T23:00:00+00:00"  # 13 hours later, past stale_after_minutes
+    res = run(p, state, later, fetchers={"bienici": ok_fetcher()})
+    assert res["report"]["bienici"] == {"status": "error", "error": "EmptyResult"}
+    assert state["listings"]["bienici:a1"]["status"] == "active"
+    assert state["health"]["bienici"]["consecutive_failures"] == 1

@@ -163,7 +163,7 @@ More sources are planned after version 1. A new source touches only `sources/<na
 3. Write the adapter, save a trimmed fixture, add the adapter, drift and filter tests.
 4. Run `check` mode, enable it in the profile, watch its yield in the query log for a few days, and drop it if it only produces duplicates.
 
-Candidates from the 2026-11-14/15 sweep, in rough priority: AVendreALouer (list JSON-LD works, detail pages blocked from the cloud), Entreparticuliers (Lyon URL not yet found), PAP (blocked from cloud IPs; would need a self-hosted runner on the owner's PC), Foncia, Immojeune, student-residence sites (Estudines, Studelites, Kley, Studea) and HousingAnywhere for the student angle. SeLoger and Logic-Immo stay out while DataDome blocks them. Sources the owner finds later follow the same procedure.
+Candidates from the 2026-11-14/15 sweep, in rough priority: AVendreALouer (list JSON-LD works, detail pages blocked from the cloud), Entreparticuliers (no working list URL found yet), PAP (blocked from cloud IPs; would need a self-hosted runner on the owner's PC), Foncia, Immojeune, student-residence sites (Estudines, Studelites, Kley, Studea) and HousingAnywhere for the student angle. SeLoger and Logic-Immo stay out while DataDome blocks them. Sources the owner finds later follow the same procedure.
 
 ## 17. Amendments found while planning (2026-11-15)
 

@@ -1501,6 +1501,8 @@ Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
 
 > Amended during execution: the cooldown is time-based (`poll.block_cooldown_minutes`, state field `cooldown_until`) and `consecutive_failures` is capped at `fail_threshold + 1`, so a long outage no longer changes state (and commits) on every run.
 
+> Amended during execution (final review): flags and filter run inside the per-source try, and an empty result raises `EmptyResult` (counted as a failure, never marks listings stale).
+
 **Files:**
 - Create: `logement/run.py`
 - Test: `tests/test_run.py`

@@ -10,7 +10,7 @@ from datetime import datetime, timedelta, timezone
 from . import store
 from .config import load_profile
 from .dedupe import process
-from .errors import Blocked, DriftError
+from .errors import Blocked, DriftError, EmptyResult
 from .filters import hard_filter
 from .flags import apply_flags
 
@@ -65,6 +65,12 @@ def run(profile, state, now, fetchers=None, sleep=time.sleep):
         try:
             items = _fetch_with_retry(fetch, profile, sleep)
             check_drift(items, profile["health"]["drift_ratio"])
+            if not items:
+                raise EmptyResult("no listings")
+            for l in items:
+                l.found_by = name
+                apply_flags(l, profile)
+            kept = [l for l in items if hard_filter(l, profile)]
         except Blocked:
             h["consecutive_failures"] = min(h["consecutive_failures"] + 1, threshold + 1)
             h["blocked_runs"] += 1
@@ -80,10 +86,6 @@ def run(profile, state, now, fetchers=None, sleep=time.sleep):
             report[name] = {"status": "error", "error": type(e).__name__}
         else:
             _record_success(h, now, profile)
-            for l in items:
-                l.found_by = name
-                apply_flags(l, profile)
-            kept = [l for l in items if hard_filter(l, profile)]
             kept_all += kept
             ok.add(name)
             report[name] = {"status": "ok", "fetched": len(items), "kept": len(kept)}

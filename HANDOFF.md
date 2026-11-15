@@ -33,6 +33,9 @@ Read this first. State: plan 1 (the pipeline) is built and tested (75 tests). It
 - `find_match` only matches ACTIVE entries; a stale listing seen again refreshes `last_seen`.
 - Cooldown is time-based (`poll.block_cooldown_minutes`, state field `cooldown_until`); `consecutive_failures` is capped at `fail_threshold + 1` so an outage does not rewrite state every run.
 - The idempotency test reruns 5 minutes later, so time-dependent state changes are caught.
+- The first real run marks every kept listing as not yet notified (up to ~60), so the push step of plan 2 must seed or batch the first run.
+- A repost more than `stale_after_minutes` after the original left the newest page alerts again; ParuVendu and La Carte des Colocs have no postal code, so they never dedupe.
+- `--strict` (weekly contract check) fails while a source is in cooldown or returns nothing, by design.
 
 ## Next (plan 2)
 Cloudflare Worker cron (dispatches `run.yml`), Pages desk with photos and stages, Web Push, source-health panel, "Run now", per-query yield log. Before showing photos, verify that each source's photo URLs load from another site (spec section 14). Adding sources: spec section 16.
