@@ -12,6 +12,7 @@ const jsonRes = (o, status = 200) => new Response(JSON.stringify(o), { status, h
 
 const dispatch = (env) => fetch(`https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}/dispatches`, {
   method: "POST", headers: gh(env), body: JSON.stringify({ ref: "main", inputs: { mode: "full" } }) });
+const tryDispatch = async (env) => { try { return (await dispatch(env)).status; } catch (e) { return 0; } };
 
 async function alert(env, text) {
   if (!env.NTFY_TOPIC) return;
@@ -29,10 +30,11 @@ export default {
   async scheduled(event, env) {
     if (!env.GITHUB_TOKEN) { await alert(env, "Runs are not started: the GITHUB_TOKEN secret is missing."); return; }
     let status = 0;
-    for (let attempt = 1; attempt <= 2 && status !== 204; attempt++) status = (await dispatch(env)).status;
-    if (status !== 204) await alert(env, `A run was not started (GitHub answered HTTP ${status}).${[401, 403, 404].includes(status) ? " The GitHub token has probably expired: renew it." : ""}`);
+    for (let attempt = 1; attempt <= 2 && status !== 204; attempt++) status = await tryDispatch(env);
+    if (status !== 204 && isDue(event.scheduledTime)) await alert(env, `A run was not started (GitHub answered HTTP ${status}).${[401, 403, 404].includes(status) ? " The GitHub token has probably expired: renew it." : ""}`);
     if (isDue(event.scheduledTime)) {
-      const ok = await lastRun(env, "&status=success");
+      let ok = {};
+      try { ok = await lastRun(env, "&status=success"); } catch (e) { ok = {}; }
       const age = minutesSince(ok.updated, Date.now());
       if (age > STALE_AFTER_MIN) await alert(env, `No successful run for ${Number.isFinite(age) ? Math.round(age) + " minutes" : "a long time"}.`);
     }

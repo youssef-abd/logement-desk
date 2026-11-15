@@ -13,6 +13,6 @@ export async function vapidHeader(env, endpoint) {
 
 // One empty push to one device; returns the HTTP status (404 / 410 = the device is gone).
 export async function sendPush(env, sub) {
-  const res = await fetch(sub.endpoint, { method: "POST", headers: { Authorization: await vapidHeader(env, sub.endpoint), TTL: "21600", Urgency: "normal", "Content-Length": "0" } });
+  const res = await fetch(sub.endpoint, { method: "POST", headers: { Authorization: await vapidHeader(env, sub.endpoint), TTL: "21600", Urgency: "normal", "Content-Length": "0" }, signal: AbortSignal.timeout(8000) });
   return res.status;
 }
