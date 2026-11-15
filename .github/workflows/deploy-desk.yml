@@ -1,0 +1,36 @@
+name: deploy-desk
+
+# The desk code is deployed only when it changes (Cloudflare Pages free plan allows about 500 deployments a month); listings travel through /api/ingest.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "desk/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-desk
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Deploy the desk
+        if: env.CLOUDFLARE_API_TOKEN != ''
+        working-directory: desk
+        run: npx --yes wrangler@3 pages deploy public --branch main --commit-dirty=true
+      - name: No Cloudflare token
+        if: env.CLOUDFLARE_API_TOKEN == ''
+        run: echo "::warning::CLOUDFLARE_API_TOKEN is not set, nothing deployed."

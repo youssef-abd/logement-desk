@@ -25,6 +25,8 @@ jobs:
     env:
       PROFILE_JSON: ${{ secrets.PROFILE_JSON }}
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      DESK_URL: ${{ secrets.DESK_URL }}
+      PUSH_TOKEN: ${{ secrets.PUSH_TOKEN }}
       PYTHONUTF8: "1"
     steps:
       - uses: actions/checkout@v4
@@ -43,6 +45,9 @@ jobs:
       - name: Save state
         if: always() && inputs.mode != 'check'
         run: bash scripts/save_state.sh
+      - name: Publish to the desk (stores the listings, sends the phone alerts)
+        if: inputs.mode != 'check' && env.DESK_URL != ''
+        run: python scripts/publish.py
       - name: Phone alert if the run failed
         if: failure() && env.NTFY_TOPIC != ''
         run: curl -s -d "logement-desk run failed" "https://ntfy.sh/${NTFY_TOPIC}" > /dev/null
