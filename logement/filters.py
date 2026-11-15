@@ -37,7 +37,11 @@ def hard_filter(l, p):
     if l.surface_m2 is not None and l.surface_m2 < p["min_surface_m2"]:
         return False
 
-    if l.rooms is None and any(re.search(pat, l.title or "", re.I) for pat in p["reject_title_patterns"]):
+    if (
+        l.rooms is None
+        and not re.search(r"\b(studio|t1|f1)\b", l.title or "", re.I)
+        and any(re.search(pat, l.title or "", re.I) for pat in p["reject_title_patterns"])
+    ):
         return False
 
     kind = infer_kind(l)

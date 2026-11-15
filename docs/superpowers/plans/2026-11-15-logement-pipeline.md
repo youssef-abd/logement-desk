@@ -479,6 +479,8 @@ Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
 
 ### Task 5: Hard filter
 
+> Amended during execution: the parking guard is skipped when the title contains studio, t1 or f1 (a review found real studios were rejected); see the test `test_studio_or_t1_with_parking_in_the_title_is_kept_even_when_rooms_is_unknown`.
+
 **Files:**
 - Create: `logement/filters.py`
 - Test: `tests/test_filters.py`

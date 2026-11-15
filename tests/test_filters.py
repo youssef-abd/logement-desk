@@ -64,3 +64,9 @@ def test_furnished_policy(profile):
     assert hard_filter(l, profile) is True and "furnished?" in l.tags
     profile["furnished"] = "any"
     assert hard_filter(make_listing(furnished=False), profile) is True
+
+
+def test_studio_or_t1_with_parking_in_the_title_is_kept_even_when_rooms_is_unknown(profile):
+    assert hard_filter(make_listing(title="Studio + cave", rooms=None), profile) is True
+    assert hard_filter(make_listing(title="T1 avec parking", rooms=None), profile) is True
+    assert hard_filter(make_listing(title="Garage box", rooms=None, surface_m2=15), profile) is False
