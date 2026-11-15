@@ -1,6 +1,7 @@
 import argparse
 import copy
 import importlib
+import json
 import os
 import sys
 import time
@@ -11,6 +12,7 @@ from . import store
 from .config import load_profile
 from .dedupe import process
 from .errors import Blocked, DriftError, EmptyResult
+from .export import build_payload
 from .filters import hard_filter
 from .flags import apply_flags
 
@@ -133,6 +135,9 @@ def main(argv=None):
             print(f"  {l.rent_cc} EUR | {l.surface_m2} m2 | {l.district} | {l.poster} | {' '.join(l.flags + l.tags)} | {l.url}")
     if not a.check:
         store.save(a.state, state)
+        os.makedirs("out", exist_ok=True)
+        with open("out/desk.json", "w", encoding="utf-8", newline="\n") as f:
+            json.dump(build_payload(state, res["report"], now), f, ensure_ascii=False)
         topic = os.environ.get("NTFY_TOPIC", "")
         if topic and res["newly_failing"]:
             notify(topic, "logement-desk: source failing: " + ", ".join(res["newly_failing"]))
