@@ -154,3 +154,13 @@ These are facts not yet confirmed; each is a task, not an assumption:
 4. Workflow, `save_state`, Worker cron, failure alerts.
 5. Desk, push alerts, health panel, "Run now".
 6. Acceptance: real run with a push on the phone, then a week of measurement (run duration, alert lag, per-source yield).
+
+## 16. Adding sources later
+
+More sources are planned after version 1. A new source touches only `sources/<name>.py`, its fixture, its tests and one entry under `sources` in the profile; nothing else changes. Procedure, in order:
+1. Probe: plain GET, then browser impersonation, from the owner's machine, then from a GitHub runner (the `probe` workflow). Record status codes and sizes only.
+2. Extraction check on one list page and one detail page: stable id, price (CC or HC), surface, furnished, date, photos, poster type.
+3. Write the adapter, save a trimmed fixture, add the adapter, drift and filter tests.
+4. Run `check` mode, enable it in the profile, watch its yield in the query log for a few days, and drop it if it only produces duplicates.
+
+Candidates from the 2026-11-14/15 sweep, in rough priority: AVendreALouer (list JSON-LD works, detail pages blocked from the cloud), Entreparticuliers (Lyon URL not yet found), PAP (blocked from cloud IPs; would need a self-hosted runner on the owner's PC), Foncia, Immojeune, student-residence sites (Estudines, Studelites, Kley, Studea) and HousingAnywhere for the student angle. SeLoger and Logic-Immo stay out while DataDome blocks them. Sources the owner finds later follow the same procedure.
