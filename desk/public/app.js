@@ -21,6 +21,7 @@ async function load() {
   } catch (e) { $("msg").textContent = e.message; return; }
   const src = [...new Set(S.data.listings.map((l) => l.source))];
   $("source").replaceChildren(new Option("All sources", "all"), ...src.map((s) => new Option(s, s)));
+  if (!src.includes(S.f.source)) S.f.source = "all"; $("source").value = S.f.source;
   render();
 }
 
@@ -33,7 +34,7 @@ function render() {
   for (const t of ["new", "following", "closed"]) $("n-" + t).textContent = d.listings.filter((l) => tabOf(l, stage(l)) === t).length;
   const rows = d.listings.filter((l) => matches(l, S.f, stage(l)));
   $("list").replaceChildren(...rows.map(card));
-  if (!rows.length) $("msg").textContent = "Nothing here.";
+  $("msg").textContent = rows.length ? "" : "Nothing here.";
   renderHealth();
 }
 
@@ -56,7 +57,7 @@ function card(l) {
   sel.addEventListener("change", () => setStage(l.id, sel.value));
   row.append(sel);
   if (l.photos && l.photos[0] && isHttps(l.photos[0])) { const a = el("a", null, "Image search"); a.href = "https://lens.google.com/uploadbyurl?url=" + encodeURIComponent(l.photos[0]); a.target = "_blank"; a.rel = "noopener noreferrer"; row.append(a); }
-  if (needsNudge(S.marks[l.id], Date.now())) row.append(el("span", "nudge", "contacted " + ago(new Date(S.marks[l.id].t).toISOString()) + ", no update"));
+  if (Number.isFinite(S.marks[l.id] && S.marks[l.id].t) && needsNudge(S.marks[l.id], Date.now())) row.append(el("span", "nudge", "contacted " + ago(new Date(S.marks[l.id].t).toISOString()) + ", no update"));
   b.append(row); c.append(img, b); return c;
 }
 
@@ -66,15 +67,20 @@ function gallery(l) {
 }
 
 async function setStage(id, s) {
-  const t = Date.now();
+  const t = Date.now(), prev = S.marks[id];
   if (s === "none") delete S.marks[id]; else S.marks[id] = { s, t };
   render();
-  try { await api("/api/marks", { method: "POST", body: JSON.stringify({ id, s, t }) }); } catch (e) { $("msg").textContent = "Could not save: " + e.message; }
+  try { await api("/api/marks", { method: "POST", body: JSON.stringify({ id, s, t }) }); } catch (e) {
+    if (prev) S.marks[id] = prev; else delete S.marks[id];
+    render();
+    $("msg").textContent = "Could not save: " + e.message;
+  }
 }
 
 function renderHealth() {
   const box = $("health"); box.replaceChildren();
   for (const [name, h] of Object.entries(S.data.health || {})) {
+    if (!h) continue;
     const days = Object.keys(S.yield).sort().slice(-7), n = days.reduce((a, d) => a + ((S.yield[d] || {})[name] || 0), 0);
     const bad = h.failures >= 3 || h.status === "error" || h.status === "blocked";
     box.append(el("div", bad ? "bad" : "", `${name}: ${h.status || "?"}${h.error ? " (" + h.error + ")" : ""} · last ok ${ago(h.last_success) || "never"} · ${n} new in 7 days`));
@@ -91,12 +97,17 @@ async function pushRefresh() {
   const btn = $("pushbtn"), msg = $("pushmsg");
   if (!canPush()) { msg.textContent = /iPhone|iPad/.test(navigator.userAgent) ? "On iPhone: Share, Add to Home Screen, open the app from there, then turn alerts on." : "This browser cannot show alerts."; btn.hidden = true; return; }
   if (Notification.permission === "denied") { msg.textContent = "Notifications are blocked for this site in the browser settings."; btn.hidden = true; return; }
-  const reg = await navigator.serviceWorker.getRegistration("/"), cur = reg ? await reg.pushManager.getSubscription() : null;
+  let cur;
+  try {
+    const reg = await navigator.serviceWorker.getRegistration("/");
+    cur = reg ? await reg.pushManager.getSubscription() : null;
+  } catch (e) { msg.textContent = "Could not check alerts on this device."; btn.hidden = true; return; }
   msg.textContent = cur ? "Alerts are on for this device." : "Get a notification when a new flat matches."; btn.textContent = cur ? "Turn off alerts" : "Turn on alerts"; btn.hidden = false;
 }
 async function pushToggle() {
   $("pushbtn").disabled = true;
   try {
+    if (!(await navigator.serviceWorker.getRegistration("/"))) { $("pushmsg").textContent = "Alerts need the app worker: reload the page and try again."; $("pushbtn").disabled = false; return; }
     const reg = await navigator.serviceWorker.ready, cur = await reg.pushManager.getSubscription();
     if (cur) { await api("/api/push/subscribe", { method: "DELETE", body: JSON.stringify({ endpoint: cur.endpoint }) }); await cur.unsubscribe(); }
     else {
