@@ -1,14 +1,14 @@
-name = "<pages-project-name>"
+name = "logement-3168d2"
 pages_build_output_dir = "public"
 compatibility_date = "2026-11-01"
 
 [[kv_namespaces]]
 binding = "DESK"
-id = "<kv-namespace-id>"
+id = "84e3f821648c4a26960d202ad533f55d"
 
 [vars]
-VAPID_PUBLIC = "<vapid-public-key>"
-VAPID_SUBJECT = "https://<pages-project-name>.pages.dev"
+VAPID_PUBLIC = "BNov620tpDMWUFhEBJ5sjdKr72PXiiukfn4W9H_SQZOYvIj4d2lKljC1Wf4peGczYmlptmGC7dE5Sn7ZMtjF_Yg"
+VAPID_SUBJECT = "https://logement-3168d2.pages.dev"
 
 # "Run now": the desk asks the cron Worker, so the GitHub token never lives in Pages
 [[services]]
