@@ -35547,6 +35547,42 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:cgtqwr": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T16:50:18+00:00",
+   "last_seen": "2026-11-21T16:50:18+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 3 pièces de 80 m². Disponible dès 2027-01-02",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-54cacb977c69667b90c5f8cf7ab7a97e/321339/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 690,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "cgtqwr",
+    "surface_m2": 80,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 80 m²",
+    "url": "https://www.lacartedescolocs.fr/sous-locations/fr/auvergne-rhone-alpes/lyon/a/cgtqwr"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:e8gyve": {
    "also": [],
    "dup_of": null,
@@ -36210,6 +36246,42 @@
     ],
     "title": "Appartement 2 pièces de 35 m²",
     "url": "https://www.lacartedescolocs.fr/sous-locations/fr/auvergne-rhone-alpes/lyon/a/uf6339"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:uh3gue": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T16:50:18+00:00",
+   "last_seen": "2026-11-21T16:50:18+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 3 pièces de 75 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-23d8e54975314b6a9745dcebc267dc91/6619243/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 627,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "uh3gue",
+    "surface_m2": 75,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 75 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/uh3gue"
    },
    "notified": false,
    "status": "active"
