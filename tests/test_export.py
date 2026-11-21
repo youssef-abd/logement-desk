@@ -122,3 +122,14 @@ def test_price_tags_only_compare_small_flats(profile):
     rows = {r["id"]: r for r in build_payload(state, {}, NOW)["listings"]}
     assert "too-cheap" not in rows["s:big"]["tags"] and rows["s:big"]["risk"] is None
     assert "too-cheap" in rows["s:deal"]["tags"] and rows["s:deal"]["risk"] == "check"
+
+
+def test_only_the_most_recent_stale_listings_are_exported(profile):
+    state = store.empty()
+    for i in range(130):
+        state["listings"][f"s:{i}"] = {"dup_of": None, "first_seen": NOW, "last_seen": f"2026-11-14T{i // 60:02d}:{i % 60:02d}:00+00:00",
+                                       "status": "stale", "also": [], "notified": True,
+                                       "listing": make_listing(source="s", source_id=str(i), rent_cc=500.0 + i).to_dict()}
+    process(state, [make_listing(source="s", source_id="live")], {"s"}, NOW, profile)
+    ids = {r["id"] for r in build_payload(state, {}, NOW)["listings"]}
+    assert "s:live" in ids and len(ids) == 101 and "s:129" in ids and "s:0" not in ids

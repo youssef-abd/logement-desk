@@ -60,3 +60,10 @@ def test_agency_name_is_kept_for_professionals_only():
 def test_build_filters_only_asks_for_ads_still_on_the_market(profile):
     profile["sources"]["bienici"]["zone_ids"] = ["-1"]
     assert build_filters(profile)["onTheMarket"] == [True]
+
+
+def test_agency_name_falls_back_to_the_account_slug():
+    ad = {**AD, "accountDisplayName": "", "customerId": "regie-moliere-1710952156123"}
+    assert parse({"realEstateAds": [ad]}, max_photos=6)[0].poster_name == "Regie Moliere"
+    assert parse({"realEstateAds": [{**ad, "customerId": "PURE-LOCATION"}]}, max_photos=6)[0].poster_name == "Pure Location"
+    assert parse({"realEstateAds": [{**ad, "customerId": None}]}, max_photos=6)[0].poster_name is None

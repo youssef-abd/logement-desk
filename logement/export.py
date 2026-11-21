@@ -5,6 +5,7 @@ from .scam import risk, signals
 KEEP = ("source", "url", "title", "rent_cc", "surface_m2", "rooms", "kind", "district", "postal_code",
         "furnished", "poster", "poster_name", "published_at", "flags", "tags", "photos")
 MAX_LISTINGS = 1500
+MAX_STALE = 100  # the Closed tab keeps only the most recently seen listings that left the site
 SMALL_M2 = 35  # price tags only apply to flats up to this size
 
 
@@ -35,6 +36,8 @@ def build_payload(state, report, now):
                 continue
         kept.append(r)
     rows = kept
+    gone = {r["id"] for r in sorted((r for r in rows if r["status"] == "stale"), key=lambda r: r["last_seen"], reverse=True)[MAX_STALE:]}
+    rows = [r for r in rows if r["id"] not in gone]
     by_area = {}
     for r in rows:
         if r["status"] == "active" and r["eur_m2"] is not None and r["postal_code"]:

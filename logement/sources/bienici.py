@@ -1,4 +1,5 @@
 import json
+import re
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -25,6 +26,15 @@ def build_filters(profile, size=None, offset=0):
     return f
 
 
+def _agency_name(a):
+    """The display name, else the account slug made readable ("regie-moliere-1710952156123" -> "Regie Moliere")."""
+    name = str(a.get("accountDisplayName") or "").strip()
+    if name:
+        return name[:60]
+    slug = re.sub(r"-\d{6,}$", "", str(a.get("customerId") or "").strip())
+    return slug.replace("-", " ").replace("_", " ").title()[:60] or None
+
+
 def _title(rooms, surface, city):
     parts = []
     if rooms is not None:
@@ -49,7 +59,7 @@ def parse(data, max_photos):
             charges=a.get("charges"), surface_m2=a.get("surfaceArea"), rooms=a.get("roomsQuantity"),
             district=a.get("city"), postal_code=a.get("postalCode"), furnished=a.get("isFurnished"),
             poster=None if pro is None else ("agence" if pro else "particulier"),
-            poster_name=(str(a.get("accountDisplayName") or "").strip()[:60] or None) if pro else None,
+            poster_name=_agency_name(a) if pro else None,
             published_at=None if str(a.get("publicationDate") or "").startswith("1970") else a.get("publicationDate"), description=a.get("description") or "",
             photos=[p["url"] for p in (a.get("photos") or []) if isinstance(p, dict) and p.get("url")][:max_photos],
         ))
