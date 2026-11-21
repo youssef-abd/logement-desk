@@ -22,10 +22,10 @@
    "last_success": "2026-11-21T15:20:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
+   "last_error": null,
    "last_success": "2026-11-21T15:10:20+00:00"
   },
   "pap": {
@@ -36651,7 +36651,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T12:02:04+00:00",
+   "last_seen": "2026-11-21T15:30:17+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé et équipé - proche métro D\n\nLa résidence Carré Saône vous accueille au sein d'appartements propices au travail, sécurisés et fonctionnels, à seulement 8 minutes en métro du centre et de la Place Bellecour. En plein coeur du dynamique et nouveau Quartier de l'Industrie, la résidence bénéficie de tous les services du quotidien (supermarchés, restaurants, bars, banques) et d'une offre culturelle et sportive riche (Multiplexe Pathé, terrains de sport, quais de Saône…).\n\nA LOUER, Studio",
@@ -36690,7 +36690,7 @@
    "also": [],
    "dup_of": "bienici:ag696718-516959267",
    "first_seen": "2026-11-21T11:40:19+00:00",
-   "last_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T15:30:17+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -36777,7 +36777,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T15:30:17+00:00",
    "listing": {
     "charges": null,
     "description": "T1 bis meublé et équipé - proche écoles et transports\n\nSituée au cœur du 9ème arrondissement à Vaise, l'un des quartiers les plus prisés de Lyon, la résidente étudiante Study West bénéficie d'un emplacement exceptionnel à deux pas de nombreux équipements : cinéma Pathé Vaise, commerces, parc de la Tête d'or…  Il est également réputé pour ses nombreuses grandes écoles et universités parmi lesquelles on recense : l'Ecole centrale de Lyon, l'EM Lyon, l'Université René Cassin…\n\nBien desservie par le",
@@ -36816,7 +36816,7 @@
    "also": [],
    "dup_of": "bienici:apimo-87143848",
    "first_seen": "2026-11-21T11:40:19+00:00",
-   "last_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T15:30:17+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -36825,7 +36825,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T12:02:04+00:00",
+   "last_seen": "2026-11-21T15:30:17+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé et équipé - Valmy proche métro\n\nSituée à 150 mètres du métro D, arrêt Valmy, la résidence étudiante Lyon UNIVERS 9 profite d'un quartier vivant et rénové à seulement 10 minutes de la place Bellecour et à proximité du pôle universitaire de Vaise regroupant les écoles d'architecture et de commerce (IDRAC Lyon, Ifag, Sup de Com...).\n\nA LOUER, Studio de 18,6m² entièrement meublé et équipé. Prestations de qualité et nombreux services adaptés à la vie étudiante: accès internet fibre grat",
@@ -36864,7 +36864,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T12:02:04+00:00",
+   "last_seen": "2026-11-21T15:30:17+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé et équipé - proche écoles et transports\n\nSituée au cœur du 9ème arrondissement à Vaise, l'un des quartiers les plus prisés de Lyon, la résidente étudiante Study West bénéficie d'un emplacement exceptionnel à deux pas de nombreux équipements : cinéma Pathé Vaise, commerces, parc de la Tête d'or…  Il est également réputé pour ses nombreuses grandes écoles et universités parmi lesquelles on recense : l'Ecole centrale de Lyon, l'EM, l'Université René Cassin…\n\nBien desservie par les tra",
@@ -36908,7 +36908,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T12:02:04+00:00",
+   "last_seen": "2026-11-21T15:30:17+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé et équipé - Jean Jaurès / Quartier Gerland\n\nSitué au sein de la résidence étudiante CAP AVENIR, à deux pas du métro Jean Jaurès et à quelques minutes à pied de la gare Jean Macé, ce logement bénéficie d'un emplacement idéal : proche du centre-ville, des commerces et des principaux établissements d'enseignement supérieur.\n\n Le logement :\nStudio de 18 m², entièrement meublé et équipé, offrant des prestations de qualité.\nParfait pour une colocation étudiante ou un couple d'étudiants s",
@@ -36945,7 +36945,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-21T12:16:06+00:00",
+   "last_seen": "2026-11-21T15:30:17+00:00",
    "listing": {
     "charges": null,
     "description": "À louer – Studio meublé de 18 m² – Lyon 8ᵉ\n\nSitué au 24 rue Santos Dumont, dans le 8ᵉ arrondissement de Lyon, ce studio meublé de 18 m² se trouve au 7ᵉ étage avec ascenseur de la résidence sécurisée « Le Study ».\n\nLe logement comprend :\n\n- Une pièce de vie lumineuse avec lit, bureau, rangements et espace repas\n- Une kitchenette équipée avec plaques de cuisson, réfrigérateur et micro-ondes\n- Une salle d'eau avec douche et WC\n\nChauffage électrique • Double vitrage • Vue dégagée sur cour arborée • ",
@@ -38225,6 +38225,45 @@
     ],
     "title": "Studio meublé 21,21 m2 - Montessuy - 645 euros toutes charges comprises",
     "url": "https://www.leboncoin.fr/ad/locations/3314467087"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3314510477": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T15:30:17+00:00",
+   "last_seen": "2026-11-21T15:30:17+00:00",
+   "listing": {
+    "charges": 30.0,
+    "description": "LYON 1er, rue Flesselles, proche clinique Saint Charles, en étage, type 1, grande pièce (avec\nplacard), séparée par une cloison pour former 2 pièces (espace cuisine et espace nuit), comptoir,\ncuisine équipée, frigo, four multifonctions, plaque vitrocéramique, hotte aspirante, machine à\nlaver/sèche linge, aspirateur, BZ dans le salon et TV. Double vitrages, très lumineux. Loyer = 488 Euros (458+30) charges comprises meublé et équipé.",
+    "district": "Lyon 69001",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/cd/ce/7a/cdce7adc362eb3825aaa72e6c8ec0c30340d1f79.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/21/bd/85/21bd85bd6264d5c31ddcf02f7376abc1b7f01ce8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/7c/61/af/7c61afc0ea7aee179f1fa502929aa7cf736af36d.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a4/45/be/a445be8d1a310fdf8dd88052f49730189c1d7cd7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/15/23/54/152354ce185222a95f3e976ba2550368033c50a8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/bf/04/1e/bf041e8ca50f173bc044afd5cbd53a19e4e7d70f.jpg?rule=ad-large"
+    ],
+    "postal_code": "69001",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-21 16:18:11",
+    "rent_cc": 488.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3314510477",
+    "surface_m2": 19.0,
+    "tags": [],
+    "title": "LYON 1er Flesselles joli studio meublé et équipé",
+    "url": "https://www.leboncoin.fr/ad/locations/3314510477"
    },
    "notified": false,
    "status": "active"
