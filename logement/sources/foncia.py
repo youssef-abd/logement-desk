@@ -5,6 +5,7 @@ import urllib.error
 import urllib.request
 
 from ..errors import Blocked
+from .. import relay
 from ..listing import Listing
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
@@ -85,7 +86,8 @@ def fetch(profile):
     for url in opts["urls"]:
         for n in range(1, pages + 1):
             try:
-                items = parse_html(_get(page_url(url, n), opts.get("impersonate", False)), profile["max_photos"])
+                html = relay.get(page_url(url, n)) if opts.get("relay") else _get(page_url(url, n), opts.get("impersonate", False))
+                items = parse_html(html, profile["max_photos"])
             except Blocked:
                 if n == 1 and not out:
                     raise

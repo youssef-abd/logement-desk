@@ -1,5 +1,5 @@
 // Everything the desk stores or shows comes from scraped, attacker-controllable text: keep only known fields, known types, short strings.
-const HOSTS = ["bienici.com", "leboncoin.fr", "lacartedescolocs.fr", "paruvendu.fr", "foncia.com"]; // add a source's domain here when you add the source
+const HOSTS = ["bienici.com", "leboncoin.fr", "lacartedescolocs.fr", "paruvendu.fr", "foncia.com", "pap.fr"]; // add a source's domain here when you add the source
 
 export function safeUrl(u) {
   try {
