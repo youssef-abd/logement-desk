@@ -66,5 +66,5 @@ def build_payload(state, report, now):
         r["risk"], r["risk_reasons"] = risk(sig.get(r["id"], []), "too-cheap" in r["tags"])
     health = {name: {"last_success": h.get("last_success"), "failures": h.get("consecutive_failures", 0),
                      "error": h.get("last_error"), "cooldown_until": h.get("cooldown_until"), "run": report.get(name)}
-              for name, h in state.get("health", {}).items()}
+              for name, h in state.get("health", {}).items() if not report or name in report}  # only sources enabled in this run
     return {"updated": now, "listings": rows[:MAX_LISTINGS], "areas": areas, "health": health}

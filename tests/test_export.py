@@ -141,3 +141,10 @@ def test_colocation_rows_are_marked_and_have_no_price_per_m2(profile):
                                  description="Chambre dans un appartement partagé, parties communes partagées")], {"s"}, NOW, profile)
     [row] = build_payload(state, {}, NOW)["listings"]
     assert row["kind"] == "coloc" and row["eur_m2"] is None
+
+
+def test_health_lists_only_sources_enabled_in_this_run(profile):
+    state = store.empty()
+    state["health"]["old"] = {"consecutive_failures": 3, "last_success": None, "last_error": "blocked", "cooldown_until": None}
+    state["health"]["bienici"] = {"consecutive_failures": 0, "last_success": NOW, "last_error": None, "cooldown_until": None}
+    assert list(build_payload(state, {"bienici": {"status": "ok"}}, NOW)["health"]) == ["bienici"]
