@@ -1,7 +1,0 @@
-name = "logement-relay"
-main = "src/index.js"
-compatibility_date = "2026-11-01"
-workers_dev = true   # public address, but every call needs the x-push-token and only allowed hosts are fetched
-
-[placement]
-region = "aws:eu-west-3"   # run near Paris: pap.fr refused requests made from US data centres

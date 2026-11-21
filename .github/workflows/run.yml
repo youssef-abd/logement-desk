@@ -31,7 +31,6 @@ jobs:
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
       DESK_URL: ${{ secrets.DESK_URL }}
       PUSH_TOKEN: ${{ secrets.PUSH_TOKEN }}
-      RELAY_URL: ${{ secrets.RELAY_URL }}
       PYTHONUTF8: "1"
     steps:
       - uses: actions/checkout@v4
