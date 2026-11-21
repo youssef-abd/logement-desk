@@ -10,9 +10,9 @@ export const minutesSince = (iso, nowMs) => (iso ? (nowMs - Date.parse(iso)) / 6
 export const isDue = (nowMs) => new Date(nowMs).getUTCMinutes() < 10;
 const jsonRes = (o, status = 200) => new Response(JSON.stringify(o), { status, headers: { "content-type": "application/json" } });
 
-const dispatch = (env) => fetch(`https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}/dispatches`, {
-  method: "POST", headers: gh(env), body: JSON.stringify({ ref: "main", inputs: { mode: "full" } }) });
-const tryDispatch = async (env) => { try { return (await dispatch(env)).status; } catch (e) { return 0; } };
+const dispatch = (env, deep = false) => fetch(`https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}/dispatches`, {
+  method: "POST", headers: gh(env), body: JSON.stringify({ ref: "main", inputs: { mode: "full", deep: deep ? "true" : "false" } }) });
+const tryDispatch = async (env, deep) => { try { return (await dispatch(env, deep)).status; } catch (e) { return 0; } };
 
 async function alert(env, text) {
   if (!env.NTFY_TOPIC) return;
@@ -30,7 +30,7 @@ export default {
   async scheduled(event, env) {
     if (!env.GITHUB_TOKEN) { await alert(env, "Runs are not started: the GITHUB_TOKEN secret is missing."); return; }
     let status = 0;
-    for (let attempt = 1; attempt <= 2 && status !== 204; attempt++) status = await tryDispatch(env);
+    for (let attempt = 1; attempt <= 2 && status !== 204; attempt++) status = await tryDispatch(env, isDue(event.scheduledTime));
     if (status !== 204 && isDue(event.scheduledTime)) await alert(env, `A run was not started (GitHub answered HTTP ${status}).${[401, 403, 404].includes(status) ? " The GitHub token has probably expired: renew it." : ""}`);
     if (isDue(event.scheduledTime)) {
       let ok = {};

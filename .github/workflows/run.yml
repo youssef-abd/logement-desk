@@ -10,6 +10,10 @@ on:
         type: choice
         options: [full, check]
         default: full
+      deep:
+        description: "deep sweep: all result pages (hourly), otherwise page 1 only"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -41,7 +45,10 @@ jobs:
           git config user.name "logement-desk[bot]"
           git config user.email "logement-desk@users.noreply.github.com"
       - name: Scrape
-        run: python -m logement.run ${{ inputs.mode == 'check' && '--check' || '' }}
+        env:
+          CHECK_FLAG: ${{ inputs.mode == 'check' && '--check' || '' }}
+          DEEP_FLAG: ${{ inputs.deep && '--deep' || '' }}
+        run: python -m logement.run $CHECK_FLAG $DEEP_FLAG
       - name: Save state
         if: always() && inputs.mode != 'check'
         run: bash scripts/save_state.sh
