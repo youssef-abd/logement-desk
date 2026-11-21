@@ -30,9 +30,9 @@
   },
   "pap": {
    "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "consecutive_failures": 2,
    "cooldown_until": null,
-   "last_error": "blocked",
+   "last_error": "HTTPError",
    "last_success": null
   },
   "paruvendu": {
@@ -35786,6 +35786,42 @@
     ],
     "title": "Appartement 3 pièces de 80 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/s7zpw9"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:s9icmn": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T13:00:18+00:00",
+   "last_seen": "2026-11-21T13:00:18+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 6 pièces de 96 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-812e1c2193b2890057b65ba8ed1a0aaa/6618627/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 697,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "s9icmn",
+    "surface_m2": 96,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 6 pièces de 96 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/s9icmn"
    },
    "notified": false,
    "status": "active"
