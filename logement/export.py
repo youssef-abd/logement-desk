@@ -3,7 +3,7 @@ import statistics
 from .scam import risk, signals
 
 KEEP = ("source", "url", "title", "rent_cc", "surface_m2", "rooms", "kind", "district", "postal_code",
-        "furnished", "poster", "published_at", "flags", "tags", "photos")
+        "furnished", "poster", "poster_name", "published_at", "flags", "tags", "photos")
 MAX_LISTINGS = 1500
 SMALL_M2 = 35  # price tags only apply to flats up to this size
 

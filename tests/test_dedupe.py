@@ -109,3 +109,11 @@ def test_reactivating_a_stale_listing_refreshes_last_seen_even_with_a_long_touch
     process(state, [make_listing()], {"bienici"}, PLUS_13H, profile)
     e = state["listings"]["bienici:a1"]
     assert e["status"] == "active" and e["last_seen"] == PLUS_13H
+
+
+def test_agency_name_is_backfilled_on_an_existing_listing(profile):
+    state = store.empty()
+    process(state, [make_listing(poster="agence")], {"bienici"}, NOW, profile)
+    assert state["listings"]["bienici:a1"]["listing"]["poster_name"] is None
+    process(state, [make_listing(poster="agence", poster_name="AGENCE EXAMPLE")], {"bienici"}, NOW, profile)
+    assert state["listings"]["bienici:a1"]["listing"]["poster_name"] == "AGENCE EXAMPLE"

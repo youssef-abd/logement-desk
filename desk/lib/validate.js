@@ -22,7 +22,7 @@ export function cleanListing(l) {
   return {
     id, source: l.source, url, title: str(l.title, 120), rent_cc: num(l.rent_cc), surface_m2: num(l.surface_m2), rooms: num(l.rooms),
     kind: str(l.kind, 12) || null, district: str(l.district, 60) || null, postal_code: str(l.postal_code, 10) || null,
-    furnished: typeof l.furnished === "boolean" ? l.furnished : null, poster: ["particulier", "agence"].includes(l.poster) ? l.poster : null,
+    furnished: typeof l.furnished === "boolean" ? l.furnished : null, poster: ["particulier", "agence"].includes(l.poster) ? l.poster : null, poster_name: str(l.poster_name, 60) || null,
     published_at: str(l.published_at, 40) || null, first_seen: str(l.first_seen, 40), last_seen: str(l.last_seen, 40),
     risk: ["check", "high"].includes(l.risk) ? l.risk : null, risk_reasons: arr(l.risk_reasons, 60, 5),
     status: l.status === "stale" ? "stale" : "active", flags: arr(l.flags), tags: arr(l.tags),

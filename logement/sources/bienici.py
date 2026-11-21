@@ -48,6 +48,7 @@ def parse(data, max_photos):
             charges=a.get("charges"), surface_m2=a.get("surfaceArea"), rooms=a.get("roomsQuantity"),
             district=a.get("city"), postal_code=a.get("postalCode"), furnished=a.get("isFurnished"),
             poster=None if pro is None else ("agence" if pro else "particulier"),
+            poster_name=(str(a.get("accountDisplayName") or "").strip()[:60] or None) if pro else None,
             published_at=None if str(a.get("publicationDate") or "").startswith("1970") else a.get("publicationDate"), description=a.get("description") or "",
             photos=[p["url"] for p in (a.get("photos") or []) if isinstance(p, dict) and p.get("url")][:max_photos],
         ))

@@ -48,3 +48,10 @@ def test_parse_survives_odd_photo_and_list_values():
     assert l.photos == []
     [l] = parse({"realEstateAds": [{**AD, "photos": ["x", {"url": "https://file.example.test/p1"}]}]}, max_photos=6)
     assert l.photos == ["https://file.example.test/p1"]
+
+
+def test_agency_name_is_kept_for_professionals_only():
+    [pro] = parse({"realEstateAds": [{**AD, "accountDisplayName": "AGENCE EXAMPLE"}]}, max_photos=6)
+    assert pro.poster == "agence" and pro.poster_name == "AGENCE EXAMPLE"
+    [priv] = parse({"realEstateAds": [{**AD, "adCreatedByPro": False, "accountDisplayName": "Some Person"}]}, max_photos=6)
+    assert priv.poster == "particulier" and priv.poster_name is None

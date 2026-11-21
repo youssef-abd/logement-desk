@@ -79,3 +79,9 @@ test("risk fields are whitelisted", () => {
   assert.equal(l.risk_reasons[1].length, 60);
   assert.equal(cleanListing({ ...good, risk: "<b>" }).risk, null);
 });
+
+test("poster_name is kept as a short string", () => {
+  assert.equal(cleanListing({ ...good, poster_name: "AGENCE EXAMPLE" }).poster_name, "AGENCE EXAMPLE");
+  assert.equal(cleanListing({ ...good, poster_name: "x".repeat(200) }).poster_name.length, 60);
+  assert.equal(cleanListing({ ...good, poster_name: 5 }).poster_name, null);
+});

@@ -141,13 +141,16 @@ function pill(cls, text) { return el("span", "pill " + cls, text); }
 
 function row(l) {
   const r = el("div", "row" + (l.status === "stale" ? " stale" : ""));
-  const img = el("img", "thumb"); img.alt = ""; img.loading = "lazy"; img.referrerPolicy = "no-referrer";
-  if (isHttps(l.photos && l.photos[0])) { img.src = l.photos[0]; img.addEventListener("error", () => img.removeAttribute("src")); img.addEventListener("click", () => gallery(l)); }
+  const media = el("div", "media"), photos = (l.photos || []).filter(isHttps);
+  const photo = (src, cls, i) => { const im = el("img", cls); im.alt = ""; im.loading = "lazy"; im.referrerPolicy = "no-referrer"; im.src = src; im.addEventListener("error", () => im.removeAttribute("src")); im.addEventListener("click", () => gallery(l, i)); return im; };
+  media.append(photos[0] ? photo(photos[0], "thumb", 0) : el("div", "thumb"));
+  if (photos.length > 1) { const minis = el("div", "minis"); photos.slice(1, 3).forEach((p, i) => minis.append(photo(p, "mini", i + 1))); media.append(minis); }
   const main = el("div", "main"), l1 = el("div", "l1");
   if (isNew(l, S.since)) { const d = el("span", "dot"); d.title = "New since your last visit"; l1.append(d); }
   l1.append(el("span", null, [place(l), l.rooms != null ? l.rooms + " room" + (l.rooms === 1 ? "" : "s") : ""].filter(Boolean).join(" · ")));
-  const l2 = [l.source, l.poster === "particulier" ? "private owner" : l.poster, "posted " + ago(l.posted), l.similar ? `+${l.similar} similar units` : "", l.status === "stale" ? "not in latest results" : ""].filter(Boolean).join(" · ");
+  const l2 = [l.source, "posted " + ago(l.posted), l.similar ? `+${l.similar} similar units` : "", l.status === "stale" ? "not in latest results" : ""].filter(Boolean).join(" · ");
   const chips = el("div", "chips"), tags = l.tags || [];
+  if (l.poster === "particulier") chips.append(pill("pos", "Private owner")); else if (l.poster === "agence") chips.append(pill("", l.poster_name || "Agency"));
   if (tags.includes("near-miss")) chips.append(pill("", "over budget"));
   if (tags.includes("cheap-for-area")) chips.append(pill("pos", "cheap for the area"));
   if (l.risk === "high") chips.append(pill("neg", "high risk")); else if (l.risk === "check") chips.append(pill("warn", "check carefully"));
@@ -163,10 +166,9 @@ function row(l) {
   acts.append(sel, copy);
   const links = el("div", "links");
   if (isHttps(l.url)) { const a = el("a", null, "Open"); a.href = l.url; a.target = "_blank"; a.rel = "noopener noreferrer"; links.append(a); }
-  if (isHttps(l.photos && l.photos[0])) { const a = el("a", null, "Image search"); a.href = "https://lens.google.com/uploadbyurl?url=" + encodeURIComponent(l.photos[0]); a.target = "_blank"; a.rel = "noopener noreferrer"; links.append(a); }
   const mk = S.marks[l.id]; if (Number.isFinite(mk && mk.t) && needsNudge(mk, Date.now())) links.append(el("span", "nudge", "contacted " + ago(new Date(mk.t).toISOString()) + ", no update"));
   acts.append(links);
-  r.append(img, main, cs, cp, cr, acts); return r;
+  r.append(media, main, cs, cp, cr, acts); return r;
 }
 
 function copyMessage(l, btn) {
@@ -186,7 +188,7 @@ async function setStage(id, s) {
 /* photo carousel */
 const G = { photos: [], i: 0 };
 function showPhoto() { $("galimg").src = G.photos[G.i]; $("galn").textContent = `${G.i + 1} / ${G.photos.length}`; }
-function gallery(l) { G.photos = (l.photos || []).filter(isHttps); G.i = 0; if (!G.photos.length) return; showPhoto(); $("gal").showModal(); }
+function gallery(l, i = 0) { G.photos = (l.photos || []).filter(isHttps); G.i = i; if (!G.photos.length) return; showPhoto(); $("gal").showModal(); }
 const step = (d) => { if (G.photos.length) { G.i = (G.i + d + G.photos.length) % G.photos.length; showPhoto(); } };
 
 function health() {

@@ -45,7 +45,9 @@ def _card(raw):
     else:
         furnished = True if re.search(r"meubl", text, re.I) else None
     photos = list(dict.fromkeys(PHOTO.findall(c)))
-    return did.group(1), link.group(1), title, price, rooms, surface, poster, date, text, furnished, photos
+    pm = re.search(r'alt="pro : ([^"]+)"', c, re.I)
+    pname = pm.group(1).strip()[:60] if pm and poster == "agence" else None
+    return did.group(1), link.group(1), title, price, rooms, surface, poster, date, text, furnished, photos, pname
 
 
 def parse_html(html, max_photos):
@@ -56,7 +58,7 @@ def parse_html(html, max_photos):
         parsed = _card(raw)
         if parsed is None:
             continue
-        did, href, title, price, rooms, surface, poster, date, text, furnished, photos = parsed
+        did, href, title, price, rooms, surface, poster, date, text, furnished, photos, pname = parsed
         area = AREA.search(text)
         n = area.group(1) if area else None
         district = (f"Lyon {n}er" if n == "1" else f"Lyon {n}e") if n else None
@@ -71,7 +73,7 @@ def parse_html(html, max_photos):
             rent_cc=rent, surface_m2=float(surface.group(1).replace(",", ".")) if surface else None,
             rooms=int(rooms.group(1)) if rooms else None, furnished=furnished,
             district=district, postal_code=f"6900{n}" if n else None,
-            poster=poster,
+            poster=poster, poster_name=pname,
             published_at=f"{date.group(3)}-{date.group(2)}-{date.group(1)}" if date else None,
             description=text, photos=photos[:max_photos],
         )

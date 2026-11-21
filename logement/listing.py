@@ -17,6 +17,7 @@ class Listing:
     postal_code: Optional[str] = None
     furnished: Optional[bool] = None
     poster: Optional[str] = None
+    poster_name: Optional[str] = None  # the agency's name (never a private person's)
     published_at: Optional[str] = None
     description: str = ""
     photos: list = field(default_factory=list)

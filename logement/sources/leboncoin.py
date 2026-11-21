@@ -36,6 +36,7 @@ def parse_ad(ad, max_photos):
         postal_code=loc.zipcode if loc else None,
         furnished={"1": True, "2": False}.get(_attr(ad, "furnished")),
         poster={"private": "particulier", "pro": "agence"}.get(owner),
+        poster_name=(str((ad.raw.get("owner") or {}).get("name") or "").strip()[:60] or None) if owner == "pro" else None,
         published_at=str(ad.first_publication_date) if ad.first_publication_date else None,
         description=ad.body or "", photos=list(ad.images or [])[:max_photos],
     )
