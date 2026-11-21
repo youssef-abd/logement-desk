@@ -12,3 +12,7 @@ test("applyMark sets, replaces by newest, removes and validates", () => {
   assert.equal(applyMark(m, { id: "a", s: "hacked", t: 1 }), null);
   assert.equal(applyMark(m, { id: "a", s: "visit", t: "1" }), null);
 });
+
+test("applyMark accepts the saved stage", () => {
+  assert.deepEqual(applyMark({}, { id: "a", s: "saved", t: 1 }), { a: { s: "saved", t: 1 } });
+});
