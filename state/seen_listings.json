@@ -22,8 +22,8 @@
    "last_success": "2026-11-21T12:16:06+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-21T12:02:04+00:00"
@@ -35582,6 +35582,41 @@
     ],
     "title": "Appartement 4 pièces de 110 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/wamrgy"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:xp6ms2": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T12:40:18+00:00",
+   "last_seen": "2026-11-21T12:40:18+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 6 pièces de 138 m². Disponible dès 2026-12-11",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-5e95b0be068f870b638a8623741cafa9/4500945/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 564,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "xp6ms2",
+    "surface_m2": 138,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 6 pièces de 138 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/xp6ms2"
    },
    "notified": false,
    "status": "active"
