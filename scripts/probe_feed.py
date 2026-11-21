@@ -16,7 +16,20 @@ with sync_playwright() as p:
                 body = r.text()
             except Exception:
                 body = ""
-            seen.append((r.request.method, r.url, r.status, len(body), body[:100000]))
+            seen.append((r.request.method, r.url, r.status, len(body), body[:2000000]))
+            if r.url.endswith('/property'):
+                print('PROPERTY request headers:', {k: v for k, v in r.request.headers.items() if k.lower() in ('content-type', 'origin', 'accept')})
+                print('PROPERTY request body:', (r.request.post_data or '')[:1500])
+                try:
+                    d = json.loads(body)
+                    print('PROPERTY top:', (list(d.keys()) if isinstance(d, dict) else type(d).__name__))
+                    items = d if isinstance(d, list) else next((v for v in d.values() if isinstance(v, list)), [])
+                    print('PROPERTY items:', len(items))
+                    if items:
+                        print('PROPERTY item keys:', list(items[0].keys())[:60])
+                        print('PROPERTY item sample:', json.dumps(items[0], ensure_ascii=False)[:1800])
+                except Exception as e:
+                    print('PROPERTY parse error', e)
 
     page.on("response", on_resp)
     page.goto(URL, wait_until="networkidle", timeout=60000)
