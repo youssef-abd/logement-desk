@@ -8,11 +8,11 @@
    "last_success": "2026-11-21T02:00:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 4,
-   "cooldown_until": "2026-11-21T02:20:27+00:00",
-   "last_error": "blocked",
-   "last_success": "2026-11-20T22:52:17+00:00"
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
+   "cooldown_until": null,
+   "last_error": null,
+   "last_success": "2026-11-21T02:40:27+00:00"
   }
  },
  "listings": {
@@ -968,7 +968,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 80.0,
     "description": "COLOCATION / MONTCHAT - RUE TRARIEUX 69003 LYON\n\nEmplacement idéal pour cette colocation dans le 3ème arrondissement de Lyon, au cœur du quartier de Montchat, à proximité des commerces et à quelques minutes à pied du métro Grange-Blanche (ligne D).\n\nLa colocation est au 7ème étage et dispose d'un balcon.\n\nLa chambre avec salle d'eau est de 13,55 m² sur une surface totale de 80,24m²\n\nLoyer mensuel hors charges : 540,00 euros\nCharges forfaitaires : 80,00 euros (TOM et internet inclus)\nDépôt de gar",
@@ -1009,7 +1009,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 20.0,
     "description": "LYON 8 DELORE LOT B1.1\n\nLYON 8ème rue Pierre Delore, A LOUER  Studio entièrement meublé  Idéalement situé, a proximité des transports, écoles, commerces...\ncet appartement au 1er étage d une superficie de 15.38 m² est composé d une pièce de vie, avec coin cuisine meublé et équipée (four, hotte, plaque de cuisson et réfrigérateur), ainsi qu une salle d eau.\nLe chauffage est individuel électrique.\neau chaude par cumulus\neau froide individuelle\nLes charges comprennent l entretien des parties commun",
@@ -1046,7 +1046,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 150.0,
     "description": "CHAMBRE  A LOUER coliving\n\ncoliving – Chambre à louer dans maison rénovée – Lyon 3e (Rue Girié)\nÀ louer, une chambre de 11,5 m² dans une magnifique maison bourgeoise entièrement rénovée, située dans une rue résidentielle calme du 3e arrondissement de Lyon, rue Girié, à seulement quelques pas du tramway T3.\nLa maison offre des prestations de qualité et se compose de :\nUne cuisine ouverte, entièrement équipée et meublée\nUn salon convivial avec canapé et télévision\nUn WC avec salle d'eau au rez-de-",
@@ -1087,7 +1087,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé et équipé - proche métro D\n\nLa résidence Carré Saône vous accueille au sein d'appartements propices au travail, sécurisés et fonctionnels, à seulement 8 minutes en métro du centre et de la Place Bellecour. En plein coeur du dynamique et nouveau Quartier de l'Industrie, la résidence bénéficie de tous les services du quotidien (supermarchés, restaurants, bars, banques) et d'une offre culturelle et sportive riche (Multiplexe Pathé, terrains de sport, quais de Saône…).\n\nA LOUER, Studio",
@@ -1125,7 +1125,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 30.0,
     "description": "Studio meublé LYON 9ème - à 10min de Gare de Vaise\n\nEXCLUSIVITE ORPI !\n\nMerci de remplir la rubrique 'Contacter l'agence'. Vous recevrez instantanément un email vous invitant à choisir un créneau pour visiter le bien.\n\nA Louer ! Studio de 16m² loué entièrement meublé, situé rue René Sabran, Lyon 9ème, à 2 pas de l'île Barbe, au calme. Rénovation récente, avec cuisine équipée et aménagée (frigo, hotte, plaques de cuisson, placards), salle d'eau avec WC.\n\nNombreux rangements. Proximité transports ",
@@ -1241,7 +1241,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé et équipé - Valmy proche métro\n\nSituée à 150 mètres du métro D, arrêt Valmy, la résidence étudiante Lyon UNIVERS 9 profite d'un quartier vivant et rénové à seulement 10 minutes de la place Bellecour et à proximité du pôle universitaire de Vaise regroupant les écoles d'architecture et de commerce (IDRAC Lyon, Ifag, Sup de Com...).\n\nA LOUER, Studio de 18,6m² entièrement meublé et équipé. Prestations de qualité et nombreux services adaptés à la vie étudiante: accès internet fibre grat",
@@ -1277,7 +1277,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé et équipé - proche écoles et transports\n\nSituée au cœur du 9ème arrondissement à Vaise, l'un des quartiers les plus prisés de Lyon, la résidente étudiante Study West bénéficie d'un emplacement exceptionnel à deux pas de nombreux équipements : cinéma Pathé Vaise, commerces, parc de la Tête d'or…  Il est également réputé pour ses nombreuses grandes écoles et universités parmi lesquelles on recense : l'Ecole centrale de Lyon, l'EM, l'Université René Cassin…\n\nBien desservie par les tra",
@@ -1313,7 +1313,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé et équipé - Jean Jaurès / Quartier Gerland\n\nSitué au sein de la résidence étudiante CAP AVENIR, à deux pas du métro Jean Jaurès et à quelques minutes à pied de la gare Jean Macé, ce logement bénéficie d'un emplacement idéal : proche du centre-ville, des commerces et des principaux établissements d'enseignement supérieur.\n\n Le logement :\nStudio de 18 m², entièrement meublé et équipé, offrant des prestations de qualité.\nParfait pour une colocation étudiante ou un couple d'étudiants s",
@@ -1349,7 +1349,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 33.0,
     "description": "Studio meublé rénové étage élevé\n\nIDÉAL ÉTUDIANT, venez découvrir ce studio meublé de 13 m² entièrement rénové au 6ème étage (ascenseur jusqu'au 5ème) comprenant une pièce de vie avec kitchenette, une salle d'eau avec WC dans une copropriété de standing. Zone soumise à encadrement des loyers. Loyer de référence 242 euros, Loyer de référence majoré 291 euros.Dépôt de garantie 920 euros. Disponible immédiatement.\n\nHonoraires locataire : 195 €\nDont :\n - Visite, constitution du dossier, rédaction de",
@@ -1463,7 +1463,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": null,
     "description": "À louer – Studio meublé de 20 m² – Lyon 7ᵉ\n\nRue André Bollier, dans le 7ᵉ arrondissement de Lyon, ce studio meublé de 20 m² se situe au 2ᵉ étage  avec ascenseur.\n\nLe logement comprend :\n- Une pièce de vie avec canapé convertible et espace bureau\n- Une kitchenette équipée avec micro-ondes et réfrigérateur\n- Une salle d'eau avec douche et WC\n\nChauffage électrique • Lumineux • Double vitrage\n\nLoyer mensuel : 565 € + 45 € de charges\nDépôt de garantie : 1 130 €\n\nDPE : D (219 kWh/m².an)\nGES : C (11 kg",
@@ -1499,7 +1499,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 10.0,
     "description": "AU 27 RUE RACHAIS 69003 , venez découvrir ce studio meublé et équipé, au dernier étage sans ascenseur, celui ci se compose d'un coin cuisine aménagé et équipé,une pièce de vie avec vélux et sa partie nuit, une salle d'eau avec wc et une machine à laver.Chauffage : Individuel electriqueEau froide : IndividuelleProduction d'eau chaude : Individuelle electriqueAppartement non éligible aux aides au logement car bail residence secondaire.\n La location pourra être déléguée à Foncia Développement et Lo",
@@ -1533,7 +1533,7 @@
    "also": [],
    "dup_of": "bienici:ag421262-560803733",
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -1919,7 +1919,7 @@
    "also": [],
    "dup_of": "bienici:hektor-396932-122",
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -1928,7 +1928,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 45.0,
     "description": "Appartement de 25m2 meublé et équipe au Rdc \nD’une résidence sécurisée,\nEntrée avec grand placard \nKitchenette entièrement équipé évier inox, plaque de cuisson électrique, four micro-ondes, frigo \nPièce de vie : table de repas avec chausses \nLit 140x190 \nGarand obligatoire \nDisponible à partir du 17/12/2026",
@@ -1963,7 +1963,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 140.0,
     "description": "Au dernier étage, très lumineux et orienté plein sud, un studio de 16 m2 meublé et complètement rénové à neuf avec bail individuel ouvrant droit aux APL. \n\nAu 167, boulevard des Etats-Unis à Lyon 8ème. Tram et bus au pied de l'immeuble dans une résidence bien entretenue avec deux ascenseurs, un gardien, des espaces verts et des parkings fermés et 3 cabinets médicaux au RDC.\n\nGrace au Tram T4, l'université Lyon 3 Jean Moulin est à 7 minutes, et le Campus de la Doua est à 15 minutes. Correspondanc",
@@ -1998,7 +1998,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 25.0,
     "description": "Studio meublé de 17m², avec mezzanine ; à proximité des Facultés (Manufacture des tabacs ; IAE ; facs de médecine, Université catholique, Gerland …)\nSitué à 100 m du métro Garibaldi et proximité immédiate des commerces (Monoprix)\nTrès calme : 2ème étage sur cour arborée. \nStudio très lumineux et rénovation récente.\nEntrée avec étagères de rangement\nCoin cuisine équipé (frigo, plaques, micro-ondes, placards)\nCoin bureau + placards\nCoin salon avec canapé convertible 2 places (140*190 cm) , table b",
@@ -2035,7 +2035,7 @@
    "also": [],
    "dup_of": "bienici:realty-dr2ett5p7bgctmwxlfiawaf2fu",
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -2044,7 +2044,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 68.0,
     "description": "Studio 1 pièce 18 m²\n\nAvenue Berthelot, dans un immeuble ancien, très beau studio meublé de 18.18m2 entièrement rénové comprenant une belle pièce de vie avec cuisine ouverte équipée, une salle de douche avec des toilettes. Eau chaude, eau froide, chauffage et électricité inclus dans les charges.\n Honoraires 183.25EUR + 54.90EUR Frais d'état des lieux / Loyer de référence médian : 321EURHC / Loyer majoré : 385EURHC / Complément de loyer : 176EUR\n La prise de rendez-vous s'effectue en ligne, merci",
@@ -2084,7 +2084,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 50.0,
     "description": "Appartement 1 pièce 12 m²\n\n500€ CC / Mois - A SAISIR ! SECTEUR JET D'EAU chambre meublée en colocation, toutes charges comprises (chauffage, eau et EDF), cuisine et sanitaires à partager, placards, balcon, digicode, double vitrage. Proche toutes commodités. Zone soumise à encadrement des loyers. Loyer de base : 450€. Loyer de référence majoré : 217,50€. Majoration de loyer : 232,50€ - Pour plus de renseignement, n'hésitez pas à nous contacter au [Coordonnées masquées] - TOUTES NOS OFFRES DE LOCA",
@@ -2122,7 +2122,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 50.0,
     "description": "Studio meublé 20 m² – Lyon 8 – Résidence étudiante sécurisée\n\nÀ louer, studio meublé de 20 m², situé au 5ᵉ étage d'une résidence réservée aux étudiants, au 71 rue Marius Berliet, Lyon 8ᵉ.\n\nIdéalement situé à proximité des facultés, de la Manufacture des Tabacs (Université Lyon 3), des transports en commun et des commerces, ce studio offre un cadre de vie pratique et agréable pour les études.\n\n 🏠 Le studio\n\n- Surface de 20 m²\n- Situé au 5ᵉ étage\n- Pièce de vie lumineuse avec coin nuit\n- Coin bure",
@@ -2160,7 +2160,7 @@
    "also": [],
    "dup_of": "bienici:ag752861-556885916",
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -2169,7 +2169,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": {
     "charges": 40.0,
     "description": "Appartement À Louer\n\nExclusivité ORPI - Lyon 3ème - 14 rue Omer Louis -\n\nDans une petite copropriété (6 appartements), calme et sécurisée, beau studio entièrement rénové et meublé de 18,67 m² situé au 1er étage.\nL'appartement se compose d'une pièce de vie avec une cuisine meublée (meubles, plaques, four, hotte, micro-ondes) et d'une salle d'eau avec un WC séparé.\n\nUne machine à laver est située au rez-de-chaussée, destinée aux habitants de manière gratuite.\n\nSituation idéale à proximité des comm",
@@ -2208,7 +2208,7 @@
    "also": [],
    "dup_of": "leboncoin:3308533689",
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-20T22:52:17+00:00",
+   "last_seen": "2026-11-21T02:40:27+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
