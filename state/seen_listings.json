@@ -22,11 +22,11 @@
    "last_success": "2026-11-21T12:16:06+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
-   "last_success": "2026-11-21T12:02:04+00:00"
+   "last_error": null,
+   "last_success": "2026-11-21T15:10:20+00:00"
   },
   "pap": {
    "blocked_runs": 1,
@@ -36399,6 +36399,44 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3285154043": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T15:10:20+00:00",
+   "last_seen": "2026-11-21T15:10:20+00:00",
+   "listing": {
+    "charges": 45.0,
+    "description": "Studio 1 pièce 22 m²\n\nAvenue Roger Salengro, dans un immeuble ancien, beau studio entièrement rénové et meublé de 22.48m2 au 3ème étage comprenant une pièce de vie avec cuisine ouverte équipée, une salle d'eau et un wc. Parfait état. L'appartement dispose d'une cave.\n Honoraires : 226.59EUR + 67.88EUR frais état des lieux / Zone soumise à encadrement des loyers/ loyer de référence médian 427EURHC / loyer majoré : 512EURHC. Complement de loyer : 61EURHC.\n La prise de rendez-vous s'effectue en lig",
+    "district": "Villeurbanne 69100",
+    "flags": [
+     "agency_fees",
+     "garant"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a0/9d/39/a09d399d21c27052c4315c7248c3cd04ee7ddbca.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/18/13/85/181385978585f02871e7aed7f369a9dea12a2906.jpg?rule=ad-large"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "IBT",
+    "published_at": "2026-10-09 16:11:51",
+    "rent_cc": 618.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3285154043",
+    "surface_m2": 22.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio 1 pièce 22 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3285154043"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3287791330": {
    "also": [],
    "dup_of": null,
@@ -36944,7 +36982,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T12:02:04+00:00",
+   "last_seen": "2026-11-21T15:10:20+00:00",
    "listing": {
     "charges": 33.0,
     "description": "Studio meublé rénové étage élevé\n\nIDÉAL ÉTUDIANT, venez découvrir ce studio meublé de 13 m² entièrement rénové au 6ème étage (ascenseur jusqu'au 5ème) comprenant une pièce de vie avec kitchenette, une salle d'eau avec WC dans une copropriété de standing. Zone soumise à encadrement des loyers. Loyer de référence 242 euros, Loyer de référence majoré 291 euros.Dépôt de garantie 920 euros. Disponible immédiatement.\n\nHonoraires locataire : 195 €\nDont :\n - Visite, constitution du dossier, rédaction de",
@@ -37024,7 +37062,7 @@
    "also": [],
    "dup_of": "bienici:ag692498-539601197",
    "first_seen": "2026-11-21T11:40:19+00:00",
-   "last_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T15:10:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -37072,7 +37110,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T12:02:04+00:00",
+   "last_seen": "2026-11-21T15:10:20+00:00",
    "listing": {
     "charges": null,
     "description": "À louer – Studio meublé de 20 m² – Lyon 7ᵉ\n\nRue André Bollier, dans le 7ᵉ arrondissement de Lyon, ce studio meublé de 20 m² se situe au 2ᵉ étage  avec ascenseur.\n\nLe logement comprend :\n- Une pièce de vie avec canapé convertible et espace bureau\n- Une kitchenette équipée avec micro-ondes et réfrigérateur\n- Une salle d'eau avec douche et WC\n\nChauffage électrique • Lumineux • Double vitrage\n\nLoyer mensuel : 565 € + 45 € de charges\nDépôt de garantie : 1 130 €\n\nDPE : D (219 kWh/m².an)\nGES : C (11 kg",
@@ -37185,7 +37223,7 @@
    "also": [],
    "dup_of": "bienici:ag421262-560803733",
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-21T12:02:04+00:00",
+   "last_seen": "2026-11-21T15:10:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -37883,7 +37921,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-21T12:02:04+00:00",
+   "last_seen": "2026-11-21T15:10:20+00:00",
    "listing": {
     "charges": 40.0,
     "description": "Appartement À Louer\n\nExclusivité ORPI - Lyon 3ème - 14 rue Omer Louis -\n\nDans une petite copropriété (6 appartements), calme et sécurisée, beau studio entièrement rénové et meublé de 18,67 m² situé au 1er étage.\nL'appartement se compose d'une pièce de vie avec une cuisine meublée (meubles, plaques, four, hotte, micro-ondes) et d'une salle d'eau avec un WC séparé.\n\nUne machine à laver est située au rez-de-chaussée, destinée aux habitants de manière gratuite.\n\nSituation idéale à proximité des comm",
@@ -37923,7 +37961,7 @@
    "also": [],
    "dup_of": "leboncoin:3308533689",
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-21T12:02:04+00:00",
+   "last_seen": "2026-11-21T15:10:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
