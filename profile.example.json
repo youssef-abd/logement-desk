@@ -14,6 +14,7 @@
     "bienici": {"enabled": true, "zone_ids": ["<bienici-zone-id>"], "size": 24},
     "leboncoin": {"enabled": true, "city": "<city>", "lat": 0.0, "lng": 0.0, "radius_m": 6000, "limit": 35, "max_square": 60},
     "lacartedescolocs": {"enabled": false, "url": "<list-page-url>"},
+    "foncia": {"enabled": false, "urls": ["<list-page-url>"], "deep_pages": 6},
     "paruvendu": {"enabled": false, "urls": ["<list-page-url>"], "deep_pages": 8}
   },
   "flags": {
