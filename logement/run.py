@@ -50,7 +50,8 @@ def _record_success(h, now, profile):
         h["last_success"] = now
 
 
-def run(profile, state, now, fetchers=None, sleep=time.sleep):
+def run(profile, state, now, fetchers=None, sleep=time.sleep, deep=False):
+    fetch_profile = {**profile, "deep": True} if deep else profile
     fetchers = fetchers or {}
     state.setdefault("listings", {})
     health = state.setdefault("health", {})
@@ -65,7 +66,7 @@ def run(profile, state, now, fetchers=None, sleep=time.sleep):
             continue
         fetch = fetchers.get(name) or load_fetch(name)
         try:
-            items = _fetch_with_retry(fetch, profile, sleep)
+            items = _fetch_with_retry(fetch, fetch_profile, sleep)
             check_drift(items, profile["health"]["drift_ratio"])
             if not items:
                 raise EmptyResult("no listings")
@@ -115,6 +116,7 @@ def main(argv=None):
     ap.add_argument("--check", action="store_true", help="dry run: write nothing")
     ap.add_argument("--strict", action="store_true", help="exit 1 if any enabled source did not answer ok")
     ap.add_argument("--show", action="store_true", help="print the new listings (local use only: Actions logs are public)")
+    ap.add_argument("--deep", action="store_true", help="deep sweep: all result pages")
     ap.add_argument("--profile")
     ap.add_argument("--state", default="state/seen_listings.json")
     a = ap.parse_args(argv)
@@ -123,7 +125,7 @@ def main(argv=None):
     state = store.load(a.state)
     working = copy.deepcopy(state) if a.check else state
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    res = run(profile, working, now)
+    res = run(profile, working, now, deep=a.deep)
 
     for name, r in res["report"].items():  # counts only: the Actions log of a public repo is public
         extra = f" fetched={r['fetched']} kept={r['kept']}" if r["status"] == "ok" else ""

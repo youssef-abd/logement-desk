@@ -1,5 +1,10 @@
+import time
+
 from ..errors import Blocked
 from ..listing import Listing
+from ..paging import collect
+
+SLEEP = time.sleep
 
 
 def _attr(ad, key):
@@ -46,17 +51,23 @@ def fetch(profile):
     extra = {"real_estate_type": ["2"]}  # apartments only: parkings and caves share the category
     if profile["furnished"] == "required":
         extra["furnished"] = ["1"]
-    try:
-        res = client.search(
-            locations=[loc], page=1, limit=opts.get("limit", 35), sort=lbc.Sort.NEWEST,
-            category=lbc.Category.IMMOBILIER_LOCATIONS,
-            price=[0, int(profile["max_rent_cc"] + profile["near_miss_margin"])],
-            square=[int(profile["min_surface_m2"]), int(opts.get("max_square", 60))], **extra,
-        )
-    except DatadomeError as e:
-        raise Blocked("datadome") from e
-    except RequestError as e:
-        if any(code in str(e) for code in ("403", "429")):
-            raise Blocked(str(e)[:60]) from e
-        raise
-    return [parse_ad(ad, profile["max_photos"]) for ad in res.ads]
+    limit = opts.get("limit", 35)
+
+    def get_page(n):
+        try:
+            res = client.search(
+                locations=[loc], page=n + 1, limit=limit, sort=lbc.Sort.NEWEST,
+                category=lbc.Category.IMMOBILIER_LOCATIONS,
+                price=[0, int(profile["max_rent_cc"] + profile["near_miss_margin"])],
+                square=[int(profile["min_surface_m2"]), int(opts.get("max_square", 60))], **extra,
+            )
+        except DatadomeError as e:
+            raise Blocked("datadome") from e
+        except RequestError as e:
+            if any(code in str(e) for code in ("403", "429")):
+                raise Blocked(str(e)[:60]) from e
+            raise
+        return [parse_ad(ad, profile["max_photos"]) for ad in res.ads]
+
+    pages = opts.get("deep_pages", 9) if profile.get("deep", False) else 1
+    return collect(get_page, pages, limit, lambda l: l.source_id, sleep=lambda s: SLEEP(s), pause=1.5)

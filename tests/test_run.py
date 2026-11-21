@@ -139,3 +139,14 @@ def test_an_empty_result_is_an_error_and_never_makes_listings_stale(profile):
     assert res["report"]["bienici"] == {"status": "error", "error": "EmptyResult"}
     assert state["listings"]["bienici:a1"]["status"] == "active"
     assert state["health"]["bienici"]["consecutive_failures"] == 1
+
+
+def test_deep_flag_is_passed_to_fetchers_only_when_set(profile):
+    profile_with(profile, "bienici")
+    seen = []
+    def fetcher(p):
+        seen.append(p.get("deep", False))
+        return [make_listing(source="bienici", source_id="1")]
+    run(profile, {}, NOW, fetchers={"bienici": fetcher}, deep=True)
+    run(profile, {}, NOW, fetchers={"bienici": fetcher})
+    assert seen == [True, False]
