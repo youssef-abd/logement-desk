@@ -23,9 +23,9 @@
   },
   "leboncoin": {
    "blocked_runs": 0,
-   "consecutive_failures": 4,
-   "cooldown_until": "2026-11-21T21:00:19+00:00",
-   "last_error": "blocked",
+   "consecutive_failures": 0,
+   "cooldown_until": null,
+   "last_error": null,
    "last_success": "2026-11-21T18:20:19+00:00"
   },
   "pap": {
@@ -7658,7 +7658,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": 60,
     "description": "LA VANOISE – Référence de l'annonce : 25147\nIdéalement située dans le 8ᵉ arrondissement de Lyon, à proximité immédiate de l'arrêt de tramway « Beauvisage CISL », la résidence LA VANOISE bénéficie d'un emplacement pratique, offrant un accès facile aux transports en commun, aux commerces et aux commodités du quotidien.\n\nDécouvrez cette agréable chambre de 9,76 m², située au sein d'un appartement T6 entièrement meublé, idéal pour une colocation confortable et conviviale.\n\nL'appartement se compose d",
@@ -10556,7 +10556,9 @@
    "status": "active"
   },
   "bienici:ag752345-559034990": {
-   "also": [],
+   "also": [
+    "leboncoin:3305910286"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T20:10:26+00:00",
@@ -12353,7 +12355,9 @@
    "status": "stale"
   },
   "bienici:ag752861-552130850": {
-   "also": [],
+   "also": [
+    "leboncoin:3298720305"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T19:00:31+00:00",
@@ -14981,7 +14985,9 @@
    "status": "stale"
   },
   "bienici:apimo-86635285": {
-   "also": [],
+   "also": [
+    "leboncoin:3302812786"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T19:00:31+00:00",
@@ -22386,7 +22392,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": null,
     "description": "EXCLUSIVITÉ RAM   Colocation rue Malesherbes, Lyon 6ème (secteur Foch)<br>RAM vous propose en exclusivité cette belle colocation de 99,46 m2 (loi Boutin), située rue Malesherbes, dans le 6ème arrondissement de Lyon, à proximité du quartier Foch.<br>Au 3ème étage (sans ascenseur), cet appartement rénové, prêt à vivre et sans travaux, offre un excellent niveau de confort.<br>Composition :<br>Un séjour<br>Une cuisine entièrement meublée et équipée<br>5 chambres meublées et spacieuses, de 11 à 20 m2",
@@ -26618,7 +26624,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": 100,
     "description": "Colocation : 2 chambres disponibles au sein d'un superbe T4 meublé de 65 m² à Oullins<br>NÉOLOC vous propose 2 chambres disponibles au sein d'un agréable appartement meublé de 65 m², situé à Oullins.<br>Situé au rez-de-chaussée surélevé, cet appartement offre un cadre de vie confortable et fonctionnel, idéal pour une colocation entre étudiants ou jeunes actifs.<br>Il se compose d'un bel espace de vie avec séjour ouvert sur une cuisine entièrement équipée, de 3 chambres, d'une salle d'eau ainsi q",
@@ -27243,7 +27249,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": 100,
     "description": "REF : 620 <br>Colocation : 1 chambre disponible sur 3 ? 20 bis avenue du 8 Mai 1945<br>NÉOLOC vous propose une dernière chambre disponible au sein d'un appartement en colocation de 3 chambres, situé au 20 bis avenue du 8 Mai 1945.<br>Cette colocation est idéale pour des étudiants ou jeunes actifs à la recherche d'un logement confortable et fonctionnel, avec un espace privatif et des parties communes à partager.<br>L'appartement offre un cadre de vie adapté à la vie en colocation, permettant à ch",
@@ -35516,7 +35522,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T15:00:21+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 6 pièces de 82 m². Disponible dès 2026-11-30",
@@ -36606,7 +36612,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-21T17:40:20+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": null,
     "description": "STUDIO MEUBLE -  Lyon - Villeurbanne\n\nCharmant T1 meublé à Villeurbanne\n\nAnnonce immobilière – REF STUDIOVIL\nLYON VILLEURBANNE - Proximité 3ème et 6ème arrondissements\n\nDéposez votre dossier en ligne via le lien en fin d'annonce.\n\nDans une résidence de standing à Villeurbanne, idéalement située sur la ligne A du métro :\n\nBeau T1 de 24 m², moderne, climatisé et entièrement meublé\nAgencement :\nSéjour lumineux avec cuisine ouverte équipée.\nEspace chambre avec lit double et dressing intégré.\nSalle d",
@@ -36793,11 +36799,53 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3287085264": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T21:10:26+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
+   "listing": {
+    "charges": 80.0,
+    "description": "COLOCATION - RUE DE NUITS 69004 LYON\n\nEmplacement idéal pour cette colocation dans le 4ème arrondissement de Lyon, à quelques minutes à pied du métro Croix Rousse, quartier vivant et à proximité de toutes commodités.\n\nLa colocation est au 5ème étage sans ascenseur et offre 80,14 m² de surface répartis de la manière suivantes :\n\nSéjour/cuisine équipé ouverte, 4 chambres avec leur salle d'eau privative et 1 WC indépendant.\nL'ensemble entièrement meublé et équipé.\n\nLa chambre de 9,96m² et sa salle ",
+    "district": "Lyon 69004",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "coloc",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e6/81/7b/e6817b7900a63cad9e87b4a3d9ccd25bb309a80f.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8a/d2/90/8ad2906715b8b861a74a78000e985274754d79d7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/58/11/7b/58117b984acd5b70b0f53479ddb6bf3eacd49d88.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fe/98/e7/fe98e7d02184e430999150d1b2fd1fe0680895ef.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/2d/1e/5d/2d1e5dfa90a9f9a5e1f737376c0c302fc0e2d014.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/26/54/28/265428473c44bafc0bcddf7a790fee3fc3a229fd.jpg?rule=ad-large"
+    ],
+    "postal_code": "69004",
+    "poster": "agence",
+    "poster_name": "CILEAD TRUCHE",
+    "published_at": "2026-10-12 14:42:07",
+    "rent_cc": 680.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3287085264",
+    "surface_m2": 9.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Chambre 1 pièce 9 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3287085264"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3287791330": {
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T13:30:17+00:00",
-   "last_seen": "2026-11-21T16:30:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": 78.0,
     "description": "Studio Meublé  À Louer\n\nÀ louer à Vénissieux, charmant appartement de 17,28 m², idéal pour un étudiant ou un actif à la recherche d'un pied-à-terre fonctionnel. Situé dans un immeuble construit en 1930, et entièrement rénové en 2022 pour la création de cette copropriété, ce logement en parfait état offre une pièce de vie agréable et optimisée.\nChauffage individuel électrique.\nProposé au loyer de 678 € par mois charges comprise . Contactez votre agence Orpi pour plus d'informations et organiser u",
@@ -36871,13 +36919,13 @@
     "url": "https://www.leboncoin.fr/ad/locations/3288858116"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3290579480": {
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-21T17:40:20+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé - 33 m² - Lyon 9ᵉ\n\nSitué avenue Sidoine-Apollinaire, dans le 9ᵉ arrondissement de Lyon, ce studio meublé de 33 m² se trouve au rez-de-chaussée d'un immeuble calme. Il comprend un espace de vie lumineux avec canapé, télévision et coin repas, un espace nuit avec lit double, une cuisine équipée d'un four, de plaques à induction, d'un réfrigérateur, d'un congélateur, d'un micro-ondes, d'un grille-pain et d'une bouilloire, ainsi qu'une salle de bain avec baignoire, lavabo et WC. Le loge",
@@ -36992,7 +37040,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3291711640"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3292900583": {
    "also": [],
@@ -37089,7 +37137,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3297763754"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3298096774": {
    "also": [],
@@ -37297,6 +37345,15 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3298720305": {
+   "also": [],
+   "dup_of": "bienici:ag752861-552130850",
+   "first_seen": "2026-11-21T21:10:26+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3301008837": {
    "also": [],
    "dup_of": null,
@@ -37414,6 +37471,15 @@
    "notified": false,
    "status": "stale"
   },
+  "leboncoin:3302812786": {
+   "also": [],
+   "dup_of": "bienici:apimo-86635285",
+   "first_seen": "2026-11-21T21:10:26+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3303707370": {
    "also": [],
    "dup_of": "bienici:ag692498-539601197",
@@ -37499,6 +37565,15 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3305910286": {
+   "also": [],
+   "dup_of": "bienici:ag752345-559034990",
+   "first_seen": "2026-11-21T21:10:26+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3306269011": {
    "also": [],
    "dup_of": null,
@@ -37573,7 +37648,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3306328631"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3306380915": {
    "also": [],
@@ -37588,7 +37663,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-21T17:40:20+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": 118.0,
     "description": "VILLEURBANNE - STUDIO MEUBLE - 19,80 m²\n\nDescription de l'offre : \nAu coeur de Villeurbanne, secteur Croix Luizet, nous vous proposons ce studio meublé de 19,80 m²\nSitué au 6 ème étage avec ascenseur, il se compose d'une pièce de vie avec un coin kitchenette, une penderie et un salle d'eau (douche) avec toilettes. \n\nLaverie commune\nAscenseur\nPlace de parking en sous sol (petite place)\n\nLe chauffage est individuel électrique\nL'eau chaude est individuelle électrique\nL'eau froide est collective\n\nLo",
@@ -38079,7 +38154,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3313005835"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3313106052": {
    "also": [
@@ -38118,7 +38193,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3313106052"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3313170473": {
    "also": [],
@@ -38167,7 +38242,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3313180839"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3313264590": {
    "also": [],
@@ -38216,7 +38291,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3313282382"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3313337001": {
    "also": [
@@ -38257,7 +38332,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3313337001"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3313580154": {
    "also": [],
@@ -38542,7 +38617,7 @@
    "also": [],
    "dup_of": "bienici:ics-anj_ANJALYS_loc-GES20800202-713",
    "first_seen": "2026-11-21T13:20:20+00:00",
-   "last_seen": "2026-11-21T16:20:21+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -38551,7 +38626,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-21T17:40:20+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": 70.0,
     "description": "Disponible du 20 janvier 2027 à juillet 2027 uniquement.\nContrat mobilité de courte durée non renouvelable réservé aux locataires en situation de mobilité temporaire (étudiants, stagiaires, apprentis, salariés en mission ou formation)\n\nStudio meublé et rénové de 20 m² au 1er étage d'une résidence sécurisée : \n- Équipé d'un canapé-lit, de multiple rangements, d'une table et de tabourets.\n- Coin cuisine avec plaques vitrocéramique, réfrigérateur-congélateur, four micro-ondes, cafetière et vaissell",
@@ -38667,7 +38742,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T16:30:17+00:00",
-   "last_seen": "2026-11-21T16:30:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": 65.0,
     "description": "GERLAND Rue Jacques Monod A proximité immédiate du Métro B et des Tram 1 et 6 Arrêt Debourg, des Ecoles Normales Supérieures et de tous les commerces et services\nAgréable T1 Meublé 27m2 + Parking privé dans sous-sol sécurisé 2e étage dans copropriété bon standing avec ascenseur et interphone. Hall avec grand placard Grande pièce lumineuse avec coin cuisine équipée ( plaques de cuisson, réfrigérateur, micro-onde, table, chaise, rangements, vaisselle ) et coin nuit avec bureau + étagères et canapé",
@@ -38703,7 +38778,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T16:30:17+00:00",
-   "last_seen": "2026-11-21T16:30:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": 18.0,
     "description": "Idéalement situé à 2mn des arrêts de bus « Grand Clément » et « Blanqui-le Rize », à quelques minutes du métro Flachet, et de la gare de Villeurbanne, de l’IUT Gratte-Ciel, du Médipôle Vinatier / Edouard Herriot ,… dans une résidence de caractère, sécurisée totalement rénovée, à proximité des commerces, nous vous proposons à la location, au 3ème étage avec ascenseur, un joli studio meublé de 18m² environ, rénové et très bien équipé, comprenant entrée avec placard, salle d’eau - WC, une pièce pri",
@@ -38743,16 +38818,55 @@
    "also": [],
    "dup_of": "bienici:ag603630-552438875",
    "first_seen": "2026-11-21T16:30:17+00:00",
-   "last_seen": "2026-11-21T16:30:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3314814710": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T21:10:26+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
+   "listing": {
+    "charges": 50.0,
+    "description": "Appartement 2 pièces 27 m²\n\nSitué à 2 pas du métro VALMY, et à quelques minutes de la GARE DE VAISE.\nNombreux commerces de proximité. Rue Marietton.\nAppartement de type 2  , calme et lumineux au 1ème étage sans ascenseur, appartement de type 2 comprenant une cuisine, un séjour, une chambre, une salle de bains et wc.\nEau froide incluse dans les charges mensuelles  \nDate de réalisation du diagnostic énergétique : 12/11/2026\n\nConsommation énergie primaire : 204 kWh/m²/an\nConsommation énergie finale",
+    "district": "Lyon 69009",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/af/c6/65/afc665e1cc1fbcd85f7ae761c003c53b610f4d33.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/5b/44/f1/5b44f1ec8c08080dfd479420785dd25031fd8d0b.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/cd/ca/53/cdca5337ac23e97bfbbad0b5155341c8763da05d.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/75/0f/0e/750f0ec06311e0e87baea316c52be6f8e2dc3031.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f7/f5/ff/f7f5ff9a675bbc0a3c9ae1e80b30cbc7fade569c.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/11/67/a1/1167a11f64c150e78bc8a425679b580938eb1b86.jpg?rule=ad-large"
+    ],
+    "postal_code": "69009",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-21 21:52:53",
+    "rent_cc": 660.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3314814710",
+    "surface_m2": 27.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement T2 pièces meublé 27 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3314814710"
+   },
+   "notified": false,
    "status": "active"
   },
   "paruvendu:1286858274": {
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 12 500 € CC* Appartement 96 m 2 Écully (69) 6 pièces 1 chambre À proximité du centre d'Ecully, cet appartement en colocation de 5 chambres est entièrement meublé. Grand séjour, cuisine séparée équipée et 2 salles d'eau. Résidence avec parc. Idéal étudiants ou jeunes actifs. INSTANT IMMOBILIER 62 annonces 07/11/2026 Voir Contacter * Loyer mensuel charges comprises. M'envoyer les prochaines annonces Recevoir les nouvelles annonces Le top villes pour votre recherche immobilière",
@@ -38791,7 +38905,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 10 499 € CC* Appartement 55 m 2 Bron (69) 1 pièce 1 chambre DPE : D 185 kWh/m².an 26 kg CO 2 /m².an Bien situé dans la commune, chambre de 10,60 m² en colocation. Appartement rénové et meublé, proche du tramway et des transports. Cuisine équipée, pièce de vie lumineuse, salle d'eau, WC séparés. Colocation de 3 étudiants et jeunes actifs. Disponible de suite. INSTANT IMMOBILIER 62 annonces 09/11/2026 Voir Contacter",
@@ -39383,7 +39497,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-56238865",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -39468,7 +39582,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-60603233",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -39878,7 +39992,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-58798199",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -39896,7 +40010,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-59373614",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -40784,7 +40898,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 10 510 € CC* Appartement 82 m 2 Villeurbanne (69) Exclusivité 5 pièces DPE : D 143 kWh/m².an 32 kg CO 2 /m².an Bien situé à Villeurbanne, chambre de 11 m² à louer dans colocation étudiante pour 4. Grand séjour avec cuisine, balcon, 2 salles d'eau. Résidence calme avec ascenseur, cave et local vélo. Charges comprenant eau, électricité et internet. KERJOLIS IMMO 6 annonces 17/11/2026 Voir Contacter",
@@ -40911,7 +41025,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-60582711",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -41110,7 +41224,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T18:10:17+00:00",
+   "last_seen": "2026-11-21T21:10:26+00:00",
    "listing": {
     "charges": null,
     "description": "Nouveau Voir d'autres photos 10 475 € CC* Appartement 68 m 2 Villeurbanne (69) 4 pièces 1 chambre DPE : E 256 kWh/m².an 46 kg CO 2 /m².an Bien situé à Villeurbanne, chambre à louer dans un T4 en colocation. Appartement rénové, au 2ème étage avec ascenseur. Cuisine équipée, pièce de vie conviviale avec balcon. Actuellement occupé par 2 colocataires. Disponible le 21 Décembre. IMMOBILIERE DABRETEAU 50 annonces 20/11/2026 Voir Contacter",
