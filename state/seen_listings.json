@@ -9,9 +9,9 @@
   },
   "leboncoin": {
    "blocked_runs": 0,
-   "consecutive_failures": 3,
-   "cooldown_until": "2026-11-21T11:40:16+00:00",
-   "last_error": "blocked",
+   "consecutive_failures": 0,
+   "cooldown_until": null,
+   "last_error": null,
    "last_success": "2026-11-21T09:00:21+00:00"
   },
   "paruvendu": {
@@ -1904,7 +1904,9 @@
    "status": "active"
   },
   "bienici:ag690006-518264402": {
-   "also": [],
+   "also": [
+    "leboncoin:3313939386"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -4543,7 +4545,9 @@
    "status": "active"
   },
   "bienici:ag692498-539601197": {
-   "also": [],
+   "also": [
+    "leboncoin:3303707370"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -6769,7 +6773,9 @@
    "status": "active"
   },
   "bienici:ag694498-549694598": {
-   "also": [],
+   "also": [
+    "leboncoin:3314093250"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -8343,7 +8349,9 @@
    "status": "active"
   },
   "bienici:ag696596-526183001": {
-   "also": [],
+   "also": [
+    "leboncoin:3314172476"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -8662,7 +8670,9 @@
    "status": "active"
   },
   "bienici:ag696718-516959267": {
-   "also": [],
+   "also": [
+    "leboncoin:3297516633"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -8738,7 +8748,9 @@
    "status": "active"
   },
   "bienici:ag696718-548620526": {
-   "also": [],
+   "also": [
+    "leboncoin:3313896369"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -9728,7 +9740,9 @@
    "status": "active"
   },
   "bienici:ag752345-527397419": {
-   "also": [],
+   "also": [
+    "leboncoin:3313264590"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -14572,7 +14586,9 @@
    "status": "active"
   },
   "bienici:apimo-87143848": {
-   "also": [],
+   "also": [
+    "leboncoin:3298097145"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -16478,7 +16494,9 @@
    "status": "active"
   },
   "bienici:citya-immobilier-5040-GES23070072-171": {
-   "also": [],
+   "also": [
+    "leboncoin:3292900583"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -17411,7 +17429,9 @@
    "status": "active"
   },
   "bienici:gedeon-32330853": {
-   "also": [],
+   "also": [
+    "leboncoin:3314044465"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -30746,6 +30766,44 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3276572678": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": {
+    "charges": 70.0,
+    "description": "Location studio meublé Ecully\n1 pièce principale avec lit, bureau, rangements, placard.\n1 pièce cuisine équipée avec réfrigérateur, four micro-ondes, plaques électriques.\n1 pièce Salle de bains avec douche, lavabo, wc, rangements.\nLave-linge.\nPossibilité d'abonnement téléphonique pour accès internet,\nBranchement fibre installé\nAccès indépendant, portail électrique, parking clos.\nÉligible APL\nProximité arrêt C6 400 m\nPas de frais d'agence ni de dossier\n\nStudio destiné en priorité à des étudiants-",
+    "district": "Écully 69130",
+    "flags": [
+     "agency_fees_no"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/50/c6/05/50c605721ad20874c3a95346ff236159b054525b.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/cb/e6/f7/cbe6f7560396070ebbeb28e53cb2c9df4476afc8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/5a/ed/18/5aed18edf4ab093c529b6b06b0fbb07b2d4f9517.jpg?rule=ad-large"
+    ],
+    "postal_code": "69130",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-09-25 19:01:29",
+    "rent_cc": 620.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3276572678",
+    "surface_m2": 30.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio meublé Ecully",
+    "url": "https://www.leboncoin.fr/ad/locations/3276572678"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3283236300": {
    "also": [],
    "dup_of": null,
@@ -30824,6 +30882,45 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3291160876": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": {
+    "charges": 53.0,
+    "description": "Chambre meublée en colocation – Appartement rénové – Lyon 6ᵉ, Rue Boileau\n\nVous recherchez une colocation confortable, moderne et idéalement située ? Découvrez cette chambre individuelle meublée disponible dans un superbe appartement T5 entièrement rénové, situé rue Boileau, au cœur du 6ᵉ arrondissement de Lyon.\n\nInstallé dans une copropriété calme, sécurisée et bien entretenue, cet appartement offre un cadre de vie agréable, fonctionnel et parfaitement adapté à la vie en colocation.\n\nLes espace",
+    "district": "Lyon 69006",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fc/45/2d/fc452dfbcf483c4736096d4c8bffee8a26336e40.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/83/3c/8f/833c8f2125b9d72c8d791cc5ee292cea03ae39f0.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/74/b0/91/74b0912bb13faaa8813dca2f62b938f82c543bf3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/aa/fd/a1aafdca1c7295ea8bf67dbee13af7b239edee5c.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f5/ed/81/f5ed81c95ad1540b596902212db7d048c08a3956.jpg?rule=ad-large"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "poster_name": "ORPI Saxe Gambetta",
+    "published_at": "2026-10-19 10:59:12",
+    "rent_cc": 587.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3291160876",
+    "surface_m2": 11.0,
+    "tags": [],
+    "title": "Appartement 2 pièces 11 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3291160876"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3291711640": {
    "also": [],
    "dup_of": null,
@@ -30865,6 +30962,15 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3292900583": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-5040-GES23070072-171",
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3297258927": {
    "also": [],
    "dup_of": null,
@@ -30888,6 +30994,7 @@
     ],
     "postal_code": "69009",
     "poster": "agence",
+    "poster_name": "LES BELLES ANNEES",
     "published_at": "2026-10-28 20:57:39",
     "rent_cc": 642.0,
     "rooms": 1,
@@ -30901,6 +31008,15 @@
     "url": "https://www.leboncoin.fr/ad/locations/3297258927"
    },
    "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3297516633": {
+   "also": [],
+   "dup_of": "bienici:ag696718-516959267",
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "leboncoin:3297763754": {
@@ -30985,7 +31101,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-15T11:55:33+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
    "listing": {
     "charges": null,
     "description": "T1 bis meublé et équipé - proche écoles et transports\n\nSituée au cœur du 9ème arrondissement à Vaise, l'un des quartiers les plus prisés de Lyon, la résidente étudiante Study West bénéficie d'un emplacement exceptionnel à deux pas de nombreux équipements : cinéma Pathé Vaise, commerces, parc de la Tête d'or…  Il est également réputé pour ses nombreuses grandes écoles et universités parmi lesquelles on recense : l'Ecole centrale de Lyon, l'EM Lyon, l'Université René Cassin…\n\nBien desservie par le",
@@ -31004,6 +31120,7 @@
     ],
     "postal_code": "69009",
     "poster": "agence",
+    "poster_name": "LES BELLES ANNEES",
     "published_at": "2026-10-30 11:24:29",
     "rent_cc": 647.0,
     "rooms": 1,
@@ -31017,7 +31134,16 @@
     "url": "https://www.leboncoin.fr/ad/locations/3298096776"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
+  },
+  "leboncoin:3298097145": {
+   "also": [],
+   "dup_of": "bienici:apimo-87143848",
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
   },
   "leboncoin:3298097488": {
    "also": [],
@@ -31042,6 +31168,7 @@
     ],
     "postal_code": "69009",
     "poster": "agence",
+    "poster_name": "LES BELLES ANNEES",
     "published_at": "2026-10-30 11:25:29",
     "rent_cc": 579.0,
     "rooms": 1,
@@ -31080,6 +31207,7 @@
     ],
     "postal_code": "69009",
     "poster": "agence",
+    "poster_name": "LES BELLES ANNEES",
     "published_at": "2026-10-30 11:26:04",
     "rent_cc": 591.0,
     "rooms": 1,
@@ -31123,6 +31251,7 @@
     ],
     "postal_code": "69007",
     "poster": "agence",
+    "poster_name": "LES BELLES ANNEES",
     "published_at": "2026-10-30 11:26:35",
     "rent_cc": 591.0,
     "rooms": 1,
@@ -31162,6 +31291,7 @@
     ],
     "postal_code": "69006",
     "poster": "agence",
+    "poster_name": "PROPRIZEN",
     "published_at": "2026-11-05 12:15:04",
     "rent_cc": 583.0,
     "rooms": 1,
@@ -31214,6 +31344,15 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "leboncoin:3303707370": {
+   "also": [],
+   "dup_of": "bienici:ag692498-539601197",
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
   },
   "leboncoin:3304713203": {
    "also": [],
@@ -31274,6 +31413,7 @@
     ],
     "postal_code": "69007",
     "poster": "agence",
+    "poster_name": "Lefortimmo",
     "published_at": "2026-11-09 13:53:05",
     "rent_cc": 610.0,
     "rooms": 1,
@@ -31285,6 +31425,46 @@
     ],
     "title": "Studio 1 pièce 20 m²",
     "url": "https://www.leboncoin.fr/ad/locations/3305624182"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3306269011": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": {
+    "charges": 50.0,
+    "description": "Studio 1 pièce 18 m²\n\nAppartement Studio entièrement refait à neuf\n\nDisponible de suite\n\n10 min à pied du Métro B\nSecteur Buissière / Boulevard Emile Zola\n \nEntièrement meublé et équipé, prêt à vous accueillir dans un cadre élégant et chaleureux.\n\nÀ proximité immédiate de tous les commerces.\n\nCuisine entièrement équipée\nSalon cosy avec vrai canapé-lit\nGrand placard de rangement\nSalle de bain moderne\nCoin repas et bureau\n\nLoyer : 650€ (charges de copropriété et eau comprises)\nForfait charges élec",
+    "district": "Oullins-Pierre-Bénite 69600",
+    "flags": [
+     "garant"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d9/44/03/d94403756b26d2b44109214cbb3e1f777979553b.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e0/b6/17/e0b6173ed017d692d001a6b9d45a123508ac1216.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d5/4d/70/d54d703908d6ab9e0f66ca1bcf8e060e1d21be19.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/81/6d/b6/816db61ee334e9d6c2f8f24b3dcb1429289f3624.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/f5/29/98f529d2989dd51c915e67a3c1b5fda437bae32c.jpg?rule=ad-large"
+    ],
+    "postal_code": "69600",
+    "poster": "agence",
+    "poster_name": "TRUST GESTION",
+    "published_at": "2026-11-10 13:43:43",
+    "rent_cc": 650.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3306269011",
+    "surface_m2": 18.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio 1 pièce 18 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3306269011"
    },
    "notified": false,
    "status": "active"
@@ -31878,6 +32058,15 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3313264590": {
+   "also": [],
+   "dup_of": "bienici:ag752345-527397419",
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3313282382": {
    "also": [
     "paruvendu:1297677919"
@@ -31959,6 +32148,44 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3313580154": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": {
+    "charges": 70.0,
+    "description": "Studio pour étudiant (e) ou jeune travailleur (euse)\nMerci de me laisser votre numéro de téléphone pour vous contacter directement \nDisponible début décembre \nÉligible a ́ L'APL \nStudio meublé de 20 m2\n\nA seulement 10min de tram de la Gare de Vénissieux, Métro D. arrêt de tram T4 lycée Jacques Brel \nFac de Médecine,  Pharmacie dans le 8ème à 12min en transport \n\nL'université Lyon 3, le campus de la Manufacture des tabacs dans le 3ème est à 15min en transport aux heures de pointe \n\nCorresp",
+    "district": "Vénissieux 69200",
+    "flags": [
+     "visale"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b6/39/8c/b6398c9327c565a7e5daeb10dc3f97f0994b0396.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8d/1f/f3/8d1ff32c55892cf408fec6bebc2988421bb76f20.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/34/c1/7b/34c17bfc9c022e4705ea74887a99453cc40817c2.jpg?rule=ad-large"
+    ],
+    "postal_code": "69200",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-20 17:05:06",
+    "rent_cc": 675.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3313580154",
+    "surface_m2": 20.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio meublé à Vénissieux",
+    "url": "https://www.leboncoin.fr/ad/locations/3313580154"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3313643650": {
    "also": [],
    "dup_of": "bienici:ag752861-556885916",
@@ -32000,6 +32227,7 @@
     ],
     "postal_code": "69003",
     "poster": "agence",
+    "poster_name": "ORPI Montchat Immobilier",
     "published_at": "2026-11-20 19:46:37",
     "rent_cc": 597.0,
     "rooms": 1,
@@ -32020,6 +32248,63 @@
    "last_seen": "2026-11-21T09:00:21+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3313896369": {
+   "also": [],
+   "dup_of": "bienici:ag696718-548620526",
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3313939386": {
+   "also": [],
+   "dup_of": "bienici:ag690006-518264402",
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3313951173": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": {
+    "charges": 50.0,
+    "description": "Studio meublé avec jardin bron les 7 chemins\n\nCoin cuisine équipé (plaques électriques et frigo), coin salle de bains. (Douche)\nCanapé lit table chaise Chauffage électrique.\n\nDisponible \n\nRDC donnant sur cour intérieure privatif de 15 m2\n\n- très calme - sans vis à vis \nPour couple avec enfant trop petit                                                      \n- 200 mètre du Tramway T5\nBus à proximité\nCommerces et marché (carrefour, lidl....)\n\nLocation en directe, pas de frais d'agence.\nPrix 600  eu",
+    "district": "Bron 69500",
+    "flags": [
+     "agency_fees_no",
+     "charges_hc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f5/c0/45/f5c045292f2fa64ec2c0674b898f36915906a6f4.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e3/53/9a/e3539aedd8c8a66637e8f8e08a3395fd9d8ad48e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/95/95/08/9595085f78c49db12c8f3970d8d3e3491626aa1d.jpg?rule=ad-large"
+    ],
+    "postal_code": "69500",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-21 04:31:48",
+    "rent_cc": 650.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3313951173",
+    "surface_m2": 30.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio meublé",
+    "url": "https://www.leboncoin.fr/ad/locations/3313951173"
+   },
+   "notified": false,
    "status": "active"
   },
   "leboncoin:3313983885": {
@@ -32044,6 +32329,7 @@
     ],
     "postal_code": "69004",
     "poster": "agence",
+    "poster_name": "MBNA INVEST",
     "published_at": "2026-11-21 08:00:17",
     "rent_cc": 610.0,
     "rooms": 1,
@@ -32075,6 +32361,70 @@
    "last_seen": "2026-11-21T08:40:37+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3314044465": {
+   "also": [],
+   "dup_of": "bienici:gedeon-32330853",
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3314093250": {
+   "also": [],
+   "dup_of": "bienici:ag694498-549694598",
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3314172476": {
+   "also": [],
+   "dup_of": "bienici:ag696596-526183001",
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3314227416": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:40:19+00:00",
+   "last_seen": "2026-11-21T11:40:19+00:00",
+   "listing": {
+    "charges": 0.0,
+    "description": "Bonjour,\n\nCette année je ne serai malheureusement pas là pour la Fête des Lumières.\nAlors je sous-loue mon appartement sur cette période.\n\nNuits disponible : du mercredi 2 déc. au mardi 8 décembre 2026, avec flexibilité\nTarif : 175€/nuit\n(Remise possible si semaine complète, car ça m'arrangerait :)\n\nSitué en plein cœur de Lyon dans les Pentes proche de la Place des Terreaux, la place Sathonay et l’Amphithéâtre des 3 Gaules.\n\nAppartement ancien et lumineux de 57m² \nSalon : canapé, bureau, plantes",
+    "district": "Lyon 69001",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e4/f0/17/e4f017828986a4db2bcdaa918c9fdcc7d9615b36.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/34/2d/51/342d5197328dbeba1843886f04e72ebeaf17d088.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/c6/d9/8f/c6d98f1f2c53fbbb571fef287d0d154fec2b7d51.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/38/b5/7c/38b57c86350bcfcec5440d3c959da343e086e02d.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/4a/34/2a/4a342a36ba8608dde9e3556f922918374d7a5fe5.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/62/79/a162792b0ed6332f566a74e52c6fd635477314c0.jpg?rule=ad-large"
+    ],
+    "postal_code": "69001",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-21 12:09:34",
+    "rent_cc": 175.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3314227416",
+    "surface_m2": 57.0,
+    "tags": [],
+    "title": "Appartement T2 Centre-ville Lyon - Fête des Lumières",
+    "url": "https://www.leboncoin.fr/ad/locations/3314227416"
+   },
+   "notified": false,
    "status": "active"
   },
   "paruvendu:1288423499": {
