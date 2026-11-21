@@ -59,7 +59,15 @@ def parse_html(html, max_photos):
     return out
 
 
-def _get(url):
+def _get(url, impersonate=False):
+    if impersonate:  # a real-browser TLS fingerprint (curl_cffi); some sites refuse plain Python requests
+        from curl_cffi import requests
+
+        r = requests.get(url, impersonate="chrome", timeout=30, headers={"Accept-Language": "fr-FR,fr;q=0.9"})
+        if r.status_code in (403, 429, 503):
+            raise Blocked(f"HTTP {r.status_code}")
+        r.raise_for_status()
+        return r.text
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "fr-FR,fr;q=0.9"})
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
@@ -77,7 +85,7 @@ def fetch(profile):
     for url in opts["urls"]:
         for n in range(1, pages + 1):
             try:
-                items = parse_html(_get(page_url(url, n)), profile["max_photos"])
+                items = parse_html(_get(page_url(url, n), opts.get("impersonate", False)), profile["max_photos"])
             except Blocked:
                 if n == 1 and not out:
                     raise

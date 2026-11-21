@@ -45,7 +45,7 @@ def test_fetch_light_reads_one_page_and_deep_stops_when_a_page_adds_nothing(monk
     calls = []
     pages = {"https://x/a": CARD, "https://x/a?page=2": CARD_2, "https://x/a?page=3": CARD_2}
 
-    def fake_get(url):
+    def fake_get(url, impersonate=False):
         calls.append(url)
         return pages[url]
     monkeypatch.setattr(foncia, "_get", fake_get)
@@ -56,7 +56,7 @@ def test_fetch_light_reads_one_page_and_deep_stops_when_a_page_adds_nothing(monk
 
 
 def test_blocked_after_the_first_page_keeps_the_pages_already_read(monkeypatch):
-    def fake_get(url):
+    def fake_get(url, impersonate=False):
         if url.endswith("page=2"):
             raise Blocked("403")
         return CARD
