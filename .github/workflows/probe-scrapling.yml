@@ -18,4 +18,6 @@ jobs:
           python-version: "3.12"
       - run: pip install "scrapling[fetchers]"
       - run: scrapling install
+      - run: playwright install --with-deps chromium
+      - run: patchright install chromium
       - run: python scripts/probe_scrapling.py
