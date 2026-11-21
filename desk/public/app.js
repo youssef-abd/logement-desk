@@ -1,9 +1,11 @@
-import { fmtRent, fmtSurface, isHttps, ago, matches, tabOf, needsNudge } from "./format.js";
+import { fmtRent, fmtSurface, isHttps, ago, matches, tabOf, needsNudge, areaName, sortRows, paginate, isNew, buildMessage } from "./format.js";
 
 const $ = (id) => document.getElementById(id);
 const ls = { get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }, set(k, v) { try { v == null ? localStorage.removeItem(k) : localStorage.setItem(k, v); } catch (e) { /* private mode */ } } };
-const S = { token: ls.get("ld-token") || "", data: null, marks: {}, yield: {}, f: { tab: "new", source: "all", poster: "all", near: true, q: "" } };
-const STAGES = [["none", "New"], ["contacted", "Contacted"], ["visit", "Visit"], ["dossier", "Dossier sent"], ["refused", "Refused"]];
+const PAGE = 60;
+const readMe = () => { try { const m = JSON.parse(ls.get("ld-me") || "{}"); return m && typeof m === "object" ? m : {}; } catch (e) { return {}; } };
+const S = { token: ls.get("ld-token") || "", data: null, marks: {}, yield: {}, shown: PAGE, sort: "newest", density: ls.get("ld-density") === "compact" ? "compact" : "cards", since: Number(ls.get("ld-lastvisit")) || 0, me: readMe(), gal: { urls: [], i: 0 }, f: { tab: "new", source: "all", poster: "all", near: true, q: "", area: "all", cheap: false } };
+const STAGES = [["none", "New"], ["saved", "Saved"],["contacted", "Contacted"], ["visit", "Visit"], ["dossier", "Dossier sent"], ["refused", "Refused"]];
 
 async function api(path, opts = {}) {
   const r = await fetch(path, { ...opts, cache: "no-store", headers: { "content-type": "application/json", "x-token": S.token, ...(opts.headers || {}) } });
@@ -28,43 +30,75 @@ async function load() {
 function render() {
   const d = S.data; if (!d) return;
   const age = d.updated ? (Date.now() - Date.parse(d.updated)) / 60000 : Infinity;
-  $("updated").textContent = d.updated ? "updated " + ago(d.updated) : "no data yet";
+  $("updated").textContent = d.updated ? "· updated " + ago(d.updated) : "· no data yet";
   $("updated").classList.toggle("bad", age > 30);
   const stage = (l) => (S.marks[l.id] && S.marks[l.id].s) || "none";
-  for (const t of ["new", "following", "closed"]) $("n-" + t).textContent = d.listings.filter((l) => tabOf(l, stage(l)) === t).length;
-  const rows = d.listings.filter((l) => matches(l, S.f, stage(l)));
-  $("list").replaceChildren(...rows.map(card));
+  for (const t of ["new", "saved", "following", "closed"]) $("n-" + t).textContent = d.listings.filter((l) => tabOf(l, stage(l)) === t).length;
+  const rows = sortRows(d.listings.filter((l) => matches(l, S.f, stage(l))), S.sort);
+  const page = paginate(rows, S.shown);
+  $("count").textContent = `${rows.length} match${rows.length === 1 ? "" : "es"}`;
+  $("list").classList.toggle("compact", S.density === "compact");
+  $("list").replaceChildren(...page.rows.map(card));
+  $("more").hidden = !page.rest; $("more").textContent = `Show ${Math.min(PAGE, page.rest)} more (${page.rest} left)`;
   $("msg").textContent = rows.length ? "" : "Nothing here.";
+  renderAreas();
   renderHealth();
+}
+
+function renderAreas() {
+  const areas = S.data.areas || {}, box = $("areas");
+  const mk = (code, label) => { const b = el("button", null, label); b.type = "button"; b.dataset.area = code; b.setAttribute("aria-pressed", String(S.f.area === code)); return b; };
+  const codes = Object.keys(areas).sort();
+  if (S.f.area !== "all" && !codes.includes(S.f.area)) S.f.area = "all";
+  box.replaceChildren(mk("all", "All"), ...codes.map((c) => { const a = areas[c] || {}; return mk(c, `${areaName(c)} · ${a.n} · ${Number.isFinite(a.median_eur_m2) ? a.median_eur_m2.toFixed(1) : "?"} €/m²`); }));
 }
 
 function card(l) {
   const c = el("div", "card" + (l.status === "stale" ? " stale" : ""));
+  const photos = (l.photos || []).filter(isHttps);
   const img = el("img", "thumb"); img.alt = ""; img.loading = "lazy"; img.referrerPolicy = "no-referrer";
-  if (l.photos && l.photos[0] && isHttps(l.photos[0])) { img.src = l.photos[0]; img.addEventListener("error", () => { img.removeAttribute("src"); }); img.addEventListener("click", () => gallery(l)); }
+  if (photos[0]) { img.src = photos[0]; img.addEventListener("error", () => { img.removeAttribute("src"); }); img.addEventListener("click", () => gallery(photos)); }
   const b = el("div", "body");
-  b.append(el("div", "price", `${fmtRent(l.rent_cc)} · ${fmtSurface(l.surface_m2)} · ${l.district || ""}`.replace(/ · +·/g, " ·").trim()));
-  b.append(el("div", "muted", `${l.title} · ${l.source}${l.poster ? " · " + l.poster : ""}${l.also ? " · also on " + l.also + " more" : ""}`));
+  const top = el("div", "top");
+  if (isNew(l, S.since)) { const d = el("span", "dot"); d.title = "new since your last visit"; d.setAttribute("aria-label", "new"); top.append(d); }
+  top.append(el("span", "price", fmtRent(l.rent_cc)));
+  if (Number.isFinite(l.eur_m2)) top.append(el("span", "ppm", `${l.eur_m2.toFixed(1)} €/m²`));
+  b.append(top);
+  const facts = [fmtSurface(l.surface_m2), l.rooms != null ? `${l.rooms} p.` : "", l.postal_code ? areaName(l.postal_code) : l.district || "", l.posted ? "posted " + ago(l.posted) : ""].filter(Boolean).join(" · ");
+  b.append(el("div", "facts", facts));
+  b.append(el("div", "sub", `${l.title} · ${l.source}${l.poster ? " · " + l.poster : ""}${l.also ? " · also on " + l.also + " more" : ""}`));
   const chips = el("div", "chips");
-  for (const t of l.tags || []) chips.append(el("span", "chip warn", t));
+  for (const t of l.tags || []) {
+    if (t === "too-cheap") chips.append(el("span", "chip warn", "too cheap: check carefully"));
+    else if (t === "cheap-for-area") chips.append(el("span", "chip good", "cheap for the area"));
+    else chips.append(el("span", "chip warn", t.replace(/-/g, " ")));
+  }
   for (const t of l.flags || []) chips.append(el("span", "chip", t.replace(/_/g, " ")));
+  if (l.similar > 0) chips.append(el("span", "chip", `+${l.similar} similar`));
   if (l.status === "stale") chips.append(el("span", "chip", "not in latest results"));
   b.append(chips);
   const row = el("div", "row");
   if (isHttps(l.url)) { const a = el("a", null, "Open listing"); a.href = l.url; a.target = "_blank"; a.rel = "noopener noreferrer"; row.append(a); }
-  const sel = el("select"); for (const [v, name] of STAGES) sel.append(new Option(name, v));
+  const copy = el("button", "link", "Copy message"); copy.type = "button";
+  copy.addEventListener("click", async () => {
+    try { await navigator.clipboard.writeText(buildMessage(l, S.me)); copy.textContent = "Copied"; } catch (e) { copy.textContent = "Copy failed"; }
+    setTimeout(() => { copy.textContent = "Copy message"; }, 1500);
+  });
+  row.append(copy);
+  const sel = el("select"); sel.setAttribute("aria-label", "Stage"); for (const [v, name] of STAGES) sel.append(new Option(name, v));
   sel.value = (S.marks[l.id] && S.marks[l.id].s) || "none";
   sel.addEventListener("change", () => setStage(l.id, sel.value));
   row.append(sel);
-  if (l.photos && l.photos[0] && isHttps(l.photos[0])) { const a = el("a", null, "Image search"); a.href = "https://lens.google.com/uploadbyurl?url=" + encodeURIComponent(l.photos[0]); a.target = "_blank"; a.rel = "noopener noreferrer"; row.append(a); }
+  if (photos[0]) { const a = el("a", null, "Image search"); a.href = "https://lens.google.com/uploadbyurl?url=" + encodeURIComponent(photos[0]); a.target = "_blank"; a.rel = "noopener noreferrer"; row.append(a); }
   if (Number.isFinite(S.marks[l.id] && S.marks[l.id].t) && needsNudge(S.marks[l.id], Date.now())) row.append(el("span", "nudge", "contacted " + ago(new Date(S.marks[l.id].t).toISOString()) + ", no update"));
   b.append(row); c.append(img, b); return c;
 }
 
-function gallery(l) {
-  $("strip").replaceChildren(...(l.photos || []).filter(isHttps).map((u) => { const i = el("img"); i.src = u; i.referrerPolicy = "no-referrer"; i.alt = ""; return i; }));
-  $("gal").showModal();
+function galShow() {
+  const g = S.gal; $("galimg").src = g.urls[g.i]; $("galcount").textContent = `${g.i + 1} / ${g.urls.length}`;
 }
+function galStep(d) { const g = S.gal; if (!g.urls.length) return; g.i = (g.i + d + g.urls.length) % g.urls.length; galShow(); }
+function gallery(urls) { if (!urls.length) return; S.gal = { urls, i: 0 }; galShow(); $("gal").showModal(); }
 
 async function setStage(id, s) {
   const t = Date.now(), prev = S.marks[id];
@@ -126,14 +160,25 @@ async function runRefresh() {
   catch (e) { $("runmsg").textContent = e.message; }
 }
 
-$("tabs").addEventListener("click", (e) => { const t = e.target.closest("button"); if (!t) return; S.f.tab = t.dataset.tab; for (const b of $("tabs").children) b.setAttribute("aria-selected", String(b === t)); $("msg").textContent = ""; render(); });
-for (const [id, key] of [["source", "source"], ["poster", "poster"]]) $(id).addEventListener("change", (e) => { S.f[key] = e.target.value; render(); });
-$("near").addEventListener("change", (e) => { S.f.near = e.target.checked; render(); });
-$("q").addEventListener("input", (e) => { S.f.q = e.target.value; render(); });
+const rerender = () => { S.shown = PAGE; render(); };
+$("tabs").addEventListener("click", (e) => { const t = e.target.closest("button"); if (!t) return; S.f.tab = t.dataset.tab; for (const b of $("tabs").children) b.setAttribute("aria-selected", String(b === t)); $("msg").textContent = ""; rerender(); });
+for (const [id, key] of [["source", "source"], ["poster", "poster"]]) $(id).addEventListener("change", (e) => { S.f[key] = e.target.value; rerender(); });
+$("sort").addEventListener("change", (e) => { S.sort = e.target.value; rerender(); });
+$("density").value = S.density;
+$("density").addEventListener("change", (e) => { S.density = e.target.value === "compact" ? "compact" : "cards"; ls.set("ld-density", S.density); render(); });
+$("near").addEventListener("change", (e) => { S.f.near = e.target.checked; rerender(); });
+$("cheap").addEventListener("change", (e) => { S.f.cheap = e.target.checked; rerender(); });
+$("q").addEventListener("input", (e) => { S.f.q = e.target.value; rerender(); });
+$("areas").addEventListener("click", (e) => { const b = e.target.closest("button"); if (!b) return; S.f.area = b.dataset.area; rerender(); });
+$("more").addEventListener("click", () => { S.shown += PAGE; render(); });
 $("galx").addEventListener("click", () => $("gal").close());
-$("menu").addEventListener("click", () => { $("code").value = S.token; $("dlg").showModal(); pushRefresh(); if (S.token) runRefresh(); });
+$("galprev").addEventListener("click", () => galStep(-1));
+$("galnext").addEventListener("click", () => galStep(1));
+$("gal").addEventListener("keydown", (e) => { if (e.key === "ArrowLeft") galStep(-1); else if (e.key === "ArrowRight") galStep(1); }); // Escape closes natively
+document.addEventListener("visibilitychange", () => { if (document.hidden) ls.set("ld-lastvisit", String(Date.now())); });
+$("menu").addEventListener("click", () => { $("code").value = S.token; $("me-name").value = S.me.name || ""; $("me-phone").value = S.me.phone || ""; $("me-visale").value = S.me.visale || ""; $("dlg").showModal(); pushRefresh(); if (S.token) runRefresh(); });
 $("dlgcancel").addEventListener("click", () => $("dlg").close());
-$("dlgsave").addEventListener("click", () => { S.token = $("code").value.trim(); ls.set("ld-token", S.token || null); idbToken(S.token); $("dlg").close(); load(); });
+$("dlgsave").addEventListener("click", () => { S.token = $("code").value.trim(); ls.set("ld-token", S.token || null); idbToken(S.token); S.me = { name: $("me-name").value.trim(), phone: $("me-phone").value.trim(), visale: $("me-visale").value.trim() }; ls.set("ld-me", JSON.stringify(S.me)); $("dlg").close(); load(); });
 $("pushbtn").addEventListener("click", pushToggle);
 $("pushtest").addEventListener("click", async () => { try { const r = await api("/api/push/test", { method: "POST" }); $("pushmsg").textContent = `Test sent to ${r.sent} of ${r.devices} device(s).`; } catch (e) { $("pushmsg").textContent = e.message; } });
 $("runbtn").addEventListener("click", async () => { try { await api("/api/run", { method: "POST" }); $("runmsg").textContent = "Run started."; $("runbtn").disabled = true; } catch (e) { $("runmsg").textContent = e.message; } });

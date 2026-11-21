@@ -13,27 +13,46 @@
 <link rel="stylesheet" href="/app.css">
 </head>
 <body>
-<header class="bar"><strong>Logement</strong><span id="updated" class="muted"></span><button id="menu" class="btn" type="button">Settings</button></header>
+<header class="bar">
+  <div class="titles"><strong>Logement</strong><span class="muted"><span id="count"></span> <span id="updated"></span></span></div>
+  <button id="menu" class="btn" type="button">Settings</button>
+</header>
 <main>
   <nav class="tabs" id="tabs">
     <button data-tab="new" aria-selected="true">New <span id="n-new"></span></button>
+    <button data-tab="saved" aria-selected="false">Saved <span id="n-saved"></span></button>
     <button data-tab="following" aria-selected="false">Following <span id="n-following"></span></button>
     <button data-tab="closed" aria-selected="false">Closed <span id="n-closed"></span></button>
   </nav>
   <div class="filters">
+    <select id="sort" aria-label="Sort">
+      <option value="newest">Newest</option><option value="price">Price</option><option value="eur_m2">€/m²</option><option value="size">Size</option>
+    </select>
+    <select id="density" aria-label="Density"><option value="cards">Cards</option><option value="compact">Compact</option></select>
     <select id="source" aria-label="Source"><option value="all">All sources</option></select>
     <select id="poster" aria-label="Poster"><option value="all">Anyone</option><option value="particulier">Private only</option></select>
     <label class="chk"><input type="checkbox" id="near" checked> near-miss</label>
+    <label class="chk"><input type="checkbox" id="cheap"> cheap for the area</label>
     <input id="q" type="search" placeholder="Search" aria-label="Search">
   </div>
+  <div class="areas" id="areas" role="group" aria-label="Area"></div>
   <p id="msg" class="muted"></p>
   <div id="list"></div>
+  <button id="more" class="btn more" type="button" hidden></button>
   <details class="health"><summary>Source health</summary><div id="health"></div></details>
 </main>
-<dialog id="gal"><button id="galx" class="btn" type="button">Close</button><div id="strip"></div></dialog>
+<dialog id="gal">
+  <div class="galtop"><span id="galcount" class="muted"></span><button id="galx" class="btn" type="button">Close</button></div>
+  <img id="galimg" alt="" referrerpolicy="no-referrer">
+  <div class="galnav"><button id="galprev" class="btn" type="button">Previous</button><button id="galnext" class="btn" type="button">Next</button></div>
+</dialog>
 <dialog id="dlg">
   <h2>Settings</h2>
   <label for="code">Access code</label><input id="code" type="password" autocomplete="off">
+  <div class="box"><strong>My details for messages</strong>
+    <label for="me-name">Name</label><input id="me-name" autocomplete="name">
+    <label for="me-phone">Phone</label><input id="me-phone" type="tel" autocomplete="tel">
+    <label for="me-visale">Visale number</label><input id="me-visale" autocomplete="off"></div>
   <div class="box"><strong>Alerts on this device</strong><p id="pushmsg" class="muted"></p>
     <button class="btn" id="pushbtn" type="button">Turn on alerts</button> <button class="btn" id="pushtest" type="button">Send a test</button></div>
   <div class="box"><strong>Run now</strong><p id="runmsg" class="muted"></p><button class="btn" id="runbtn" type="button">Start a run</button></div>
