@@ -1,17 +1,21 @@
 import statistics
 
+from .scam import risk, signals
+
 KEEP = ("source", "url", "title", "rent_cc", "surface_m2", "rooms", "kind", "district", "postal_code",
         "furnished", "poster", "published_at", "flags", "tags", "photos")
 MAX_LISTINGS = 1500
+SMALL_M2 = 35  # price tags only apply to flats up to this size
 
 
 def build_payload(state, report, now):
     """The desk's data: canonical listings (no duplicate entries, no descriptions), newest first, plus per-source health."""
-    rows = []
+    rows, items = [], []
     for key, e in state["listings"].items():
         l = e.get("listing")
         if not l or e.get("dup_of"):
             continue
+        items.append((key, l))
         row = {k: l.get(k) for k in KEEP}
         row["photos"] = (row["photos"] or [])[:3]
         row["tags"] = list(row["tags"] or [])
@@ -36,13 +40,22 @@ def build_payload(state, report, now):
         if r["status"] == "active" and r["eur_m2"] is not None and r["postal_code"]:
             by_area.setdefault(r["postal_code"], []).append(r["eur_m2"])
     areas = {pc: {"n": len(v), "median_eur_m2": round(statistics.median(v), 1)} for pc, v in by_area.items()}
+    # price tags compare like with like: small flats (EUR/m2 falls with size) against the median of small flats of the same area
+    small = {}
     for r in rows:
-        a = areas.get(r["postal_code"])
-        if a and r["eur_m2"] is not None and a["n"] >= 8:
-            if r["eur_m2"] <= 0.5 * a["median_eur_m2"]:
+        if r["status"] == "active" and r["eur_m2"] is not None and r["postal_code"] and r["surface_m2"] <= SMALL_M2:
+            small.setdefault(r["postal_code"], []).append(r["eur_m2"])
+    for r in rows:
+        v = small.get(r["postal_code"], [])
+        if len(v) >= 8 and r["eur_m2"] is not None and r["surface_m2"] <= SMALL_M2:
+            med = statistics.median(v)
+            if r["eur_m2"] <= 0.5 * med:
                 r["tags"].append("too-cheap")
-            elif r["eur_m2"] <= 0.75 * a["median_eur_m2"]:
+            elif r["eur_m2"] <= 0.75 * med:
                 r["tags"].append("cheap-for-area")
+    sig = signals(items)
+    for r in rows:
+        r["risk"], r["risk_reasons"] = risk(sig.get(r["id"], []), "too-cheap" in r["tags"])
     health = {name: {"last_success": h.get("last_success"), "failures": h.get("consecutive_failures", 0),
                      "error": h.get("last_error"), "cooldown_until": h.get("cooldown_until"), "run": report.get(name)}
               for name, h in state.get("health", {}).items()}

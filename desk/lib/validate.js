@@ -12,7 +12,7 @@ export function safeUrl(u) {
 const safePhoto = (u) => { try { const x = new URL(u); return x.protocol === "https:" ? x.href : ""; } catch (e) { return ""; } };
 const str = (v, n) => (typeof v === "string" ? v.slice(0, n) : "");
 const num = (v) => (typeof v === "number" && Number.isFinite(v) ? v : null);
-const arr = (a) => (Array.isArray(a) ? a.filter((x) => typeof x === "string").map((x) => x.slice(0, 24)).slice(0, 12) : []);
+const arr = (a, len = 24, max = 12) => (Array.isArray(a) ? a.filter((x) => typeof x === "string").map((x) => x.slice(0, len)).slice(0, max) : []);
 
 export function cleanListing(l) {
   if (!l || typeof l !== "object") return null;
@@ -24,6 +24,7 @@ export function cleanListing(l) {
     kind: str(l.kind, 12) || null, district: str(l.district, 60) || null, postal_code: str(l.postal_code, 10) || null,
     furnished: typeof l.furnished === "boolean" ? l.furnished : null, poster: ["particulier", "agence"].includes(l.poster) ? l.poster : null,
     published_at: str(l.published_at, 40) || null, first_seen: str(l.first_seen, 40), last_seen: str(l.last_seen, 40),
+    risk: ["check", "high"].includes(l.risk) ? l.risk : null, risk_reasons: arr(l.risk_reasons, 60, 5),
     status: l.status === "stale" ? "stale" : "active", flags: arr(l.flags), tags: arr(l.tags),
     photos: (Array.isArray(l.photos) ? l.photos : []).map(safePhoto).filter(Boolean).slice(0, 8), also: num(l.also) || 0,
     eur_m2: num(l.eur_m2), posted: str(l.posted, 40), similar: Number.isInteger(l.similar) && l.similar > 0 ? l.similar : 0,

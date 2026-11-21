@@ -100,3 +100,25 @@ def test_no_area_tags_below_eight():
         _add(state, f"n{i}", i, rent_cc=500.0)
     _add(state, "low", 20, rent_cc=100.0)
     assert "too-cheap" not in _rows(state)["low"]["tags"]
+
+
+def test_scam_risk_is_computed_in_the_payload(profile):
+    state = store.empty()
+    bad = make_listing(source="leboncoin", source_id="s1", poster="particulier", rent_cc=300.0, surface_m2=20.0,
+                       description="Les clés vous seront envoyées par la poste, virement avant la visite")
+    ok = make_listing(source="leboncoin", source_id="s2", poster="particulier", rent_cc=520.0, surface_m2=21.0, description="Studio calme")
+    process(state, [bad, ok], {"leboncoin"}, NOW, profile)
+    rows = {r["id"]: r for r in build_payload(state, {}, NOW)["listings"]}
+    assert rows["leboncoin:s1"]["risk"] == "high" and "keys sent by post" in rows["leboncoin:s1"]["risk_reasons"]
+    assert rows["leboncoin:s2"]["risk"] is None and rows["leboncoin:s2"]["risk_reasons"] == []
+
+
+def test_price_tags_only_compare_small_flats(profile):
+    state = store.empty()
+    for i in range(9):
+        process(state, [make_listing(source="s", source_id=f"s{i}", rent_cc=600.0 + i, surface_m2=20.0, poster="particulier")], {"s"}, NOW, profile)
+    process(state, [make_listing(source="s", source_id="big", rent_cc=500.0, surface_m2=100.0, poster="particulier")], {"s"}, NOW, profile)
+    process(state, [make_listing(source="s", source_id="deal", rent_cc=250.0, surface_m2=20.0, poster="particulier")], {"s"}, NOW, profile)
+    rows = {r["id"]: r for r in build_payload(state, {}, NOW)["listings"]}
+    assert "too-cheap" not in rows["s:big"]["tags"] and rows["s:big"]["risk"] is None
+    assert "too-cheap" in rows["s:deal"]["tags"] and rows["s:deal"]["risk"] == "check"

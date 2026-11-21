@@ -71,3 +71,11 @@ test("cleanPayload keeps only well-formed areas", () => {
   const many = Object.fromEntries(Array.from({ length: 60 }, (_, i) => [String(10000 + i), { n: 1, median_eur_m2: 1 }]));
   assert.equal(Object.keys(cleanPayload({ listings: [good], areas: many }).areas).length, 40);
 });
+
+test("risk fields are whitelisted", () => {
+  const l = cleanListing({ ...good, risk: "high", risk_reasons: ["keys sent by post", 7, "x".repeat(200)] });
+  assert.equal(l.risk, "high");
+  assert.equal(l.risk_reasons.length, 2);
+  assert.equal(l.risk_reasons[1].length, 60);
+  assert.equal(cleanListing({ ...good, risk: "<b>" }).risk, null);
+});
