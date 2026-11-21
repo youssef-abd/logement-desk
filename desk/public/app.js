@@ -5,7 +5,7 @@ const $ = (id) => document.getElementById(id);
 const ls = { get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }, set(k, v) { try { v == null ? localStorage.removeItem(k) : localStorage.setItem(k, v); } catch (e) { /* private mode */ } } };
 const S = {
   token: ls.get("ld-token") || "", data: null, marks: {}, yield: {}, sort: "newest", dense: ls.get("ld-density") === "compact", shown: 60,
-  since: Number(ls.get("ld-lastvisit")) || Date.now(), f: { tab: "new", source: "all", poster: "all", near: true, cheap: false, q: "", area: "all" },
+  since: Number(ls.get("ld-lastvisit")) || Date.now(), f: { tab: "new", source: "all", poster: "all", kind: "all", near: true, cheap: false, q: "", area: "all" },
 };
 const TABS = [["new", "New", "New listings"], ["saved", "Saved", "Saved"], ["following", "Following", "Following up"], ["closed", "Closed", "Closed"]];
 const STAGES = [["none", "New"], ["saved", "Saved"], ["contacted", "Contacted"], ["visit", "Visit"], ["dossier", "Dossier sent"], ["refused", "Refused"]];
@@ -150,6 +150,7 @@ function row(l) {
   l1.append(el("span", null, [place(l), l.rooms != null ? l.rooms + " room" + (l.rooms === 1 ? "" : "s") : ""].filter(Boolean).join(" · ")));
   const l2 = [l.source, "posted " + ago(l.posted), l.similar ? `+${l.similar} similar units` : "", l.status === "stale" ? "not in latest results" : ""].filter(Boolean).join(" · ");
   const chips = el("div", "chips"), tags = l.tags || [];
+  if (l.kind === "coloc") chips.append(pill("warn", "Colocation"));
   if (l.poster === "particulier") chips.append(pill("pos", "Private owner")); else if (l.poster === "agence") chips.append(pill("", l.poster_name || "Agency"));
   if (tags.includes("near-miss")) chips.append(pill("", "over budget"));
   if (tags.includes("cheap-for-area")) chips.append(pill("pos", "cheap for the area"));
@@ -243,6 +244,7 @@ function openSettings() {
 const rerender = () => { S.shown = 60; render(); };
 $("sort").addEventListener("change", (e) => { S.sort = e.target.value; rerender(); });
 $("source").addEventListener("change", (e) => { S.f.source = e.target.value; rerender(); });
+$("kind").addEventListener("change", (e) => { S.f.kind = e.target.value; rerender(); });
 $("poster").addEventListener("change", (e) => { S.f.poster = e.target.value; rerender(); });
 $("near").addEventListener("change", (e) => { S.f.near = e.target.checked; rerender(); });
 $("cheap").addEventListener("change", (e) => { S.f.cheap = e.target.checked; rerender(); });

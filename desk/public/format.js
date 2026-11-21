@@ -55,6 +55,8 @@ export function matches(l, f, stage) {
   if (tabOf(l, stage) !== f.tab) return false;
   if (f.source !== "all" && l.source !== f.source) return false;
   if (f.poster !== "all" && l.poster !== f.poster) return false;
+  if (f.kind === "coloc" && l.kind !== "coloc") return false;
+  if (f.kind === "flat" && l.kind === "coloc") return false;
   if (f.area && f.area !== "all" && l.postal_code !== f.area) return false;
   if (f.cheap && !(l.tags || []).includes("cheap-for-area")) return false;
   if (!f.near && (l.tags || []).includes("near-miss")) return false;

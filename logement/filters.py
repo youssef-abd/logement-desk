@@ -1,5 +1,7 @@
 import re
 
+from .coloc import is_coloc
+
 
 def _tag(listing, tag):
     if tag not in listing.tags:
@@ -10,7 +12,7 @@ def infer_kind(l):
     if l.kind:
         return l.kind
     title = (l.title or "").lower()
-    if "coloc" in title:
+    if is_coloc(l):
         return "coloc"
     if l.rooms == 1:
         return "studio" if "studio" in title else "t1"

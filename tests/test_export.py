@@ -133,3 +133,11 @@ def test_only_the_most_recent_stale_listings_are_exported(profile):
     process(state, [make_listing(source="s", source_id="live")], {"s"}, NOW, profile)
     ids = {r["id"] for r in build_payload(state, {}, NOW)["listings"]}
     assert "s:live" in ids and len(ids) == 101 and "s:129" in ids and "s:0" not in ids
+
+
+def test_colocation_rows_are_marked_and_have_no_price_per_m2(profile):
+    state = store.empty()
+    process(state, [make_listing(source="s", source_id="c1", rent_cc=450.0, surface_m2=70.0, rooms=4, poster="particulier",
+                                 description="Chambre dans un appartement partagé, parties communes partagées")], {"s"}, NOW, profile)
+    [row] = build_payload(state, {}, NOW)["listings"]
+    assert row["kind"] == "coloc" and row["eur_m2"] is None

@@ -1,5 +1,7 @@
 import statistics
 
+from .coloc import is_coloc
+
 from .scam import risk, signals
 
 KEEP = ("source", "url", "title", "rent_cc", "surface_m2", "rooms", "kind", "district", "postal_code",
@@ -21,7 +23,10 @@ def build_payload(state, report, now):
         row["photos"] = (row["photos"] or [])[:3]
         row["tags"] = list(row["tags"] or [])
         rent, surf, pub = l.get("rent_cc"), l.get("surface_m2"), l.get("published_at")
-        row["eur_m2"] = round(rent / surf, 1) if rent is not None and surf is not None and surf >= 9 else None
+        if is_coloc(l):
+            row["kind"] = "coloc"
+        # the rent of a shared flat is per room while the surface is the whole flat, so a price per m2 would mislead
+        row["eur_m2"] = round(rent / surf, 1) if row["kind"] != "coloc" and rent is not None and surf is not None and surf >= 9 else None
         row["posted"] = pub if isinstance(pub, str) and pub and not pub.startswith("1970") else e["first_seen"]
         row["similar"] = 0
         row.update(id=key, first_seen=e["first_seen"], last_seen=e["last_seen"], status=e["status"], also=len(e.get("also", [])))

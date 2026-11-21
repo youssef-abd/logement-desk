@@ -89,3 +89,12 @@ test("buildMessage uses only listing and own details", () => {
   assert.ok(e.startsWith("Bonjour,") && e.includes("Cordialement,"));
   assert.ok(!e.includes("Visale") && !e.includes("undefined") && !e.includes("null"));
 });
+
+test("the kind filter separates colocations from flats", () => {
+  const F2 = { tab: "new", source: "all", poster: "all", near: true, q: "", area: "all", cheap: false };
+  assert.equal(matches(L({ kind: "coloc" }), { ...F2, kind: "coloc" }, "none"), true);
+  assert.equal(matches(L({ kind: "studio" }), { ...F2, kind: "coloc" }, "none"), false);
+  assert.equal(matches(L({ kind: "coloc" }), { ...F2, kind: "flat" }, "none"), false);
+  assert.equal(matches(L({ kind: "studio" }), { ...F2, kind: "flat" }, "none"), true);
+  assert.equal(matches(L({ kind: "coloc" }), { ...F2 }, "none"), true);
+});

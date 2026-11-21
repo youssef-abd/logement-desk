@@ -70,3 +70,10 @@ def test_studio_or_t1_with_parking_in_the_title_is_kept_even_when_rooms_is_unkno
     assert hard_filter(make_listing(title="Studio + cave", rooms=None), profile) is True
     assert hard_filter(make_listing(title="T1 avec parking", rooms=None), profile) is True
     assert hard_filter(make_listing(title="Garage box", rooms=None, surface_m2=15), profile) is False
+
+
+def test_colocation_is_detected_from_the_description_but_not_from_a_landlord_rule(profile):
+    assert infer_kind(make_listing(title="", description="Chambre dans un appartement partagé, cuisine partagée", rooms=3)) == "coloc"
+    assert infer_kind(make_listing(title="Colocation 3 chambres", description="", rooms=3)) == "coloc"
+    assert infer_kind(make_listing(title="T3", description="Colocation autorisée, beau T3 lumineux", rooms=3)) == "t3+"
+    assert infer_kind(make_listing(title="Studio", description="Colocation non acceptée", rooms=1)) == "studio"
