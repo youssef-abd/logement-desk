@@ -5,7 +5,7 @@
    "consecutive_failures": 0,
    "cooldown_until": null,
    "last_error": null,
-   "last_success": "2026-11-21T20:30:17+00:00"
+   "last_success": "2026-11-21T23:30:22+00:00"
   },
   "foncia": {
    "blocked_runs": 0,
@@ -29,7 +29,7 @@
    "last_success": "2026-11-21T21:30:17+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 4,
+   "blocked_runs": 5,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -47,7 +47,7 @@
    "consecutive_failures": 0,
    "cooldown_until": null,
    "last_error": null,
-   "last_success": "2026-11-21T20:30:17+00:00"
+   "last_success": "2026-11-21T23:30:22+00:00"
   },
   "studapart": {
    "blocked_runs": 0,
@@ -415,7 +415,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": 20,
     "description": "Réf. AN006282 - Imodirect vous propose, au 6 rue Félix Jacquier, dans le 6ème arrondissement de Lyon, un agréable studio meublé de 13,74 m², situé au rez-de-chaussée d'un bel immeuble.\n\nCe logement se compose d'une petite entrée, d'une pièce de vie aménagée avec un canapé convertible, une table, une chaise et des rangements, ainsi que d'un coin cuisine équipé de plaques de cuisson et d'un réfrigérateur. Il dispose également d'une salle d'eau avec douche et WC.\n\nLe chauffage est électrique et la ",
@@ -1014,7 +1014,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": 50,
     "description": "A LOUER - LYON 7 - COURS GAMBETTA - A DEUX PAS DE LA MANUFACTURE DES TABACS ET DE L'ARRET DE METRO GARIBALDI\nStudio meublé de 18,93 m² au 5ème étage, avec un hall d'entrée, un coin cuisine avec évier, rangement, plaques de cuisson, réfrigérateur, micro-ondes, vaisselles, un séjour de 11.85 m² avec placard aménagé, lit simple, bureau, une salle de bains avec baignoire, lavabo, WC et rangement.\n\nDPE : C\n\nEau chaude et froide comprises dans les charges et chauffage individuel électrique.\n\nApparteme",
@@ -4179,7 +4179,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": 50,
     "description": "A LOUER - LYON 7 - COURS GAMBETTA - A DEUX PAS DE LA MANUFACTURE DES TABACS ET DE L'ARRET DE METRO GARIBALDI\nStudio meublé de 18,93 m² au 5ème étage, avec un hall d'entrée, un coin cuisine avec évier, rangement, plaques de cuisson, réfrigérateur, micro-ondes, vaisselles, un séjour de 11.85 m² avec placard aménagé, lit simple, bureau, une salle de bains avec baignoire, lavabo, WC et rangement.\n\nDPE : C\n\nEau chaude et froide comprises dans les charges et chauffage individuel électrique.\n\nApparteme",
@@ -4219,7 +4219,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement de type T1 meublé situé dans une copropriété calme et sécurisée.\nIl se compose d'une entrée, d'une pièce principale, d'une cuisine avec placard, d'une salle d'eau et de toilettes séparées.\n\nLa cuisine est meublée et équipée avec une table et deux bancs, un réfrigérateur, une cuisinière, vaisselle et ustensiles de cuisine, ainsi qu'un lave-linge à disposition.\nDans la pièce principale se trouvent un canapé-lit, une desserte, une commode, un bureau et une lampe sur pied.\n\nSitué dans le",
@@ -5750,7 +5750,7 @@
    "also": [],
    "dup_of": "leboncoin:3288858116",
    "first_seen": "2026-11-20T22:51:18+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -10536,7 +10536,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": 65,
     "description": "Logement Manda ! Visitez et déposez votre dossier uniquement sur notre plateforme  ! Nous ne vous enverrons jamais le bail ou le RIB par mail - tout est sécurisé sur notre plateforme.\n\nLyon 69007 - 11.97 m² • Studio • Meublé • 578 €\n\nManda vous propose ce beau studio meublé, idéalement situé au 33, Rue Pasteur dans le 7ème arrondissement de Lyon. Parfait pour un étudiant, vous profitez d'une adresse dynamique et recherchée au cœur d'un quartier vivant, à deux pas des universités, des commerces e",
@@ -13123,7 +13123,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Avec IMMOJEUNE, trouvez les meilleurs logements étudiants et jeunes actifs en quelques clics et en toute confiance.\n\nCet appartement bénéficie d'une localisation exceptionnelle en plein cœur de Lyon, à proximité immédiate de la place Bellecour et de la gare de Perrache. Idéalement situé sur le quai Claude Bernard, à seulement 100 mètres des Universités Lyon II et Lyon III, ce logement meublé offre un confort optimal et une sécurité renforcée pour les étudiants. Les transports en commun, comme le",
@@ -14585,7 +14585,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": 90,
     "description": "47 rue GABRIEL SARRAZIN 69008 LYON -\nA deux pas des facs et du métro ligne D.\n\nLoue Studio de 25.28m2 situé au 2eme étage comprenant un coin cuisine équipé, un salon avec canapé convertible, une salle d'eau et un balcon d'hiver (fermé avec baies vitrés).\nL'eau et le chauffage sont compris dans les charges. \nL'appartement sera disponible le 27 novembre 2023.\nDPE F (410/89)\nEncadrement des loyers : référence : 19€/m2 et majoré : 22.8€/m2\nMerci de nous envoyé votre dossier de location avant toute v",
@@ -19870,7 +19870,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": 18,
     "description": "A louer  meublé studio Lyon 8 \nProche commerces et transports en communu (T4 )",
@@ -19907,7 +19907,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": 45,
     "description": "Situé Boulevard Eugène Deruelle à Lyon 69003, au sein d’une résidence agréable, ce studio meublé de 24,42 m², situé au 1er étage, offre un cadre de vie pratique et confortable, à proximité des transports, des commerces et des commodités du quartier Part-Dieu.\n\nDescription du bien :\n\n- Pièce principale meublée\n- Cuisine entièrement équipée avec vaisselle\n- Canapé convertible\n- Table et chaise\n- Matériel ménager\n- Laverie commune au sein de la résidence\n\nPerformance énergétique :\n\nDPE : D\n\nGES : B",
@@ -20750,7 +20750,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": 46,
     "description": "AUCUNE REPONSE PAR TELEPHONE, PREMIER CONTACT UNIQUEMENT PAR MESSAGE VIACE SITE, MERCI.<br> Disponible dès maintenant.<br> 87 bis rue Joliot Curie - Dans une résidence au calme, avec accès sécurisé et piscine ; Studio de 16,10m2 entièrement meublé au rez-de-chaussée avec vue sur la verdure, sans aucun vis-à-vis.<br> Il se compose d'une entrée donnant sur une pièce de vie avec rangements et coin cuisine aménagée et équipée (plaques de cuisson, réfrigérateur, lave-linge etc.).<br> Eau froide, eau ",
@@ -27950,7 +27950,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": 25,
     "description": "Dans un bel immeuble Renaissance typique du Vieux Lyon, avec traboule reliant la rue des Trois Maries, découvrez ce studio meublé de 22 m², au 1er étage sans ascenseur.<br>Il se compose d'une grande pièce à vivre avec coin cuisine équipée et espace repas, d'un lit en mezzanine et canapé, et d'une salle de bains fonctionnelle avec toilettes et lave-linge. <br>Idéalement situé, vous serez à deux pas de la Presqu'île, emplacement privilégié au coeur de l'animation du Vieux Lyon et des commodités du",
@@ -40127,7 +40127,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "5 590 € CC* Appartement 12 m 2 Bron (69) Exclusivité 1 pièce DPE : C 135 kWh/m².an 15 kg CO 2 /m².an Situé à Bron, cet appartement meublé à louer en colocation a été entièrement refait à neuf. Il comprend une cuisine équipée, un séjour avec vue, salle d'eau avec double vasque, et WC séparé. Parking gratuit et proximité métro et commerces. LOUIS'APPART 15 annonces 16/11/2026 Voir Contacter",
@@ -40165,7 +40165,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 11 450 € CC* Appartement 21 m 2 Bron (69) 1 pièce 1 chambre DPE : E 178 kWh/m².an 41 kg CO 2 /m².an Bien situé à Bron, appartement meublé en colocation pour 4 étudiants et jeunes actifs. Cuisine équipée, 2 salles d'eau, WC séparés et parking collectif. Accès facile au tram T2 et au périphérique de Lyon. Disponible de suite. INSTANT IMMOBILIER 62 annonces 04/11/2026 Voir Contacter",
@@ -40206,7 +40206,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 6 530 € CC* Appartement 18 m 2 Caluire-et-Cuire (69) Exclusivité 1 pièce Ascenseur DPE : C 214 kWh/m².an 7 kg CO 2 /m².an À Caluire et Cuire, studio meublé de 18,10 m² au 4ème étage avec ascenseur. Dispose d'une pièce principale avec kitchenette et salle d'eau. Proche des commodités et transports, idéal pour une personne seule. Emplacement recherché. Citya Barioz 115 annonces 10/11/2026 Voir Contacter",
@@ -40245,7 +40245,7 @@
    "also": [],
    "dup_of": "bienici:ag261285-529910132",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -40254,7 +40254,7 @@
    "also": [],
    "dup_of": "bienici:ag697112-535198871",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -40263,7 +40263,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 8 690 € CC* Appartement 16 m 2 Écully (69) Exclusivité 1 pièce DPE : E 366 kWh/m².an 13 kg CO 2 /m².an À Écully, ce studio neuf de 16,39 m² (29,54 m² au sol) avec mezzanine propose une pièce de vie lumineuse, cuisine aménagée, salle d'eau et climatisation réversible. Proche des commerces, transports et écoles dans un cadre calme et résidentiel. Citya Barioz 115 annonces 17/11/2026 Voir Contacter",
@@ -40314,7 +40314,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "4 490 € CC* Chambre 11 m 2 Vénissieux (69) 1 pièce DPE : D 228 kWh/m².an 49 kg CO 2 /m².an À Vénissieux, chambre meublée en colocation. Charges comprises (chauffage, eau, électricité). Appartement avec cuisine et sanitaire à partager, placards, double vitrage. Idéal pour ceux recherchant un espace convivial. LOC'A 51 annonces 20/11/2026 Voir Contacter",
@@ -40360,7 +40360,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-LAPP5116171",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -40438,7 +40438,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "3 616 € CC* Appartement 21 m 2 Caluire-et-Cuire (69) Exclusivité 1 pièce DPE : D 239 kWh/m².an 7 kg CO 2 /m².an Bien situé à Caluire-et-Cuire, studio meublé de 20,56 m² au 7e étage d'une résidence récente. Coin cuisine équipé, salle d'eau spacieuse, placard mural. Gardien et laverie dans la résidence. Eau froide incluse dans les charges. Disponible immédiatement. Citya Bourguignon Palluat 75 annonces 15/11/2026 Voir Contacter",
@@ -40513,7 +40513,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "4 605 € CC* Appartement 38 m 2 Vénissieux (69) 2 pièces 1 chambre Ascenseur DPE : C Lumineux 2 pièces de 38m² au 3ème étage . lumineux 2 pièces de 38m² au 3ème étage avec ascenseur; chauffé au gaz & libre immédiatement, il offre: une entrée, séjour/salle à manger, cuisine ouverte/équipée us, chambre avec placards (10m²) avec... Particulier 14/10/2026 Voir Contacter",
@@ -40761,7 +40761,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 7 570 € CC* Chambre 12 m 2 Vénissieux (69) 1 pièce DPE : C 119 kWh/m².an 3 kg CO 2 /m².an Bien situé à Vénissieux, colocation chambre meublée de 12 m² au 1er étage, avec placards et double vitrage. Charges (chauffage, eau, électricité) incluses. Pour plus d'offres, consultez LOCA.FR. LOC'A 51 annonces 21/11/2026 Voir Contacter",
@@ -40800,7 +40800,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "5 482 € CC* Appartement 17 m 2 Écully (69) 1 pièce DPE : E 298 kWh/m².an 9 kg CO 2 /m².an Bien situé dans l'ouest Lyonnais, appartement T1 de 17,33 m² en rez-de-chaussée. Composé d'une pièce de vie, cuisine équipée et salle d'eau. Place de parking incluse. Proche du centre, des bus et de la gare, accès facile à Lyon. VALORITY ADMINISTRATION DE BIENS 250 annonces 02/11/2026 Voir Contacter",
@@ -40889,7 +40889,7 @@
    "also": [],
    "dup_of": "bienici:ag694538-556342760",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -40946,7 +40946,7 @@
    "also": [],
    "dup_of": "bienici:ag694498-539604626",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -40955,7 +40955,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "5 595 € CC* Appartement 34 m 2 Saint-Fons (69) 2 pièces 1 chambre DPE : C Appartement neuf ( 1ere mise en location) au 3e et dernier étage d'un immeuble ancien complétement rénové , sans ascenseur. Bonne isolation ( DPE C) cuisine équipée neuve avec plaques vitro, frigo, hotte et placards , climatisation réversible, compteur elec et eau individuels. chambre avec placard. salle de bain neuve avec douche. disponible de suite. bail et état des lieux d'entrée faits par un professionnel, prévoir des ",
@@ -40994,7 +40994,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 7 683 € CC* Appartement 41 m 2 Écully (69) Exclusivité 2 pièces 1 chambre DPE : D 205 kWh/m².an 6 kg CO 2 /m².an À proximité d'Ecully, découvrez un appartement T2 de 30m² au 1er étage d'un immeuble avec ascenseur. Il comprend une chambre lumineuse, une salle de bain, une cuisine semi-équipée, un salon, une cave et une place de parking. Résidence sécurisée avec jardin et piscine. Citya Vendôme Lumière 114 annonces 20/11/2026 Voir Contacter",
@@ -41196,7 +41196,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES01894005-175",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -41243,7 +41243,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "4 347 € CC* Appartement 21 m 2 Caluire-et-Cuire (69) Exclusivité 1 pièce DPE : C 193 kWh/m².an 7 kg CO 2 /m².an À Caluire-et-Cuire, studio de 21,08 m² en 4e étage d'une résidence étudiante avec ascenseur. Il comprend une pièce principale, cuisine meublée, salle d'eau avec wc. Internet et eau froide inclus. Proche du Parc de la Tête d'Or et transports. Disponible le 1er décembre. Citya Bourguignon Palluat 75 annonces 10/11/2026 Voir Contacter",
@@ -41359,7 +41359,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "1 550 € CC* Appartement 14 m 2 Saint-Fons (69) 1 pièce 1 chambre DPE : D 250 kWh/m².an 50 kg CO 2 /m².an Situé à Saint Fons, studio meublé de 14 m² à louer. Logement réservé aux étudiants avec internet inclus, stationnement possible, balcon ou terrasse, et à proximité des transports et des commerces. LOCService 800 annonces 19/11/2026 Voir Contacter",
@@ -41393,7 +41393,7 @@
    "also": [],
    "dup_of": "bienici:ag690049-505846922",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -41402,7 +41402,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 6 596 € CC* Appartement 41 m 2 Vénissieux (69) Exclusivité 2 pièces DPE : E 305 kWh/m².an 66 kg CO 2 /m².an À Vénissieux, appartement de 2 pièces de 40,79 m² avec cuisine indépendante, séjour sur balcon, salle d'eau et wc. Chauffage individuel au gaz, cave et place de parking privative. Bien soumis au statut de la copropriété. Citya Les Célestins 13 annonces 18/11/2026 Voir Contacter",
@@ -41598,7 +41598,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "3 660 € CC* Appartement 29 m 2 Saint-Fons (69) 2 pièces 1 chambre DPE : D F1 / 2 pièces: 29m2 Cuisine-Salle à manger Réfrigérateur congélateur 2 portes, machine à laver, gazinière 1 chambre avec placard Salle de douche WC Chauffage Éco électrique Double vitrage Doubles volets Nombreux commerces Nombreux commerces Bus C12 60 93 ZI 6 Navette Vélib (tram T10 bientôt) Université Jean Moulin/ Lumière BUS 60 (direct 30minutes) Université Bron BUS 93 (directes 32 minutes) Université Claude Bernard méde",
@@ -41750,7 +41750,7 @@
    "also": [],
    "dup_of": "bienici:century-21-202_3571_20520",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -41799,7 +41799,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 9 492 € CC* Appartement 23 m 2 Caluire-et-Cuire (69) 1 pièce DPE : C 197 kWh/m².an 7 kg CO 2 /m².an À proximité du Parc de la Tête d'Or, studio de 22.68 m² au 2ème étage. Pièce de vie avec alcôve, salle de douche avec WC, cave comprise. Chauffage et eau chaude individuels électriques. Disponible le 14 décembre 2026. IMMOBILIERE DABRETEAU 50 annonces 20/11/2026 Voir Contacter",
@@ -41891,7 +41891,7 @@
    "also": [],
    "dup_of": "bienici:hektor-limmon-2703",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -41900,7 +41900,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "5 660 € CC* Appartement 29 m 2 Saint-Fons (69) 1 pièce 1 chambre DPE : D 250 kWh/m².an 11 kg CO 2 /m².an Bien situé à Saint Fons, appartement T1 de 29 m² à louer. Comprend une cuisine équipée, est proche des transports et des commerces. Disponible immédiatement, propose une location de 1 pièce. LOCService 800 annonces 17/11/2026 Voir Contacter",
@@ -42126,7 +42126,7 @@
    "also": [],
    "dup_of": "bienici:ag694498-552093020",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -42135,7 +42135,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 8 500 € CC* Chambre 12 m 2 Villeurbanne (69) 1 pièce DPE : E 248 kWh/m².an 54 kg CO 2 /m².an Situé à Villeurbanne, cet appartement en colocation propose une chambre meublée de 12m², avec cuisine et sanitaires à partager. Charges comprises incluant chauffage, eau, électricité et internet. Disponible de suite. LOC'A 51 annonces 21/11/2026 Voir Contacter",
@@ -42274,7 +42274,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Nouveau Voir d'autres photos 6 690 € CC* Appartement 40 m 2 Villeurbanne (69) 2 pièces 1 chambre À Villeurbanne, location d'un appartement T2 de 40,14 m² au 4e étage. Exposition plein sud, pièce de vie lumineuse, cuisine équipée, une chambre, salle d'eau avec WC et place de parking privative. Proche des transports en commun. VALORITY ADMINISTRATION DE BIENS 250 annonces 20/11/2026 Voir Contacter",
@@ -42357,7 +42357,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Nouveau Voir d'autres photos 12 530 € CC* Appartement 11 m 2 Bron (69) 1 pièce 1 chambre Située à Bron, cette chambre en colocation de 11,57 m2 se trouve à 5 minutes de la mairie. Maison meublée avec cuisine ouverte, séjour double, jardin et garage double. Idéal pour intégrer une colocation de 4 personnes. Disponible de suite. INSTANT IMMOBILIER 62 annonces 20/11/2026 Voir Contacter Recevez les nouvelles annonces dès leur publication",
@@ -42396,7 +42396,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 7 500 € CC* Chambre 10 m 2 Bron (69) 1 pièce DPE : F 404 kWh/m².an 16 kg CO 2 /m².an Situé à Bron, chambre meublée en colocation. Charges comprises (chauffage, eau, EDF, internet). Cuisine et sanitaires partagés. Double vitrage et placards. Proche de toutes commodités. LOC'A 51 annonces 21/11/2026 Voir Contacter",
@@ -42434,7 +42434,7 @@
    "also": [],
    "dup_of": "leboncoin:3313282382",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -42443,7 +42443,7 @@
    "also": [],
    "dup_of": "bienici:ics-sag_SAGITER_loc-GES14271000-144",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -42452,7 +42452,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Nouveau Voir d'autres photos 6 565 € CC* Appartement 27 m 2 Lyon 5 1 pièce DPE : D 188 kWh/m².an 17 kg CO 2 /m².an Lyon 5ème, rue de Trion, studio meublé de 27m2 au 3ème étage. Cuisine américaine équipée, pièce principale, salle d'eau avec wc. Situé dans un immeuble calme, proche du funiculaire, commerces et écoles. Chauffage et eaux ind. électriques. RAPIN IMMOBILIER 17 annonces 20/11/2026 Voir Contacter",
@@ -42491,7 +42491,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Nouveau Voir d'autres photos 8 362 € CC* Appartement 15 m 2 Lyon 3 1 pièce DPE : C 207 kWh/m².an 7 kg CO 2 /m².an À Lyon, studio de 15,03 m² au 7ème étage avec ascenseur. Comprend une entrée, un coin cuisine, une pièce de vie, salle d'eau avec WC. Chauffage individuel électrique. Disponible le 8 décembre 2026. IMMOBILIERE DABRETEAU 50 annonces 21/11/2026 Voir Contacter",
@@ -42532,7 +42532,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T20:30:17+00:00",
+   "last_seen": "2026-11-21T23:30:22+00:00",
    "listing": {
     "charges": null,
     "description": "Nouveau 3 640 € CC* Appartement 24 m 2 Vénissieux (69) 1 pièce DPE : E 320 kWh/m².an 52 kg CO 2 /m².an À Vénissieux, studio meublé de 24m², situé au 1er étage. Il dispose d'un séjour, d'une kitchenette équipée et d'une salle d'eau. Toutes charges comprises : chauffage, eau et électricité. LOC'A 51 annonces 21/11/2026 Voir Contacter",
