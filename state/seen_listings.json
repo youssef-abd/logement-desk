@@ -5,7 +5,7 @@
    "consecutive_failures": 0,
    "cooldown_until": null,
    "last_error": null,
-   "last_success": "2026-11-21T08:10:20+00:00"
+   "last_success": "2026-11-21T11:13:43+00:00"
   },
   "leboncoin": {
    "blocked_runs": 0,
@@ -13,6 +13,13 @@
    "cooldown_until": "2026-11-21T11:40:16+00:00",
    "last_error": "blocked",
    "last_success": "2026-11-21T09:00:21+00:00"
+  },
+  "paruvendu": {
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
+   "cooldown_until": null,
+   "last_error": null,
+   "last_success": "2026-11-21T11:13:43+00:00"
   }
  },
  "listings": {
@@ -253,7 +260,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 20,
     "description": "Réf. AN006282 - Imodirect vous propose, au 6 rue Félix Jacquier, dans le 6ème arrondissement de Lyon, un agréable studio meublé de 13,74 m², situé au rez-de-chaussée d'un bel immeuble.\n\nCe logement se compose d'une petite entrée, d'une pièce de vie aménagée avec un canapé convertible, une table, une chaise et des rangements, ainsi que d'un coin cuisine équipé de plaques de cuisson et d'un réfrigérateur. Il dispose également d'une salle d'eau avec douche et WC.\n\nLe chauffage est électrique et la ",
@@ -287,7 +294,9 @@
    "status": "active"
   },
   "bienici:ag261285-529910132": {
-   "also": [],
+   "also": [
+    "paruvendu:1290600020"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -800,7 +809,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 50,
     "description": "A LOUER - LYON 7 - COURS GAMBETTA - A DEUX PAS DE LA MANUFACTURE DES TABACS ET DE L'ARRET DE METRO GARIBALDI\nStudio meublé de 18,93 m² au 5ème étage, avec un hall d'entrée, un coin cuisine avec évier, rangement, plaques de cuisson, réfrigérateur, micro-ondes, vaisselles, un séjour de 11.85 m² avec placard aménagé, lit simple, bureau, une salle de bains avec baignoire, lavabo, WC et rangement.\n\nDPE : C\n\nEau chaude et froide comprises dans les charges et chauffage individuel électrique.\n\nApparteme",
@@ -874,7 +883,9 @@
    "status": "active"
   },
   "bienici:ag603630-499691297": {
-   "also": [],
+   "also": [
+    "paruvendu:1293478303"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -1101,7 +1112,9 @@
    "status": "active"
   },
   "bienici:ag603630-522427874": {
-   "also": [],
+   "also": [
+    "paruvendu:1295470310"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -1513,7 +1526,9 @@
    "status": "active"
   },
   "bienici:ag603630-547932830": {
-   "also": [],
+   "also": [
+    "paruvendu:1294928397"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -3016,7 +3031,9 @@
    "status": "active"
   },
   "bienici:ag690014-537470303": {
-   "also": [],
+   "also": [
+    "paruvendu:1297123457"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -3232,7 +3249,9 @@
    "status": "active"
   },
   "bienici:ag690049-505846922": {
-   "also": [],
+   "also": [
+    "paruvendu:1297370895"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -3900,7 +3919,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 50,
     "description": "A LOUER - LYON 7 - COURS GAMBETTA - A DEUX PAS DE LA MANUFACTURE DES TABACS ET DE L'ARRET DE METRO GARIBALDI\nStudio meublé de 18,93 m² au 5ème étage, avec un hall d'entrée, un coin cuisine avec évier, rangement, plaques de cuisson, réfrigérateur, micro-ondes, vaisselles, un séjour de 11.85 m² avec placard aménagé, lit simple, bureau, une salle de bains avec baignoire, lavabo, WC et rangement.\n\nDPE : C\n\nEau chaude et froide comprises dans les charges et chauffage individuel électrique.\n\nApparteme",
@@ -3939,7 +3958,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement de type T1 meublé situé dans une copropriété calme et sécurisée.\nIl se compose d'une entrée, d'une pièce principale, d'une cuisine avec placard, d'une salle d'eau et de toilettes séparées.\n\nLa cuisine est meublée et équipée avec une table et deux bancs, un réfrigérateur, une cuisinière, vaisselle et ustensiles de cuisine, ainsi qu'un lave-linge à disposition.\nDans la pièce principale se trouvent un canapé-lit, une desserte, une commode, un bureau et une lampe sur pied.\n\nSitué dans le",
@@ -4357,7 +4376,9 @@
    "status": "active"
   },
   "bienici:ag692498-537460310": {
-   "also": [],
+   "also": [
+    "paruvendu:1297631077"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -5391,7 +5412,7 @@
    "also": [],
    "dup_of": "leboncoin:3288858116",
    "first_seen": "2026-11-20T22:51:18+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -6557,7 +6578,9 @@
    "status": "active"
   },
   "bienici:ag694498-539604626": {
-   "also": [],
+   "also": [
+    "paruvendu:1296839590"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -6760,7 +6783,9 @@
    "status": "active"
   },
   "bienici:ag694498-552093020": {
-   "also": [],
+   "also": [
+    "paruvendu:1297631073"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -6800,7 +6825,9 @@
    "status": "active"
   },
   "bienici:ag694498-555076373": {
-   "also": [],
+   "also": [
+    "paruvendu:1295336086"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -7239,7 +7266,9 @@
    "status": "active"
   },
   "bienici:ag694538-556342760": {
-   "also": [],
+   "also": [
+    "paruvendu:1296755970"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -7965,7 +7994,9 @@
    "status": "active"
   },
   "bienici:ag696436-514381178": {
-   "also": [],
+   "also": [
+    "paruvendu:1297527948"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -8267,7 +8298,9 @@
    "status": "active"
   },
   "bienici:ag696596-530624972": {
-   "also": [],
+   "also": [
+    "paruvendu:1297509056"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -9100,7 +9133,9 @@
    "status": "active"
   },
   "bienici:ag697112-535198871": {
-   "also": [],
+   "also": [
+    "paruvendu:1291914297"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -9989,7 +10024,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 65,
     "description": "Logement Manda ! Visitez et déposez votre dossier uniquement sur notre plateforme  ! Nous ne vous enverrons jamais le bail ou le RIB par mail - tout est sécurisé sur notre plateforme.\n\nLyon 69007 - 11.97 m² • Studio • Meublé • 578 €\n\nManda vous propose ce beau studio meublé, idéalement situé au 33, Rue Pasteur dans le 7ème arrondissement de Lyon. Parfait pour un étudiant, vous profitez d'une adresse dynamique et recherchée au cœur d'un quartier vivant, à deux pas des universités, des commerces e",
@@ -11861,7 +11896,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": null,
     "description": "Avec IMMOJEUNE, trouvez les meilleurs logements étudiants et jeunes actifs en quelques clics et en toute confiance.\n\nMagnifique studio de 15m²\n\nLes + de la résidence :\n\nLa possibilté de colocation\nToutes charges comprises\nLes commerces de proximité\nLa desserte en termes de transports\n\nMis à jour le 15/11/2026\nUpdated on 15/11/2026",
@@ -11939,7 +11974,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": null,
     "description": "Avec IMMOJEUNE, trouvez les meilleurs logements étudiants et jeunes actifs en quelques clics et en toute confiance.\n\nMagnifique studio meublé de 18m² à 23m² à partir de 373€\nLoyer hors éléctricité\n\nMis à jour le 15/11/2026\nUpdated on 15/11/2026",
@@ -12011,7 +12046,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": null,
     "description": "Avec IMMOJEUNE, trouvez les meilleurs logements étudiants et jeunes actifs en quelques clics et en toute confiance.\n\nT1 de 18 à 21,5 m²\n\nMis à jour le 15/11/2026\nUpdated on 15/11/2026",
@@ -12300,7 +12335,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": null,
     "description": "Avec IMMOJEUNE, trouvez les meilleurs logements étudiants et jeunes actifs en quelques clics et en toute confiance.\n\nCet appartement bénéficie d'une localisation exceptionnelle en plein cœur de Lyon, à proximité immédiate de la place Bellecour et de la gare de Perrache. Idéalement situé sur le quai Claude Bernard, à seulement 100 mètres des Universités Lyon II et Lyon III, ce logement meublé offre un confort optimal et une sécurité renforcée pour les étudiants. Les transports en commun, comme le",
@@ -13668,7 +13703,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 90,
     "description": "47 rue GABRIEL SARRAZIN 69008 LYON -\nA deux pas des facs et du métro ligne D.\n\nLoue Studio de 25.28m2 situé au 2eme étage comprenant un coin cuisine équipé, un salon avec canapé convertible, une salle d'eau et un balcon d'hiver (fermé avec baies vitrés).\nL'eau et le chauffage sont compris dans les charges. \nL'appartement sera disponible le 27 novembre 2023.\nDPE F (410/89)\nEncadrement des loyers : référence : 19€/m2 et majoré : 22.8€/m2\nMerci de nous envoyé votre dossier de location avant toute v",
@@ -15233,7 +15268,9 @@
    "status": "active"
   },
   "bienici:century-21-202_3571_20457": {
-   "also": [],
+   "also": [
+    "paruvendu:1296583127"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -15457,7 +15494,9 @@
    "status": "active"
   },
   "bienici:century-21-202_3571_20520": {
-   "also": [],
+   "also": [
+    "paruvendu:1297528502"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -15534,7 +15573,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 20,
     "description": "A louer - Studio meublé - LYON 9EME METRO VALMY \n\nCitya les Célestins vous propose à la location un studio rénové meublé de 15,53 m² situé place Valmy proximité métro D (Valmy) et proche de toutes commodités. Ce bien comprend une pièce de vie, une kitchenette équipée et une salle d'eau avec wc. \n\nLe bien est soumis à l'encadrement de loyers.\nLoyer de référence 18.10 €/m² et loyer de référence majoré 21.70 €/m². Le complément de loyer est de 118.17 € \n\nDisponibilité : 16 novembre.  Le bien est so",
@@ -15802,7 +15841,9 @@
    "status": "active"
   },
   "bienici:citya-immobilier-30578588300029-LAPP5116171": {
-   "also": [],
+   "also": [
+    "paruvendu:1295063606"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -16697,7 +16738,10 @@
    "status": "active"
   },
   "bienici:citya-immobilier-5041-GES99260015-184": {
-   "also": [],
+   "also": [
+    "paruvendu:1295611414",
+    "paruvendu:1295611415"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -16736,7 +16780,9 @@
    "status": "active"
   },
   "bienici:citya-immobilier-5042-GES01894005-175": {
-   "also": [],
+   "also": [
+    "paruvendu:1297143335"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -18445,7 +18491,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 18,
     "description": "A louer  meublé studio Lyon 8 \nProche commerces et transports en communu (T4 )",
@@ -18482,7 +18528,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 45,
     "description": "Situé Boulevard Eugène Deruelle à Lyon 69003, au sein d’une résidence agréable, ce studio meublé de 24,42 m², situé au 1er étage, offre un cadre de vie pratique et confortable, à proximité des transports, des commerces et des commodités du quartier Part-Dieu.\n\nDescription du bien :\n\n- Pièce principale meublée\n- Cuisine entièrement équipée avec vaisselle\n- Canapé convertible\n- Table et chaise\n- Matériel ménager\n- Laverie commune au sein de la résidence\n\nPerformance énergétique :\n\nDPE : D\n\nGES : B",
@@ -19276,7 +19322,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 46,
     "description": "AUCUNE REPONSE PAR TELEPHONE, PREMIER CONTACT UNIQUEMENT PAR MESSAGE VIACE SITE, MERCI.<br> Disponible dès maintenant.<br> 87 bis rue Joliot Curie - Dans une résidence au calme, avec accès sécurisé et piscine ; Studio de 16,10m2 entièrement meublé au rez-de-chaussée avec vue sur la verdure, sans aucun vis-à-vis.<br> Il se compose d'une entrée donnant sur une pièce de vie avec rangements et coin cuisine aménagée et équipée (plaques de cuisson, réfrigérateur, lave-linge etc.).<br> Eau froide, eau ",
@@ -19849,7 +19895,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 23,
     "description": "Grande rue de Vaise<br> <br>ARCHE GESTION vous propose un bel appartement meublé bénéficiant d'un emplacement privilégié, à proximité immédiate des commerces, des transports en commun (métro D, gare SNCF de Vaise et lignes de bus), ainsi que de toutes les commodités du quotidien.<br>Situé au 3ème étage d'un bel immeuble ancien, cet appartement entièrement rénové se compose d'une entrée avec rangements, d'une cuisine entièrement équipée, d'une salle d'eau avec WC et d'un séjour offrant un agencem",
@@ -20297,7 +20343,9 @@
    "status": "active"
   },
   "bienici:hektor-groupe-hapi_1-290": {
-   "also": [],
+   "also": [
+    "paruvendu:1297633592"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -20619,7 +20667,10 @@
    "status": "active"
   },
   "bienici:hektor-limmon-2703": {
-   "also": [],
+   "also": [
+    "paruvendu:1297548901",
+    "paruvendu:1295435666"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -20700,7 +20751,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 50,
     "description": "11 Place Raspail 69007 LYON<br> Au premier étage avec ascenseur, My Horea Partners vous propose à la location un studio meublé en très bon état. <br> L'appartement dispose d'une entrée, une cuisine américaine ouverte sur le séjour, une sdb et wc séparé. La chambre avec placard se trouve en mezzanine. <br> Pour toute demande de visites, merci de contacter Simon Croutte au <span class=\"importDescriptionDecorator\" data-type=\"phone\">0640349133</span><br>  <br> ZONE SOUMISE A L'ENCADREMENT DES LOYERS",
@@ -22046,7 +22097,10 @@
    "status": "active"
   },
   "bienici:ics-rci_RCI_loc-GES46430004-372": {
-   "also": [],
+   "also": [
+    "paruvendu:1297545027",
+    "paruvendu:1297504785"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -22084,7 +22138,9 @@
    "status": "active"
   },
   "bienici:ics-rci_RCI_loc-GES99560058-787": {
-   "also": [],
+   "also": [
+    "paruvendu:1296768271"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -22645,7 +22701,9 @@
    "status": "active"
   },
   "bienici:ics-sag_SAGITER_loc-GES14271000-144": {
-   "also": [],
+   "also": [
+    "paruvendu:1297685526"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:00:25+00:00",
    "last_seen": "2026-11-21T11:00:25+00:00",
@@ -24799,7 +24857,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 25,
     "description": "Dans un bel immeuble Renaissance typique du Vieux Lyon, avec traboule reliant la rue des Trois Maries, découvrez ce studio meublé de 22 m², au 1er étage sans ascenseur.<br>Il se compose d'une grande pièce à vivre avec coin cuisine équipée et espace repas, d'un lit en mezzanine et canapé, et d'une salle de bains fonctionnelle avec toilettes et lave-linge. <br>Idéalement situé, vous serez à deux pas de la Presqu'île, emplacement privilégié au coeur de l'animation du Vieux Lyon et des commodités du",
@@ -26743,7 +26801,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 98,
     "description": "A proximité de toutes commodités, commerces, universités et transports en commun, découvrez ce studio de 24,87 m² situé au 2ème étage, au 25 rue Pauline Kergomard dans le 7ème arrondissement de Lyon.<br>Studio entièrement meublé et équipé, offrant une surface confortable et un espace de vie fonctionnel, idéal pour étudiant ou jeune actif. La résidence dispose également d'une laverie, un véritable atout au quotidien.<br>Un emplacement pratique pour profiter pleinement de la vie lyonnaise, à proxi",
@@ -27261,7 +27319,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 50,
     "description": "En étage élevé, charmant T1 BIS MEUBLE et TRAVERSANT de 26.79 m² Carrez, offrant une entrée, un séjour PLEIN OUEST avec une alcôve servant de coin nuit, une cuisine séparée équipée et aménagée, une salle d'eau (avec lave-linge) et un WC indépendant. FONCTIONNEL ET LUMINEUX - Proche commerces et transports.<br>DISPONIBLE DES MAINTENANT !<br>LAFORET BELLECOUR <span class=\"importDescriptionDecorator\" data-type=\"phone\">04.78.42.25.25</span><br>*Zone soumise à l'encadrement des loyers <br>- Loyer de ",
@@ -28498,7 +28556,9 @@
    "status": "active"
   },
   "bienici:netty-company55016ajm-appt-2104": {
-   "also": [],
+   "also": [
+    "paruvendu:1297504783"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T11:02:56+00:00",
@@ -29833,7 +29893,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T08:10:20+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
    "listing": {
     "charges": 10,
     "description": "Je m’appelle \"Kiff\". Je suis un studio meublé de 17 m² au 3e étage, et si tu cherches un premier chez-toi sans prise de tête, on devrait bien s’entendre.<br>Mon nom, je le dois à l’ambiance : un canapé-lit turquoise qui met de la couleur sur mes murs blancs, deux grandes fenêtres qui laissent entrer la lumière toute la journée, et une belle hauteur sous plafond qui donne de l’air à ma pièce de vie. Le genre d’endroit où on rentre, on pose son sac, et on se sent bien.<br>Tout est déjà là. Mon séj",
@@ -31420,7 +31480,9 @@
    "status": "active"
   },
   "leboncoin:3313282382": {
-   "also": [],
+   "also": [
+    "paruvendu:1297677919"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
    "last_seen": "2026-11-21T09:00:21+00:00",
@@ -31512,7 +31574,8 @@
     "bienici:ag752861-552303296",
     "bienici:ag752861-541967060",
     "bienici:ag752861-538500965",
-    "bienici:ag752861-521626001"
+    "bienici:ag752861-521626001",
+    "paruvendu:1297557250"
    ],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
@@ -31613,6 +31676,2189 @@
    "last_seen": "2026-11-21T08:40:37+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1288423499": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "5 450 € CC* Appartement 9 m 2 Villeurbanne (69) Exclusivité 1 pièce 1 chambre DPE : C 224 kWh/m².an 47 kg CO 2 /m².an Au c?ur de Villeurbanne, colocation d'une ou deux chambres meublées dans un T4 de 64 m². Espace de vie convivial, cuisine équipée, chambres avec lit et bureau. Balcon et climatisation. Commodités et transports à proximité. Citya Gallichet Lemaitre 22 annonces 04/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/6b/f9/L2NpdF9DSVRZQV9HQUxMSUNIRVRMRU1BSVRSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTI2NzQyOTAtMTExMjYzOTMxODI5OTk1NTM5MzQuanBnPzIwMjYxMTA0MTE0MDM0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/50/6c/L2NpdF9DSVRZQV9HQUxMSUNIRVRMRU1BSVRSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTI2NzQyOTEtNzEwNzU3OTg1NDY4ODIzMDYyMS5qcGc_MjAyNjExMDQxMTQwMzQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/3f/62/L2NpdF9DSVRZQV9HQUxMSUNIRVRMRU1BSVRSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTI2NzQyODQtMTIxOTQ5MDk5MjU4MzUyODIwOTMuanBnPzIwMjYxMTA0MTE0MDM0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/54/75/L2NpdF9DSVRZQV9HQUxMSUNIRVRMRU1BSVRSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTI2NzQyOTItNTA5NTAzNzU5MTMyNTM1OTI4NS5qcGc_MjAyNjExMDQxMTQwMzQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/54/cf/L2NpdF9DSVRZQV9HQUxMSUNIRVRMRU1BSVRSRV90aWMvbG9jYXRpb24vcGhvdG8vOTAtOTAtOTAtOTAtZmlsaWdyYW5lLTI2NzQyNzktODA2NzgwMTQzNzUyMzU1NjAwOS5qcGc_MjAyNjExMDQxMTQwMzQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "published_at": "2026-11-04",
+    "rent_cc": 450,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1288423499",
+    "surface_m2": 9.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 9 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1288423499A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1288493164": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 6 620 € CC* Appartement 32 m 2 Villeurbanne (69) 1 pièce Appartement - 32m². appartement à louer - 32m² je propose à la location un studio de 32 m. situé dans une résidence des années 1990 avec ascenseur, l'appartement est lumineux et bien agencé. il comprend : une pièce principale spacieuse,... Particulier 12/02/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/55/0c/L21lZGlhLXBhL1dJMTcvNi84L1dJMTc2ODI2MTcwXzEuanBlZz8yMDI2MDIxMjA5MTA1NA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/aa/e8/L21lZGlhLXBhL1dJMTcvNi84L1dJMTc2ODI2MTcwXzIuanBlZz8yMDI2MDIxMjA5MTA1NA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/68/df/L21lZGlhLXBhL1dJMTcvNi84L1dJMTc2ODI2MTcwXzMuanBlZz8yMDI2MDIxMjA5MTA1NA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/51/9e/L21lZGlhLXBhL1dJMTcvNi84L1dJMTc2ODI2MTcwXzQuanBlZz8yMDI2MDIxMjA5MTA1NA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/fd/12/L21lZGlhLXBhL1dJMTcvNi84L1dJMTc2ODI2MTcwXzUuanBlZz8yMDI2MDIxMjA5MTA1NA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/8d/1f/L21lZGlhLXBhL1dJMTcvNi84L1dJMTc2ODI2MTcwXzYuanBlZz8yMDI2MDIxMjA5MTA1NA_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "particulier",
+    "published_at": "2026-02-12",
+    "rent_cc": 620,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1288493164",
+    "surface_m2": 32.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 32 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1288493164A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1289437939": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "5 590 € CC* Appartement 12 m 2 Bron (69) Exclusivité 1 pièce DPE : C 135 kWh/m².an 15 kg CO 2 /m².an Situé à Bron, cet appartement meublé à louer en colocation a été entièrement refait à neuf. Il comprend une cuisine équipée, un séjour avec vue, salle d'eau avec double vasque, et WC séparé. Parking gratuit et proximité métro et commerces. LOUIS'APPART 15 annonces 16/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/administration.power-immo.fr/0b/9c/L2ltYWdlcy9pbWFnZXNfYW5ub25jZXMvNS8xMDI2LzEyNTcyXzE3OTI0MDI2NzcxOTI0LmpwZz8yMDI2MTExNjA1MTUwNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/administration.power-immo.fr/72/a6/L2ltYWdlcy9pbWFnZXNfYW5ub25jZXMvNS8xMDI2LzEyNTcyXzE3OTI0MDI2Nzc0MDA4LmpwZz8yMDI2MTExNjA1MTUwNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/administration.power-immo.fr/c0/4e/L2ltYWdlcy9pbWFnZXNfYW5ub25jZXMvNS8xMDI2LzEyNTcyXzE3OTI0MDI2Nzc3NzMuanBnPzIwMjYxMTE2MDUxNTA1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/administration.power-immo.fr/f2/50/L2ltYWdlcy9pbWFnZXNfYW5ub25jZXMvNS8xMDI2LzEyNTcyXzE3OTI0MDI2NzgxMDYuanBnPzIwMjYxMTE2MDUxNTA1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/administration.power-immo.fr/b1/e0/L2ltYWdlcy9pbWFnZXNfYW5ub25jZXMvNS8xMDI2LzEyNTcyXzE3OTI0MDI2Nzg0NjM1LmpwZz8yMDI2MTExNjA1MTUwNQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69500",
+    "poster": "agence",
+    "published_at": "2026-11-16",
+    "rent_cc": 590,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1289437939",
+    "surface_m2": 12.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 12 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1289437939A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1289689077": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 11 450 € CC* Appartement 21 m 2 Bron (69) 1 pièce 1 chambre DPE : E 178 kWh/m².an 41 kg CO 2 /m².an Bien situé à Bron, appartement meublé en colocation pour 4 étudiants et jeunes actifs. Cuisine équipée, 2 salles d'eau, WC séparés et parking collectif. Accès facile au tram T2 et au périphérique de Lyon. Disponible de suite. INSTANT IMMOBILIER 62 annonces 04/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/85/de/L29mZmljZTEyL2luc3RhbnRpbW1vYmlsaWVyXzI0MDYyMC9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNC81LzQvOC84LzEvMy80NDU0ODgxM2EuanBnP0RBVEVNQUo9MzAvMDQvMjAyNS0wMDoyNzo1MCYyMDI2MTEwNDA2NDAyOA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/a4/72/L29mZmljZTEyL2luc3RhbnRpbW1vYmlsaWVyXzI0MDYyMC9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNC81LzQvOC84LzEvMy80NDU0ODgxM2IuanBnP0RBVEVNQUo9MzAvMDQvMjAyNS0wMDoyNzo1MCYyMDI2MTEwNDA2NDAyOA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/7e/10/L29mZmljZTEyL2luc3RhbnRpbW1vYmlsaWVyXzI0MDYyMC9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNC81LzQvOC84LzEvMy80NDU0ODgxM2MuanBnP0RBVEVNQUo9MzAvMDQvMjAyNS0wMDoyNzo1MSYyMDI2MTEwNDA2NDAyOA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/67/1b/L29mZmljZTEyL2luc3RhbnRpbW1vYmlsaWVyXzI0MDYyMC9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNC81LzQvOC84LzEvMy80NDU0ODgxM2QuanBnP0RBVEVNQUo9MzAvMDQvMjAyNS0wMDoyNzo1MSYyMDI2MTEwNDA2NDAyOA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/19/85/L29mZmljZTEyL2luc3RhbnRpbW1vYmlsaWVyXzI0MDYyMC9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNC81LzQvOC84LzEvMy80NDU0ODgxM2UuanBnP0RBVEVNQUo9MzAvMDQvMjAyNS0wMDoyNzo1MSYyMDI2MTEwNDA2NDAyOA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/75/1b/L29mZmljZTEyL2luc3RhbnRpbW1vYmlsaWVyXzI0MDYyMC9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNC81LzQvOC84LzEvMy80NDU0ODgxM2YuanBnP0RBVEVNQUo9MzAvMDQvMjAyNS0wMDoyNzo1MSYyMDI2MTEwNDA2NDAyOA_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69500",
+    "poster": "agence",
+    "published_at": "2026-11-04",
+    "rent_cc": 450,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1289689077",
+    "surface_m2": 21.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 21 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1289689077A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1290079166": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 6 530 € CC* Appartement 18 m 2 Caluire-et-Cuire (69) Exclusivité 1 pièce Ascenseur DPE : C 214 kWh/m².an 7 kg CO 2 /m².an À Caluire et Cuire, studio meublé de 18,10 m² au 4ème étage avec ascenseur. Dispose d'une pièce principale avec kitchenette et salle d'eau. Proche des commodités et transports, idéal pour une personne seule. Emplacement recherché. Citya Barioz 115 annonces 10/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/23/e2/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2F2aXNpdGVycmFwaWRlbWVudC1maWxpZ3JhbmUtbXVyaW1tb18wMDAwMi0xMjk1MjA0MjkwNzg5OTA0Mzk5NC5qcGc_MjAyNjExMTAxMTUxMTY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/84/8d/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1tdXJpbW1vXzAwMDAzLTk3NzE0ODUyODQ3ODg5NDkzMDYuanBnPzIwMjYxMTEwMTE1MTE2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/03/fb/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1tdXJpbW1vXzAwMDA0LTEwNjYwNDM1MDg1MTg2OTY0NjY2LmpwZz8yMDI2MTExMDExNTExNg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/91/93/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1tdXJpbW1vXzAwMDA1LTE2MDkzODg3ODA1OTk3OTM0Mzk0LmpwZz8yMDI2MTExMDExNTExNg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/1c/c5/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1tdXJpbW1vXzAwMDA2LTEzMDYwNzc3MDQwNDg5NzgwNjI3LmpwZz8yMDI2MTExMDExNTExNg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/9e/fe/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1tdXJpbW1vXzAwMDA3LTQyNjE2OTkxMzk0MDA1NzI5MDAuanBnPzIwMjYxMTEwMTE1MTE2_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69300",
+    "poster": "agence",
+    "published_at": "2026-11-10",
+    "rent_cc": 530,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1290079166",
+    "surface_m2": 18.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 18 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1290079166A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1290600020": {
+   "also": [],
+   "dup_of": "bienici:ag261285-529910132",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1291914297": {
+   "also": [],
+   "dup_of": "bienici:ag697112-535198871",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1292699098": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 8 690 € CC* Appartement 16 m 2 Écully (69) Exclusivité 1 pièce DPE : E 366 kWh/m².an 13 kg CO 2 /m².an À Écully, ce studio neuf de 16,39 m² (29,54 m² au sol) avec mezzanine propose une pièce de vie lumineuse, cuisine aménagée, salle d'eau et climatisation réversible. Proche des commerces, transports et écoles dans un cadre calme et résidentiel. Citya Barioz 115 annonces 17/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/45/06/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfNjY1MC0xMzIxNjM4NjkwODk0ODA2MTA2Mi5qcGc_MjAyNjExMTcxMTUxMDI_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/1b/ee/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfNjY0My02Mzg3NjAwODI1NTkyNDg1NTkzLmpwZz8yMDI2MTExNzExNTEwMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/72/8a/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfNjY0Ni01NDA4ODg2NzMxNzYyNTI2MjM0LmpwZz8yMDI2MTExNzExNTEwMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/69/30/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfNjY0Ny04MzIzNjk1NTE1OTQ3NTQ0NTQ5LmpwZz8yMDI2MTExNzExNTEwMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/ee/79/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfNjY0NC0xNzk5MzUzMjMwMzg4NjYzMDg1NS5qcGc_MjAyNjExMTcxMTUxMDI_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/0e/e2/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfNjY0MS05OTY4NTU4MzAzODczNTk3NzQ0LmpwZz8yMDI2MTExNzExNTEwMg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69130",
+    "poster": "agence",
+    "published_at": "2026-11-17",
+    "rent_cc": 690,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1292699098",
+    "surface_m2": 16.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 16 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1292699098A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1293478303": {
+   "also": [],
+   "dup_of": "bienici:ag603630-499691297",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1293804576": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "4 490 € CC* Chambre 11 m 2 Vénissieux (69) 1 pièce DPE : D 228 kWh/m².an 49 kg CO 2 /m².an À Vénissieux, chambre meublée en colocation. Charges comprises (chauffage, eau, électricité). Appartement avec cuisine et sanitaire à partager, placards, double vitrage. Idéal pour ceux recherchant un espace convivial. LOC'A 51 annonces 20/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/f0/e1/L2JpZW5zLzMzNjQ3MTQ4LzZhNzA0OTA3ZDUwM2Q_MjAyNjExMjAwOTUyMjM_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/fe/cb/L2JpZW5zLzMzNjQ3MTQ4LzZhNzA0OTA5NTRlOGU_MjAyNjExMjAwOTUyMjM_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/80/11/L2JpZW5zLzMzNjQ3MTQ4LzZhNzA0OTBhN2YwNjM_MjAyNjExMjAwOTUyMjM_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/28/69/L2JpZW5zLzMzNjQ3MTQ4LzZhNzA0OTE4YmIxMTI_MjAyNjExMjAwOTUyMjM_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69200",
+    "poster": "agence",
+    "published_at": "2026-11-20",
+    "rent_cc": 490,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1293804576",
+    "surface_m2": 11.0,
+    "tags": [],
+    "title": "Chambre - 1 pièce(s) - 11 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/chambre/1293804576A1KILHCM000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1294928397": {
+   "also": [],
+   "dup_of": "bienici:ag603630-547932830",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1295063606": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-30578588300029-LAPP5116171",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1295136193": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 12 569 € CC* Appartement 80 m 2 Villeurbanne (69) 2 pièces 80m2, appartement à la 569euros villeurbanne. 569euros par mois toutes charges comprises 80m2 proche la doua mr pascal Particulier 09/09/2026 Voir Contacter * Loyer mensuel charges comprises. M'envoyer les prochaines annonces Précédent 61 - 90 sur 110 annonces Suivant 1 2 3 4 Recevoir les nouvelles annonces Studio T2 T3 T4 Le top villes pour votre recherche immobilière Vaulx-en-Velin (69120) Lyon Bron (69500) Caluire",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/a9/3a/L21lZGlhLXBhL1dJMTcvNy85L1dJMTc3OTExNzg0XzEuanBlZz8yMDI2MDkwOTE0Mjc1Ng_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/68/d8/L21lZGlhLXBhL1dJMTcvNy85L1dJMTc3OTExNzg0XzIuanBlZz8yMDI2MDkwOTE0Mjc1Ng_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/49/f5/L21lZGlhLXBhL1dJMTcvNy85L1dJMTc3OTExNzg0XzMuanBlZz8yMDI2MDkwOTE0Mjc1Ng_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/90/f5/L21lZGlhLXBhL1dJMTcvNy85L1dJMTc3OTExNzg0XzQuanBlZz8yMDI2MDkwOTE0Mjc1Ng_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/4b/59/L21lZGlhLXBhL1dJMTcvNy85L1dJMTc3OTExNzg0XzUuanBlZz8yMDI2MDkwOTE0Mjc1Ng_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/8d/56/L21lZGlhLXBhL1dJMTcvNy85L1dJMTc3OTExNzg0XzYuanBlZz8yMDI2MDkwOTE0Mjc1Ng_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "particulier",
+    "published_at": "2026-09-09",
+    "rent_cc": 569,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1295136193",
+    "surface_m2": 80.0,
+    "tags": [
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 80 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1295136193A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1295336086": {
+   "also": [],
+   "dup_of": "bienici:ag694498-555076373",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1295435666": {
+   "also": [],
+   "dup_of": "bienici:hektor-limmon-2703",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1295470310": {
+   "also": [],
+   "dup_of": "bienici:ag603630-522427874",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1295579554": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "3 616 € CC* Appartement 21 m 2 Caluire-et-Cuire (69) Exclusivité 1 pièce DPE : D 239 kWh/m².an 7 kg CO 2 /m².an Bien situé à Caluire-et-Cuire, studio meublé de 20,56 m² au 7e étage d'une résidence récente. Coin cuisine équipé, salle d'eau spacieuse, placard mural. Gardien et laverie dans la résidence. Eau froide incluse dans les charges. Disponible immédiatement. Citya Bourguignon Palluat 75 annonces 15/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "available_now",
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/03/e4/L2NpdF9DSVRZQV9CT1VSR1VJR05PTl90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTItLTMxMTExMjk1MjI3MTQ5ODg1MDQuanBnPzIwMjYxMTE1MTI0MDQ3_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/3d/2a/L2NpdF9DSVRZQV9CT1VSR1VJR05PTl90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTEtLTM4NjkwNDc4MTM4NDQ3MzkxMDIuanBnPzIwMjYxMTE1MTI0MDQ3_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/d5/24/L2NpdF9DSVRZQV9CT1VSR1VJR05PTl90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTItLTExNjUzMTA2NTk3MTM5ODMzNjYzLmpwZz8yMDI2MTExNTEyNDA0Nw_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69300",
+    "poster": "agence",
+    "published_at": "2026-11-15",
+    "rent_cc": 616,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1295579554",
+    "surface_m2": 21.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 1 pièce(s) - 21 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1295579554A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1295611414": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-5041-GES99260015-184",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1295611415": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-5041-GES99260015-184",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1295809985": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "4 605 € CC* Appartement 38 m 2 Vénissieux (69) 2 pièces 1 chambre Ascenseur DPE : C Lumineux 2 pièces de 38m² au 3ème étage . lumineux 2 pièces de 38m² au 3ème étage avec ascenseur; chauffé au gaz & libre immédiatement, il offre: une entrée, séjour/salle à manger, cuisine ouverte/équipée us, chambre avec placards (10m²) avec... Particulier 14/10/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "available_now",
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/3a/4a/L21lZGlhLXBhL1dJMTcvNy85L1dJMTc3OTk3Mzg0XzEuanBlZz8yMDI2MTAxNDA5NDUwMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/42/a7/L21lZGlhLXBhL1dJMTcvNy85L1dJMTc3OTk3Mzg0XzIuanBlZz8yMDI2MTAxNDA5NDUwMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/ca/4d/L21lZGlhLXBhL1dJMTcvNy85L1dJMTc3OTk3Mzg0XzMuanBlZz8yMDI2MTAxNDA5NDUwMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/03/9a/L21lZGlhLXBhL1dJMTcvNy85L1dJMTc3OTk3Mzg0XzQuanBlZz8yMDI2MTAxNDA5NDUwMg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69200",
+    "poster": "particulier",
+    "published_at": "2026-10-14",
+    "rent_cc": 605,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1295809985",
+    "surface_m2": 38.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 38 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1295809985A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1295880136": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "3 580 € CC* Chambre 10 m 2 Villeurbanne (69) 1 pièce DPE : D 210 kWh/m².an 44 kg CO 2 /m².an Bien situé à Villeurbanne, chambre meublée à louer chez l'habitant. Comprend placards, digicode et double vitrage. Charges comprises (chauffage, eau, EDF). 10 m², 1 pièce, 1er étage. LOC'A 51 annonces 21/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/90/c2/L2JpZW5zLzM0MDA1OTY4LzZhYmY2OWZiODFmZDM_MjAyNjExMjEwOTUwMzQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/bd/54/L2JpZW5zLzM0MDA1OTY4LzZhYmY2OWZhZGRiZGU_MjAyNjExMjEwOTUwMzQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/cb/8b/L2JpZW5zLzM0MDA1OTY4LzZhYmY2OWY5ZTJmOWU_MjAyNjExMjEwOTUwMzQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "published_at": "2026-11-21",
+    "rent_cc": 580,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1295880136",
+    "surface_m2": 10.0,
+    "tags": [],
+    "title": "Chambre - 1 pièce(s) - 10 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/chambre/1295880136A1KILHCM000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1296002791": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "4 450 € CC* Appartement 10 m 2 Villeurbanne (69) Exclusivité 1 pièce 1 chambre DPE : D 224 kWh/m².an 47 kg CO 2 /m².an Chambre meublée en colocation à louer dans un T4 de 64m², situé au rez-de-chaussée. Espace de vie collectif, cuisine équipée, balcon, climatisation. Proche commerces, établissements d'enseignement supérieur et transports en commun. Deux chambres disponibles. Citya Gallichet Lemaitre 22 annonces 04/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/55/7a/L2NpdF9DSVRZQV9HQUxMSUNIRVRMRU1BSVRSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTEtLTE3NjEzNjEwNzMxMTg1MzIyNjE1LmpwZz8yMDI2MTEwNDExMzkzMQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/48/5c/L2NpdF9DSVRZQV9HQUxMSUNIRVRMRU1BSVRSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTItLTE2OTY5NTUzMjY5MDUzNzA4MTQwLmpwZz8yMDI2MTEwNDExMzkzMQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/7f/b2/L2NpdF9DSVRZQV9HQUxMSUNIRVRMRU1BSVRSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTQtLTY5NjQ0MTU1NzY0MzQ3MTQ0MzIuanBnPzIwMjYxMTA0MTEzOTMx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/83/23/L2NpdF9DSVRZQV9HQUxMSUNIRVRMRU1BSVRSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTUtLTE2ODg3MDU2NDIxOTQ1NjUzMTkzLmpwZz8yMDI2MTEwNDExMzkzMQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "published_at": "2026-11-04",
+    "rent_cc": 450,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1296002791",
+    "surface_m2": 10.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 10 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296002791A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1296003023": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "4 591 € CC* Appartement 30 m 2 Villeurbanne (69) Exclusivité 1 pièce DPE : D 248 kWh/m².an 7 kg CO 2 /m².an À Villeurbanne, appartement T1 à louer, 29,72 m². Composé d'une entrée avec séjour, coin cuisine, salle de douche et WC. Proche tramway et commerces. Chauffage individuel électrique. Établissements scolaires à proximité. Citya Barioz 115 annonces 15/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/5d/e0/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0xLS00ODc2MjE2NDk0NzIxNTA1OTA4LmpwZz8yMDI2MTExNTEyNDA0Nw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/a5/4a/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0yLS0zMjQxNzUzNTE2ODEzOTA3MjY3LmpwZz8yMDI2MTExNTEyNDA0Nw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/67/fa/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0zLS0xODM5NTI5NTA3ODA5NjkzODk0MC5qcGc_MjAyNjExMTUxMjQwNDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/10/09/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS00LS0xMTczNjE4NTcwODEyNDI0OTk0MC5qcGc_MjAyNjExMTUxMjQwNDc_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "published_at": "2026-11-15",
+    "rent_cc": 591,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1296003023",
+    "surface_m2": 30.0,
+    "tags": [
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 30 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296003023A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1296494944": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 7 570 € CC* Chambre 12 m 2 Vénissieux (69) 1 pièce DPE : C 119 kWh/m².an 3 kg CO 2 /m².an Bien situé à Vénissieux, colocation chambre meublée de 12 m² au 1er étage, avec placards et double vitrage. Charges (chauffage, eau, électricité) incluses. Pour plus d'offres, consultez LOCA.FR. LOC'A 51 annonces 21/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/c5/34/L2JpZW5zLzM0MDk1OTUxLzZhZDg3MGQwMjNjYTg_MjAyNjExMjEwOTUwMzY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/aa/74/L2JpZW5zLzM0MDk1OTUxLzZhZDg3MGQxMDdjODM_MjAyNjExMjEwOTUwMzY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/c7/f1/L2JpZW5zLzM0MDk1OTUxLzZhZDg3MGQyNTA4Njg_MjAyNjExMjEwOTUwMzY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/bc/a2/L2JpZW5zLzM0MDk1OTUxLzZhZDg3MGQzNTQ3YzY_MjAyNjExMjEwOTUwMzY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/37/4c/L2JpZW5zLzM0MDk1OTUxLzZhZDg3MGQ1OWNhODU_MjAyNjExMjEwOTUwMzY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/fe/4b/L2JpZW5zLzM0MDk1OTUxLzZhZDg3MGQ2NWI0Mjc_MjAyNjExMjEwOTUwMzY_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69200",
+    "poster": "agence",
+    "published_at": "2026-11-21",
+    "rent_cc": 570,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1296494944",
+    "surface_m2": 12.0,
+    "tags": [],
+    "title": "Chambre - 1 pièce(s) - 12 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/chambre/1296494944A1KILHCM000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1296524200": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "5 482 € CC* Appartement 17 m 2 Écully (69) 1 pièce DPE : E 298 kWh/m².an 9 kg CO 2 /m².an Bien situé dans l'ouest Lyonnais, appartement T1 de 17,33 m² en rez-de-chaussée. Composé d'une pièce de vie, cuisine équipée et salle d'eau. Place de parking incluse. Proche du centre, des bus et de la gare, accès facile à Lyon. VALORITY ADMINISTRATION DE BIENS 250 annonces 02/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/8a/5f/LzY5NDUzOC81NTUyOTQwODAvcGhvdG9zLzEuanBnPzIwMjYxMTAyMTUwNDQ2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/7d/b3/LzY5NDUzOC81NTUyOTQwODAvcGhvdG9zLzIuanBnPzIwMjYxMTAyMTUwNDQ2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/6f/25/LzY5NDUzOC81NTUyOTQwODAvcGhvdG9zLzMuanBnPzIwMjYxMTAyMTUwNDQ2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/1c/18/LzY5NDUzOC81NTUyOTQwODAvcGhvdG9zLzQuanBnPzIwMjYxMTAyMTUwNDQ2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/21/3f/LzY5NDUzOC81NTUyOTQwODAvcGhvdG9zLzUuanBnPzIwMjYxMTAyMTUwNDQ2_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69130",
+    "poster": "agence",
+    "published_at": "2026-11-02",
+    "rent_cc": 482,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1296524200",
+    "surface_m2": 17.0,
+    "tags": [
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 17 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296524200A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1296583127": {
+   "also": [],
+   "dup_of": "bienici:century-21-202_3571_20457",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1296630316": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "4 620 € CC* Appartement 42 m 2 Lyon 7 Exclusivité 2 pièces 1 chambre DPE : E 295 kWh/m².an 63 kg CO 2 /m².an À Lyon 7, appartement T2 de 42 m² au 3ème étage. Coin cuisine ouvert sur séjour, chambre, W.C, salle d'eau. Situé près des transports et commerces, chauffage individuel au gaz. Charges pour entretien des parties communes incluses. CORNEILLE ST MARC 73 annonces 24/10/2026 Voir Contacter",
+    "district": "Lyon 7e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/16/83/L2Nvcl9DT1JORUlMTEVfaWtsL2xvY2F0aW9uL3Bob3RvLzkwLUlNR181Njc3LTE3MDIwNDAzNTExNzYxNjI0Nzg4LmpwZz8yMDI2MTAyNDIwMTcyNg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/6b/32/L2Nvcl9DT1JORUlMTEVfaWtsL2xvY2F0aW9uL3Bob3RvL2ZpbGUtODcxMjc0OTkxMjA1MjE3NDM3NS5qcGc_MjAyNjEwMjQyMDE3MjY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/42/38/L2Nvcl9DT1JORUlMTEVfaWtsL2xvY2F0aW9uL3Bob3RvLzkwLUlNR181Njc1LTE1NTcwMzI0ODI0OTQ3Njc3ODQ4LmpwZz8yMDI2MTAyNDIwMTcyNg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/8e/a9/L2Nvcl9DT1JORUlMTEVfaWtsL2xvY2F0aW9uL3Bob3RvLzkwLUlNR181Njc2LTE2MjExMDU2MTU5MTEyNDQxODI2LmpwZz8yMDI2MTAyNDIwMTcyNg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "published_at": "2026-10-24",
+    "rent_cc": 620,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1296630316",
+    "surface_m2": 42.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 42 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296630316A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1296755970": {
+   "also": [],
+   "dup_of": "bienici:ag694538-556342760",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1296768271": {
+   "also": [],
+   "dup_of": "bienici:ics-rci_RCI_loc-GES99560058-787",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1296839590": {
+   "also": [],
+   "dup_of": "bienici:ag694498-539604626",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1296852186": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "5 595 € CC* Appartement 34 m 2 Saint-Fons (69) 2 pièces 1 chambre DPE : C Appartement neuf ( 1ere mise en location) au 3e et dernier étage d'un immeuble ancien complétement rénové , sans ascenseur. Bonne isolation ( DPE C) cuisine équipée neuve avec plaques vitro, frigo, hotte et placards , climatisation réversible, compteur elec et eau individuels. chambre avec placard. salle de bain neuve avec douche. disponible de suite. bail et état des lieux d'entrée faits par un professionnel, prévoir des ",
+    "district": null,
+    "flags": [
+     "agency_fees",
+     "charges_cc",
+     "garant"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/d6/0b/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTI1MTY0XzEuanBlZz8yMDI2MTAzMDEyNDE0Mw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/48/86/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTI1MTY0XzIuanBlZz8yMDI2MTAzMDEyNDE0Mw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/fd/ce/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTI1MTY0XzMuanBlZz8yMDI2MTAzMDEyNDE0Mw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/57/5a/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTI1MTY0XzQuanBlZz8yMDI2MTAzMDEyNDE0Mw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/2f/41/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTI1MTY0XzUuanBlZz8yMDI2MTAzMDEyNDE0Mw_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69190",
+    "poster": "particulier",
+    "published_at": "2026-10-30",
+    "rent_cc": 595,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1296852186",
+    "surface_m2": 34.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 34 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296852186A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1296886496": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 7 683 € CC* Appartement 41 m 2 Écully (69) Exclusivité 2 pièces 1 chambre DPE : D 205 kWh/m².an 6 kg CO 2 /m².an À proximité d'Ecully, découvrez un appartement T2 de 30m² au 1er étage d'un immeuble avec ascenseur. Il comprend une chambre lumineuse, une salle de bain, une cuisine semi-équipée, un salon, une cave et une place de parking. Résidence sécurisée avec jardin et piscine. Citya Vendôme Lumière 114 annonces 20/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/fa/b0/L2NpdF9DSVRZQV9WRU5ET01FTFVNSUVSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLXBpc2NpbmUtNDM4NDExODk5OTcyNDMzMTE1NC5qcGc_MjAyNjExMjAxMTUwNDE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/e8/e5/L2NpdF9DSVRZQV9WRU5ET01FTFVNSUVSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLXNhbG9uLTIzNTc5MDc5MDY3MDA1MzMyMy5qcGc_MjAyNjExMjAxMTUwNDE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/e3/78/L2NpdF9DSVRZQV9WRU5ET01FTFVNSUVSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLWNvdWxvaXItNTQ3NDAxNjk2NjYzODE4Mjc4Ni5qcGc_MjAyNjExMjAxMTUwNDE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/d9/cf/L2NpdF9DSVRZQV9WRU5ET01FTFVNSUVSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLWNoLTM1NDg3OTczMTYxNTMyNzIxMTIuanBnPzIwMjYxMTIwMTE1MDQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/2b/48/L2NpdF9DSVRZQV9WRU5ET01FTFVNSUVSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLWNoMi04MDY5ODU2MDkyNzYxMzcxMjMuanBnPzIwMjYxMTIwMTE1MDQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/2e/38/L2NpdF9DSVRZQV9WRU5ET01FTFVNSUVSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLWN1aWluZS01OTcwNjgzODczMTYxOTUwMjczLmpwZz8yMDI2MTEyMDExNTA0MQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69130",
+    "poster": "agence",
+    "published_at": "2026-11-20",
+    "rent_cc": 683,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1296886496",
+    "surface_m2": 41.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 2 pièce(s) - 41 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296886496A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297023177": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "5 375 € CC* Appartement 10 m 2 Lyon 3 Exclusivité 1 pièce DPE : D 387 kWh/m².an 11 kg CO 2 /m².an Bien situé à Lyon, studio meublé de 10,10 m² au 3ème étage sans ascenseur. Proche du métro Saxe-Gambetta et des commerces. Ce logement propose une pièce de vie avec kitchenette et une salle d'eau. Disponible le 14 novembre. Citya Bourguignon Palluat 75 annonces 18/11/2026 Voir Contacter",
+    "district": "Lyon 3e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/f0/47/L2NpdF9DSVRZQV9CT1VSR1VJR05PTl90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUJlcmtsZXlfMy0yNzQ4MDYyMTkwNjYzNTc2NzQ5LmpwZz8yMDI2MTExODExNTAwOQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/77/de/L2NpdF9DSVRZQV9CT1VSR1VJR05PTl90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUJlcmtsZXlfRGViZWF1eC01OTU4NDQ5MjQ2NTQ4MDEwMTAyLmpwZz8yMDI2MTExODExNTAwOQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/c4/3d/L2NpdF9DSVRZQV9CT1VSR1VJR05PTl90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUJlcmtsZXlfNC00OTg4NjQzODgxNTAwNDk0MzgyLmpwZz8yMDI2MTExODExNTAwOQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/f7/e3/L2NpdF9DSVRZQV9CT1VSR1VJR05PTl90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUN1aXNpbmUtOTA4NTAxMjY5MDY3NzI3NjUwNi5qcGc_MjAyNjExMTgxMTUwMDk_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/2c/5d/L2NpdF9DSVRZQV9CT1VSR1VJR05PTl90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLVNhbGxlX2RfZWF1LTM4MDQ0OTA4ODkyNTgzOTE3NjcuanBnPzIwMjYxMTE4MTE1MDA5_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "published_at": "2026-11-18",
+    "rent_cc": 375,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297023177",
+    "surface_m2": 10.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 10 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297023177A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297120712": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "4 550 € CC* Appartement 22 m 2 Lyon 5 1 pièce DPE : D 261 kWh/m².an 30 kg CO 2 /m².an Lyon 5ème/St Just, studio meublé de 22,13m² situé dans un bel ancien rénové. Il comprend une cuisine équipée, une pièce principale en parquet, une salle d'eau avec WC. Proche du funiculaire, des écoles et des commerces. Disponible de suite. RAPIN IMMOBILIER 17 annonces 06/11/2026 Voir Contacter",
+    "district": "Lyon 5e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/rapin-immo.staticlbi.com/66/6f/L3dhL2ltYWdlcy9iaWVucy8xLzM4NzFiZDY0MDEyMTUyYmZiNTNmZGYwNGI0MDExOTNmLzkzMjYtMDEtNzYwOTExOC1jLmpwZz8yMDI2MTEwNjIzNDg0OQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/rapin-immo.staticlbi.com/55/61/L3dhL2ltYWdlcy9iaWVucy8xLzM4NzFiZDY0MDEyMTUyYmZiNTNmZGYwNGI0MDExOTNmLzkzMjYtMDEtNzYwOTExOC1iLmpwZz8yMDI2MTEwNjIzNDg0OQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/rapin-immo.staticlbi.com/6f/7e/L3dhL2ltYWdlcy9iaWVucy8xLzM4NzFiZDY0MDEyMTUyYmZiNTNmZGYwNGI0MDExOTNmLzkzMjYtMDEtNzYwOTExOC1hLmpwZz8yMDI2MTEwNjIzNDg0OQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/rapin-immo.staticlbi.com/7e/12/L3dhL2ltYWdlcy9iaWVucy8xLzM4NzFiZDY0MDEyMTUyYmZiNTNmZGYwNGI0MDExOTNmLzkzMjYtMDEtNzYwOTExOC1kLmpwZz8yMDI2MTEwNjIzNDg0OQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "published_at": "2026-11-06",
+    "rent_cc": 550,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297120712",
+    "surface_m2": 22.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 22 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297120712A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297123457": {
+   "also": [],
+   "dup_of": "bienici:ag690014-537470303",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297143335": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-5042-GES01894005-175",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297224028": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "5 580 € CC* Appartement 9 m 2 Villeurbanne (69) 1 pièce 1 chambre DPE : D 250 kWh/m².an 11 kg CO 2 /m².an Bien situé à Villeurbanne, chambre meublée de 9 m² à louer. Logement réservé aux étudiants, avec cuisine possible, internet inclus, ascenseur et proche des transports et commerces. LOCService 800 annonces 09/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/75/4c/LzU2MjA4Ni81NTg4NTc0ODAvcGhvdG9zLzEuanBnPzIwMjYxMTA5MjAxNjU2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/99/ac/LzU2MjA4Ni81NTg4NTc0ODAvcGhvdG9zLzIuanBnPzIwMjYxMTA5MjAxNjU2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/f0/d1/LzU2MjA4Ni81NTg4NTc0ODAvcGhvdG9zLzMuanBnPzIwMjYxMTA5MjAxNjU2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/a8/c8/LzU2MjA4Ni81NTg4NTc0ODAvcGhvdG9zLzQuanBnPzIwMjYxMTA5MjAxNjU2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/4e/90/LzU2MjA4Ni81NTg4NTc0ODAvcGhvdG9zLzUuanBnPzIwMjYxMTA5MjAxNjU2_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "published_at": "2026-11-09",
+    "rent_cc": 580,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297224028",
+    "surface_m2": 9.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 9 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297224028A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297268553": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "4 347 € CC* Appartement 21 m 2 Caluire-et-Cuire (69) Exclusivité 1 pièce DPE : C 193 kWh/m².an 7 kg CO 2 /m².an À Caluire-et-Cuire, studio de 21,08 m² en 4e étage d'une résidence étudiante avec ascenseur. Il comprend une pièce principale, cuisine meublée, salle d'eau avec wc. Internet et eau froide inclus. Proche du Parc de la Tête d'Or et transports. Disponible le 1er décembre. Citya Bourguignon Palluat 75 annonces 10/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/ac/8e/L2NpdF9DSVRZQV9CT1VSR1VJR05PTl90aWMvbG9jYXRpb24vcGhvdG8vSU1HX0U0MTY3LTg3OTM2NzQ4OTI3NDYyMzEzODIuanBnPzIwMjYxMTEwMjAxNzE1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/c2/c7/L2NpdF9DSVRZQV9CT1VSR1VJR05PTl90aWMvbG9jYXRpb24vcGhvdG8vSU1HX0U0MTY2LTcyMzQyNTI0NzM3NjUzMTE4NDcuanBnPzIwMjYxMTEwMjAxNzE1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/ed/a8/L2NpdF9DSVRZQV9CT1VSR1VJR05PTl90aWMvbG9jYXRpb24vcGhvdG8vOC0tMzA4NDMzNzcyMTk2MDQ0Nzg0MC5qcGc_MjAyNjExMTAyMDE3MTU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/fb/f9/L2NpdF9DSVRZQV9CT1VSR1VJR05PTl90aWMvbG9jYXRpb24vcGhvdG8vMS0tMzM3NjQzNzkwMTE0NzIwMzI5Ny5qcGc_MjAyNjExMTAyMDE3MTU_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69300",
+    "poster": "agence",
+    "published_at": "2026-11-10",
+    "rent_cc": 347,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297268553",
+    "surface_m2": 21.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 21 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297268553A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297289718": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Urgent ! 4 675 € CC* Appartement 35 m 2 Lyon 2 2 pièces 1 chambre Ascenseur DPE : C Au 3ème étage d'un immeuble sécurisé avec ascenseur. au 3ème étage d'un immeuble sécurisé avec ascenseur, bel appartement 2 pièces de 35m² proche de toutes commodités; exposé plein sud & chauffé au gaz, il offre: une entrée, séjour, cuisine... Particulier 11/11/2026 Voir Contacter",
+    "district": "Lyon 2e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/05/b7/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTcxMzIxXzEuanBlZz8yMDI2MTExMTE3NDUwMw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/67/7f/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTcxMzIxXzIuanBlZz8yMDI2MTExMTE3NDUwMw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/e0/66/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTcxMzIxXzMuanBlZz8yMDI2MTExMTE3NDUwMw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/9e/92/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTcxMzIxXzQuanBlZz8yMDI2MTExMTE3NDUwMw_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69002",
+    "poster": "particulier",
+    "published_at": "2026-11-11",
+    "rent_cc": 675,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297289718",
+    "surface_m2": 35.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 2 pièce(s) - 35 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297289718A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297297223": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 9 579 € CC* Appartement 12 m 2 Lyon 8 1 pièce 1 chambre DPE : E 280 kWh/m².an 9 kg CO 2 /m².an Lyon 8ème, studio meublé de 12.23m² au 2ème étage sans ascenseur. Il comprend une belle pièce de vie, coin cuisine aménagée, bureau, espace nuit, buanderie et salle d'eau avec WC. Chauffage et eau chaude individuels électriques. IMMOBILIERE DABRETEAU 50 annonces 17/11/2026 Voir Contacter",
+    "district": "Lyon 8e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/c8/62/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvNC80LzMvNS80LzYvMC8wLzQ0MzU0NjAwYS5qcGc_REFURU1BSj0xNi8xMS8yMDI2LTEwOjMyOjU2JjIwMjYxMTE3MDY1NjUy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/38/4d/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvNC80LzMvNS80LzYvMC8wLzQ0MzU0NjAwYi5qcGc_REFURU1BSj0xNi8xMS8yMDI2LTEwOjMyOjU2JjIwMjYxMTE3MDY1NjUy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/a2/e4/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvNC80LzMvNS80LzYvMC8wLzQ0MzU0NjAwYy5qcGc_REFURU1BSj0xNi8xMS8yMDI2LTEwOjMyOjU2JjIwMjYxMTE3MDY1NjUy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/a5/a7/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvNC80LzMvNS80LzYvMC8wLzQ0MzU0NjAwZC5qcGc_REFURU1BSj0xNi8xMS8yMDI2LTEwOjMyOjU2JjIwMjYxMTE3MDY1NjUy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/8a/bc/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvNC80LzMvNS80LzYvMC8wLzQ0MzU0NjAwZS5qcGc_REFURU1BSj0xNi8xMS8yMDI2LTEwOjMyOjU2JjIwMjYxMTE3MDY1NjUy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/5d/ee/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvNC80LzMvNS80LzYvMC8wLzQ0MzU0NjAwZi5qcGc_REFURU1BSj0xNi8xMS8yMDI2LTEwOjMyOjU2JjIwMjYxMTE3MDY1NjUy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-11-17",
+    "rent_cc": 579,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297297223",
+    "surface_m2": 12.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 12 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297297223A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297352610": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "1 550 € CC* Appartement 14 m 2 Saint-Fons (69) 1 pièce 1 chambre DPE : D 250 kWh/m².an 50 kg CO 2 /m².an Situé à Saint Fons, studio meublé de 14 m² à louer. Logement réservé aux étudiants avec internet inclus, stationnement possible, balcon ou terrasse, et à proximité des transports et des commerces. LOCService 800 annonces 19/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/b8/36/LzU2MjA4Ni81NTk1MDUyOTcvcGhvdG9zLzEuanBnPzIwMjYxMTE5MTMzMjEx_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69190",
+    "poster": "agence",
+    "published_at": "2026-11-19",
+    "rent_cc": 550,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297352610",
+    "surface_m2": 14.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 14 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297352610A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297370895": {
+   "also": [],
+   "dup_of": "bienici:ag690049-505846922",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297390230": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 6 596 € CC* Appartement 41 m 2 Vénissieux (69) Exclusivité 2 pièces DPE : E 305 kWh/m².an 66 kg CO 2 /m².an À Vénissieux, appartement de 2 pièces de 40,79 m² avec cuisine indépendante, séjour sur balcon, salle d'eau et wc. Chauffage individuel au gaz, cave et place de parking privative. Bien soumis au statut de la copropriété. Citya Les Célestins 13 annonces 18/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/14/20/L2NpdF9DSVRZQV9SRUdJRUNFTEVTVElOUzJfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMTk1OC0xNjM2ODc3NTA4ODQzNTQyOTI1My5qcGc_MjAyNjExMTgxMTQyMTE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/c4/7e/L2NpdF9DSVRZQV9SRUdJRUNFTEVTVElOUzJfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMTk2NS0xNDMwMjQ1MzY0MjE5OTM3NTYzOC5qcGc_MjAyNjExMTgxMTQyMTE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/d7/77/L2NpdF9DSVRZQV9SRUdJRUNFTEVTVElOUzJfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMTk2MC00MzIzMjg5NzM3MTA2ODg0OTQxLmpwZz8yMDI2MTExODExNDIxMQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/e5/50/L2NpdF9DSVRZQV9SRUdJRUNFTEVTVElOUzJfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMTk3Ny0xMjMxNzk0MTk3MjI5NTMwNjk2LmpwZz8yMDI2MTExODExNDIxMQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/39/4d/L2NpdF9DSVRZQV9SRUdJRUNFTEVTVElOUzJfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMTk3NC01Nzc1MzgwODMyMjgyMTEyMDE1LmpwZz8yMDI2MTExODExNDIxMQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/6b/9d/L2NpdF9DSVRZQV9SRUdJRUNFTEVTVElOUzJfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0xNzIxNjY3MzMwOTc4LTU4OTg4MzY2NTI1NDc1ODU3NTcuanBnPzIwMjYxMTE4MTE0MjEx_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69200",
+    "poster": "agence",
+    "published_at": "2026-11-18",
+    "rent_cc": 596,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297390230",
+    "surface_m2": 41.0,
+    "tags": [
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 41 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297390230A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297390427": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "3 449 € CC* Appartement 19 m 2 Lyon 9 Exclusivité 1 pièce Ascenseur DPE : D 194 kWh/m².an 36 kg CO 2 /m².an Bien situé à Lyon 09, appartement T1 de 19 m² en résidence étudiante sécurisée. Comprend une pièce principale avec coin cuisine équipée, salle de bains. Inclus : chauffage, eau froide et chaude. Proche métro Gare de Vaise. Citya Vendôme Lumière 114 annonces 15/11/2026 Voir Contacter",
+    "district": "Lyon 9e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/1a/1d/L2NpdF9DSVRZQV9WRU5ET01FTFVNSUVSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTIwMjEwNjA4XzE1MzgwMC0zODIzNjQ3ODQxNzU0NzQ1Mjk5LmpwZz8yMDI2MTExNTExNDkzMA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/5d/58/L2NpdF9DSVRZQV9WRU5ET01FTFVNSUVSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTIwMjEwNjA4XzE1MzgyNC00NjE1MDY3NzMyNTM2NDA5MzAyLmpwZz8yMDI2MTExNTExNDkzMA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/aa/1f/L2NpdF9DSVRZQV9WRU5ET01FTFVNSUVSRV90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTIwMjEwNjA4XzE1MzgzMC03NDYyMTEwNDgxMzgwODIyMzczLmpwZz8yMDI2MTExNTExNDkzMA_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "published_at": "2026-11-15",
+    "rent_cc": 449,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297390427",
+    "surface_m2": 19.0,
+    "tags": [
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 19 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297390427A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297392409": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "4 620 € CC* Appartement 33 m 2 Lyon 8 2 pièces 1 chambre DPE : E 330 kWh/m².an 70 kg CO 2 /m².an Lyon 08, appartement T2 de 33 m² à louer meublé. Avantages : cuisine équipée, proximité transport et commerces. Disponible immédiatement. LOCService 800 annonces 20/11/2026 Voir Contacter",
+    "district": "Lyon 8e",
+    "flags": [
+     "available_now",
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/82/e5/LzU2MjA4Ni81NTk3MjE4MDEvcGhvdG9zLzEuanBnPzIwMjYxMTIwMTMyODAw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/f7/61/LzU2MjA4Ni81NTk3MjE4MDEvcGhvdG9zLzIuanBnPzIwMjYxMTIwMTMyODAw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/d7/b7/LzU2MjA4Ni81NTk3MjE4MDEvcGhvdG9zLzMuanBnPzIwMjYxMTIwMTMyODAw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/49/f2/LzU2MjA4Ni81NTk3MjE4MDEvcGhvdG9zLzQuanBnPzIwMjYxMTIwMTMyODAw_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-11-20",
+    "rent_cc": 620,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297392409",
+    "surface_m2": 33.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 2 pièce(s) - 33 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297392409A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297399565": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Urgent ! 4 550 € CC* Appartement 24 m 2 Lyon 2 1 pièce 1 chambre DPE : C Beau studio de 24m² meublé avec cuisine équipée (Four, évier, plaque électrique, hotte, frigo-congélateur) et une salle de bains avec WC. Il est composé d'une literie, d'un dressing, table, chaises et tous les ustensiles nécessaires à la préparation. Cé bien bénéficie se situe Rue de fleurieu d'un emplacement recherché, à proximité immédiate des universités, des transports en commun et des stations, charges Parking Particul",
+    "district": "Lyon 2e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/e7/9c/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTgxNDc3XzEuanBlZz8yMDI2MTExMzE3NDUwMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/a3/c0/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTgxNDc3XzIuanBlZz8yMDI2MTExMzE3NDUwMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/08/8d/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTgxNDc3XzMuanBlZz8yMDI2MTExMzE3NDUwMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/0e/f2/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTgxNDc3XzQuanBlZz8yMDI2MTExMzE3NDUwMg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69002",
+    "poster": "particulier",
+    "published_at": "2026-11-13",
+    "rent_cc": 550,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297399565",
+    "surface_m2": 24.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 24 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297399565A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297413428": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 10 695 € CC* Appartement 29 m 2 Lyon 5 Exclusivité 1 pièce DPE : E 329 kWh/m².an 13 kg CO 2 /m².an Au coeur du Vieux Lyon, appartement T1 bis meublé de 29,57 m² au 5ème et dernier étage. Pièce à vivre avec cuisine équipée, espace bureau, espace couchage, salle d'eau avec WC. Belle vue sur Fourvière. Disponible dès maintenant. PIERRE DE LUNE IMMOBILIER 50 annonces 360 Visite 360° 14/11/2026 Voir Contacter",
+    "district": "Lyon 5e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/d0/97/LzY5NjA5Ny81NTk4MzAwNTAvcGhvdG9zLzEuanBnPzIwMjYxMTE0MDcyNTA4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/84/7d/LzY5NjA5Ny81NTk4MzAwNTAvcGhvdG9zLzIuanBnPzIwMjYxMTE0MDcyNTA4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/1e/9c/LzY5NjA5Ny81NTk4MzAwNTAvcGhvdG9zLzMuanBnPzIwMjYxMTE0MDcyNTA4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/b1/ff/LzY5NjA5Ny81NTk4MzAwNTAvcGhvdG9zLzQuanBnPzIwMjYxMTE0MDcyNTA4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/5e/ea/LzY5NjA5Ny81NTk4MzAwNTAvcGhvdG9zLzUuanBnPzIwMjYxMTE0MDcyNTA4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/61/09/LzY5NjA5Ny81NTk4MzAwNTAvcGhvdG9zLzYuanBnPzIwMjYxMTE0MDcyNTA4_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "published_at": "2026-11-14",
+    "rent_cc": 695,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297413428",
+    "surface_m2": 29.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 1 pièce(s) - 29 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297413428A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297475297": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "3 660 € CC* Appartement 29 m 2 Saint-Fons (69) 2 pièces 1 chambre DPE : D F1 / 2 pièces: 29m2 Cuisine-Salle à manger Réfrigérateur congélateur 2 portes, machine à laver, gazinière 1 chambre avec placard Salle de douche WC Chauffage Éco électrique Double vitrage Doubles volets Nombreux commerces Nombreux commerces Bus C12 60 93 ZI 6 Navette Vélib (tram T10 bientôt) Université Jean Moulin/ Lumière BUS 60 (direct 30minutes) Université Bron BUS 93 (directes 32 minutes) Université Claude Bernard méde",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/e5/2f/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTg5MTQ0XzEuanBlZz8yMDI2MTExNTE0NDkxNw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/64/5f/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTg5MTQ0XzIuanBlZz8yMDI2MTExNTE0NDkxNw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/94/43/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTg5MTQ0XzMuanBlZz8yMDI2MTExNTE0NDkxNw_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69190",
+    "poster": "particulier",
+    "published_at": "2026-11-15",
+    "rent_cc": 660,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297475297",
+    "surface_m2": 29.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 29 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297475297A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297504783": {
+   "also": [],
+   "dup_of": "bienici:netty-company55016ajm-appt-2104",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297504785": {
+   "also": [],
+   "dup_of": "bienici:ics-rci_RCI_loc-GES46430004-372",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297509036": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 7 615 € CC* Appartement 22 m 2 Lyon 1 1 pièce 1 chambre DPE : C 180 kWh/m².an 30 kg CO 2 /m².an Lyon 01, studio de 22 m² à louer, réservé aux étudiants. Cuisine équipée, proche des transports et commerces. Disponible immédiatement. Les candidatures se font directement avec le propriétaire via LocService. LOCService 800 annonces 21/11/2026 Voir Contacter",
+    "district": "Lyon 1er",
+    "flags": [
+     "available_now",
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/98/80/LzU2MjA4Ni81NjAzNjE0NzYvcGhvdG9zLzEuanBnPzIwMjYxMTIxMDM0NTUx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/7e/6c/LzU2MjA4Ni81NjAzNjE0NzYvcGhvdG9zLzIuanBnPzIwMjYxMTIxMDM0NTUx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/78/92/LzU2MjA4Ni81NjAzNjE0NzYvcGhvdG9zLzMuanBnPzIwMjYxMTIxMDM0NTUx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/58/6e/LzU2MjA4Ni81NjAzNjE0NzYvcGhvdG9zLzQuanBnPzIwMjYxMTIxMDM0NTUx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/09/05/LzU2MjA4Ni81NjAzNjE0NzYvcGhvdG9zLzUuanBnPzIwMjYxMTIxMDM0NTUx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/f9/63/LzU2MjA4Ni81NjAzNjE0NzYvcGhvdG9zLzYuanBnPzIwMjYxMTIxMDM0NTUx_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "published_at": "2026-11-21",
+    "rent_cc": 615,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297509036",
+    "surface_m2": 22.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 22 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297509036A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297509056": {
+   "also": [],
+   "dup_of": "bienici:ag696596-530624972",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297512025": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "2 600 € CC* Appartement 20 m 2 Lyon 5 1 pièce DPE : F 495 kWh/m².an 19 kg CO 2 /m².an Bien situé à Lyon 5, studio meublé de 20 m² au 1er étage. Comprend une pièce avec kitchenette équipée, salle de douche, double vitrage et interphone. Zone soumise à l'encadrement des loyers. À visiter ! LOC'A 51 annonces 20/11/2026 Voir Contacter",
+    "district": "Lyon 5e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/71/d8/L2JpZW5zLzM0MjE5MzE1LzZhZmFmZTUxYmQxMzA_MjAyNjExMjAwOTUyMjA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/6e/f1/L2JpZW5zLzM0MjE5MzE1LzZhZmFmZTU2Mzc1Y2E_MjAyNjExMjAwOTUyMjA_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "published_at": "2026-11-20",
+    "rent_cc": 600,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297512025",
+    "surface_m2": 20.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 20 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297512025A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297527948": {
+   "also": [],
+   "dup_of": "bienici:ag696436-514381178",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297528502": {
+   "also": [],
+   "dup_of": "bienici:century-21-202_3571_20520",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297529373": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "5 650 € CC* Appartement 36 m 2 Lyon 8 Exclusivité 2 pièces 1 chambre DPE : D 219 kWh/m².an 8 kg CO 2 /m².an Résidence dans la commune de Lyon, T2 meublé au 2° étage. Proximité Moulin à vent. Charges séparées, dépôt de garantie requis. Visites sur dossier complet uniquement. Contact par email pour informations supplémentaires. PROPRIETES PRIVEES Guy Boccard 17/11/2026 Voir Contacter",
+    "district": "Lyon 8e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/0d/18/LzQ0MDQxNC81NjA1Njc1NDAvcGhvdG9zLzEuanBnPzIwMjYxMTE3MDcyMDUx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/cc/57/LzQ0MDQxNC81NjA1Njc1NDAvcGhvdG9zLzIuanBnPzIwMjYxMTE3MDcyMDUx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/6f/89/LzQ0MDQxNC81NjA1Njc1NDAvcGhvdG9zLzMuanBnPzIwMjYxMTE3MDcyMDUx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/d1/c5/LzQ0MDQxNC81NjA1Njc1NDAvcGhvdG9zLzQuanBnPzIwMjYxMTE3MDcyMDUx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/d6/ac/LzQ0MDQxNC81NjA1Njc1NDAvcGhvdG9zLzUuanBnPzIwMjYxMTE3MDcyMDUx_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-11-17",
+    "rent_cc": 650,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297529373",
+    "surface_m2": 36.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 2 pièce(s) - 36 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297529373A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297537590": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 9 492 € CC* Appartement 23 m 2 Caluire-et-Cuire (69) 1 pièce DPE : C 197 kWh/m².an 7 kg CO 2 /m².an À proximité du Parc de la Tête d'Or, studio de 22.68 m² au 2ème étage. Pièce de vie avec alcôve, salle de douche avec WC, cave comprise. Chauffage et eau chaude individuels électriques. Disponible le 14 décembre 2026. IMMOBILIERE DABRETEAU 50 annonces 20/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/11/24/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvMi83LzYvOS84LzgvOC8wLzI3Njk4ODgwYS5qcGc_REFURU1BSj0xOS8xMS8yMDI2LTEwOjQyOjIyJjIwMjYxMTIwMDYzMjU2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/45/83/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvMi83LzYvOS84LzgvOC8wLzI3Njk4ODgwYi5qcGc_REFURU1BSj0xOS8xMS8yMDI2LTEwOjQyOjIyJjIwMjYxMTIwMDYzMjU2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/82/28/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvMi83LzYvOS84LzgvOC8wLzI3Njk4ODgwYy5qcGc_REFURU1BSj0xOS8xMS8yMDI2LTEwOjQyOjIyJjIwMjYxMTIwMDYzMjU2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/21/79/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvMi83LzYvOS84LzgvOC8wLzI3Njk4ODgwZC5qcGc_REFURU1BSj0xOS8xMS8yMDI2LTEwOjQyOjIyJjIwMjYxMTIwMDYzMjU2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/48/54/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvMi83LzYvOS84LzgvOC8wLzI3Njk4ODgwZS5qcGc_REFURU1BSj0xOS8xMS8yMDI2LTEwOjQyOjIyJjIwMjYxMTIwMDYzMjU2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/06/ff/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvMi83LzYvOS84LzgvOC8wLzI3Njk4ODgwZi5qcGc_REFURU1BSj0xOS8xMS8yMDI2LTEwOjQyOjIyJjIwMjYxMTIwMDYzMjU2_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69300",
+    "poster": "agence",
+    "published_at": "2026-11-20",
+    "rent_cc": 492,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297537590",
+    "surface_m2": 23.0,
+    "tags": [
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 23 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297537590A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297545027": {
+   "also": [],
+   "dup_of": "bienici:ics-rci_RCI_loc-GES46430004-372",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297546008": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 8 698 € CC* Appartement 47 m 2 Lyon 8 Exclusivité 2 pièces 1 chambre DPE : C 156 kWh/m².an 5 kg CO 2 /m².an Appartement T2 à louer dans le 8e arrondissement. Superficie de 46,59 m², il comprend un séjour avec cuisine équipée, une chambre avec placard, salle de bains, WC séparés et un garage privatif. Proximité commerces et transports. Location à découvrir. Citya Barioz 115 annonces 17/11/2026 Voir Contacter",
+    "district": "Lyon 8e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/23/f9/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0yMDIxMDUzMV8xNjA0MzYtMjU5NTIyMDExMDQzMDk1ODQ1OC5qcGc_MjAyNjExMTcyMDE2NDg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/28/b4/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0yMDIxMDUzMV8xNjA0NDctNjkxMjA3NjA1MTk4NzYyOTU2MC5qcGc_MjAyNjExMTcyMDE2NDg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/f9/b1/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0yMDIxMDUzMV8xNjA1MTAtMTAxNDIwNzEwOTI1NzYxMjYyMi5qcGc_MjAyNjExMTcyMDE2NDg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/b5/5e/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0yMDIxMDUzMV8xNjA1MjMtMTQ0NzkxNjA1ODA0NzQwNDE3NS5qcGc_MjAyNjExMTcyMDE2NDg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/c8/00/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0yMDIxMDUzMV8xNjA1NDktNjg2NzQ0NTY3NTU0OTI5MzM1NC5qcGc_MjAyNjExMTcyMDE2NDg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/96/49/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0yMDIxMDUzMV8xNjA1NDItNzYyNDA0MDQ2NzYzNDcxMzcxNS5qcGc_MjAyNjExMTcyMDE2NDg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-11-17",
+    "rent_cc": 698,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297546008",
+    "surface_m2": 47.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 47 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297546008A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297548901": {
+   "also": [],
+   "dup_of": "bienici:hektor-limmon-2703",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297551624": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "5 660 € CC* Appartement 29 m 2 Saint-Fons (69) 1 pièce 1 chambre DPE : D 250 kWh/m².an 11 kg CO 2 /m².an Bien situé à Saint Fons, appartement T1 de 29 m² à louer. Comprend une cuisine équipée, est proche des transports et des commerces. Disponible immédiatement, propose une location de 1 pièce. LOCService 800 annonces 17/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "available_now",
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/57/99/LzU2MjA4Ni81NjA1OTcwMjQvcGhvdG9zLzEuanBnPzIwMjYxMTE3MjAxNzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/e9/0a/LzU2MjA4Ni81NjA1OTcwMjQvcGhvdG9zLzIuanBnPzIwMjYxMTE3MjAxNzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/dd/66/LzU2MjA4Ni81NjA1OTcwMjQvcGhvdG9zLzMuanBnPzIwMjYxMTE3MjAxNzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/0d/47/LzU2MjA4Ni81NjA1OTcwMjQvcGhvdG9zLzQuanBnPzIwMjYxMTE3MjAxNzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/f0/ed/LzU2MjA4Ni81NjA1OTcwMjQvcGhvdG9zLzUuanBnPzIwMjYxMTE3MjAxNzI1_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69190",
+    "poster": "agence",
+    "published_at": "2026-11-17",
+    "rent_cc": 660,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297551624",
+    "surface_m2": 29.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 29 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297551624A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297555435": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "4 550 € CC* Appartement 30 m 2 Lyon 1 2 pièces 1 chambre DPE : F 408 kWh/m².an 16 kg CO 2 /m².an À Lyon 1, F2 à louer avec séjour, cuisine américaine et chambre. Salle de bain, double vitrage. Situé au 3e étage. Surface habitable de 30 m². Idéal pour un couple ou un professionnel. LOC'A 51 annonces 21/11/2026 Voir Contacter",
+    "district": "Lyon 1er",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/86/41/L2JpZW5zLzM0MjI1MDI1LzZhZmM1MTk3ODg5MDQ_MjAyNjExMjEwOTUwMzg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/16/6b/L2JpZW5zLzM0MjI1MDI1LzZhZmM1MWFiYWYyZjM_MjAyNjExMjEwOTUwMzg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/57/38/L2JpZW5zLzM0MjI1MDI1LzZhZmM1MWI4MDE1MjY_MjAyNjExMjEwOTUwMzg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/16/a8/L2JpZW5zLzM0MjI1MDI1LzZhZmM1MWJmN2U0Y2Q_MjAyNjExMjEwOTUwMzg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "published_at": "2026-11-21",
+    "rent_cc": 550,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297555435",
+    "surface_m2": 30.0,
+    "tags": [
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 30 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297555435A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297557250": {
+   "also": [],
+   "dup_of": "leboncoin:3313769094",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297597408": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "4 400 € CC* Chambre 13 m 2 Lyon 8 1 pièce DPE : D 224 kWh/m².an 36 kg CO 2 /m².an A Lyon 8, chambre à louer avec salle de bain et WC privatifs. Meublée, climatisation, double vitrage, wifi. Charges comprenant chauffage, eau et électricité. RDC, surface habitable de 13 m². Réf 6936626. LOC'A 51 annonces 21/11/2026 Voir Contacter",
+    "district": "Lyon 8e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/21/77/L2JpZW5zLzM0MjMwNzE2LzZhZmQ4NmIyMGRmNzk_MjAyNjExMjExMDM2MDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/9b/80/L2JpZW5zLzM0MjMwNzE2LzZhZmQ4NmMzMGUxYjI_MjAyNjExMjExMDM2MDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/f4/f2/L2JpZW5zLzM0MjMwNzE2LzZhZmQ4NmNiNTVhMjg_MjAyNjExMjExMDM2MDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/f9/dc/L2JpZW5zLzM0MjMwNzE2LzZhZmQ4NmQ0YmQxMmE_MjAyNjExMjExMDM2MDc_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "published_at": "2026-11-21",
+    "rent_cc": 400,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297597408",
+    "surface_m2": 13.0,
+    "tags": [],
+    "title": "Chambre - 1 pièce(s) - 13 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/chambre/1297597408A1KILHCM000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297606502": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 9 670 € CC* Appartement 22 m 2 Lyon 1 1 pièce DPE : C 159 kWh/m².an 4 kg CO 2 /m².an Lyon 1, T1 meublé de 22m². Séjour, kitchenette équipée, coin chambre, salle de douche, wc. Double vitrage, chauffage au gaz. Immeuble avec digicode. Centre-ville, idéal pour un étudiant ou un professionnel. LOC'A 51 annonces 20/11/2026 Voir Contacter",
+    "district": "Lyon 1er",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/22/6e/L2JpZW5zLzM0MjMxNjU3LzZhZmRjY2RjYWZhMDA_MjAyNjExMjAwOTUyMzY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/f3/e5/L2JpZW5zLzM0MjMxNjU3LzZhZmRjY2RiYTA4N2Q_MjAyNjExMjAwOTUyMzY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/74/c3/L2JpZW5zLzM0MjMxNjU3LzZhZmRjY2RlNDllNTM_MjAyNjExMjAwOTUyMzY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/58/c1/L2JpZW5zLzM0MjMxNjU3LzZhZmRjY2RmMGZiODQ_MjAyNjExMjAwOTUyMzY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/71/9b/L2JpZW5zLzM0MjMxNjU3LzZhZmRjY2UwMmZiY2M_MjAyNjExMjAwOTUyMzY_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "published_at": "2026-11-20",
+    "rent_cc": 670,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297606502",
+    "surface_m2": 22.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 1 pièce(s) - 22 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297606502A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297631073": {
+   "also": [],
+   "dup_of": "bienici:ag694498-552093020",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297631075": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 8 500 € CC* Chambre 12 m 2 Villeurbanne (69) 1 pièce DPE : E 248 kWh/m².an 54 kg CO 2 /m².an Situé à Villeurbanne, cet appartement en colocation propose une chambre meublée de 12m², avec cuisine et sanitaires à partager. Charges comprises incluant chauffage, eau, électricité et internet. Disponible de suite. LOC'A 51 annonces 21/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/12/ab/L2JpZW5zLzM0MjM1MzQxLzZhZmVjMDEzMTVlYmU_MjAyNjExMjExMDUyNDA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/8f/da/L2JpZW5zLzM0MjM1MzQxLzZhZmVjMDE0MGVlZDY_MjAyNjExMjExMDUyNDA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/32/31/L2JpZW5zLzM0MjM1MzQxLzZhZmVjMDE0YmVjMDg_MjAyNjExMjExMDUyNDA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/08/27/L2JpZW5zLzM0MjM1MzQxLzZhZmVjMDE1YmQzOGY_MjAyNjExMjExMDUyNDA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/40/1e/L2JpZW5zLzM0MjM1MzQxLzZhZmVjMDE5NmFmMTg_MjAyNjExMjExMDUyNDA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/bd/ec/L2JpZW5zLzM0MjM1MzQxLzZhZmVjMDE2OWQxMTk_MjAyNjExMjExMDUyNDA_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "published_at": "2026-11-21",
+    "rent_cc": 500,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297631075",
+    "surface_m2": 12.0,
+    "tags": [],
+    "title": "Chambre - 1 pièce(s) - 12 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/chambre/1297631075A1KILHCM000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297631077": {
+   "also": [],
+   "dup_of": "bienici:ag692498-537460310",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297631079": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 7 615 € CC* Appartement 22 m 2 Lyon 1 1 pièce DPE : C 203 kWh/m².an 7 kg CO 2 /m².an Lyon 1 - Appartement F1 meublé de 22 m² au 1er étage avec séjour, kitchenette équipée, salle de bain et WC. Digicode et double vitrage. Situé dans le secteur La Martinière. A visiter. LOC'A 51 annonces 21/11/2026 Voir Contacter",
+    "district": "Lyon 1er",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/cd/c9/L2JpZW5zLzM0MjM1MzU4LzZhZmVjM2RjODk4OTM_MjAyNjExMjExMDM2MDY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/d8/00/L2JpZW5zLzM0MjM1MzU4LzZhZmVjM2RiZjM3OTE_MjAyNjExMjExMDM2MDY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/b8/db/L2JpZW5zLzM0MjM1MzU4LzZhZmVjM2RkNjg5NDM_MjAyNjExMjExMDM2MDY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/e7/e1/L2JpZW5zLzM0MjM1MzU4LzZhZmVjM2RkZTcyODI_MjAyNjExMjExMDM2MDY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/bf/df/L2JpZW5zLzM0MjM1MzU4LzZhZmVjM2RlZGU4M2M_MjAyNjExMjExMDM2MDY_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "published_at": "2026-11-21",
+    "rent_cc": 615,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297631079",
+    "surface_m2": 22.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 1 pièce(s) - 22 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297631079A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297633592": {
+   "also": [],
+   "dup_of": "bienici:hektor-groupe-hapi_1-290",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297634139": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 6 699 € CC* Appartement 32 m 2 Lyon 5 2 pièces 1 chambre DPE : D 230 kWh/m².an 7 kg CO 2 /m².an À Lyon, appartement T2 de 32,68 m² dans la résidence Jardins de Fourvière. Entièrement réhabilité, il offre une pièce de vie lumineuse, une cuisine équipée et une chambre avec placard. Terrasse extérieure et proximité des transports en commun. VALORITY ADMINISTRATION DE BIENS 250 annonces 19/11/2026 Voir Contacter",
+    "district": "Lyon 5e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/12/73/LzY5NDUzOC81NjExMDY1OTIvcGhvdG9zLzEuanBnPzIwMjYxMTE5MjAxNjQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/49/ca/LzY5NDUzOC81NjExMDY1OTIvcGhvdG9zLzIuanBnPzIwMjYxMTE5MjAxNjQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/f2/ed/LzY5NDUzOC81NjExMDY1OTIvcGhvdG9zLzMuanBnPzIwMjYxMTE5MjAxNjQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/e3/ee/LzY5NDUzOC81NjExMDY1OTIvcGhvdG9zLzQuanBnPzIwMjYxMTE5MjAxNjQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/f7/b4/LzY5NDUzOC81NjExMDY1OTIvcGhvdG9zLzUuanBnPzIwMjYxMTE5MjAxNjQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/85/a6/LzY5NDUzOC81NjExMDY1OTIvcGhvdG9zLzYuanBnPzIwMjYxMTE5MjAxNjQx_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "published_at": "2026-11-19",
+    "rent_cc": 699,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297634139",
+    "surface_m2": 32.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 32 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297634139A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297659051": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Nouveau Voir d'autres photos 6 690 € CC* Appartement 40 m 2 Villeurbanne (69) 2 pièces 1 chambre À Villeurbanne, location d'un appartement T2 de 40,14 m² au 4e étage. Exposition plein sud, pièce de vie lumineuse, cuisine équipée, une chambre, salle d'eau avec WC et place de parking privative. Proche des transports en commun. VALORITY ADMINISTRATION DE BIENS 250 annonces 20/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/4a/01/LzY5NDUzOC81NjExMzg2MDgvcGhvdG9zLzEuanBnPzIwMjYxMTIwMDcxOTQ0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/e8/2d/LzY5NDUzOC81NjExMzg2MDgvcGhvdG9zLzIuanBnPzIwMjYxMTIwMDcxOTQ0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/bd/3a/LzY5NDUzOC81NjExMzg2MDgvcGhvdG9zLzMuanBnPzIwMjYxMTIwMDcxOTQ0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/02/60/LzY5NDUzOC81NjExMzg2MDgvcGhvdG9zLzQuanBnPzIwMjYxMTIwMDcxOTQ0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/76/eb/LzY5NDUzOC81NjExMzg2MDgvcGhvdG9zLzUuanBnPzIwMjYxMTIwMDcxOTQ0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/ad/f7/LzY5NDUzOC81NjExMzg2MDgvcGhvdG9zLzYuanBnPzIwMjYxMTIwMDcxOTQ0_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "published_at": "2026-11-20",
+    "rent_cc": 690,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297659051",
+    "surface_m2": 40.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 40 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297659051A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297669273": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Nouveau Voir d'autres photos 12 530 € CC* Appartement 11 m 2 Bron (69) 1 pièce 1 chambre Située à Bron, cette chambre en colocation de 11,57 m2 se trouve à 5 minutes de la mairie. Maison meublée avec cuisine ouverte, séjour double, jardin et garage double. Idéal pour intégrer une colocation de 4 personnes. Disponible de suite. INSTANT IMMOBILIER 62 annonces 20/11/2026 Voir Contacter Recevez les nouvelles annonces dès leur publication",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/03/3c/L29mZmljZTEyL2luc3RhbnRpbW1vYmlsaWVyXzI0MDYyMC9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNi8xLzQvMy8zLzMvNS80NjE0MzMzNWEuanBnP0RBVEVNQUo9MzAvMDQvMjAyNS0wMDowODoyOCYyMDI2MTEyMDA3NDAxNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/c4/8f/L29mZmljZTEyL2luc3RhbnRpbW1vYmlsaWVyXzI0MDYyMC9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNi8xLzQvMy8zLzMvNS80NjE0MzMzNWIuanBnP0RBVEVNQUo9MzAvMDQvMjAyNS0wMDowODoyOCYyMDI2MTEyMDA3NDAxNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/86/a2/L29mZmljZTEyL2luc3RhbnRpbW1vYmlsaWVyXzI0MDYyMC9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNi8xLzQvMy8zLzMvNS80NjE0MzMzNWMuanBnP0RBVEVNQUo9MzAvMDQvMjAyNS0wMDowODoyOCYyMDI2MTEyMDA3NDAxNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/e4/de/L29mZmljZTEyL2luc3RhbnRpbW1vYmlsaWVyXzI0MDYyMC9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNi8xLzQvMy8zLzMvNS80NjE0MzMzNWQuanBnP0RBVEVNQUo9MzAvMDQvMjAyNS0wMDowODoyOCYyMDI2MTEyMDA3NDAxNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/9b/2d/L29mZmljZTEyL2luc3RhbnRpbW1vYmlsaWVyXzI0MDYyMC9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNi8xLzQvMy8zLzMvNS80NjE0MzMzNWUuanBnP0RBVEVNQUo9MzAvMDQvMjAyNS0wMDowODoyOCYyMDI2MTEyMDA3NDAxNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/5a/4e/L29mZmljZTEyL2luc3RhbnRpbW1vYmlsaWVyXzI0MDYyMC9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNi8xLzQvMy8zLzMvNS80NjE0MzMzNWYuanBnP0RBVEVNQUo9MzAvMDQvMjAyNS0wMDowODoyOCYyMDI2MTEyMDA3NDAxNQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69500",
+    "poster": "agence",
+    "published_at": "2026-11-20",
+    "rent_cc": 530,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297669273",
+    "surface_m2": 11.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 11 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297669273A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297676594": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Voir d'autres photos 7 500 € CC* Chambre 10 m 2 Bron (69) 1 pièce DPE : F 404 kWh/m².an 16 kg CO 2 /m².an Situé à Bron, chambre meublée en colocation. Charges comprises (chauffage, eau, EDF, internet). Cuisine et sanitaires partagés. Double vitrage et placards. Proche de toutes commodités. LOC'A 51 annonces 21/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/e5/27/L2JpZW5zLzM0MjQxMzAxLzZiMDAxMGQxMWEwMWM_MjAyNjExMjExMDUyMzg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/c7/c9/L2JpZW5zLzM0MjQxMzAxLzZiMDAxMGNkNTUzNjY_MjAyNjExMjExMDUyMzg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/21/87/L2JpZW5zLzM0MjQxMzAxLzZiMDAxMGQxYzFlODA_MjAyNjExMjExMDUyMzg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/d4/d9/L2JpZW5zLzM0MjQxMzAxLzZiMDAxMGQyYmI5MDE_MjAyNjExMjExMDUyMzg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/65/d1/L2JpZW5zLzM0MjQxMzAxLzZiMDAxMGQ0MTdlZjM_MjAyNjExMjExMDUyMzg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69500",
+    "poster": "agence",
+    "published_at": "2026-11-21",
+    "rent_cc": 500,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297676594",
+    "surface_m2": 10.0,
+    "tags": [],
+    "title": "Chambre - 1 pièce(s) - 10 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/chambre/1297676594A1KILHCM000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297677919": {
+   "also": [],
+   "dup_of": "leboncoin:3313282382",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297685526": {
+   "also": [],
+   "dup_of": "bienici:ics-sag_SAGITER_loc-GES14271000-144",
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297697403": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Nouveau Voir d'autres photos 6 565 € CC* Appartement 27 m 2 Lyon 5 1 pièce DPE : D 188 kWh/m².an 17 kg CO 2 /m².an Lyon 5ème, rue de Trion, studio meublé de 27m2 au 3ème étage. Cuisine américaine équipée, pièce principale, salle d'eau avec wc. Situé dans un immeuble calme, proche du funiculaire, commerces et écoles. Chauffage et eaux ind. électriques. RAPIN IMMOBILIER 17 annonces 20/11/2026 Voir Contacter",
+    "district": "Lyon 5e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/rapin-immo.staticlbi.com/4a/54/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xLzA0ZWNiMWZhMjg1MDZjY2I2ZjcyYjEyYzAyNDVkZGJjL3Bob3RvX2ViYjMyYTg4NmY1Njk1NjNjNDk1ZTIzZjVkMmU5NWRhLmpwZz8yMDI2MTEyMDIzMTQ1MQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/rapin-immo.staticlbi.com/09/dd/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xLzA0ZWNiMWZhMjg1MDZjY2I2ZjcyYjEyYzAyNDVkZGJjL3Bob3RvX2EwZTljYTI5ZDM0MTJhMDhkODg4ZTg4ZTViMWZlZDU2LmpwZz8yMDI2MTEyMDIzMTQ1MQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/rapin-immo.staticlbi.com/19/03/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xLzA0ZWNiMWZhMjg1MDZjY2I2ZjcyYjEyYzAyNDVkZGJjL3Bob3RvXzAzNjVkYmI1MTI5MTkxYTViNmI1N2YyOTE4OTNhMmQyLmpwZz8yMDI2MTEyMDIzMTQ1MQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/rapin-immo.staticlbi.com/8f/a4/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xLzA0ZWNiMWZhMjg1MDZjY2I2ZjcyYjEyYzAyNDVkZGJjL3Bob3RvXzhhY2QxNmQwZGUzZDMwZjgyNzQyNzRmNmRjZDIyZjY2LmpwZz8yMDI2MTEyMDIzMTQ1MQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/rapin-immo.staticlbi.com/83/cd/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xLzA0ZWNiMWZhMjg1MDZjY2I2ZjcyYjEyYzAyNDVkZGJjL3Bob3RvX2VlYjY5N2ZkM2E5MGE1MDVkZTQzNDAyNTg2ZTdjZjRjLmpwZz8yMDI2MTEyMDIzMTQ1MQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/rapin-immo.staticlbi.com/22/02/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xLzA0ZWNiMWZhMjg1MDZjY2I2ZjcyYjEyYzAyNDVkZGJjL3Bob3RvXzhmNzZjMTliMTc0YTc1ZjRhOWQwMzFmZjU3MTc4ZjIwLmpwZz8yMDI2MTEyMDIzMTQ1MQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "published_at": "2026-11-20",
+    "rent_cc": 565,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297697403",
+    "surface_m2": 27.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 27 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297697403A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297703770": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Nouveau Voir d'autres photos 8 362 € CC* Appartement 15 m 2 Lyon 3 1 pièce DPE : C 207 kWh/m².an 7 kg CO 2 /m².an À Lyon, studio de 15,03 m² au 7ème étage avec ascenseur. Comprend une entrée, un coin cuisine, une pièce de vie, salle d'eau avec WC. Chauffage individuel électrique. Disponible le 8 décembre 2026. IMMOBILIERE DABRETEAU 50 annonces 21/11/2026 Voir Contacter",
+    "district": "Lyon 3e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/ee/d7/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvNC82LzcvMC83LzUvNS84LzQ2NzA3NTU4YS5qcGc_REFURU1BSj0yMC8xMS8yMDI2LTEwOjEzOjMwJjIwMjYxMTIxMDgwMjMw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/1f/43/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvNC82LzcvMC83LzUvNS84LzQ2NzA3NTU4Yi5qcGc_REFURU1BSj0yMC8xMS8yMDI2LTEwOjEzOjMxJjIwMjYxMTIxMDgwMjMw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/87/7d/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvNC82LzcvMC83LzUvNS84LzQ2NzA3NTU4Yy5qcGc_REFURU1BSj0yMC8xMS8yMDI2LTEwOjEzOjMxJjIwMjYxMTIxMDgwMjMw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/60/63/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvNC82LzcvMC83LzUvNS84LzQ2NzA3NTU4ZC5qcGc_REFURU1BSj0yMC8xMS8yMDI2LTEwOjEzOjMxJjIwMjYxMTIxMDgwMjMw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/b3/5a/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvNC82LzcvMC83LzUvNS84LzQ2NzA3NTU4ZS5qcGc_REFURU1BSj0yMC8xMS8yMDI2LTEwOjEzOjMxJjIwMjYxMTIxMDgwMjMw_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/de/3a/L29mZmljZS9saW1vdXppL2NhdGFsb2cvaW1hZ2VzL3ByX3AvNC82LzcvMC83LzUvNS84LzQ2NzA3NTU4Zi5qcGc_REFURU1BSj0yMC8xMS8yMDI2LTEwOjEzOjMxJjIwMjYxMTIxMDgwMjMw_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "published_at": "2026-11-21",
+    "rent_cc": 362,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297703770",
+    "surface_m2": 15.0,
+    "tags": [
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 15 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297703770A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297718823": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Nouveau 3 640 € CC* Appartement 24 m 2 Vénissieux (69) 1 pièce DPE : E 320 kWh/m².an 52 kg CO 2 /m².an À Vénissieux, studio meublé de 24m², situé au 1er étage. Il dispose d'un séjour, d'une kitchenette équipée et d'une salle d'eau. Toutes charges comprises : chauffage, eau et électricité. LOC'A 51 annonces 21/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/71/ed/L2JpZW5zLzM0MjQ3MTk0LzZiMDE2Y2FiOTI5Yzc_MjAyNjExMjExMTQ5MjQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/03/59/L2JpZW5zLzM0MjQ3MTk0LzZiMDE2Y2FkYzI2NDU_MjAyNjExMjExMTQ5MjQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/99/28/L2JpZW5zLzM0MjQ3MTk0LzZiMDE2Y2IwNzE4ZmI_MjAyNjExMjExMTQ5MjQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69200",
+    "poster": "agence",
+    "published_at": "2026-11-21",
+    "rent_cc": 640,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297718823",
+    "surface_m2": 24.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 1 pièce(s) - 24 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297718823A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297719069": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-21T11:13:43+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Nouveau 5 688 € CC* Appartement 49 m 2 Lyon 9 Exclusivité 2 pièces 1 chambre DPE : D 154 kWh/m².an 30 kg CO 2 /m².an À louer - appartement t2 - 69009 lyon votre cabinet citya barioz vous propose à la location au 21 rue du bourbonnais à lyon 9ème, un appartement de 2 pièces nu de 49 m², situé dans un quartier agréable et dynamique. au sein d'un immeuble avec... Citya Barioz 115 annonces 21/11/2026 Voir Contacter",
+    "district": "Lyon 9e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/99/f6/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfODgzMy0xMzE0ODM3MzI3MzkzODEwOTYyOS5qcGc_MjAyNjExMjExMTQ5MTA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/21/5a/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfODgzNC04NjY2NTA1MTk0MTQ2NTQ3MjA4LmpwZz8yMDI2MTEyMTExNDkxMA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/65/10/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfODgzNS02NTc4MTUwOTU0NjA4NTQyNDMzLmpwZz8yMDI2MTEyMTExNDkxMA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/3b/ab/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfODgzNi05NTQwNjQyOTU0NzA5Mjg1MDM2LmpwZz8yMDI2MTEyMTExNDkxMA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/c9/56/L2NpdF9DSVRZQV9CQVJJT1pfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfODgzNy02NjA2MTgyMjc2OTYxMTY4MDkxLmpwZz8yMDI2MTEyMTExNDkxMA_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "published_at": "2026-11-21",
+    "rent_cc": 688,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297719069",
+    "surface_m2": 49.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 2 pièce(s) - 49 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297719069A1KILHAP000"
+   },
+   "notified": false,
    "status": "active"
   }
  }
