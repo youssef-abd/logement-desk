@@ -3,59 +3,90 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="color-scheme" content="light dark">
+<meta name="color-scheme" content="light">
 <meta name="robots" content="noindex, nofollow">
-<meta name="theme-color" content="#0f1114">
+<meta name="theme-color" content="#f2f4f7">
 <link rel="manifest" href="/manifest.webmanifest">
 <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
 <link rel="icon" href="/icons/icon-192.png">
+<link rel="preload" href="/fonts/geist.woff2" as="font" type="font/woff2" crossorigin>
 <title>Logement</title>
 <link rel="stylesheet" href="/app.css">
 </head>
 <body>
-<header class="bar">
-  <div class="titles"><strong>Logement</strong><span class="muted"><span id="count"></span> <span id="updated"></span></span></div>
-  <button id="menu" class="btn" type="button">Settings</button>
-</header>
-<main>
-  <nav class="tabs" id="tabs">
-    <button data-tab="new" aria-selected="true">New <span id="n-new"></span></button>
-    <button data-tab="saved" aria-selected="false">Saved <span id="n-saved"></span></button>
-    <button data-tab="following" aria-selected="false">Following <span id="n-following"></span></button>
-    <button data-tab="closed" aria-selected="false">Closed <span id="n-closed"></span></button>
-  </nav>
-  <div class="filters">
-    <select id="sort" aria-label="Sort">
-      <option value="newest">Newest</option><option value="price">Price</option><option value="eur_m2">€/m²</option><option value="size">Size</option>
-    </select>
-    <select id="density" aria-label="Density"><option value="cards">Cards</option><option value="compact">Compact</option></select>
-    <select id="source" aria-label="Source"><option value="all">All sources</option></select>
-    <select id="poster" aria-label="Poster"><option value="all">Anyone</option><option value="particulier">Private only</option></select>
-    <label class="chk"><input type="checkbox" id="near" checked> near-miss</label>
-    <label class="chk"><input type="checkbox" id="cheap"> cheap for the area</label>
-    <input id="q" type="search" placeholder="Search" aria-label="Search">
-  </div>
-  <div class="areas" id="areas" role="group" aria-label="Area"></div>
-  <p id="msg" class="muted"></p>
-  <div id="list"></div>
-  <button id="more" class="btn more" type="button" hidden></button>
-  <details class="health"><summary>Source health</summary><div id="health"></div></details>
-</main>
-<dialog id="gal">
-  <div class="galtop"><span id="galcount" class="muted"></span><button id="galx" class="btn" type="button">Close</button></div>
-  <img id="galimg" alt="" referrerpolicy="no-referrer">
-  <div class="galnav"><button id="galprev" class="btn" type="button">Previous</button><button id="galnext" class="btn" type="button">Next</button></div>
+<div class="app">
+  <aside class="side" id="side">
+    <div class="brand">
+      <svg class="mark" width="28" height="28" viewBox="0 0 28 28" aria-hidden="true"><path d="M4 13 14 4l10 9v11H17v-7h-6v7H4z" fill="#141414"/><rect x="13" y="19" width="2" height="5" fill="#1d5fbf"/></svg>
+      <div><strong>Logement</strong><span id="scope">Lyon area, furnished</span></div>
+    </div>
+    <nav class="nav" id="nav" aria-label="Views"></nav>
+    <div class="side-foot"><button class="navbtn" id="settings" type="button">Settings</button></div>
+  </aside>
+
+  <header class="topbar">
+    <strong id="mtitle">Logement</strong>
+    <button class="btn" id="burger" type="button">Menu</button>
+  </header>
+
+  <main class="canvas">
+    <header class="title-row">
+      <div>
+        <h1 id="h1">New listings</h1>
+        <p class="sub" id="finding">Loading the latest run.</p>
+      </div>
+      <span class="stamp" id="updated"></span>
+    </header>
+
+    <section class="kpis" id="kpis" aria-label="Summary"></section>
+
+    <section class="where">
+      <div class="panel">
+        <div class="panel-head"><h2>Where</h2><button class="link" id="clear-area" type="button" hidden>Clear area</button></div>
+        <svg id="map" role="group" aria-label="Areas of Lyon"></svg>
+        <p class="sub" id="maplabel">Click an area to filter the list.</p>
+      </div>
+      <details class="panel rank" id="rank" open>
+        <summary class="panel-head"><h2>Cheapest areas</h2><span class="sub">median price per m², at least 5 listings</span></summary>
+        <div id="arealist"></div>
+      </details>
+    </section>
+
+    <section class="controls" aria-label="Filters">
+      <select id="sort" aria-label="Sort"><option value="newest">Newest first</option><option value="price">Price, low to high</option><option value="eur_m2">€/m², low to high</option><option value="size">Largest first</option></select>
+      <select id="source" aria-label="Source"><option value="all">All sources</option></select>
+      <select id="poster" aria-label="Poster"><option value="all">Anyone</option><option value="particulier">Private owners only</option></select>
+      <label class="chk"><input type="checkbox" id="near" checked> Include over-budget</label>
+      <label class="chk"><input type="checkbox" id="cheap"> Cheap for the area</label>
+      <input id="q" type="search" placeholder="Search" aria-label="Search">
+      <div class="seg" role="group" aria-label="Density"><button type="button" id="d-cards" aria-pressed="true">Photos</button><button type="button" id="d-compact" aria-pressed="false">Compact</button></div>
+    </section>
+
+    <p class="msg" id="msg"></p>
+    <div id="list"></div>
+    <div class="more"><button class="btn" id="more" type="button" hidden>Show more</button></div>
+
+    <details class="health"><summary>Sources</summary><div id="health"></div></details>
+  </main>
+</div>
+
+<dialog id="gal" aria-label="Photos">
+  <div class="gal-bar"><span id="galn"></span><button class="btn" id="galx" type="button">Close</button></div>
+  <div class="gal-stage"><button class="btn" id="galp" type="button" aria-label="Previous photo">Previous</button><img id="galimg" alt="" referrerpolicy="no-referrer"><button class="btn" id="galnx" type="button" aria-label="Next photo">Next</button></div>
 </dialog>
-<dialog id="dlg">
+
+<dialog id="navsheet" aria-label="Menu"><div id="sheetnav" class="nav"></div><div class="foot"><button class="btn" id="sheetclose" type="button">Close</button></div></dialog>
+
+<dialog id="dlg" aria-label="Settings">
   <h2>Settings</h2>
   <label for="code">Access code</label><input id="code" type="password" autocomplete="off">
-  <div class="box"><strong>My details for messages</strong>
+  <div class="box"><strong>My details for messages</strong><p class="sub">Used only on this device, to fill the message you copy.</p>
     <label for="me-name">Name</label><input id="me-name" autocomplete="name">
-    <label for="me-phone">Phone</label><input id="me-phone" type="tel" autocomplete="tel">
+    <label for="me-phone">Phone</label><input id="me-phone" autocomplete="tel">
     <label for="me-visale">Visale number</label><input id="me-visale" autocomplete="off"></div>
-  <div class="box"><strong>Alerts on this device</strong><p id="pushmsg" class="muted"></p>
+  <div class="box"><strong>Alerts on this device</strong><p class="sub" id="pushmsg"></p>
     <button class="btn" id="pushbtn" type="button">Turn on alerts</button> <button class="btn" id="pushtest" type="button">Send a test</button></div>
-  <div class="box"><strong>Run now</strong><p id="runmsg" class="muted"></p><button class="btn" id="runbtn" type="button">Start a run</button></div>
+  <div class="box"><strong>Run now</strong><p class="sub" id="runmsg"></p><button class="btn" id="runbtn" type="button">Start a run</button></div>
   <div class="foot"><button class="btn" id="dlgcancel" type="button">Close</button><button class="btn primary" id="dlgsave" type="button">Save</button></div>
 </dialog>
 <script type="module" src="/app.js"></script>
