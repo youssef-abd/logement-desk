@@ -159,3 +159,12 @@ def test_card_without_area_keeps_none():
 ])
 def test_furnished_values(txt, expected):
     assert parse_html(_card(8, txt), max_photos=1)[0].furnished is expected
+
+
+def test_city_page_postal_code_fills_cards_without_an_area(monkeypatch):
+    from logement.sources import paruvendu as pv
+    card = CARD_1.replace("Lyon", "Autreville")  # no recognisable arrondissement
+    monkeypatch.setattr(pv, "_get", lambda url: card)
+    profile = {"max_photos": 3, "sources": {"paruvendu": {"urls": ["https://www.paruvendu.fr/immobilier/recherche/location/appartement/oullins-69600/"]}}}
+    [l] = pv.fetch(profile)
+    assert l.postal_code == "69600"

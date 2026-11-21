@@ -105,7 +105,10 @@ def fetch(profile):
     for url in urls:
         got = collect(lambda n: parse_html(_get(page_url(url, n + 1)), profile["max_photos"]),
                       pages, PAGE_SIZE, lambda l: l.source_id, sleep=lambda s: SLEEP(s), pause=1.5)
+        m = re.search(r"-(\d{5})/?$", url.split("?")[0])  # city pages end with the postal code
         for l in got:
+            if m and l.postal_code is None:
+                l.postal_code = m.group(1)
             if l.source_id not in seen:
                 seen.add(l.source_id)
                 out.append(l)
