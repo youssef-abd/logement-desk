@@ -29,8 +29,8 @@
    "last_success": "2026-11-21T21:30:17+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-21T22:40:19+00:00"
@@ -43242,6 +43242,43 @@
     ],
     "title": "1 Chambre en Colocation - Lyon",
     "url": "https://www.studapart.com/fr/logement-Lyon/Logement-en-colocation-pour-4-personnes-de-104-7m2/property/6bfbc3ac-ca5b-4977-8445-f71412287ce8"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "studapart:764d4f3b-f632-4ede-a6f3-221c79fc082c": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T23:00:48+00:00",
+   "last_seen": "2026-11-21T23:00:48+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Chambre individuelle dans un appartement partagé, composé de 3 chambres et 1 salle de bain. D'une superficie d'environ 10 avec un lit double et un poste de travail.. Avec wifi, lave-vaisselle, machine à laver. Classe d'énergie : D, IPE 0,00 Kwh/Sqm année.",
+    "district": "Lyon 8e",
+    "flags": [],
+    "found_by": "studapart",
+    "furnished": true,
+    "kind": "coloc",
+    "photos": [
+     "https://media.studapart.com/property_images_large/6ae3de907cc1f.jpeg",
+     "https://media.studapart.com/property_images_large/6ae3de9097aae.jpeg",
+     "https://media.studapart.com/property_images_large/6ae3de90b621f.jpeg",
+     "https://media.studapart.com/property_images_large/6ae3de90c64a5.jpeg",
+     "https://media.studapart.com/property_images_large/69fa09385a1cf.jpeg",
+     "https://media.studapart.com/property_images_large/69fa093865ff4.jpeg"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "SAS",
+    "published_at": "2026-05-05T15:14:00+00:00",
+    "rent_cc": 545.0,
+    "rooms": 3,
+    "source": "studapart",
+    "source_id": "764d4f3b-f632-4ede-a6f3-221c79fc082c",
+    "surface_m2": 70.0,
+    "tags": [],
+    "title": "Confortable chambre individuelle",
+    "url": "https://www.studapart.com/fr/logement-Lyon/Logement-en-colocation-pour-3-personnes-de-70m2/property/764d4f3b-f632-4ede-a6f3-221c79fc082c"
    },
    "notified": false,
    "status": "active"
