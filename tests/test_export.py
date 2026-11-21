@@ -25,8 +25,78 @@ def test_payload_has_listings_newest_first_without_duplicates_and_health(profile
 
 def test_payload_is_capped(profile):
     state = store.empty()
-    for i in range(450):
+    for i in range(1600):
         state["listings"][f"s:{i}"] = {"dup_of": None, "first_seen": f"2026-11-15T10:{i % 60:02d}:00+00:00", "last_seen": NOW,
                                        "status": "active", "also": [], "notified": False,
                                        "listing": make_listing(source="s", source_id=str(i)).to_dict()}
-    assert len(build_payload(state, {}, NOW)["listings"]) == 400
+    assert len(build_payload(state, {}, NOW)["listings"]) == 1500
+
+
+def _add(state, key, minute, tags=None, status="active", **kw):
+    state["listings"][key] = {"dup_of": None, "first_seen": f"2026-11-15T09:{minute:02d}:00+00:00", "last_seen": NOW,
+                              "status": status, "also": [], "notified": False,
+                              "listing": make_listing(source="s", source_id=key, **kw).to_dict() | ({"tags": tags} if tags is not None else {})}
+
+
+def _rows(state):
+    return {r["id"]: r for r in build_payload(state, {}, NOW)["listings"]}
+
+
+def test_photos_capped_to_three():
+    state = store.empty()
+    _add(state, "a", 1, photos=[f"https://i.example.test/{i}.jpg" for i in range(6)])
+    assert len(_rows(state)["a"]["photos"]) == 3
+
+
+def test_eur_m2_and_posted():
+    state = store.empty()
+    _add(state, "a", 1, rent_cc=500.0, surface_m2=20.0)
+    _add(state, "b", 2, rent_cc=300.0, surface_m2=8.0, published_at="1970-01-01T00:00:00+00:00")
+    _add(state, "c", 3, surface_m2=None, published_at="")
+    r = _rows(state)
+    assert r["a"]["eur_m2"] == 25.0 and r["a"]["posted"] == "2026-11-15T10:00:00+00:00"
+    assert r["b"]["eur_m2"] is None and r["b"]["posted"] == "2026-11-15T09:02:00+00:00"
+    assert r["c"]["eur_m2"] is None and r["c"]["posted"] == "2026-11-15T09:03:00+00:00"
+
+
+def test_identical_agency_units_collapse():
+    state = store.empty()
+    for i in range(3):
+        _add(state, f"ag{i}", 10 + i, poster="agence")
+    _add(state, "ag_other", 20, poster="agence", rent_cc=510.0)
+    for i in range(2):
+        _add(state, f"pv{i}", 30 + i, poster="particulier")
+    _add(state, "nosurf1", 40, poster="agence", surface_m2=None)
+    _add(state, "nosurf2", 41, poster="agence", surface_m2=None)
+    r = _rows(state)
+    assert set(r) == {"ag2", "ag_other", "pv0", "pv1", "nosurf1", "nosurf2"}
+    assert r["ag2"]["similar"] == 2
+    assert all(r[k]["similar"] == 0 for k in r if k != "ag2")
+
+
+def test_areas_medians_and_tags_need_eight():
+    state = store.empty()
+    for i in range(8):
+        _add(state, f"n{i}", i, rent_cc=500.0, surface_m2=20.0 + i * 0.0, poster="particulier")  # 25 eur/m2
+    _add(state, "cheap", 20, tags=["x"], rent_cc=360.0, surface_m2=20.0)      # 18 <= 0.75*25
+    _add(state, "too", 21, rent_cc=240.0, surface_m2=20.0)                    # 12 <= 0.5*25
+    _add(state, "stale", 22, status="stale", rent_cc=100.0, surface_m2=20.0)  # ignored for areas
+    _add(state, "few", 23, rent_cc=100.0, surface_m2=20.0, postal_code="69009")
+    before = repr(state)
+    p = build_payload(state, {}, NOW)
+    r = {x["id"]: x for x in p["listings"]}
+    assert p["areas"]["69003"]["n"] == 10 and p["areas"]["69003"]["median_eur_m2"] == 25.0
+    assert p["areas"]["69009"] == {"n": 1, "median_eur_m2": 5.0}
+    assert r["cheap"]["tags"] == ["x", "cheap-for-area"]
+    assert r["too"]["tags"] == ["too-cheap"]
+    assert r["few"]["tags"] == [] or "too-cheap" not in r["few"]["tags"]
+    assert "cheap-for-area" not in r["few"]["tags"]
+    assert repr(state) == before
+
+
+def test_no_area_tags_below_eight():
+    state = store.empty()
+    for i in range(6):
+        _add(state, f"n{i}", i, rent_cc=500.0)
+    _add(state, "low", 20, rent_cc=100.0)
+    assert "too-cheap" not in _rows(state)["low"]["tags"]
