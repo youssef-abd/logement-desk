@@ -22,10 +22,10 @@
    "last_success": "2026-11-21T12:16:06+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 4,
-   "consecutive_failures": 4,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
+   "last_error": null,
    "last_success": "2026-11-21T12:02:04+00:00"
   },
   "pap": {
@@ -35370,6 +35370,41 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:9ybqgw": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T14:40:17+00:00",
+   "last_seen": "2026-11-21T14:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 4 pièces de 83 m². Disponible dès 2027-01-28",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-14b7a9375e14761dbc70b066ceb45432/6618527/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 600,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "9ybqgw",
+    "surface_m2": 83,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 83 m²",
+    "url": "https://www.lacartedescolocs.fr/sous-locations/fr/auvergne-rhone-alpes/lyon/a/9ybqgw"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:b402a0": {
    "also": [],
    "dup_of": null,
@@ -36002,6 +36037,41 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:uf6339": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T14:40:17+00:00",
+   "last_seen": "2026-11-21T14:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 2 pièces de 35 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-fb62659ec57dd302ffa4b1cee5b1590a/6618053/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 250,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "uf6339",
+    "surface_m2": 35,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 2 pièces de 35 m²",
+    "url": "https://www.lacartedescolocs.fr/sous-locations/fr/auvergne-rhone-alpes/lyon/a/uf6339"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:wamrgy": {
    "also": [],
    "dup_of": null,
@@ -36178,6 +36248,45 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3226201988": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T14:40:17+00:00",
+   "last_seen": "2026-11-21T14:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "description": "STUDIO MEUBLE -  Lyon - Villeurbanne\n\nCharmant T1 meublé à Villeurbanne\n\nAnnonce immobilière – REF STUDIOVIL\nLYON VILLEURBANNE - Proximité 3ème et 6ème arrondissements\n\nDéposez votre dossier en ligne via le lien en fin d'annonce.\n\nDans une résidence de standing à Villeurbanne, idéalement située sur la ligne A du métro :\n\nBeau T1 de 24 m², moderne, climatisé et entièrement meublé\nAgencement :\nSéjour lumineux avec cuisine ouverte équipée.\nEspace chambre avec lit double et dressing intégré.\nSalle d",
+    "district": "Villeurbanne 69100",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/78/ca/9878cadbe1c59a5464a1456156c2f663111efd54.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/88/2c/bf/882cbf014e37357b56ebad4e39529b9273cd7744.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/10/03/3a/10033a1240b20817036de7b8b9cd1257a8439187.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/bd/a1/0b/bda10b7ef1b9f7f24ced1774c03a2682428f5384.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/64/2a/a0/642aa039baff3796e15a702116d1aa5ffc47bea3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/c7/f1/f9/c7f1f90d0ed6675e3876cbe22b799f32b1c2d8c6.jpg?rule=ad-large"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "COSY HOME",
+    "published_at": "2026-10-22 04:42:20",
+    "rent_cc": 585.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3226201988",
+    "surface_m2": 24.0,
+    "tags": [],
+    "title": "Studio 1 pièce 24 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3226201988"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3276572678": {
    "also": [],
    "dup_of": null,
@@ -36331,6 +36440,47 @@
     "tags": [],
     "title": "Studio 1 pièce 15 m²",
     "url": "https://www.leboncoin.fr/ad/locations/3288858116"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3290579480": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T14:40:17+00:00",
+   "last_seen": "2026-11-21T14:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Studio meublé - 33 m² - Lyon 9ᵉ\n\nSitué avenue Sidoine-Apollinaire, dans le 9ᵉ arrondissement de Lyon, ce studio meublé de 33 m² se trouve au rez-de-chaussée d'un immeuble calme. Il comprend un espace de vie lumineux avec canapé, télévision et coin repas, un espace nuit avec lit double, une cuisine équipée d'un four, de plaques à induction, d'un réfrigérateur, d'un congélateur, d'un micro-ondes, d'un grille-pain et d'une bouilloire, ainsi qu'une salle de bain avec baignoire, lavabo et WC. Le loge",
+    "district": "Lyon 69009",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/65/c4/3e/65c43ee95668ed16a4beb2c3ef0691cd65bfc537.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/76/fe/1d/76fe1dd5fde8272bcdc878a7a25585cb4a4f6da0.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/70/1f/0b/701f0b244a79ecf6093b9b3f48a3da1ab3bd40c8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/86/f6/9b/86f69b7d0a932d4f459ca155c00ca6c832b47fe2.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/ad/dc/b4addc16547851d844dc48f8fcd6ad6291952e65.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/3f/09/30/3f093049993b987b972c27def0347b867791d9b7.jpg?rule=ad-large"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": "Pascal Chaffot",
+    "published_at": "2026-10-18 14:02:49",
+    "rent_cc": 695.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3290579480",
+    "surface_m2": 33.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio 1 pièce 33 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3290579480"
    },
    "notified": false,
    "status": "active"
@@ -37927,6 +38077,45 @@
    "last_seen": "2026-11-21T13:20:20+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3314444837": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T14:40:17+00:00",
+   "last_seen": "2026-11-21T14:40:17+00:00",
+   "listing": {
+    "charges": 70.0,
+    "description": "Disponible du 20 janvier 2027 à juillet 2027 uniquement.\nContrat mobilité de courte durée non renouvelable réservé aux locataires en situation de mobilité temporaire (étudiants, stagiaires, apprentis, salariés en mission ou formation)\n\nStudio meublé et rénové de 20 m² au 1er étage d'une résidence sécurisée : \n- Équipé d'un canapé-lit, de multiple rangements, d'une table et de tabourets.\n- Coin cuisine avec plaques vitrocéramique, réfrigérateur-congélateur, four micro-ondes, cafetière et vaissell",
+    "district": "Lyon 69007",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/41/67/75/4167759d63ca6c2088a8475554fe41a82ee69e63.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/7e/0b/bd/7e0bbdbd8f7deedc21da60db53240a19e7717f8b.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/94/f3/23/94f323a81a6bde49981fbafdb78661c09daac364.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/01/74/2d/01742d8c586432f59bee5e50d23a773bae80058a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a4/a0/f8/a4a0f817e8311eb1484f22df74e332439dd106d7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d5/dd/93/d5dd93151273c0014912e4e573e842379ad01884.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-21 15:25:22",
+    "rent_cc": 650.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3314444837",
+    "surface_m2": 20.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio meublé et rénové de 20m² - Bail mobilité",
+    "url": "https://www.leboncoin.fr/ad/locations/3314444837"
+   },
+   "notified": false,
    "status": "active"
   },
   "paruvendu:1286858274": {
