@@ -65,6 +65,11 @@ def parse_list(page_html, max_photos):
     return ads, residences
 
 
+def next_page(page_html):
+    m = re.search(r'<link rel="next" href="([^"]+)"', page_html)
+    return BASE + m.group(1) if m else None
+
+
 def parse_residence(page_html, url, max_photos, photos=()):
     """The units a residence page offers (its contact form lists them with their rent)."""
     t = htmllib.unescape(page_html)
@@ -104,20 +109,27 @@ def fetch(profile):
     opts = profile["sources"]["immojeune"]
     deep = profile.get("deep", False)
     out, seen, residences = [], set(), {}
+    pages = opts.get("deep_pages", 6) if deep else 1
     for n, url in enumerate(opts["urls"]):
-        try:
-            ads, res = parse_list(_get(url), profile["max_photos"])
-        except Blocked:
-            if n == 0 and not out:
-                raise
-            break
-        for l in ads:
-            if l.source_id not in seen:
+        for p in range(pages):  # the deep sweep follows the page's own "next" link
+            try:
+                html = _get(url)
+                ads, res = parse_list(html, profile["max_photos"])
+            except Blocked:
+                if n == 0 and p == 0 and not out:
+                    raise
+                break
+            new = [l for l in ads if l.source_id not in seen]
+            for l in new:
                 seen.add(l.source_id)
                 out.append(l)
-        for href, photos in res.items():
-            residences.setdefault(href, photos)
-        SLEEP(1)
+            fresh = [h for h in res if h not in residences]
+            for href in fresh:
+                residences[href] = res[href]
+            SLEEP(1)
+            url = next_page(html)
+            if not url or not (new or fresh):  # no next page, or it only repeats what is known
+                break
     if deep:  # residence pages are one request each: read them on the hourly deep sweep only
         for href in list(residences)[: opts.get("max_residences", 25)]:
             try:

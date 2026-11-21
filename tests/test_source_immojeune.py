@@ -48,6 +48,21 @@ def test_light_run_reads_lists_only_deep_run_also_reads_residence_pages(monkeypa
     assert len(immojeune.fetch(profile(True))) == 3 and len(calls) == 2
 
 
+def test_deep_run_follows_the_next_link_and_stops_when_a_page_adds_nothing(monkeypatch):
+    nxt = lambda n: f'<link rel="next" href="/x/{n}">'
+    other = RESIDENCE.replace("66788", "66799")
+    pages = {"/a.html": "<html>" + nxt(2) + PRIVATE + RESIDENCE + "</html>", "https://www.immojeune.com/x/2": "<html>" + nxt(3) + other + "</html>",
+             "https://www.immojeune.com/x/3": "<html>" + nxt(4) + other + "</html>"}
+    calls = []
+    monkeypatch.setattr(immojeune, "_get", lambda u: calls.append(u) or (pages.get(u) or PAGE))
+    monkeypatch.setattr(immojeune, "SLEEP", lambda s: None)
+    immojeune.fetch(profile(True))
+    assert calls[:3] == ["/a.html", "https://www.immojeune.com/x/2", "https://www.immojeune.com/x/3"] and not any("/x/4" in c for c in calls)
+    calls.clear()
+    immojeune.fetch(profile(False))
+    assert calls == ["/a.html"]
+
+
 def test_blocked_first_list_raises_but_a_blocked_residence_page_keeps_the_rest(monkeypatch):
     def blocked(u):
         raise Blocked("403")
