@@ -22,10 +22,10 @@
    "last_success": "2026-11-21T15:20:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
-   "consecutive_failures": 3,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
+   "last_error": null,
    "last_success": "2026-11-21T15:10:20+00:00"
   },
   "pap": {
@@ -35411,7 +35411,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-21T14:40:17+00:00",
+   "last_seen": "2026-11-21T17:40:20+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 4 pièces de 83 m². Disponible dès 2027-01-28",
@@ -36219,7 +36219,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-21T14:40:17+00:00",
+   "last_seen": "2026-11-21T17:40:20+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 2 pièces de 35 m²",
@@ -36462,6 +36462,41 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:zlj7fj": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T17:40:20+00:00",
+   "last_seen": "2026-11-21T17:40:20+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 4 pièces de 82 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-ef2cb2f745207d6c075b638268a9f751/6091469/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 495,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "zlj7fj",
+    "surface_m2": 82,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 82 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/zlj7fj"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:zy99te": {
    "also": [],
    "dup_of": null,
@@ -36501,7 +36536,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-21T14:40:17+00:00",
+   "last_seen": "2026-11-21T17:40:20+00:00",
    "listing": {
     "charges": null,
     "description": "STUDIO MEUBLE -  Lyon - Villeurbanne\n\nCharmant T1 meublé à Villeurbanne\n\nAnnonce immobilière – REF STUDIOVIL\nLYON VILLEURBANNE - Proximité 3ème et 6ème arrondissements\n\nDéposez votre dossier en ligne via le lien en fin d'annonce.\n\nDans une résidence de standing à Villeurbanne, idéalement située sur la ligne A du métro :\n\nBeau T1 de 24 m², moderne, climatisé et entièrement meublé\nAgencement :\nSéjour lumineux avec cuisine ouverte équipée.\nEspace chambre avec lit double et dressing intégré.\nSalle d",
@@ -36735,7 +36770,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-21T14:40:17+00:00",
+   "last_seen": "2026-11-21T17:40:20+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé - 33 m² - Lyon 9ᵉ\n\nSitué avenue Sidoine-Apollinaire, dans le 9ᵉ arrondissement de Lyon, ce studio meublé de 33 m² se trouve au rez-de-chaussée d'un immeuble calme. Il comprend un espace de vie lumineux avec canapé, télévision et coin repas, un espace nuit avec lit double, une cuisine équipée d'un four, de plaques à induction, d'un réfrigérateur, d'un congélateur, d'un micro-ondes, d'un grille-pain et d'une bouilloire, ainsi qu'une salle de bain avec baignoire, lavabo et WC. Le loge",
@@ -37442,6 +37477,45 @@
    "notified": true,
    "status": "active"
   },
+  "leboncoin:3308146924": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T17:40:20+00:00",
+   "last_seen": "2026-11-21T17:40:20+00:00",
+   "listing": {
+    "charges": 118.0,
+    "description": "VILLEURBANNE - STUDIO MEUBLE - 19,80 m²\n\nDescription de l'offre : \nAu coeur de Villeurbanne, secteur Croix Luizet, nous vous proposons ce studio meublé de 19,80 m²\nSitué au 6 ème étage avec ascenseur, il se compose d'une pièce de vie avec un coin kitchenette, une penderie et un salle d'eau (douche) avec toilettes. \n\nLaverie commune\nAscenseur\nPlace de parking en sous sol (petite place)\n\nLe chauffage est individuel électrique\nL'eau chaude est individuelle électrique\nL'eau froide est collective\n\nLo",
+    "district": "Villeurbanne 69100",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/32/d2/9832d2da4aa1f61cd1ac210607343e97602e1b4a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/45/95/b44595813d34afd4234824c3f358ffcdff56790a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/54/3c/c6/543cc61cd921f702f8ca5b7618bcf9c7ab917ad2.jpg?rule=ad-large"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "LYON GESTION",
+    "published_at": "2026-11-12 20:30:59",
+    "rent_cc": 615.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3308146924",
+    "surface_m2": 20.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "VILLEURBANNE - STUDIO MEUBLE - 19,80 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3308146924"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3308533689": {
    "also": [
     "leboncoin:3313808794"
@@ -37817,7 +37891,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3312649402"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3312670732": {
    "also": [],
@@ -38370,7 +38444,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-21T14:40:17+00:00",
+   "last_seen": "2026-11-21T17:40:20+00:00",
    "listing": {
     "charges": 70.0,
     "description": "Disponible du 20 janvier 2027 à juillet 2027 uniquement.\nContrat mobilité de courte durée non renouvelable réservé aux locataires en situation de mobilité temporaire (étudiants, stagiaires, apprentis, salariés en mission ou formation)\n\nStudio meublé et rénové de 20 m² au 1er étage d'une résidence sécurisée : \n- Équipé d'un canapé-lit, de multiple rangements, d'une table et de tabourets.\n- Coin cuisine avec plaques vitrocéramique, réfrigérateur-congélateur, four micro-ondes, cafetière et vaissell",
