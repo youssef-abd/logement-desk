@@ -150,3 +150,12 @@ def test_deep_flag_is_passed_to_fetchers_only_when_set(profile):
     run(profile, {}, NOW, fetchers={"bienici": fetcher}, deep=True)
     run(profile, {}, NOW, fetchers={"bienici": fetcher})
     assert seen == [True, False]
+
+
+def test_deep_only_sources_are_skipped_on_light_runs_and_run_on_deep_runs(profile):
+    p = profile_with(profile, "bienici", "leboncoin")
+    p["sources"]["leboncoin"]["deep_only"] = True
+    fetchers = {"bienici": ok_fetcher(make_listing()), "leboncoin": ok_fetcher(make_listing(source="leboncoin", source_id="l1"))}
+    light = run(p, store.empty(), NOW, fetchers=fetchers)
+    assert light["report"]["leboncoin"] == {"status": "skipped"} and light["report"]["bienici"]["status"] == "ok"
+    assert run(p, store.empty(), NOW, fetchers=fetchers, deep=True)["report"]["leboncoin"]["status"] == "ok"

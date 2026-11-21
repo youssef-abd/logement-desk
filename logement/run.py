@@ -60,6 +60,9 @@ def run(profile, state, now, fetchers=None, sleep=time.sleep, deep=False):
     for name, opts in profile["sources"].items():
         if not opts.get("enabled"):
             continue
+        if opts.get("deep_only") and not deep:  # costly sources (a real browser) run on the hourly deep sweep only
+            report[name] = {"status": "skipped"}
+            continue
         h = health.setdefault(name, dict(DEFAULT_HEALTH))
         if h["cooldown_until"] and store.age_minutes(now, h["cooldown_until"]) < 0:
             report[name] = {"status": "cooldown"}

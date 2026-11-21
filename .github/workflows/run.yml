@@ -44,6 +44,9 @@ jobs:
         run: |
           git config user.name "logement-desk[bot]"
           git config user.email "logement-desk@users.noreply.github.com"
+      - name: Chrome for the browser-based sources (deep sweep only)
+        if: inputs.deep
+        run: playwright install --with-deps chromium
       - name: Scrape
         env:
           CHECK_FLAG: ${{ inputs.mode == 'check' && '--check' || '' }}
