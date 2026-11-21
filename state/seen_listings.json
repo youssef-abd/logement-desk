@@ -35402,6 +35402,41 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:eicaxu": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T13:10:20+00:00",
+   "last_seen": "2026-11-21T13:10:20+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 3 pièces de 70 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-38b18d765d55ccf1f7ab38bb6e79b9a4/6532050/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 561,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "eicaxu",
+    "surface_m2": 70,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 70 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/eicaxu"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:ezhngl": {
    "also": [],
    "dup_of": null,
@@ -35961,6 +35996,41 @@
     ],
     "title": "Appartement 6 pièces de 138 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/xp6ms2"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:ye33xa": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T13:10:20+00:00",
+   "last_seen": "2026-11-21T13:10:20+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 2 pièces de 80 m². Disponible dès 2026-12-01",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-6ce196f04526e80bfb1c055ed0dc669a/6603675/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 466,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ye33xa",
+    "surface_m2": 80,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 2 pièces de 80 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ye33xa"
    },
    "notified": false,
    "status": "active"
