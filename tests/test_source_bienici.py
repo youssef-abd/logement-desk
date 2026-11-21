@@ -55,3 +55,8 @@ def test_agency_name_is_kept_for_professionals_only():
     assert pro.poster == "agence" and pro.poster_name == "AGENCE EXAMPLE"
     [priv] = parse({"realEstateAds": [{**AD, "adCreatedByPro": False, "accountDisplayName": "Some Person"}]}, max_photos=6)
     assert priv.poster == "particulier" and priv.poster_name is None
+
+
+def test_build_filters_only_asks_for_ads_still_on_the_market(profile):
+    profile["sources"]["bienici"]["zone_ids"] = ["-1"]
+    assert build_filters(profile)["onTheMarket"] == [True]

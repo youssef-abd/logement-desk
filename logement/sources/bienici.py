@@ -17,6 +17,7 @@ def build_filters(profile, size=None, offset=0):
         "size": size or opts.get("size", 24), "from": offset, "filterType": "rent", "propertyType": ["flat"],
         "maxPrice": int(profile["max_rent_cc"] + profile["near_miss_margin"]),
         "sortBy": "publicationDate", "sortOrder": "desc",
+        "onTheMarket": [True],  # without it the index also returns ads already taken down (about 90% of them)
         "zoneIdsByTypes": {"zoneIds": opts["zone_ids"]},
     }
     if profile["furnished"] == "required":
