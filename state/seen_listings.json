@@ -1938,7 +1938,9 @@
    "status": "stale"
   },
   "bienici:ag603630-552438875": {
-   "also": [],
+   "also": [
+    "leboncoin:3314592340"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-21T15:00:21+00:00",
@@ -34917,7 +34919,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T13:30:17+00:00",
-   "last_seen": "2026-11-21T13:30:17+00:00",
+   "last_seen": "2026-11-21T16:30:17+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 4 pièces de 85 m²",
@@ -36581,7 +36583,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T13:30:17+00:00",
-   "last_seen": "2026-11-21T13:30:17+00:00",
+   "last_seen": "2026-11-21T16:30:17+00:00",
    "listing": {
     "charges": 78.0,
     "description": "Studio Meublé  À Louer\n\nÀ louer à Vénissieux, charmant appartement de 17,28 m², idéal pour un étudiant ou un actif à la recherche d'un pied-à-terre fonctionnel. Situé dans un immeuble construit en 1930, et entièrement rénové en 2022 pour la création de cette copropriété, ce logement en parfait état offre une pièce de vie agréable et optimisée.\nChauffage individuel électrique.\nProposé au loyer de 678 € par mois charges comprise . Contactez votre agence Orpi pour plus d'informations et organiser u",
@@ -38406,6 +38408,91 @@
     "url": "https://www.leboncoin.fr/ad/locations/3314510477"
    },
    "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3314585198": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T16:30:17+00:00",
+   "last_seen": "2026-11-21T16:30:17+00:00",
+   "listing": {
+    "charges": 65.0,
+    "description": "GERLAND Rue Jacques Monod A proximité immédiate du Métro B et des Tram 1 et 6 Arrêt Debourg, des Ecoles Normales Supérieures et de tous les commerces et services\nAgréable T1 Meublé 27m2 + Parking privé dans sous-sol sécurisé 2e étage dans copropriété bon standing avec ascenseur et interphone. Hall avec grand placard Grande pièce lumineuse avec coin cuisine équipée ( plaques de cuisson, réfrigérateur, micro-onde, table, chaise, rangements, vaisselle ) et coin nuit avec bureau + étagères et canapé",
+    "district": "Lyon 69007",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/73/4b/fd/734bfd1cbc845aca9c83b8c0862e7d8fcda88786.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d8/f0/16/d8f016dc1f45965052869c9debfd630b99ce6ecb.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/32/51/df/3251df88893a571dbcd67c361832c026690cf660.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ca/44/0f/ca440fd4d33b71ae69ed908a3b741fb89ecdc4a8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/24/f0/25/24f0254df038ebec249f0aef5e1ebc3aec0a8d4b.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-21 17:20:12",
+    "rent_cc": 597.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3314585198",
+    "surface_m2": 27.0,
+    "tags": [],
+    "title": "Location T1 meublé avec parking sous-sol Lyon 7e",
+    "url": "https://www.leboncoin.fr/ad/locations/3314585198"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3314586545": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T16:30:17+00:00",
+   "last_seen": "2026-11-21T16:30:17+00:00",
+   "listing": {
+    "charges": 18.0,
+    "description": "Idéalement situé à 2mn des arrêts de bus « Grand Clément » et « Blanqui-le Rize », à quelques minutes du métro Flachet, et de la gare de Villeurbanne, de l’IUT Gratte-Ciel, du Médipôle Vinatier / Edouard Herriot ,… dans une résidence de caractère, sécurisée totalement rénovée, à proximité des commerces, nous vous proposons à la location, au 3ème étage avec ascenseur, un joli studio meublé de 18m² environ, rénové et très bien équipé, comprenant entrée avec placard, salle d’eau - WC, une pièce pri",
+    "district": "Villeurbanne 69100",
+    "flags": [
+     "agency_fees_no",
+     "charges_cc",
+     "visale"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/2e/ca/cc/2ecacc94fe596b8943e7a252af717236d6385b2a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6f/c2/4e/6fc24e76f33ff71a4cc51e97ec07564129910a81.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/08/8d/b4/088db426f1d6c78b69820ac37b4ca42685628e41.jpg?rule=ad-large"
+    ],
+    "postal_code": "69100",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-21 17:21:24",
+    "rent_cc": 648.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3314586545",
+    "surface_m2": 17.48,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Loue Studio meublé rénové, calme et lumineux, VILLEURBANNE Grand Clément",
+    "url": "https://www.leboncoin.fr/ad/locations/3314586545"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3314592340": {
+   "also": [],
+   "dup_of": "bienici:ag603630-552438875",
+   "first_seen": "2026-11-21T16:30:17+00:00",
+   "last_seen": "2026-11-21T16:30:17+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "paruvendu:1286858274": {
