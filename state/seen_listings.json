@@ -34877,6 +34877,41 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:0l5ecd": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T13:30:17+00:00",
+   "last_seen": "2026-11-21T13:30:17+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 4 pièces de 85 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-668df20681a800a0aa6927f177773a7c/6558858/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 550,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "0l5ecd",
+    "surface_m2": 85,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 85 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/0l5ecd"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:0oc1h0": {
    "also": [],
    "dup_of": null,
@@ -36215,6 +36250,47 @@
     ],
     "title": "Chambre 1 pièce 10 m²",
     "url": "https://www.leboncoin.fr/ad/locations/3283236300"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3287791330": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T13:30:17+00:00",
+   "last_seen": "2026-11-21T13:30:17+00:00",
+   "listing": {
+    "charges": 78.0,
+    "description": "Studio Meublé  À Louer\n\nÀ louer à Vénissieux, charmant appartement de 17,28 m², idéal pour un étudiant ou un actif à la recherche d'un pied-à-terre fonctionnel. Situé dans un immeuble construit en 1930, et entièrement rénové en 2022 pour la création de cette copropriété, ce logement en parfait état offre une pièce de vie agréable et optimisée.\nChauffage individuel électrique.\nProposé au loyer de 678 € par mois charges comprise . Contactez votre agence Orpi pour plus d'informations et organiser u",
+    "district": "Vénissieux 69200",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/84/c4/f7/84c4f7ce66eded044557998b69c0e38768c13686.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e1/bb/12/e1bb12e6d66673439d32b3c725bef15fbeb804ce.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/5f/87/07/5f870798e64e624694028a788afafd96a05176a7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/74/93/4d/74934d4432e36dce04c5d544f7dd8bd741e2fea3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/64/31/2f/64312f274067146ce7332b6c9eb4114ae7e58f37.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/28/31/a6/2831a61b1b9c088f34330b0829ea8957934e8c63.jpg?rule=ad-large"
+    ],
+    "postal_code": "69200",
+    "poster": "agence",
+    "poster_name": "ORPI Moulin à Vent Immobilier",
+    "published_at": "2026-10-13 17:27:21",
+    "rent_cc": 630.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3287791330",
+    "surface_m2": 17.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio 1 pièce 17 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3287791330"
    },
    "notified": false,
    "status": "active"
