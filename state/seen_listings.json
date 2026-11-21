@@ -8,8 +8,8 @@
    "last_success": "2026-11-21T05:00:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-21T02:40:27+00:00"
