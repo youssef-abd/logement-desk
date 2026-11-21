@@ -23157,7 +23157,9 @@
    "status": "stale"
   },
   "bienici:ics-anj_ANJALYS_loc-GES20800202-713": {
-   "also": [],
+   "also": [
+    "leboncoin:3314365185"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:42:17+00:00",
    "last_seen": "2026-11-21T11:42:17+00:00",
@@ -35087,6 +35089,41 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:60fm63": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-21T13:20:20+00:00",
+   "last_seen": "2026-11-21T13:20:20+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 4 pièces de 63 m². Disponible dès 2026-12-20",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-e5fe4db855948e19c223d877d823196c/6599301/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 520,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "60fm63",
+    "surface_m2": 63,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 63 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/60fm63"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:6izc06": {
    "also": [],
    "dup_of": null,
@@ -37803,6 +37840,15 @@
     "url": "https://www.leboncoin.fr/ad/locations/3314227416"
    },
    "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3314365185": {
+   "also": [],
+   "dup_of": "bienici:ics-anj_ANJALYS_loc-GES20800202-713",
+   "first_seen": "2026-11-21T13:20:20+00:00",
+   "last_seen": "2026-11-21T13:20:20+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "paruvendu:1286858274": {
