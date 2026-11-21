@@ -29,11 +29,18 @@
    "last_success": "2026-11-21T21:30:17+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 6,
+   "blocked_runs": 7,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-21T22:40:19+00:00"
+  },
+  "logicimmo": {
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
+   "cooldown_until": null,
+   "last_error": "blocked",
+   "last_success": null
   },
   "pap": {
    "blocked_runs": 1,
@@ -36541,7 +36548,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-21T20:50:17+00:00",
+   "last_seen": "2026-11-21T23:53:27+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 4 pièces de 83 m². Disponible dès 2027-01-28",
@@ -37384,7 +37391,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-21T20:50:17+00:00",
+   "last_seen": "2026-11-21T23:53:27+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 2 pièces de 35 m²",
@@ -37631,7 +37638,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-21T20:50:17+00:00",
+   "last_seen": "2026-11-21T23:53:27+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 4 pièces de 82 m²",
