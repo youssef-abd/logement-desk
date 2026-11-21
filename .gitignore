@@ -6,3 +6,6 @@ profile.json
 out/
 .vapid.json
 .desk_secrets.json
+
+.wrangler/
+.taste-skill/
