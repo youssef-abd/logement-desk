@@ -60,3 +60,11 @@ test("only listings first seen in the last 90 minutes are fresh; a deep sweep of
   const sweep = await ingest({ kv, payload: P(old, bad, none), now: NOW, send });
   assert.equal(sweep.fresh, 0); assert.equal(sweep.sent, 0);
 });
+
+test("freshness follows the posted date: an old listing discovered just now is not fresh", async () => {
+  const kv = fakeKV({ notified: [] });
+  const old = L("old", { first_seen: "2026-11-15T09:55:00Z", posted: "2026-11-12T08:00:00Z" });
+  const live = L("live", { first_seen: "2026-11-15T09:55:00Z", posted: "2026-11-15T09:50:00Z" });
+  const r = await ingest({ kv, payload: P(old, live), now: NOW, send: async () => 201 });
+  assert.equal(r.fresh, 1);
+});

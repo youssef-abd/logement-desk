@@ -6,7 +6,7 @@ export async function ingest({ kv, payload, now, send }) {
   const raw = await kv.get("notified", "json");
   const first = !Array.isArray(raw);
   const notified = new Set(first ? [] : raw);
-  const isRecent = (l) => { const t = Date.parse(l.first_seen); return Number.isFinite(t) && now - t <= 90 * 60 * 1000 && t - now < 60 * 1000; };
+  const isRecent = (l) => { const t = Date.parse(typeof l.posted === "string" && l.posted && !l.posted.startsWith("1970") ? l.posted : l.first_seen); return Number.isFinite(t) && now - t <= 90 * 60 * 1000 && t - now < 60 * 1000; };
   const fresh = first ? [] : payload.listings.filter((l) => l.status === "active" && !notified.has(l.id) && isRecent(l));
   await kv.put("listings", JSON.stringify(payload));
   let sent = 0, devices = 0;
