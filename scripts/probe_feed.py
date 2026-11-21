@@ -1,50 +1,33 @@
-"""One-off: list the JSON/XHR calls Studapart's Lyon page makes, to find its listing feed. Paths and key names only."""
+"""One-off: capture Studapart's listing request in Chrome, then replay it with plain HTTP and summarise the items."""
 import json
-from urllib.parse import urlparse
+import urllib.request
 from playwright.sync_api import sync_playwright
 
 URL = "https://www.studapart.com/fr/location-studio-lyon"
-seen = []
+cap = {}
 with sync_playwright() as p:
     b = p.chromium.launch()
     page = b.new_page(locale="fr-FR")
 
-    def on_resp(r):
-        ct = r.headers.get("content-type", "")
-        if "json" in ct and r.request.resource_type in ("xhr", "fetch"):
-            try:
-                body = r.text()
-            except Exception:
-                body = ""
-            seen.append((r.request.method, r.url, r.status, len(body), body[:2000000]))
-            if r.url.endswith('/property'):
-                print('PROPERTY request headers:', {k: v for k, v in r.request.headers.items() if k.lower() in ('content-type', 'origin', 'accept')})
-                print('PROPERTY request body:', (r.request.post_data or '')[:1500])
-                try:
-                    d = json.loads(body)
-                    print('PROPERTY top:', (list(d.keys()) if isinstance(d, dict) else type(d).__name__))
-                    items = d if isinstance(d, list) else next((v for v in d.values() if isinstance(v, list)), [])
-                    print('PROPERTY items:', len(items))
-                    if items:
-                        print('PROPERTY item keys:', list(items[0].keys())[:60])
-                        print('PROPERTY item sample:', json.dumps(items[0], ensure_ascii=False)[:1800])
-                except Exception as e:
-                    print('PROPERTY parse error', e)
+    def on_req(r):
+        if r.url.endswith("/property") and r.method == "POST" and "body" not in cap:
+            cap["url"], cap["body"], cap["headers"] = r.url, r.post_data, dict(r.headers)
 
-    page.on("response", on_resp)
+    page.on("request", on_req)
     page.goto(URL, wait_until="networkidle", timeout=60000)
-    for _ in range(4):
-        page.mouse.wheel(0, 3000)
-        page.wait_for_timeout(1200)
-    cards = page.evaluate("""() => [...document.querySelectorAll('a[href]')].map(a => a.getAttribute('href')).filter(h => /\/(annonce|logement|location|listing|housing)[^ ]*[0-9]{3,}/.test(h)).length""")
-    print("rendered links with ids:", cards, "| json calls:", len(seen))
-    for m, u, s, n, body in seen:
-        pu = urlparse(u)
-        keys = ""
-        try:
-            d = json.loads(body)
-            keys = (list(d.keys())[:8] if isinstance(d, dict) else f"list[{len(d)}]")
-        except Exception:
-            keys = "?"
-        print(m, s, n, pu.netloc + pu.path, ("?" + pu.query[:90]) if pu.query else "", keys)
     b.close()
+body = cap["body"]
+print("BODY length", len(body))
+for i in range(0, min(len(body), 9000), 1500):
+    print("BODY", i, body[i:i + 1500])
+print("HEADERS", {k: v for k, v in cap["headers"].items() if k.lower() in ("origin", "referer", "content-type")})
+req = urllib.request.Request(cap["url"], data=body.encode(), headers={"content-type": "application/json", "accept": "application/json"})
+try:
+    d = json.load(urllib.request.urlopen(req, timeout=30))
+    items = d.get("results", [])
+    print("REPLAY plain http ok: items", len(items), "nbHits", d.get("nbHits"), "last", d.get("isLastPage"))
+    for it in items[:5]:
+        print("ITEM", json.dumps({k: it.get(k) for k in ("ad_type", "propertyType", "announcementType", "rentWithExpensesAmount", "rentWithExpensesAmountFullAccommodation", "propertySurface", "roomsCount", "isFurnished", "ownerName", "residenceName", "address", "onlineAt", "createdAt")}, ensure_ascii=False), (it.get("canonicalUrls") or {}).get("fr"), str(it.get("media"))[:150])
+    print("ad types:", {t: sum(1 for x in items if x.get("ad_type") == t) for t in {x.get("ad_type") for x in items}})
+except Exception as e:
+    print("REPLAY failed", type(e).__name__, str(e)[:150])
