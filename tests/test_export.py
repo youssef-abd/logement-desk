@@ -116,9 +116,9 @@ def test_scam_risk_is_computed_in_the_payload(profile):
 def test_price_tags_only_compare_small_flats(profile):
     state = store.empty()
     for i in range(9):
-        process(state, [make_listing(source="s", source_id=f"s{i}", rent_cc=600.0 + i, surface_m2=20.0, poster="particulier")], {"s"}, NOW, profile)
+        process(state, [make_listing(source="s", source_id=f"s{i}", rent_cc=30.0 * (18 + 2 * i), surface_m2=float(18 + 2 * i), poster="particulier")], {"s"}, NOW, profile)
     process(state, [make_listing(source="s", source_id="big", rent_cc=500.0, surface_m2=100.0, poster="particulier")], {"s"}, NOW, profile)
-    process(state, [make_listing(source="s", source_id="deal", rent_cc=250.0, surface_m2=20.0, poster="particulier")], {"s"}, NOW, profile)
+    process(state, [make_listing(source="s", source_id="deal", rent_cc=250.0, surface_m2=19.0, poster="particulier")], {"s"}, NOW, profile)
     rows = {r["id"]: r for r in build_payload(state, {}, NOW)["listings"]}
     assert "too-cheap" not in rows["s:big"]["tags"] and rows["s:big"]["risk"] is None
     assert "too-cheap" in rows["s:deal"]["tags"] and rows["s:deal"]["risk"] == "check"
