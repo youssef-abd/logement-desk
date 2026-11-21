@@ -26,6 +26,7 @@ export function cleanListing(l) {
     published_at: str(l.published_at, 40) || null, first_seen: str(l.first_seen, 40), last_seen: str(l.last_seen, 40),
     status: l.status === "stale" ? "stale" : "active", flags: arr(l.flags), tags: arr(l.tags),
     photos: (Array.isArray(l.photos) ? l.photos : []).map(safePhoto).filter(Boolean).slice(0, 8), also: num(l.also) || 0,
+    eur_m2: num(l.eur_m2), posted: str(l.posted, 40), similar: Number.isInteger(l.similar) && l.similar > 0 ? l.similar : 0,
   };
 }
 
@@ -43,5 +44,8 @@ export function cleanPayload(p) {
   for (const l of p.listings.map(cleanListing)) {
     if (l && !seen.has(l.id)) { seen.add(l.id); listings.push(l); }
   }
-  return { updated: str(p.updated, 40), listings: listings.slice(0, 400), health };
+  const areaEntries = Object.entries(p.areas && typeof p.areas === "object" ? p.areas : {})
+    .filter(([pc, a]) => /^\d{5}$/.test(pc) && a && typeof a === "object" && num(a.n) !== null && num(a.median_eur_m2) !== null)
+    .slice(0, 40).map(([pc, a]) => [pc, { n: a.n, median_eur_m2: a.median_eur_m2 }]);
+  return { updated: str(p.updated, 40), listings: listings.slice(0, 1500), areas: Object.fromEntries(areaEntries), health };
 }

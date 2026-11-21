@@ -4,7 +4,7 @@ import { fakeKV } from "./helpers.mjs";
 import { ingest } from "../lib/ingest.js";
 import { messageFor } from "../lib/message.js";
 
-const L = (id, o = {}) => ({ id, source: "bienici", url: `https://www.bienici.com/annonce/${id}`, rent_cc: 540, surface_m2: 27.4, district: "City 7e", poster: "particulier", status: "active", ...o });
+const L = (id, o = {}) => ({ id, source: "bienici", url: `https://www.bienici.com/annonce/${id}`, rent_cc: 540, surface_m2: 27.4, district: "City 7e", poster: "particulier", status: "active", first_seen: "2026-11-15T09:50:00Z", ...o });
 const P = (...ls) => ({ updated: "t", listings: ls, health: {} });
 const NOW = Date.parse("2026-11-15T10:00:00Z");
 
@@ -47,4 +47,16 @@ test("an empty payload is skipped: no KV write, not counted as the seeding run",
   assert.deepEqual(kv.dump(), {});
   const first = await ingest({ kv, payload: P(L("a")), now: NOW, send: async () => 201 });
   assert.equal(first.seeded, true);
+});
+
+test("only listings first seen in the last 90 minutes are fresh; a deep sweep of old ones sends nothing", async () => {
+  const kv = fakeKV({ notified: [], push: [{ endpoint: "https://ok" }] });
+  const send = async () => 201;
+  const old = L("old", { first_seen: "2026-11-15T07:00:00Z" }), recent = L("new", { first_seen: "2026-11-15T09:50:00Z" });
+  const bad = L("bad", { first_seen: "garbage" }), none = L("none", { first_seen: undefined });
+  const r = await ingest({ kv, payload: P(old, recent, bad, none), now: NOW, send });
+  assert.equal(r.fresh, 1);
+  assert.deepEqual(kv.dump().yield["2026-11-15"], { bienici: 1 });
+  const sweep = await ingest({ kv, payload: P(old, bad, none), now: NOW, send });
+  assert.equal(sweep.fresh, 0); assert.equal(sweep.sent, 0);
 });

@@ -26,8 +26,8 @@ test("cleanListing keeps good fields, drops bad photos and bad urls", () => {
 test("cleanPayload caps size and rejects junk", () => {
   assert.equal(cleanPayload(null), null);
   assert.equal(cleanPayload({ listings: "x" }), null);
-  const p = cleanPayload({ updated: "t", listings: Array.from({ length: 500 }, (_, i) => ({ ...good, id: `bienici:${i}` })), health: { bienici: { failures: 2, run: { status: "ok", fetched: 24, kept: 20 } }, "BAD name": {} } });
-  assert.equal(p.listings.length, 400);
+  const p = cleanPayload({ updated: "t", listings: Array.from({ length: 1600 }, (_, i) => ({ ...good, id: `bienici:${i}` })), health: { bienici: { failures: 2, run: { status: "ok", fetched: 24, kept: 20 } }, "BAD name": {} } });
+  assert.equal(p.listings.length, 1500);
   assert.deepEqual(Object.keys(p.health), ["bienici"]);
   assert.equal(p.health.bienici.kept, 20);
 });
@@ -51,4 +51,23 @@ test("cleanPayload keeps one listing per id (first occurrence)", () => {
   const p = cleanPayload({ updated: "t", listings: [good, { ...good, title: "second" }] });
   assert.equal(p.listings.length, 1);
   assert.equal(p.listings[0].title, "T");
+});
+
+test("cleanListing keeps eur_m2, posted and similar with safe types", () => {
+  const l = cleanListing({ ...good, eur_m2: 18.5, posted: "2026-11-15T09:00:00+00:00", similar: 3 });
+  assert.equal(l.eur_m2, 18.5); assert.equal(l.posted, "2026-11-15T09:00:00+00:00"); assert.equal(l.similar, 3);
+  const d = cleanListing({ ...good, eur_m2: "x", posted: 5, similar: -2 });
+  assert.equal(d.eur_m2, null); assert.equal(d.posted, ""); assert.equal(d.similar, 0);
+  assert.equal(cleanListing({ ...good, similar: 1.5 }).similar, 0);
+  assert.equal(cleanListing({ ...good, posted: "x".repeat(99) }).posted.length, 40);
+});
+
+test("cleanPayload keeps only well-formed areas", () => {
+  const areas = JSON.parse('{"69003":{"n":9,"median_eur_m2":24.5},"1234":{"n":1,"median_eur_m2":1},"__proto__":{"n":1,"median_eur_m2":1},"69007":{"n":"x","median_eur_m2":3},"69009":"junk"}');
+  const p = cleanPayload({ updated: "t", listings: [good], areas });
+  assert.deepEqual(p.areas, { "69003": { n: 9, median_eur_m2: 24.5 } });
+  assert.equal(Object.getPrototypeOf(p.areas), Object.prototype);
+  assert.deepEqual(cleanPayload({ updated: "t", listings: [good] }).areas, {});
+  const many = Object.fromEntries(Array.from({ length: 60 }, (_, i) => [String(10000 + i), { n: 1, median_eur_m2: 1 }]));
+  assert.equal(Object.keys(cleanPayload({ listings: [good], areas: many }).areas).length, 40);
 });

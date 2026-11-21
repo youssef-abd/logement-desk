@@ -6,7 +6,7 @@ import { sendPush } from "../../lib/push.js";
 export async function onRequestPost({ request, env }) {
   if (!isPusher(request, env)) return json({ error: "unauthorized" }, 401);
   const text = await request.text();
-  if (text.length > 2_000_000) return json({ error: "too large" }, 413);
+  if (text.length > 6_000_000) return json({ error: "too large" }, 413);
   let body;
   try { body = JSON.parse(text); } catch (e) { return json({ error: "bad json" }, 400); }
   const payload = cleanPayload(body);
