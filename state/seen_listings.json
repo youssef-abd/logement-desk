@@ -29,7 +29,7 @@
    "last_success": "2026-11-22T12:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -5273,6 +5273,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 50,
+    "city": "lyon",
     "description": "Votre Régie Galyo a le plaisir de vous proposer à la location, proche des transports en commun, des commerces et de toutes commodités, cet appartement T3 de 69.87m².\n\nAu 4ème étage d'une résidence calme, situé AVENUE MARECHAL DE SAXE à Lyon 3eme, il se compose d'une entrée, d'un séjour coin cuisine, deux chambres, d'une salle de bain et d'un WC séparé.\n\nlogement soumis à l'encadrement des loyers :\nloyer de référence : 894.34 €\nloyer de référence majoré : 1076 €\n\nContact : Eva\n\nLes informations s",
     "district": "Lyon 3e",
     "flags": [],
@@ -5310,6 +5311,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 20,
+    "city": "lyon",
     "description": "Votre Régie Galyo a le plaisir de vous proposer à la location, proche des transports en commun, des commerces et de toutes commodités, cet appartement studio de 17m².\n\nDans une copropriété sécurisée située Avenue Maréchal de Saxe LYON 3EME, il se compose d'une pièce de vie avec cuisine aménagée et équipée (meubles hauts et bas, plaques de cuisson, hotte, four, réfrigérateur, lave-linge), d'une salle d'eau et d'un WC séparé.\n\nZone soumise a encadrement des loyers :\nLoyer de référence : 308,30 eur",
     "district": "Lyon 3e",
     "flags": [
@@ -8898,6 +8900,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement de type T1 meublé situé dans une copropriété calme et sécurisée.\nIl se compose d'une entrée, d'une pièce principale, d'une cuisine avec placard, d'une salle d'eau et de toilettes séparées.\n\nLa cuisine est meublée et équipée avec une table et deux bancs, un réfrigérateur, une cuisinière, vaisselle et ustensiles de cuisine, ainsi qu'un lave-linge à disposition.\nDans la pièce principale se trouvent un canapé-lit, une desserte, une commode, un bureau et une lampe sur pied.\n\nSitué dans le",
     "district": "Lyon 6e",
     "flags": [],
@@ -12246,6 +12249,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 30,
+    "city": "lyon",
     "description": "METRO JEAN JAURES, Rue Marie Madeleine Fourcade, T2 MEUBLE de 34.73 m² + balcon, séjour, cuisine équipée, 1 chambre, salle de bains, possibilité de garage en supplément pour 85 € cc, disponible le 27/11, assurance multirisque habitation (facultative) à partir de 15.31 € ttc/mois, Zone soumise à encadrement des loyers : Loyer de base : 694.60€. Loyer de référence majoré (loyer de base à ne pas dépasser) : 694.60 €. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur ",
     "district": "Lyon 7e",
     "flags": [
@@ -12286,6 +12290,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 30,
+    "city": "lyon",
     "description": "Secteur Grange Blanche, passage des Alouettes, T1 de 31,21 m2 en rez-de-jardin composé d'une entrée,  cuisine (réfrigérateur - 2 plaques électriques), séjour, salle de bains avec WC, jardin de 16,17m2. Disponible le 05/12/26, chauffage individuel électrique, assurance habitation (facultative) à partir de 11.31€ par mois. Zone soumise à encadrement des loyers : Loyer de base : 478,59 €. Loyer de référence majoré (loyer de base à ne pas dépasser) : 727,19€. Les informations sur les risques auxquel",
     "district": "Lyon 8e",
     "flags": [],
@@ -15008,6 +15013,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Emplacement idéal : à seulement 5 minutes à pied du métro Gratte-Ciel et à proximité de toutes les commodités.\n\nT3 de 56 m² entièrement refait à neuf, meublé et situé au sein d'une résidence calme avec gardien et espaces verts.\n\nL'appartement se compose d'une entrée avec placard et étagères de rangement, d'un agréable séjour meublé avec canapé, table basse et meuble TV, donnant accès à un balcon sans vis-à-vis. Cuisine ouverte entièrement équipée avec hotte, four, réfrigérateur et mobilier de ra",
     "district": "Villeurbanne",
     "flags": [
@@ -15739,6 +15745,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 55,
+    "city": "lyon",
     "description": "VILLA LUCIA – Référence de l'annonce : 21130\nIdéalement située à deux pas du métro Grange-Blanche, cette résidence récente bénéficie d'un emplacement privilégié, à proximité immédiate des commerces, des transports en commun et de toutes les commodités du quotidien.\n\nDécouvrez ce bel appartement T2 de 37,64 m², situé au 2ᵉ étage, avec une agréable terrasse de 4,37 m².\n\nIl se compose d'une entrée desservant une lumineuse pièce de vie ouverte sur une cuisine équipée (plaque de cuisson, hotte, four,",
     "district": "Lyon 3e",
     "flags": [
@@ -16782,6 +16789,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 90,
+    "city": "lyon",
     "description": "TYPE 3 DE 74.64 M2 SITUE 56 BOULEVARD EUGENE REGUILLON PROCHE TOUTES COMMODITES IL EST COMPOSE DE DEUX  CHAMBRES UN SEJOUR, UNE CUISINE  UNE SALLE DE BAINS EST LOUE AVEC UN GARAGE\nZone soumise à encadrement des loyers\nLoyer de référence majoré (loyer de base à ne pas dépasser) » :970.32 €\nLoyer de base : 900 €\nLoyer 990 E/mois dont 90 E de charges locatives (provision donnant lieu à régularisation annuelle) dépôt de garantie 900E honoraires charge locataire 976.26 E dont 226.15 E pour l'état des",
     "district": "Villeurbanne",
     "flags": [
@@ -16822,6 +16830,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 100,
+    "city": "lyon",
     "description": "À louer, agréable T2 de 47,70 m² situé au 3e étage d'un immeuble au 11 avenue Roberto Rossellini, 69100 Villeurbanne.\n\nL'appartement dispose d'une grande pièce principale offrant un bel espace de vie, ainsi que d'une cuisine séparée entièrement aménagée et équipée avec four, plaques de cuisson et hotte. Il comprend également une chambre spacieuse et une salle d'eau.\n\n-&gt; Si vous souhaitez candidater, veuillez déposer votre dossier sur Seventee.\n\nLoyer de 839€ par mois dont 100€ de charges, hon",
     "district": "Villeurbanne",
     "flags": [
@@ -16861,6 +16870,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 50,
+    "city": "lyon",
     "description": "TYPE 1 DE 32.97 M2  A COTE DE L'HOTEL METROPOLE DE LYON  DANS UNE RESIDENCE CALME SITUE 31 RUE DU BOIS DE LA CAILLE IL EST COMPOSE D'UN SEJOUR UNE CUISINE ET UNE SALLE DE BAINS.\nZone soumise à encadrement des loyers\nLoyer de référence majoré (loyer de base à ne pas dépasser) » :  712.15 €\nLoyer de base : 573 €\nLoyer 623 E/mois dont 50 E de charges locatives (provision donnant lieu à régularisation annuelle) dépôt de garantie 573E honoraires charge locataire 432.55 E dont 99.89 E pour l'état des ",
     "district": "Lyon 4e",
     "flags": [
@@ -18305,6 +18315,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 55,
+    "city": "lyon",
     "description": "Nous vous précisons qu'une pré-étude de votre dossier sera effectuée avant l'organisation d'une visite sur place. Pour déposer votre dossier, rendez-vous directement sur notre site internet, sur la page de l'annonce, via le bouton 'Déposer ma candidature sur Seventee'.\n LYON 3 - MONPLAISIR - Situé dans un secteur calme, à proximité du parc Blandan et de la manufactture des Tabacs, ce bien est desservi par les trams T2 et T4 ainsi que des lignes de bus C25 et PL1,\n Venez découvrir cet agréable ap",
     "district": "Lyon 8e",
     "flags": [
@@ -19444,6 +19455,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 60,
+    "city": "lyon",
     "description": "OULLINS - Location meublée - 2 pièces de 56,1 m²\n\nA Oullins, Laforêt Cabinet Mermet vous propose à la location ce deux pièces meublé de 56,1 m², offrant une grande pièce de vie de 35m² avec cuisine aménagée et équipée, une chambre de 11m², une salle de bains et des toilettes séparés.\n\nL'appartement dispose d'une cave. Il se trouve au 4ème étage sans ascenseur.\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
     "district": "Oullins",
     "flags": [],
@@ -25101,6 +25113,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 50,
+    "city": "lyon",
     "description": "LYON 7 - Secteur JEAN MACE /  métro B, bus et tramway T1 et T2 à proximité immédiate,\n\nAppartement récent de type 2 de 47, 9  m² au 5ème étage, exposé Sud/Ouest, composé d'une Entrée / séjour / Cuisine meublée avec un évier double, un plan de travail, des rangements et une crédence pour l'emplacement de cuisson, d'une chambre avec placard de 15, 1 m², d'une salle d'eau, WC séparés + placard, ainsi qu'une loggia de 9 m².\n\nEau froide, eau chaude et chauffage individuel gaz. Un box fermé en sous-so",
     "district": "Lyon 7e",
     "flags": [
@@ -27779,6 +27792,7 @@
    "last_seen": "2026-11-22T11:30:18+00:00",
    "listing": {
     "charges": 20,
+    "city": "lyon",
     "description": "OULLINS <br>Nous avons sélectionné pour vous un T2 meublé d'environ 35 m² refait à neuf, lumineux, situé à 5 minutes à pied du métro Ligne B/ Gare d'Oullins. <br>L'immeuble se situe au fond d'une impasse avec la possibilité de stationner assez facilement. <br>Chauffage électrique, double vitrage !<br>Idéal pour des étudiants ou jeune couple.<br>Loyer : 613.14€ Hors Charges<br>Provisions pour charges mensuelles : 20 € comprenant l'entretien des parties communes.<br>Dépôt de garantie: 1226€<br>Hon",
     "district": "Oullins",
     "flags": [
@@ -29085,6 +29099,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 58,
+    "city": "lyon",
     "description": "A LOUER - T2 - LYON 3EME\n\nCitya les Célestins vous propose à la location un T2 récent de 42,41 m² situé petite rue Saint-Eusèbe à Lyon 3ème secteur Dauphiné- Lacassagne à proximité des transports (bus ; tramway) et commerces. \nCe bien comprend une cuisine équipée et meublée ouverte sur un séjour avec placard, une chambre et une salle d'eau avec WC. \n\nLogement soumis au dispositif Pinel, avec plafond de ressources à respecter pour le locataire.\n\nDisponibilité : Immédiate.  Le bien est soumis au s",
     "district": "Lyon 3e",
     "flags": [
@@ -30405,6 +30420,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 84,
+    "city": "lyon",
     "description": "À LOUER - APPARTEMENT T2 - 69009 LYON\n\nVotre Cabinet Citya Barioz vous propose à la location au 21 rue du Bourbonnais à Lyon 9ème, un appartement de 2 pièces nu de 49 m², situé dans un quartier agréable et dynamique.\n\nAu sein d'un immeuble avec ascenseur, cet appartement situé au 1er étage se compose de deux pièces offrant un cadre de vie confortable et fonctionnel. Non meublé, il vous permettra d'aménager et de personnaliser votre intérieur selon vos envies.\n\nL'emplacement est un véritable atou",
     "district": "Lyon 9e",
     "flags": [
@@ -32528,6 +32544,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 25,
+    "city": "lyon",
     "description": "À LOUER // APPARTEMENT TI BIS CANUT // 11 RUE IMBERT COLOMES 69001 LYON \n\nEn plein cœur des pentes de la Croix-Rousse, Citya Vendôme Lumière vous propose à la location ce magnifique T1 bis typique Canut de 46m² habitables non meublé. Rénové avec gout, cet appartement allie charme de l'ancien (pierres, poutres apparentes, grande hauteur sous plafond...) et modernité.\n\nIl comprend une grande pièce de vie avec cuisine ouverte aménagée et équipée (frigo, four, plaques de cuisson), un espace salon, u",
     "district": "Lyon 1er",
     "flags": [
@@ -42993,6 +43010,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 120,
+    "city": "lyon",
     "description": "Appartement T2 de 49.17m² situé avenue Condorcet Villeurbanne à Proximité du Tram T1 - À découvrir, cet agréable appartement de type 2 de 49,17 m², idéalement situé avenue Condorcet à Villeurbanne, à proximité immédiate des lignes de tramway T1 et T4 et à seulement 6 minutes à pied de l'Université Claude Bernard Lyon 1.\nIl se compose d'un hall d'entrée, d'un séjour lumineux ouvrant sur un balcon, d'une cuisine aménagée et équipée, d'une chambre indépendante, ainsi que d'une salle \n\nde bains et d",
     "district": "Villeurbanne",
     "flags": [
@@ -44417,6 +44435,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 55,
+    "city": "lyon",
     "description": "T2 SPACIEUX AVEC GRAND BALCON ET GARAGE - GORGE DE LOUP - Situé à seulement 200 mètres du métro D « Gorge de Loup », à proximité immédiate des commerces et des commodités du quartier de Valmy, venez découvrir ce bel appartement T2 de plus de 43 m², situé au 5ème et dernier étage, offrant une vue dégagée et une belle luminosité.\n\nL'appartement se compose d'une entrée avec placard de rangement, d'une agréable pièce de vie lumineuse avec cuisine ouverte, d'une chambre indépendante ainsi que d'une s",
     "district": "Lyon 9e",
     "flags": [
@@ -45120,6 +45139,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 33,
+    "city": "lyon",
     "description": "LYON 9 - VALMY | T1 LUMINEUX AU CALME, SANS VIS-À-VIS - À DEUX PAS DU MÉTRO D - Idéalement situé au cœur du quartier prisé de Valmy, à proximité immédiate du métro D, des commerces et de toutes les commodités, découvrez cet agréable appartement T1 offrant un cadre de vie calme et pratique au quotidien.\n\nSitué au 3ème étage sans ascenseur d'un immeuble calme et sécurisé, cet appartement donnant sur cour bénéficie d'une vue dégagée sans vis-à-vis, lui assurant une belle luminosité et une atmosphèr",
     "district": "Lyon 9e",
     "flags": [
@@ -56038,6 +56058,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 147.06,
+    "city": "lyon",
     "description": "Rue Maurice Bellemain  - Lyon 5eme<br>AVIS D'IMPOSITION 2025 SUR REVENUS 2024 OBLIGATOIRES .<br>Appartement T3 situé au 1er étage avec ascenseur est composé d'une cuisine ouverte sur le séjour, de 2 chambres, une salle d'eau avec WC.<br>Loyer CC : 1 047.10 € dont 147.06 € de charges incluant l'entretien des parties communes, chauffage, eau chaude)<br>Dépôt de garantie : 900 €<br>Chauffage collectif gaz<br>PAS DE FRAIS D'AGENCE.<br>Disponible de suite.",
     "district": "Lyon 5e",
     "flags": [
@@ -57147,6 +57168,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 35,
+    "city": "lyon",
     "description": "Dans une copropriété des années fin 1800, un appartement type Bourgeois, 3 pièces - 65 m² situé au troisième étage, sans ascenseur. Il se compose de : hall d'entrée, cuisine ouverte sur séjour salle à manger avec alcôve, grand dégagement, salle d'eau, WC et grande chambre avec alcôve. Environnement calme avec une vue dégagée. A proximité immédiate des transports, commerces et écoles. Chauffage individuel : gaz. Logement entièrement repeint !<br>Votre contact Pierre CHIRAT LAFORET Rillieux",
     "district": "Caluire-et-Cuire",
     "flags": [],
@@ -59608,6 +59630,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 50,
+    "city": "lyon",
     "description": "Rue Hugues Guerin.<br> Dans une belle copropriété de 2004 avec piscine. T2 de 35.80 m² entièrement rénové en RDC sans vis-à-vis. Il se compose d'une entrée avec placard, séjour ouvert sur cuisine aménagée, une chambre avec placard, une salle de bain avec toilette.<br>Une place de stationnement privative complète ce bien .<br>Disponible le 1er décembre. Loyer de référence majoré : 576.38 euros. Complément de loyer : 115 euros (terrasse, zéro vis à vis, stationnement privatif). Dépôt de garantie 1",
     "district": "Lyon 8e",
     "flags": [
@@ -61083,6 +61106,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": 65,
+    "city": "lyon",
     "description": "APPARTEMENT T2 DANS UNE RÉSIDENCE SÉCURISÉE AU 4EME ÉTAGES AVEC ASCENSEUR.<br>L'appartement est composé d'une entrée, d'une cuisine meublée séparée, d'un grand séjour donnant sur un balcon abrité de 14m², le coin nuit est composé d'un WC, d'une salle de bain et d'une chambre avec placard.<br>L'appartement est proche du métro D et de toute commodité.<br>Honoraires de 1 005,75 € TTC  à la charge du locataire comprenant  772,89 € TTC  pour l'état des lieux. Zone soumise à encadrement des loyers. Lo",
     "district": "Lyon 9e",
     "flags": [
@@ -63019,6 +63043,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Quai Pierre Scize proche Conservatoire, dans résidence bien entretenue beau logement meublé …",
     "district": "Lyon 9e",
     "flags": [],
@@ -63052,6 +63077,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "24 rue Valentin Hauy Villeurbanne, à deux pas des commerces et des transports, appartement de type …",
     "district": "Villeurbanne",
     "flags": [],
@@ -63085,6 +63111,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "265 RUE DUGUESCLIN - 69003À deux pas de la Part-Dieu, cet appartement 3 pièces situé au 2e étage …",
     "district": "Lyon 3e",
     "flags": [],
@@ -63117,9 +63144,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Avenue Roger Salengro Villeurbanne, à deux pas du tram T6 et à proximité immédiate du campus de la …",
     "district": "Villeurbanne",
     "flags": [],
@@ -63149,9 +63177,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Studio meublé à Bron, idéal étudiantSitué au 225 avenue Franklin Roosevelt, à Bron, ce studio meublé …",
     "district": "Bron",
     "flags": [],
@@ -63184,6 +63213,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "62 rue Octavie Villeurbanne, à proximité des commerces et des transports, appartement meublé en bon …",
     "district": "Villeurbanne",
     "flags": [],
@@ -63217,6 +63247,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "75 RUE DES MARTYRS DE LA RESISTANCE - 69200Location meubléeAppartement 3 pièces situé au 6ème étage …",
     "district": "Vénissieux",
     "flags": [],
@@ -63261,6 +63292,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Avenue Salvador Allende à Villeurbanne, à proximité des commerces et des transports - Agréable et …",
     "district": "Villeurbanne",
     "flags": [],
@@ -63291,9 +63323,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "LE PARC DE CHALIN, 8 chemin Louis Chirpaz, Proche des commodités (accès en 15 minutes au centre de …",
     "district": "Écully",
     "flags": [],
@@ -63335,6 +63368,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "10 RUE FLAHCET VILLEURBANNE - Au 3ème étage sans ascenseur, découvrez ce logement T2 de 41m2 à louer …",
     "district": "Villeurbanne",
     "flags": [],
@@ -63365,9 +63399,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Découvrez ce studio récemment rénové et meublé, situé dans un environnement calme, à seulement 20 …",
     "district": "Lyon 3e",
     "flags": [],
@@ -63399,7 +63434,7 @@
    "also": [],
    "dup_of": "leboncoin:3306328631",
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -63408,9 +63443,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "22 RUE SAINT MICHEL - 69007 LYONVISITE VIRTUELLE UNIQUEMENTA deux pas du métro Saxe Gambetta (ligne …",
     "district": "Lyon 7e",
     "flags": [],
@@ -63444,9 +63480,10 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "36 RUE DES ANTONINS VILLEURBANNE - Dans une résidence calme et sécurisée, avec un gardien et une …",
     "district": "Villeurbanne",
     "flags": [],
@@ -63479,6 +63516,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "20 RUE LOUIS JASSERON - LYON 3 VISITE VIRTUELLE UNIQUEMENT ! Situé dans le quartier recherché de …",
     "district": "Lyon 3e",
     "flags": [],
@@ -63512,6 +63550,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "À LOUER – Agréable appartement meublé T1. Situé 1 PLACE SAINT NIZIER. Venez découvrir cet …",
     "district": "Lyon 1er",
     "flags": [],
@@ -63554,6 +63593,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Rue Paul Lafargue à Villeurbanne dans le quartier prisé des Gratte-Ciel, idéalement placé à …",
     "district": "Villeurbanne",
     "flags": [],
@@ -63587,6 +63627,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "RUE DOCTEUR FLEURY PAPILLON VILLEURBANNE Disponible Immédiatement Un appartement T2 meublé de 48m2, …",
     "district": "Villeurbanne",
     "flags": [
@@ -63619,9 +63660,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "36 RUE DES ANTONINS VILLEURBANNE - Dans une résidence sécurisée, avec un gardien une laverie et un …",
     "district": "Villeurbanne",
     "flags": [],
@@ -63651,9 +63693,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Rue de Margnolles, Caluire - A proximité immédiate du métro Cuire, situé dans un quartier …",
     "district": "Caluire-et-Cuire",
     "flags": [],
@@ -63683,9 +63726,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "VISITE VIRTUELLE EXCLUSIVEMENTRéservé aux étudiants, découvrez ce studio meublé de 18.64 m² au 1er …",
     "district": "Lyon 9e",
     "flags": [],
@@ -63799,6 +63843,7 @@
    "last_seen": "2026-11-22T13:10:31+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "",
     "district": "Villeurbanne",
     "flags": [],
@@ -64864,6 +64909,7 @@
    "last_seen": "2026-11-22T12:20:20+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "",
     "district": "Lyon 6e",
     "flags": [],
@@ -64952,6 +64998,7 @@
    "last_seen": "2026-11-22T12:20:20+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "",
     "district": "Lyon 9e",
     "flags": [],
@@ -64991,6 +65038,7 @@
    "last_seen": "2026-11-22T12:20:20+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "",
     "district": "Lyon 6e",
     "flags": [],
@@ -65830,9 +65878,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 3 pièces de 70 m². Disponible dès 2026-12-15",
     "district": "Lyon",
     "flags": [],
@@ -65868,6 +65917,7 @@
    "last_seen": "2026-11-22T10:50:24+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 130 m²",
     "district": "Lyon",
     "flags": [],
@@ -65938,6 +65988,7 @@
    "last_seen": "2026-11-22T10:50:24+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 72 m²",
     "district": "Lyon",
     "flags": [],
@@ -65974,6 +66025,7 @@
    "last_seen": "2026-11-22T11:30:18+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 3 pièces de 63 m²",
     "district": "Lyon",
     "flags": [],
@@ -66077,9 +66129,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T10:20:27+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 84 m²",
     "district": "Lyon",
     "flags": [],
@@ -66150,6 +66203,7 @@
    "last_seen": "2026-11-22T11:50:19+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 9 pièces de 180 m². Disponible dès 2026-11-26",
     "district": "Lyon",
     "flags": [],
@@ -66290,6 +66344,7 @@
    "last_seen": "2026-11-22T11:40:29+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 73 m²",
     "district": "Vénissieux",
     "flags": [],
@@ -66322,9 +66377,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 90 m². Disponible dès 2026-12-21",
     "district": "Lyon",
     "flags": [],
@@ -66361,6 +66417,7 @@
    "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 76 m²",
     "district": "Lyon",
     "flags": [],
@@ -66396,6 +66453,7 @@
    "last_seen": "2026-11-22T13:10:31+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 5 pièces de 84 m²",
     "district": "Lyon",
     "flags": [],
@@ -66431,6 +66489,7 @@
    "last_seen": "2026-11-22T10:40:26+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 5 pièces de 130 m². Disponible dès 2026-12-22",
     "district": "Lyon",
     "flags": [],
@@ -66574,6 +66633,7 @@
    "last_seen": "2026-11-22T11:10:18+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 5 pièces de 87 m². Disponible dès 2026-12-15",
     "district": "Lyon",
     "flags": [],
@@ -66644,6 +66704,7 @@
    "last_seen": "2026-11-22T13:00:44+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 3 pièces de 70 m². Disponible dès 2026-12-22",
     "district": "Lyon",
     "flags": [],
@@ -66679,6 +66740,7 @@
    "last_seen": "2026-11-22T11:40:29+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 65 m²",
     "district": "Lyon",
     "flags": [],
@@ -66820,6 +66882,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 90 m². Disponible dès 2026-12-16",
     "district": "Lyon",
     "flags": [],
@@ -66890,6 +66953,7 @@
    "last_seen": "2026-11-22T13:10:31+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 3 pièces de 70 m²",
     "district": "Lyon",
     "flags": [],
@@ -67098,9 +67162,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 3 pièces de 70 m². Disponible dès 2026-12-24",
     "district": "Lyon",
     "flags": [],
@@ -67280,6 +67345,7 @@
    "last_seen": "2026-11-22T10:40:26+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 7 pièces de 150 m². Disponible dès 2026-12-12",
     "district": "Lyon",
     "flags": [],
@@ -67348,9 +67414,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 3 pièces de 70 m². Disponible dès 2026-12-23",
     "district": "Lyon",
     "flags": [],
@@ -67387,6 +67454,7 @@
    "last_seen": "2026-11-22T11:30:18+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 6 pièces de 116 m². Disponible dès 2026-12-24",
     "district": "Lyon",
     "flags": [],
@@ -67419,9 +67487,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 7 pièces de 240 m². Disponible dès 2026-12-17",
     "district": "Lyon",
     "flags": [],
@@ -67490,9 +67559,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 3 pièces de 90 m². Disponible dès 2026-12-22",
     "district": "Lyon",
     "flags": [],
@@ -67598,6 +67668,7 @@
    "last_seen": "2026-11-22T11:50:19+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 5 pièces de 92 m². Disponible dès 2026-12-13",
     "district": "Lyon",
     "flags": [],
@@ -67765,6 +67836,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:toly6u": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:22:17+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 82 m². Disponible dès 2026-12-23",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-7a95ff503753371f4f68c96b535e7d48/6620515/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 520,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "toly6u",
+    "surface_m2": 82,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 82 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/toly6u"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:uf6339": {
    "also": [],
    "dup_of": null,
@@ -67876,9 +67984,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 3 pièces de 80 m². Disponible dès 2026-12-16",
     "district": "Lyon",
     "flags": [],
@@ -67949,6 +68058,7 @@
    "last_seen": "2026-11-22T10:40:26+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 120 m². Disponible dès 2026-12-12",
     "district": "Lyon",
     "flags": [],
@@ -68020,6 +68130,7 @@
    "last_seen": "2026-11-22T13:10:31+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 2 pièces de 80 m². Disponible dès 2026-12-01",
     "district": "Lyon",
     "flags": [],
@@ -68090,6 +68201,7 @@
    "last_seen": "2026-11-22T12:10:27+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 82 m²",
     "district": "Lyon",
     "flags": [],
@@ -68125,6 +68237,7 @@
    "last_seen": "2026-11-22T11:00:54+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 3 pièces de 64 m²",
     "district": "Lyon",
     "flags": [],
@@ -70644,6 +70757,7 @@
    "last_seen": "2026-11-22T12:40:21+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 12 500 € CC* Appartement 96 m 2 Écully (69) 6 pièces 1 chambre À proximité du centre d'Ecully, cet appartement en colocation de 5 chambres est entièrement meublé. Grand séjour, cuisine séparée équipée et 2 salles d'eau. Résidence avec parc. Idéal étudiants ou jeunes actifs. INSTANT IMMOBILIER 62 annonces 07/11/2026 Voir Contacter * Loyer mensuel charges comprises. M'envoyer les prochaines annonces Recevoir les nouvelles annonces Le top villes pour votre recherche immobilière",
     "district": null,
     "flags": [
@@ -70683,6 +70797,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "2 796 € CC* Appartement 36 m 2 Écully (69) 2 pièces 1 chambre T2 36m2 meublé eau et chauffage dans les charges. t2 disponible le 4 janvier proche de l'école centrale, paul bocuse, itech, école d'ostéopathie, centre ville d ecully. situé dans une résidence sécurisée avec gardien, places de parkings... Particulier 07/12/2025 Voir Contacter",
     "district": null,
     "flags": [
@@ -70719,6 +70834,7 @@
    "last_seen": "2026-11-22T12:40:21+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 10 499 € CC* Appartement 55 m 2 Bron (69) 1 pièce 1 chambre DPE : D 185 kWh/m².an 26 kg CO 2 /m².an Bien situé dans la commune, chambre de 10,60 m² en colocation. Appartement rénové et meublé, proche du tramway et des transports. Cuisine équipée, pièce de vie lumineuse, salle d'eau, WC séparés. Colocation de 3 étudiants et jeunes actifs. Disponible de suite. INSTANT IMMOBILIER 62 annonces 09/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -70767,6 +70883,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 15 890 € CC* Appartement 50 m 2 Oullins (69) 2 pièces 1 chambre À Oullins, T2 meublé de 50,37m² au 1er étage d'une copropriété récente. Séjour lumineux avec terrasse plein sud, cuisine équipée, chambre avec rangements. Parking et garage à vélos. Proche des transports et commerces. DUFOSSE IMMOBILIER 344 annonces 28/10/2026 Voir Contacter * Loyer mensuel charges comprises. M'envoyer les prochaines annonces Recevoir les nouvelles annonces Le top villes pour votre recherche imm",
     "district": null,
     "flags": [
@@ -70891,6 +71008,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "5 590 € CC* Appartement 12 m 2 Bron (69) Exclusivité 1 pièce DPE : C 135 kWh/m².an 15 kg CO 2 /m².an Situé à Bron, cet appartement meublé à louer en colocation a été entièrement refait à neuf. Il comprend une cuisine équipée, un séjour avec vue, salle d'eau avec double vasque, et WC séparé. Parking gratuit et proximité métro et commerces. LOUIS'APPART 15 annonces 16/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -70929,6 +71047,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 11 450 € CC* Appartement 21 m 2 Bron (69) 1 pièce 1 chambre DPE : E 178 kWh/m².an 41 kg CO 2 /m².an Bien situé à Bron, appartement meublé en colocation pour 4 étudiants et jeunes actifs. Cuisine équipée, 2 salles d'eau, WC séparés et parking collectif. Accès facile au tram T2 et au périphérique de Lyon. Disponible de suite. INSTANT IMMOBILIER 62 annonces 04/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -70979,6 +71098,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 6 530 € CC* Appartement 18 m 2 Caluire-et-Cuire (69) Exclusivité 1 pièce Ascenseur DPE : C 214 kWh/m².an 7 kg CO 2 /m².an À Caluire et Cuire, studio meublé de 18,10 m² au 4ème étage avec ascenseur. Dispose d'une pièce principale avec kitchenette et salle d'eau. Proche des commodités et transports, idéal pour une personne seule. Emplacement recherché. Citya Barioz 115 annonces 10/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -71087,6 +71207,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 8 690 € CC* Appartement 16 m 2 Écully (69) Exclusivité 1 pièce DPE : E 366 kWh/m².an 13 kg CO 2 /m².an À Écully, ce studio neuf de 16,39 m² (29,54 m² au sol) avec mezzanine propose une pièce de vie lumineuse, cuisine aménagée, salle d'eau et climatisation réversible. Proche des commerces, transports et écoles dans un cadre calme et résidentiel. Citya Barioz 115 annonces 17/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -71138,6 +71259,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 10 790 € CC* Chambre 160 m 2 Caluire-et-Cuire (69) 8 pièces 6 chambres Chambre en colocation climatisée à lyon. chambre en colocation climatisée à lyon - salle de bains et wc privatifs - maison de standing avec piscine et jardin 6 chambres meublées de 21 à 26 m² avec salle de bains et wc privatifs à louer en... Particulier 5 niveaux d'expérience : Il est calculé automatiquement à partir de l'utilisation du site paruvendu.fr Nouvel inscrit Habitué Confirmé Expert Maestro En s",
     "district": null,
     "flags": [
@@ -71251,6 +71373,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "5 1 175 € CC* Appartement 54 m 2 Caluire-et-Cuire (69) 3 pièces 2 chambres DPE : D Appartement métro cuire - 54m2. À proximité immédiate de l'arrêt de métro cuire, découvrez cet agréable appartement meublé de 54 m², idéalement situé dans un environnement calme et pratique. en face de la clinique protestante et à deux pas de... Particulier 24/08/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -71308,6 +71431,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 12 960 € CC* Appartement Bron (69) 2 pièces 1 chambre Ascenseur DPE : D 162 kWh/m².an 33 kg CO 2 /m².an Situé à Bron, appartement meublé de type 2 pièces traversant avec balcon. Dans une copropriété sécurisée avec jardin, à proximité du tramway T2 et des commerces. Comprend une cave, une cuisine indépendante et un salon lumineux. Nestenn Immobilier Bron 70 annonces 22/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -71515,6 +71639,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "3 616 € CC* Appartement 21 m 2 Caluire-et-Cuire (69) Exclusivité 1 pièce DPE : D 239 kWh/m².an 7 kg CO 2 /m².an Bien situé à Caluire-et-Cuire, studio meublé de 20,56 m² au 7e étage d'une résidence récente. Coin cuisine équipé, salle d'eau spacieuse, placard mural. Gardien et laverie dans la résidence. Eau froide incluse dans les charges. Disponible immédiatement. Citya Bourguignon Palluat 75 annonces 15/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -71572,6 +71697,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 8 1 100 € CC* Appartement 78 m 2 Saint-Fons (69) 4 pièces 2 chambres T4 82 m² ? 9e étage avec ascenseur ? balcon, vue dégagée, pa. À louer à saint-fons ? secteur les clochettes, bel appartement t4 non meublé d'environ 80 m², situé au 9? étage avec ascenseur. l'appartement bénéficie d'une très belle luminosité et... Particulier 28/09/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -71621,6 +71747,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "3 1 100 € CC* Appartement 65 m 2 Caluire-et-Cuire (69) 5 pièces 3 chambres DPE : C F3 proche métro cuire. loue f3 non meublé 5 pièces 65 m² situé au 6ème étage d'un immeuble de 7 étages à caluire-et-cuire. 3 chambres et 1 salle de bain. la cuisine est équipée et ouverte sur le séjour, offrant une belle luminosité naturelle.... Particulier 25/09/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -71685,6 +71812,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "4 605 € CC* Appartement 38 m 2 Vénissieux (69) 2 pièces 1 chambre Ascenseur DPE : C Lumineux 2 pièces de 38m² au 3ème étage . lumineux 2 pièces de 38m² au 3ème étage avec ascenseur; chauffé au gaz & libre immédiatement, il offre: une entrée, séjour/salle à manger, cuisine ouverte/équipée us, chambre avec placards (10m²) avec... Particulier 14/10/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -71986,6 +72114,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 10 968 € CC* Appartement 67 m 2 Vénissieux (69) 3 pièces 2 chambres Ascenseur T3 67 m² 13e, 758 € + charges, chauffage, eau chaude compris. je loue en direct mon t3 traversant de 67 m² au 13e étage avec ascenseur, à vénissieux (69200). vue dégagée, séjour au soleil en fin de journée. rafraîchi en octobre : peinture... Particulier 01/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -72241,6 +72370,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 7 570 € CC* Chambre 12 m 2 Vénissieux (69) 1 pièce DPE : C 119 kWh/m².an 3 kg CO 2 /m².an Bien situé à Vénissieux, colocation chambre meublée de 12 m² au 1er étage, avec placards et double vitrage. Charges (chauffage, eau, électricité) incluses. Pour plus d'offres, consultez LOCA.FR. LOC'A 51 annonces 21/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -72282,6 +72412,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "5 482 € CC* Appartement 17 m 2 Écully (69) 1 pièce DPE : E 298 kWh/m².an 9 kg CO 2 /m².an Bien situé dans l'ouest Lyonnais, appartement T1 de 17,33 m² en rez-de-chaussée. Composé d'une pièce de vie, cuisine équipée et salle d'eau. Place de parking incluse. Proche du centre, des bus et de la gare, accès facile à Lyon. VALORITY ADMINISTRATION DE BIENS 250 annonces 02/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -72643,6 +72774,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "5 595 € CC* Appartement 34 m 2 Saint-Fons (69) 2 pièces 1 chambre DPE : C Appartement neuf ( 1ere mise en location) au 3e et dernier étage d'un immeuble ancien complétement rénové , sans ascenseur. Bonne isolation ( DPE C) cuisine équipée neuve avec plaques vitro, frigo, hotte et placards , climatisation réversible, compteur elec et eau individuels. chambre avec placard. salle de bain neuve avec douche. disponible de suite. bail et état des lieux d'entrée faits par un professionnel, prévoir des ",
     "district": null,
     "flags": [
@@ -72720,6 +72852,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "5 970 € CC* Appartement 54 m 2 Caluire-et-Cuire (69) 2 pièces 1 chambre T2 meublé - 54 m2 à caluire montessuy . t2 meublé en excellent état, situé en rez-de-chaussée surélevé, dans un immeuble de bon standing, accès par digicode,fibre. il se compose : - d 'une entrée avec de nombreux rangements. - d' un séjour (... Particulier 07/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -72761,6 +72894,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 7 683 € CC* Appartement 41 m 2 Écully (69) Exclusivité 2 pièces 1 chambre DPE : D 205 kWh/m².an 6 kg CO 2 /m².an À proximité d'Ecully, découvrez un appartement T2 de 30m² au 1er étage d'un immeuble avec ascenseur. Il comprend une chambre lumineuse, une salle de bain, une cuisine semi-équipée, un salon, une cave et une place de parking. Résidence sécurisée avec jardin et piscine. Citya Vendôme Lumière 114 annonces 20/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -73029,6 +73163,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 12 899 € CC* Appartement 63 m 2 Oullins (69) 3 pièces 2 chambres DPE : D 222 kWh/m².an 45 kg CO 2 /m².an Oullins pierre benite, T3 lumineux de 63 m2 au premier étage. Séjour/cuisine, 2 grandes chambres, salle de bains, W.C, espaces de rangement. Chauffage individuel gaz. DPE : D. AGENCE DES PENTES 18 annonces 04/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -73069,6 +73204,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 12 800 € CC* Appartement 47 m 2 Villeurbanne (69) 2 pièces 1 chambre DPE : E 262 kWh/m².an 10 kg CO 2 /m².an Bien situé à Villeurbanne, charmant T2 bis de 47 m² au 3e étage d'une copropriété haussmannienne. Parquet d'origine, cheminée, cuisine semi-équipée, chambre, bureau, salle d'eau. Proche des transports et commodités. ARTHURIMMO.COM LYON 6 33 annonces 360 Visite 360° 06/11/2026 Voir Contacter",
     "district": "Lyon 6e",
     "flags": [
@@ -73201,6 +73337,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "5 1 000 € CC* Appartement 61 m 2 Oullins (69) 3 pièces 2 chambres DPE : C Au 1er étage, 66m2 dont 5 m² de terrasse carrelée. Lumineux avec terrasse sur jardin intérieur. Cuisine américaine entièrement équipée avec réfrigérateur congélateur, plaque vitrocéramique et hotte aspirante. Séjour 28 m², carrelé ; 2 chambres, placards équipés, fenêtres double vitrage Salle de bain avec baignoire + lavabo vasque + faïence toutes hauteurs Entrée avec placard équipé WC indépendant Chauffage individuel élect",
     "district": null,
     "flags": [
@@ -73335,6 +73472,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 10 757 € CC* Appartement 49 m 2 Villeurbanne (69) Exclusivité 3 pièces 2 chambres Ascenseur DPE : C 115 kWh/m².an 4 kg CO 2 /m².an Villeurbanne, T3 rénové de 49 m², 3ème étage avec ascenseur. Comprend une entrée, une pièce de vie avec cuisine aménagée, 2 chambres, salle d'eau et WC. Proche de la Place Grand Clément, commerces et transports. Disponible de suite. CORNEILLE ST MARC 73 annonces 13/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -73393,6 +73531,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "4 950 € CC* Appartement 50 m 2 Caluire-et-Cuire (69) 3 pièces 2 chambres DPE : E 300 kWh/m².an 9 kg CO 2 /m².an Caluire-Et-Cuire, T3 Duplex avec jardin privatif de 50 m2, séjour, cuisine équipée, 2 chambres, salle de douche. En RDC, comprenant également une cave. À découvrir sur LOCA.FR. LOC'A 51 annonces 22/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -73489,6 +73628,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "4 347 € CC* Appartement 21 m 2 Caluire-et-Cuire (69) Exclusivité 1 pièce DPE : C 193 kWh/m².an 7 kg CO 2 /m².an À Caluire-et-Cuire, studio de 21,08 m² en 4e étage d'une résidence étudiante avec ascenseur. Il comprend une pièce principale, cuisine meublée, salle d'eau avec wc. Internet et eau froide inclus. Proche du Parc de la Tête d'Or et transports. Disponible le 1er décembre. Citya Bourguignon Palluat 75 annonces 10/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -73614,6 +73754,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "5 770 € CC* Appartement 40 m 2 Vénissieux (69) 2 pièces 1 chambre DPE : B 110 kWh/m².an 11 kg CO 2 /m².an À Vénissieux, appartement T2 meublé de 40 m² à louer. Disponible le 29/11/2026, il offre un grand séjour, cuisine équipée, balcon, stationnement possible et accès à mobilité réduite. Proximité commerce et transport. LOCService 800 annonces 22/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -73691,6 +73832,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 7 770 € CC* Appartement 27 m 2 Oullins (69) 1 pièce 1 chambre Ascenseur DPE : C 180 kWh/m².an 30 kg CO 2 /m².an À Oullins, studio de 27 m² à louer meublé, idéal pour étudiants. Avantages : ascenseur, cuisine équipée, proximité des transports et commerces. Disponible le 01/12/2026. LOCService 800 annonces 22/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -73731,6 +73873,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "1 550 € CC* Appartement 14 m 2 Saint-Fons (69) 1 pièce 1 chambre DPE : D 250 kWh/m².an 50 kg CO 2 /m².an Situé à Saint Fons, studio meublé de 14 m² à louer. Logement réservé aux étudiants avec internet inclus, stationnement possible, balcon ou terrasse, et à proximité des transports et des commerces. LOCService 800 annonces 19/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -73765,6 +73908,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 8 1 200 € CC* Appartement 61 m 2 Caluire-et-Cuire (69) 3 pièces 2 chambres DPE : D À louer, T3 non meublé de 61 m² au 4? étage avec ascenseur, situé au 70 rue Pierre Brunier, bâtiment D, à Caluire-et-Cuire. Appartement traversant nord-sud et lumineux comprenant un séjour avec cuisine ouverte neuve (2025), 2 chambres, une salle de bains rénovée en 2026, WC séparé et balcon. Résidence sécurisée rénovée en 2025-2026 : isolation extérieure, façade, parties communes, chauffage ur",
     "district": null,
     "flags": [
@@ -73832,6 +73976,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 7 1 001 € CC* Appartement 55 m 2 Écully (69) 3 pièces 2 chambres DPE : F 450 kWh/m².an 80 kg CO 2 /m².an À Écully, appartement T3 meublé de 54,6 m². Lumineux, avec balcon et vue dégagée. 2 chambres, séjour, cuisine équipée, salle de douche, WC indépendant. Situé au 3ème étage sans ascenseur, proche commerces et transports. Contactez-nous pour visiter. REGIE OUEST LYONNAIS 20 annonces 13/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -73872,6 +74017,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "5 1 173 € CC* Appartement 76 m 2 Écully (69) Exclusivité 3 pièces 2 chambres DPE : E 290 kWh/m².an 69 kg CO 2 /m².an En plein c?ur d'ECULLY, appartement meublé F3 de 76 m² avec jardinet privatif. Idéal pour colocataires ou étudiants, il comprend un séjour, une cuisine équipée et 2 chambres avec salles de douches. Disponible immédiatement. REGIE OUEST LYONNAIS 20 annonces 13/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -73923,6 +74069,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 6 596 € CC* Appartement 41 m 2 Vénissieux (69) Exclusivité 2 pièces DPE : E 305 kWh/m².an 66 kg CO 2 /m².an À Vénissieux, appartement de 2 pièces de 40,79 m² avec cuisine indépendante, séjour sur balcon, salle d'eau et wc. Chauffage individuel au gaz, cave et place de parking privative. Bien soumis au statut de la copropriété. Citya Les Célestins 13 annonces 18/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -74253,6 +74400,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "3 730 € CC* Appartement 49 m 2 Lyon 7 2 pièces 1 chambre Ascenseur DPE : D T2 - 49 m2 - prox jean mace. lyon 7eme - proximité em lyon - appartement meublé refait à neuf de type 2 de 49m2 composé de 1 pièce de vie, 1 alcôve à usage de chambre, 1 cuisine totalement équipé, 1 salle de bain et 1 wc séparé. chauffage... Particulier 15/11/2026 Voir Contacter",
     "district": "Lyon 7e",
     "flags": [
@@ -74308,6 +74456,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "3 660 € CC* Appartement 29 m 2 Saint-Fons (69) 2 pièces 1 chambre DPE : D F1 / 2 pièces: 29m2 Cuisine-Salle à manger Réfrigérateur congélateur 2 portes, machine à laver, gazinière 1 chambre avec placard Salle de douche WC Chauffage Éco électrique Double vitrage Doubles volets Nombreux commerces Nombreux commerces Bus C12 60 93 ZI 6 Navette Vélib (tram T10 bientôt) Université Jean Moulin/ Lumière BUS 60 (direct 30minutes) Université Bron BUS 93 (directes 32 minutes) Université Claude Bernard méde",
     "district": null,
     "flags": [
@@ -74561,6 +74710,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 12 1 190 € CC* Appartement 43 m 2 Lyon 3 2 pièces 1 chambre T2 meublé avec terrasse jardin garage box piscine . loue t2 entièrement meublé et refait à neuf avec terrasse couverte et jardin 35m2 donnant dans l'intérieure de la résidence donc calme , 1 chambre avec un lit double et un canapé convertible... Particulier 22/11/2026 Voir Contacter",
     "district": "Lyon 3e",
     "flags": [
@@ -74681,6 +74831,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 9 492 € CC* Appartement 23 m 2 Caluire-et-Cuire (69) 1 pièce DPE : C 197 kWh/m².an 7 kg CO 2 /m².an À proximité du Parc de la Tête d'Or, studio de 22.68 m² au 2ème étage. Pièce de vie avec alcôve, salle de douche avec WC, cave comprise. Chauffage et eau chaude individuels électriques. Disponible le 14 décembre 2026. IMMOBILIERE DABRETEAU 50 annonces 20/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -74871,6 +75022,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "5 660 € CC* Appartement 29 m 2 Saint-Fons (69) 1 pièce 1 chambre DPE : D 250 kWh/m².an 11 kg CO 2 /m².an Bien situé à Saint Fons, appartement T1 de 29 m² à louer. Comprend une cuisine équipée, est proche des transports et des commerces. Disponible immédiatement, propose une location de 1 pièce. LOCService 800 annonces 17/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -75003,6 +75155,7 @@
    "last_seen": "2026-11-22T12:40:21+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 10 510 € CC* Appartement 82 m 2 Villeurbanne (69) Exclusivité 5 pièces DPE : D 143 kWh/m².an 32 kg CO 2 /m².an Bien situé à Villeurbanne, chambre de 11 m² à louer dans colocation étudiante pour 4. Grand séjour avec cuisine, balcon, 2 salles d'eau. Résidence calme avec ascenseur, cave et local vélo. Charges comprenant eau, électricité et internet. KERJOLIS IMMO 6 annonces 17/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -75103,6 +75256,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "4 872 € CC* Appartement 64 m 2 Oullins (69) 3 pièces DPE : C 94 kWh/m².an 16 kg CO 2 /m².an À Oullins, appartement T3 de 64,76 m² au 3ème étage avec balcon. Il comprend une pièce de vie, une cuisine équipée, deux chambres avec placards, salle de bains et WC séparés. Garage privatif en sous-sol. Proximité métro B et gare. VALORITY ADMINISTRATION DE BIENS 250 annonces 18/11/2026 Voir Contacter Recevez les nouvelles annonces dès leur publication",
     "district": null,
     "flags": [
@@ -75195,6 +75349,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 12 986 € CC* Appartement Bron (69) 3 pièces 2 chambres Ascenseur DPE : C 135 kWh/m².an 18 kg CO 2 /m².an Appartement 3 pièces de 66,18 m² à louer à Bron, secteur Lacouture. Composé d'une entrée, pièce de vie, cuisine équipée, 2 chambres, salle de bains et WC, avec balcon, place de parking et cave. Charges incluant eau et chauffage. Nestenn Immobilier Bron 70 annonces 22/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -75372,6 +75527,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 6 1 200 € CC* Appartement 51 m 2 Écully (69) 3 pièces 2 chambres DPE : E 330 kWh/m².an 50 kg CO 2 /m².an À Écully, appartement T3 meublé de 51 m² avec balcon, cuisine équipée et cave. Stationnement possible, sans vis-à-vis et proche des transports. Disponible immédiatement entre particuliers. LOCService 800 annonces 21/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -75413,6 +75569,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "5 1 100 € CC* Appartement 22 m 2 Écully (69) 2 pièces Ascenseur Particulier loue un bel appartement de 40 m², entièrement rénové, situé au 2? étage d'une résidence agréable et sécurisée à Écully. L'appartement se compose d'une chambre séparée, d'un séjour, d'une cuisine entièrement équipée (plaques de cuisson, four, réfrigérateur, lave-vaisselle et lave-linge), ainsi que d'une salle de bains avec baignoire. Vous profiterez également d'un balcon et d'un cadre de vie privilégié au sein d'une résid",
     "district": null,
     "flags": [
@@ -75519,6 +75676,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 8 500 € CC* Chambre 12 m 2 Villeurbanne (69) 1 pièce DPE : E 248 kWh/m².an 54 kg CO 2 /m².an Situé à Villeurbanne, cet appartement en colocation propose une chambre meublée de 12m², avec cuisine et sanitaires à partager. Charges comprises incluant chauffage, eau, électricité et internet. Disponible de suite. LOC'A 51 annonces 21/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -75703,6 +75861,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 7 890 € CC* Appartement 59 m 2 Lyon 7 2 pièces 1 chambre DPE : D 203 kWh/m².an 31 kg CO 2 /m².an À Lyon 7, grand F2 de 59 m², comprenant une entrée, un séjour, une cuisine équipée, une chambre, une salle de bain et un WC. Chauffage au gaz, placards intégrés, digicode, double vitrage. Situé au 3ème étage. LOC'A 51 annonces 22/11/2026 Voir Contacter",
     "district": "Lyon 7e",
     "flags": [
@@ -75743,6 +75902,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "3 781 € CC* Appartement 44 m 2 Villeurbanne (69) 2 pièces 1 chambre Ascenseur DPE : F 238 kWh/m².an 88 kg CO 2 /m².an Situé à Villeurbanne, spacieux T2 de 44m² avec entrée, séjour, cuisine équipée, 1 chambre, salle de douche. Résidence sécurisée avec gardien. Étage 9 avec ascenseur. Double vitrage et volets roulants. LOC'A 51 annonces 22/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -75780,6 +75940,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "4 1 200 € CC* Appartement 42 m 2 Lyon 2 3 pièces Ascenseur DPE : D 254 kWh/m².an 8 kg CO 2 /m².an Lyon 2, T3 à louer de 42 m² au 5e étage avec ascenseur. Composé d'un séjour, kitchenette équipée, 2 chambres climatisées, salle de douche et WC. Double vitrage. Immeuble sécurisé avec interphone. À visiter rapidement. LOC'A 51 annonces 22/11/2026 Voir Contacter",
     "district": "Lyon 2e",
     "flags": [
@@ -75818,6 +75979,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 7 925 € CC* Duplex/triplex 64 m 2 Lyon 1 2/3 pièces 2 chambres Duplex de 64 m2 près terreaux ,libre . duplex de 64 m2 . en bas une grande pièce avec kichnette , ll et lv , belle hauteur sous plafond . une salle de bains , au dessus un petit bureau avec petit lit d appoint et une chambre en mezzanine ouverte... Particulier 5 niveaux d'expérience : Il est calculé automatiquement à partir de l'utilisation du site paruvendu.fr Nouvel inscrit Habitué Confirmé Expert Maestro En sa",
     "district": "Lyon 1er",
     "flags": [
@@ -75862,6 +76024,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau Voir d'autres photos 6 690 € CC* Appartement 40 m 2 Villeurbanne (69) 2 pièces 1 chambre À Villeurbanne, location d'un appartement T2 de 40,14 m² au 4e étage. Exposition plein sud, pièce de vie lumineuse, cuisine équipée, une chambre, salle d'eau avec WC et place de parking privative. Proche des transports en commun. VALORITY ADMINISTRATION DE BIENS 250 annonces 20/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -75906,6 +76069,7 @@
    "last_seen": "2026-11-22T12:40:21+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau Voir d'autres photos 10 475 € CC* Appartement 68 m 2 Villeurbanne (69) 4 pièces 1 chambre DPE : E 256 kWh/m².an 46 kg CO 2 /m².an Bien situé à Villeurbanne, chambre à louer dans un T4 en colocation. Appartement rénové, au 2ème étage avec ascenseur. Cuisine équipée, pièce de vie conviviale avec balcon. Actuellement occupé par 2 colocataires. Disponible le 21 Décembre. IMMOBILIERE DABRETEAU 50 annonces 20/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -75947,6 +76111,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau Voir d'autres photos 12 530 € CC* Appartement 11 m 2 Bron (69) 1 pièce 1 chambre Située à Bron, cette chambre en colocation de 11,57 m2 se trouve à 5 minutes de la mairie. Maison meublée avec cuisine ouverte, séjour double, jardin et garage double. Idéal pour intégrer une colocation de 4 personnes. Disponible de suite. INSTANT IMMOBILIER 62 annonces 20/11/2026 Voir Contacter Recevez les nouvelles annonces dès leur publication",
     "district": null,
     "flags": [
@@ -75986,6 +76151,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 9 995 € CC* Appartement 70 m 2 Lyon 8 3 pièces DPE : E 320 kWh/m².an 64 kg CO 2 /m².an Bien situé, appartement T3 d'environ 70 m² au 7ème étage d'une copropriété. Il comprend un hall, un séjour, une cuisine indépendante avec balcon, 2 chambres, une salle de bains et un WC. Deux espaces extérieurs ajoutent du confort. REGIE OUEST LYONNAIS 20 annonces 20/11/2026 Voir Contacter",
     "district": "Lyon 8e",
     "flags": [
@@ -76026,6 +76192,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 7 500 € CC* Chambre 10 m 2 Bron (69) 1 pièce DPE : F 404 kWh/m².an 16 kg CO 2 /m².an Situé à Bron, chambre meublée en colocation. Charges comprises (chauffage, eau, EDF, internet). Cuisine et sanitaires partagés. Double vitrage et placards. Proche de toutes commodités. LOC'A 51 annonces 21/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -76109,6 +76276,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 8 660 € CC* Appartement 54 m 2 Lyon 9 2 pièces 1 chambre DPE : E 330 kWh/m².an 30 kg CO 2 /m².an À Lyon 09, appartement T2 non meublé de 54 m². Disponible immédiatement, il dispose d'un balcon, d'une baignoire, et d'une cuisine indépendante. Proche des transports, il est idéal pour les personnes à mobilité réduite. LOCService 800 annonces 21/11/2026 Voir Contacter",
     "district": "Lyon 9e",
     "flags": [
@@ -76170,6 +76338,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 7 924 € CC* Appartement 49 m 2 Lyon 4 2 pièces 1 chambre DPE : E 307 kWh/m².an 67 kg CO 2 /m².an Appartement f2 de 49m² à louer dans le quartier Chartreux, Lyon 4. Ce bien comprend un séjour, une chambre, une cuisine et une salle de douche. Immeuble avec interphone, chauffage collectif et double vitrage. Proche commodités. LOC'A 51 annonces 22/11/2026 Voir Contacter",
     "district": "Lyon 4e",
     "flags": [
@@ -76210,6 +76379,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "5 980 € CC* Appartement 36 m 2 Lyon 5 2 pièces 1 chambre DPE : E 311 kWh/m².an 12 kg CO 2 /m².an Lyon 5, appartement F2 meublé, disponible de suite. Comprend une entrée, séjour, cuisine équipée, chambre, salle de douche, wc. Situé dans un immeuble sécurisé avec digicode. Proche de toutes commodités. LOC'A 51 annonces 22/11/2026 Voir Contacter",
     "district": "Lyon 5e",
     "flags": [
@@ -76249,6 +76419,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Voir d'autres photos 7 930 € CC* Appartement 40 m 2 Villeurbanne (69) 2 pièces 1 chambre DPE : B 61 kWh/m².an 10 kg CO 2 /m².an Bien situé à Villeurbanne, appartement T2 meublé de 40m² avec séjour, cuisine équipée, chambre, salle de douche et wc. Résidence avec interphone, digicode et parking privatif. Proche de toutes commodités. LOC'A 51 annonces 22/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -76289,6 +76460,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau Voir d'autres photos 6 565 € CC* Appartement 27 m 2 Lyon 5 1 pièce DPE : D 188 kWh/m².an 17 kg CO 2 /m².an Lyon 5ème, rue de Trion, studio meublé de 27m2 au 3ème étage. Cuisine américaine équipée, pièce principale, salle d'eau avec wc. Situé dans un immeuble calme, proche du funiculaire, commerces et écoles. Chauffage et eaux ind. électriques. RAPIN IMMOBILIER 17 annonces 20/11/2026 Voir Contacter",
     "district": "Lyon 5e",
     "flags": [
@@ -76339,6 +76511,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau Voir d'autres photos 8 362 € CC* Appartement 15 m 2 Lyon 3 1 pièce DPE : C 207 kWh/m².an 7 kg CO 2 /m².an À Lyon, studio de 15,03 m² au 7ème étage avec ascenseur. Comprend une entrée, un coin cuisine, une pièce de vie, salle d'eau avec WC. Chauffage individuel électrique. Disponible le 8 décembre 2026. IMMOBILIERE DABRETEAU 50 annonces 21/11/2026 Voir Contacter",
     "district": "Lyon 3e",
     "flags": [
@@ -76380,6 +76553,7 @@
    "last_seen": "2026-11-22T12:00:42+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau 3 640 € CC* Appartement 24 m 2 Vénissieux (69) 1 pièce DPE : E 320 kWh/m².an 52 kg CO 2 /m².an À Vénissieux, studio meublé de 24m², situé au 1er étage. Il dispose d'un séjour, d'une kitchenette équipée et d'une salle d'eau. Toutes charges comprises : chauffage, eau et électricité. LOC'A 51 annonces 21/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -76427,6 +76601,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau 5 688 € CC* Appartement 49 m 2 Lyon 9 Exclusivité 2 pièces 1 chambre DPE : D 154 kWh/m².an 30 kg CO 2 /m².an À louer - appartement t2 - 69009 lyon votre cabinet citya barioz vous propose à la location au 21 rue du bourbonnais à lyon 9ème, un appartement de 2 pièces nu de 49 m², situé dans un quartier agréable et dynamique. au sein d'un immeuble avec... Citya Barioz 115 annonces 21/11/2026 Voir Contacter",
     "district": "Lyon 9e",
     "flags": [
@@ -76485,6 +76660,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau Voir d'autres photos 8 900 € CC* Appartement 38 m 2 Lyon 3 1 pièce Ascenseur DPE : E 243 kWh/m².an 52 kg CO 2 /m².an Situé à Lyon 3, ce spacieux studio meublé de 38m² offre une entrée, un séjour, une cuisine équipée, une salle de douche et un wc. Immeuble avec interphone, digicode et garage. Proche de toutes commodités. LOC'A 51 annonces 22/11/2026 Voir Contacter",
     "district": "Lyon 3e",
     "flags": [
@@ -76527,6 +76703,7 @@
    "last_seen": "2026-11-22T10:40:26+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau Voir d'autres photos 10 686 € CC* Appartement 30 m 2 Lyon 3 1 pièce DPE : D 256 kWh/m².an 9 kg CO 2 /m².an À Lyon 3, appartement F1 avec mezzanine de couchage, séjour, cuisine équipée, salle de bain et wc. Situé au 1er étage d'un immeuble de 5 niveaux, sécurisé par un digicode. Double vitrage et volets roulants. Un bien à découvrir rapidement. LOC'A 51 annonces 21/11/2026 Voir Contacter",
     "district": "Lyon 3e",
     "flags": [
@@ -76568,6 +76745,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau Voir d'autres photos 8 735 € CC* Appartement 30 m 2 Lyon 1 2 pièces DPE : E 347 kWh/m².an 13 kg CO 2 /m².an Situé à Lyon 1, cet F1bis meublé de 30 m² offre un séjour, une chambre, une cuisine équipée, placards, sdd, wc et digicode. Bien doté de double vitrage et soumis à l'encadrement des loyers. LOC'A 51 annonces 22/11/2026 Voir Contacter",
     "district": "Lyon 1er",
     "flags": [
@@ -76617,6 +76795,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau Voir d'autres photos 7 975 € CC* Appartement 57 m 2 Lyon 4 3 pièces 2 chambres DPE : B 110 kWh/m².an 11 kg CO 2 /m².an Situé à Lyon 04, cet appartement T3 non meublé de 57 m² dispose d'une cave, d'un stationnement possible, et se trouve à proximité des transports et des commerces. Disponible à la location dès le 07/12/2026. LOCService 800 annonces 22/11/2026 Voir Contacter",
     "district": "Lyon 4e",
     "flags": [
@@ -76927,6 +77106,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau 5 980 € CC* Appartement 41 m 2 Caluire-et-Cuire (69) 2 pièces DPE : C 180 kWh/m².an 30 kg CO 2 /m².an Bien situé à Caluire-et-Cuire, appartement de 41 m2 à louer. Ce logement 2 pièces avec cuisine indépendante est au dernier étage d'une résidence sécurisée. Proche des commerces et transports, il dispose d'un grand parking privé et de fenêtres sur espaces verts. 123loger.com 500 annonces 22/11/2026 Voir Contacter",
     "district": null,
     "flags": [
@@ -76963,9 +77143,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T10:20:27+00:00",
-   "last_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T13:22:17+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau 4 610 € CC* Appartement 18 m 2 Lyon 1 1 pièce DPE : E 349 kWh/m².an 11 kg CO 2 /m².an À Lyon 1, studio meublé au 1er étage, proche de l?hôtel de Ville. Il comprend un séjour, cuisine équipée, salle d'eau, wc et placards. Charges incluant chauffage, eau et EDF. Digicode et double vitrage. Idéal pour un premier logement. LOC'A 51 annonces 22/11/2026 Voir Contacter",
     "district": "Lyon 1er",
     "flags": [
@@ -77096,6 +77277,7 @@
    "last_seen": "2026-11-22T11:00:54+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau 3 490 € CC* Chambre 11 m 2 Vénissieux (69) 1 pièce DPE : D 228 kWh/m².an 49 kg CO 2 /m².an 490€ cc / mois - a saisir! quartier parilly sur vénissieux, chambre meublée toutes charges comprises ( chauffage, eau et edf), colocation dans appartement avec cuisine et sanitaire à partager, placards, double vitrage. pour plus de... LOC'A 51 annonces 22/11/2026 Voir Contacter * Loyer mensuel charges comprises. M'envoyer les prochaines annonces Recevoir les nouvelles annonces Le top villes pour vo",
     "district": null,
     "flags": [
@@ -77141,6 +77323,7 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Nouveau 5 990 € CC* Appartement 40 m 2 Caluire-et-Cuire (69) 2 pièces 1 chambre DPE : D 250 kWh/m².an 50 kg CO 2 /m².an Caluire Et Cuire, appartement T2 meublé de 40 m² à louer. Disponible dès le 01/12/2026. Ce bien dispose d'une cave, d'un parking possible, d'un balcon, d'une cuisine équipée, et est proche des transports et commerces. LOCService 800 annonces 22/11/2026 Voir Contacter * Loyer mensuel charges comprises. M'envoyer les prochaines annonces Recevoir les nouvelles annonces Le top vill",
     "district": null,
     "flags": [
