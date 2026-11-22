@@ -26,6 +26,10 @@ Read this first. State on 2026-11-22: the pipeline, the Cloudflare cron Worker (
 - Workflows: `ci` (tests on push), `run` (by hand: `gh workflow run run.yml -f mode=full|check`), `contract` (weekly live check).
 - Tests: `.venv/Scripts/python -m pytest -q` (expect 75 passed).
 
+## Access code switch and dark mode (desk)
+- The owner's access code can be switched OFF without a redeploy: KV key `auth_off` = `1` in the desk's namespace (id in `desk/wrangler.toml`). OFF = `npx wrangler kv key put --namespace-id <id> auth_off 1 --remote`; ON again = `npx wrangler kv key delete --namespace-id <id> auth_off --remote`. While off, only the harmless parts are open (`canUse` in `desk/lib/auth.js`: listings, marks, pending, city choice). Run now and the push endpoints always need the code (`isOwner`), and ingest/relay need the push token. As of 2026-11-22 it is OFF at the owner's request (the code blocked them on mobile): turn it back ON when the owner says so.
+- Dark mode: `desk/public/app.css` has light tokens in `:root` and dark tokens in `@media (prefers-color-scheme: dark)` plus `[data-theme="dark"]`; `theme.js` (external, because the CSP forbids inline scripts) applies a saved choice before paint; Settings has Automatic / Light / Dark (`ld-theme` in localStorage).
+
 ## Phone layout (desk)
 - One breakpoint, `max-width: 900px`, in `desk/public/app.css` (the last block). Phone: top bar with Settings, bottom tab bar (New / Saved / Following / Closed), search box + "Filters (n)" + "Map and areas" buttons (both fold away; `ui` and `mobileBar()` in `app.js`), listing cards with a full-width photo and 44px controls, every form field 16px (iOS does not zoom), Settings dialog opens focused on Close (no keyboard pop-up), photo gallery swipes.
 - Checked in Edge at 360, 390 and 768 px: no sideways scroll, no touch target under 40px, desktop unchanged. Bump `VER` in `desk/public/sw.js` after interface changes, then deploy by hand with wrangler.

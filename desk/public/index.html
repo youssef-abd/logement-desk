@@ -3,9 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="color-scheme" content="light">
+<meta name="color-scheme" content="light dark">
 <meta name="robots" content="noindex, nofollow">
-<meta name="theme-color" content="#f2f4f7">
+<meta name="theme-color" id="tc-light" content="#f2f4f7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" id="tc-dark" content="#0f1114" media="(prefers-color-scheme: dark)">
+<script src="/theme.js"></script>
 <link rel="manifest" href="/manifest.webmanifest">
 <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png?v=2">
 <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg?v=2">
@@ -89,11 +91,13 @@
 
 <dialog id="dlg" aria-label="Settings">
   <h2>Settings</h2>
-  <label for="code">Access code</label><input id="code" type="password" autocomplete="off">
+  <label for="code">Access code <span class="sub">(not needed while the desk is open)</span></label><input id="code" type="password" autocomplete="off">
   <div class="box"><strong>My details for messages</strong><p class="sub">Used only on this device, to fill the message you copy.</p>
     <label for="me-name">Name</label><input id="me-name" autocomplete="name">
     <label for="me-phone">Phone</label><input id="me-phone" autocomplete="tel">
     <label for="me-visale">Visale number</label><input id="me-visale" autocomplete="off"></div>
+  <div class="box"><strong>Appearance</strong><p class="sub">Automatic follows your phone or computer.</p>
+    <select id="theme" aria-label="Appearance"><option value="auto">Automatic</option><option value="light">Light</option><option value="dark">Dark</option></select></div>
   <div class="box"><strong>City to search</strong><p class="sub" id="citysub"></p>
     <input id="cityq" type="search" placeholder="Type a French city, for example Angers" autocomplete="off" aria-label="Search a city">
     <div class="cityres" id="cityres" role="list"></div>

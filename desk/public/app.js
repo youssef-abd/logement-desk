@@ -3,6 +3,12 @@ import { VIEWBOX, GEO } from "./geo.js";
 
 const $ = (id) => document.getElementById(id);
 const ls = { get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }, set(k, v) { try { v == null ? localStorage.removeItem(k) : localStorage.setItem(k, v); } catch (e) { /* private mode */ } } };
+const THEME_BAR = { light: "#f2f4f7", dark: "#0f1114" };
+function applyTheme(v) { // "auto" lets the stylesheet follow the system; light or dark forces it, and the browser bar colour follows
+  const root = document.documentElement;
+  if (v === "light" || v === "dark") root.setAttribute("data-theme", v); else root.removeAttribute("data-theme");
+  $("tc-light").content = v === "dark" ? THEME_BAR.dark : THEME_BAR.light; $("tc-dark").content = v === "light" ? THEME_BAR.light : THEME_BAR.dark;
+}
 const S = {
   token: ls.get("ld-token") || "", data: null, marks: {}, yield: {}, sort: "newest", dense: ls.get("ld-density") === "compact", shown: 60,
   since: Number(ls.get("ld-lastvisit")) || Date.now(), f: { tab: "new", source: "all", poster: "all", kind: "all", near: true, cheap: false, q: "", area: "all", city: null, maxRent: null, furn: "known" },
@@ -24,11 +30,10 @@ async function api(path, opts = {}) {
 }
 
 async function load() {
-  if (!S.token) { $("finding").textContent = "Open Settings and enter the access code."; return; }
   try {
     const [d, m] = await Promise.all([api("/api/listings"), api("/api/marks")]);
     S.data = d; S.marks = m.marks || {}; S.yield = d.yield || {}; $("msg").textContent = "";
-  } catch (e) { $("finding").textContent = "Could not load: " + e.message; return; }
+  } catch (e) { $("finding").textContent = /access code/.test(e.message) ? "This desk asks for the access code: open Settings and enter it." : "Could not load: " + e.message; return; }
   const src = [...new Set(S.data.listings.map((l) => l.source))];
   $("source").replaceChildren(new Option("All sources", "all"), ...src.map((s) => new Option(s, s)));
   if (!src.includes(S.f.source)) S.f.source = "all";
@@ -116,7 +121,7 @@ function drawMap() {
     lab.setAttribute("class", "alabel" + (n && 0.14 + 0.82 * n / max > 0.55 ? " light" : ""));
   }
   const sel = S.f.area !== "all" && S.data.areas ? S.data.areas[S.f.area] : null;
-  $("maplabel").textContent = S.f.area === "all" ? "Click an area to filter the list. Darker means more listings." : `${areaName(S.f.area)}: ${counts[S.f.area] || 0} listings${sel ? `, median ${sel.median_eur_m2} €/m²` : ""}.`;
+  $("maplabel").textContent = S.f.area === "all" ? "Click an area to filter the list. A stronger colour means more listings." : `${areaName(S.f.area)}: ${counts[S.f.area] || 0} listings${sel ? `, median ${sel.median_eur_m2} €/m²` : ""}.`;
   $("clear-area").hidden = S.f.area === "all";
 }
 
@@ -322,6 +327,8 @@ $("citysave").addEventListener("click", async () => {
   catch (e) { $("citymsg").textContent = "Not saved: " + e.message; }
 });
 $("city").addEventListener("change", (e) => { S.f.city = e.target.value; rerender(); });
+{ const saved = ls.get("ld-theme"), v = saved === "light" || saved === "dark" ? saved : "auto"; $("theme").value = v; applyTheme(v); }
+$("theme").addEventListener("change", (e) => { ls.set("ld-theme", e.target.value === "auto" ? null : e.target.value); applyTheme(e.target.value); });
 $("rent").addEventListener("input", (e) => { S.f.maxRent = Number(e.target.value); $("rentout").textContent = S.f.maxRent + " €"; saveFilters(); rerender(); });
 $("furn").addEventListener("change", (e) => { S.f.furn = e.target.value; saveFilters(); rerender(); });
 $("sort").addEventListener("change", (e) => { S.sort = e.target.value; rerender(); });

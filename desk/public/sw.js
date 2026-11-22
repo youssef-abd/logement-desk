@@ -1,6 +1,6 @@
 // Rule 1: /api/* is never cached or touched. Rule 2: everything else is network-first, last copy when offline.
 // A push carries no text: on a push this worker asks /api/pending (with the access code kept in IndexedDB) what to say.
-const VER = "logement-v12";
+const VER = "logement-v14";
 const SHELL = ["/", "/app.css", "/app.js", "/format.js", "/geo.js", "/fonts/geist.woff2", "/icons/icon-192.png"];
 
 self.addEventListener("install", (e) => { e.waitUntil(caches.open(VER).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting())); });
@@ -26,7 +26,7 @@ self.addEventListener("push", (e) => {
     let body = "A new flat matches", url = "/";
     try {
       const token = await readToken();
-      if (token) { const r = await fetch("/api/pending", { headers: { "x-token": token }, cache: "no-store" }); if (r.ok) { const p = await r.json(); if (p.body) body = p.body; if (typeof p.url === "string") url = p.url; } }
+      { const r = await fetch("/api/pending", { headers: token ? { "x-token": token } : {}, cache: "no-store" }); if (r.ok) { const p = await r.json(); if (p.body) body = p.body; if (typeof p.url === "string") url = p.url; } }
     } catch (err) { /* keep the generic line */ }
     await self.registration.showNotification("Logement", { body, icon: "/icons/icon-192.png", badge: "/icons/icon-192.png", tag: "logement", renotify: true, data: { url } });
   })());

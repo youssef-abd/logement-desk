@@ -1,8 +1,8 @@
-import { isOwner, json } from "../../lib/auth.js";
+import { canUse, json } from "../../lib/auth.js";
 import { applyMark } from "../../lib/marks.js";
 
 export async function onRequest({ request, env }) {
-  if (!isOwner(request, env)) return json({ error: "unauthorized" }, 401);
+  if (!(await canUse(request, env))) return json({ error: "unauthorized" }, 401);
   const marks = (await env.DESK.get("marks", "json")) || {};
   if (request.method === "GET") return json({ marks });
   if (request.method !== "POST") return json({ error: "method" }, 405);

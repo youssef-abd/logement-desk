@@ -1,9 +1,9 @@
-import { isOwner, isPusher, json } from "../../lib/auth.js";
+import { canUse, isPusher, json } from "../../lib/auth.js";
 import { cleanCities, MAX_CITIES } from "../../lib/search.js";
 
 // GET: the city to collect (the owner's desk and the run read it). PUT: the owner changes it.
 export async function onRequest({ request, env }) {
-  const owner = isOwner(request, env);
+  const owner = await canUse(request, env);
   if (!owner && !(request.method === "GET" && isPusher(request, env))) return json({ error: "unauthorized" }, 401);
   if (request.method === "GET") {
     const s = await env.DESK.get("search", "json");
