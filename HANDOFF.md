@@ -26,6 +26,11 @@ Read this first. State on 2026-11-22: the pipeline, the Cloudflare cron Worker (
 - Workflows: `ci` (tests on push), `run` (by hand: `gh workflow run run.yml -f mode=full|check`), `contract` (weekly live check).
 - Tests: `.venv/Scripts/python -m pytest -q` (expect 75 passed).
 
+## Taken-down ads
+- Besides the 12-hour "not seen" rule, the hourly deep run opens listing pages itself (`logement/liveness.py`, profile `liveness: {enabled, max_per_run (80), recheck_hours (6)}`, all optional): least recently checked first, never-checked oldest first. A gone listing is closed at once (`status stale`, `gone` timestamp) and revives if the results show it again.
+- Only signals seen on the real sites count: Bien'ici single-ad API `status.onTheMarket == false`; ImmoJeune redirect to a search page (a residence unit is gone when its page no longer offers it); HTTP 404/410 or a redirect to another path elsewhere. A redirect to a login page is "unknown". Leboncoin, ParuVendu and La Carte des Colocs closed ads still load normally, so those are never guessed gone. Foncia is checked through the desk relay (404 only).
+- Validated 2026-11-22 on real data: Bien'ici 6/6 live and 6/6 closed separated, ImmoJeune 6/6 and 6/6; a Studapart live ad that redirects to `/fr/login` made the login rule necessary.
+
 ## Rules
 - The repo and its Actions logs are PUBLIC. Logs print counts and status words only. Never print listing text, the profile or secrets.
 - The real profile is the Actions secret `PROFILE_JSON` and the gitignored `profile.json`. The repo only has `profile.example.json`.
