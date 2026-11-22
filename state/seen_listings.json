@@ -36506,6 +36506,42 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:1xlv4p": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T04:50:19+00:00",
+   "last_seen": "2026-11-22T04:50:19+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 4 pièces de 72 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-b7d0fa9a58811fec09b5a845682358b6/6534764/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 690,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "1xlv4p",
+    "surface_m2": 72,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 72 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/1xlv4p"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:2pmqsr": {
    "also": [],
    "dup_of": null,
