@@ -26,13 +26,13 @@
    "consecutive_failures": 0,
    "cooldown_until": null,
    "last_error": null,
-   "last_success": "2026-11-22T03:40:20+00:00"
+   "last_success": "2026-11-22T06:40:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 9,
-   "consecutive_failures": 4,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
+   "last_error": null,
    "last_success": "2026-11-22T04:40:21+00:00"
   },
   "logicimmo": {
@@ -36828,7 +36828,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T18:20:19+00:00",
-   "last_seen": "2026-11-22T03:40:20+00:00",
+   "last_seen": "2026-11-22T06:40:24+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 4 pièces de 76 m²",
@@ -40662,6 +40662,44 @@
     ],
     "title": "Appartement T2 pièces meublé 27 m²",
     "url": "https://www.leboncoin.fr/ad/locations/3314814710"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3314917748": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T06:40:24+00:00",
+   "last_seen": "2026-11-22T06:40:24+00:00",
+   "listing": {
+    "charges": 45.0,
+    "description": "Nous louons T1 meublé de 24 m2 + balcon terrasse de 4 m2 au 2ème et dernier étage d’un petit immeuble sécurisé, rue des Roses, avec place de parking privative en sous sol. Proche commerces, transports (Bus C25 à 3 mn, Métro D à 10 mn et T6 à 8 mn). Chaudière individuelle Gaz. Les charges comprennent l’entretien des parties communes, espace verts et révision chaudière. DPE 07/2025 -Libre au 1er décembre 2026. 1er contact par email, merci",
+    "district": "Lyon 69008",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/65/08/53/6508535196fc8da12fed12d99355be27fbe72d7c.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e7/24/a1/e724a174c9d59a0a00dda0aa7ab5278d5a3069dd.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6b/e0/6b/6be06b1c6a97f71c97337b1262b80ba9cd066a7a.jpg?rule=ad-large"
+    ],
+    "postal_code": "69008",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-22 07:38:25",
+    "rent_cc": 660.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3314917748",
+    "surface_m2": 24.76,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "T1 meublé Lyon 8 - 660 cc",
+    "url": "https://www.leboncoin.fr/ad/locations/3314917748"
    },
    "notified": false,
    "status": "active"
