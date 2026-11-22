@@ -119,3 +119,12 @@ def test_a_redirect_to_a_login_page_is_not_proof_that_the_ad_is_gone():
     l = listing("studapart", "p1", "https://www.studapart.com/fr/logement-Lyon/Studio/property/abc")
     assert check(l, page(final="https://www.studapart.com/fr/login")) == "unknown"
     assert check(listing("immojeune", "55", "https://www.immojeune.com/x_55.html"), page(final="https://www.immojeune.com/login")) == "unknown"
+
+
+def test_la_carte_des_colocs_deactivated_ads_answer_410_with_a_banner():
+    l = listing("lacartedescolocs", "jbg8fq", "https://www.lacartedescolocs.fr/colocations/x/jbg8fq")
+    banner = "<h1>Erreur 410</h1><p>Cette annonce a été désactivée le 22/11/2026 , son propriétaire semble avoir reçu suffisamment de candidatures.</p>"
+    assert check(l, page(410, text=banner)) == "gone"
+    assert check(l, page(200, text=banner)) == "gone"  # even if the site stops sending the 410
+    assert check(l, page(200, text="<h1>Appartement 3 pièces</h1><p>3 chambres disponibles</p>")) == "live"
+    assert check(l, page(500)) == "unknown"

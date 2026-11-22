@@ -5,7 +5,8 @@ What counts as gone is only what was seen on the real sites (2026-11-22):
 - Bien'ici: its single-ad API says status.onTheMarket is false for a taken-down ad.
 - ImmoJeune: a removed ad redirects to a search page; a residence unit is gone when its page no longer offers that unit.
 - Any site: HTTP 404 or 410, or a redirect away from the listing to another path (a redirect to a login page proves nothing: unknown).
-Sites with no known signal (Leboncoin, ParuVendu, La Carte des Colocs when the page still loads) stay "live" or "unknown"; they are never guessed gone."""
+- La Carte des Colocs: HTTP 410 with "Cette annonce a été désactivée le ..." (the owner received enough applications).
+Sites with no known signal (Leboncoin, ParuVendu when the page still loads) stay "live" or "unknown"; they are never guessed gone."""
 import json
 import re
 import time
@@ -73,6 +74,19 @@ def _immojeune(l, probe):
     return "live"
 
 
+DEACTIVATED = re.compile(r"Cette annonce a .{1,6}d.sactiv", re.I)
+
+
+def _lcdc(l, probe):
+    """La Carte des Colocs answers HTTP 410 with "Cette annonce a été désactivée le ... son propriétaire semble avoir reçu suffisamment de candidatures"."""
+    status, final, text = probe(l["url"])
+    if _login(final):
+        return "unknown"
+    if status in (404, 410) or DEACTIVATED.search(re.sub(r"<[^>]+>", " ", text)) or (status < 400 and _moved(l["url"], final)):
+        return "gone"
+    return "live" if status < 400 else "unknown"
+
+
 def _foncia(l, probe):
     try:
         relay.get(l["url"])
@@ -81,7 +95,7 @@ def _foncia(l, probe):
     return "live"
 
 
-CHECKERS = {"bienici": _bienici, "immojeune": _immojeune, "foncia": _foncia, "paruvendu": _generic, "studapart": _generic, "lacartedescolocs": _generic}
+CHECKERS = {"bienici": _bienici, "immojeune": _immojeune, "foncia": _foncia, "paruvendu": _generic, "studapart": _generic, "lacartedescolocs": _lcdc}
 
 
 def check(l, probe=_probe):
