@@ -19,7 +19,7 @@
    "consecutive_failures": 0,
    "cooldown_until": null,
    "last_error": null,
-   "last_success": "2026-11-22T10:10:20+00:00"
+   "last_success": "2026-11-22T13:10:31+00:00"
   },
   "lacartedescolocs": {
    "blocked_runs": 0,
@@ -29,8 +29,8 @@
    "last_success": "2026-11-22T12:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-22T12:50:21+00:00"
@@ -63796,7 +63796,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-21T21:50:17+00:00",
-   "last_seen": "2026-11-22T10:10:20+00:00",
+   "last_seen": "2026-11-22T13:10:31+00:00",
    "listing": {
     "charges": null,
     "description": "",
@@ -66393,7 +66393,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-22T10:10:20+00:00",
+   "last_seen": "2026-11-22T13:10:31+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 5 pièces de 84 m²",
@@ -66456,6 +66456,43 @@
     ],
     "title": "Appartement 5 pièces de 130 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/871qt7"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:8n1d5g": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:10:31+00:00",
+   "last_seen": "2026-11-22T13:10:31+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 103 m². Disponible dès 2027-01-13",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-ee650c0ee168c86f38919fa40a78a08e/6620502/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 580,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "8n1d5g",
+    "surface_m2": 103,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 103 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/8n1d5g"
    },
    "notified": false,
    "status": "active"
@@ -66850,7 +66887,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T13:10:20+00:00",
-   "last_seen": "2026-11-22T07:40:21+00:00",
+   "last_seen": "2026-11-22T13:10:31+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 3 pièces de 70 m²",
@@ -67088,6 +67125,43 @@
     ],
     "title": "Appartement 3 pièces de 70 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/j8lgph"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:jbg8fq": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:10:31+00:00",
+   "last_seen": "2026-11-22T13:10:31+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 100 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-74629a0d243c8070769cdc36d9a2c98d/925620/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 470,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "jbg8fq",
+    "surface_m2": 100,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/jbg8fq"
    },
    "notified": false,
    "status": "active"
@@ -67943,7 +68017,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T13:10:20+00:00",
-   "last_seen": "2026-11-22T07:40:21+00:00",
+   "last_seen": "2026-11-22T13:10:31+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 2 pièces de 80 m². Disponible dès 2026-12-01",
