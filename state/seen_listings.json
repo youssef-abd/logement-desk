@@ -29,7 +29,7 @@
    "last_success": "2026-11-21T21:30:17+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 7,
+   "blocked_runs": 8,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -35455,6 +35455,199 @@
    "notified": false,
    "status": "active"
   },
+  "immojeune:4072893": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T00:00:42+00:00",
+   "last_seen": "2026-11-22T00:00:42+00:00",
+   "listing": {
+    "charges": null,
+    "description": "",
+    "district": "Lyon 6e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01418160efff1e5a006fe8-5c7faada189bd5926bee2d7b1fdedbe664acbf118f00cb57665e8e89f998b276.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01418160efff1e5a006fe8-93bb93c12df98688afc8949b7abc759022bf00c79a1d6af646b75ef46ceeb3f9.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01418160efff1e5a006fe8-f1f0a88e42912594b6b7d774a2ef7ac88d59152300b5aaabc8d5e26bc6a0f2fd.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01418160efff1e5a006fe8-35074b24b50f70c66a94b8282a838173e7cc56ac889bd0c9681f43181e649e25.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01418160efff1e5a006fe8-1d1eb805f43efe5d092b9ca4b754076e097165be9b15d08265208b1368a4084f.jpg"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 580.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "4072893",
+    "surface_m2": 43.0,
+    "tags": [
+     "colocation",
+     "furnished?"
+    ],
+    "title": "Chambre en coloc Lyon 6",
+    "url": "https://www.immojeune.com/colocation/lyon-06-69/chambre-en-coloc-lyon-6_4072893.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:4072924": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T00:00:42+00:00",
+   "last_seen": "2026-11-22T00:00:42+00:00",
+   "listing": {
+    "charges": null,
+    "description": "",
+    "district": "Lyon 3e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": null,
+    "photos": [
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b0141a81c139480fc087729-f38a256eda81d5f9d359801d9a54ae5c02185ad80e427c92d42108a873513b77.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b0141a81c139480fc087729-08a1002d24411ce5d6c7a8a7bdf57ef00011b7d11291f847c7e228fc0b5ad4f4.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b0141a81c139480fc087729-d3427b149b1dda87aa0fdb65ff5fdc29dd7cd9fb823209b4f1520b05cd255129.jpg"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 650.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "4072924",
+    "surface_m2": 25.0,
+    "tags": [
+     "kind?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement Lyon 3ème , 25m2 , 650 euro...",
+    "url": "https://www.immojeune.com/location-etudiant/lyon-03-69/appartement-lyon-3eme-25m2-650-euros-tcc_4072924.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:4072939": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T00:00:42+00:00",
+   "last_seen": "2026-11-22T00:00:42+00:00",
+   "listing": {
+    "charges": null,
+    "description": "",
+    "district": "Lyon 9e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a3e7c9fb50ca7c0f0695-a0fec6c4309fd9c212e5bc96f3a081ef75772f83fdf9de9ebddb240b74f70abf.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a3e7c9fb50ca7c0f0695-6712252796d1373a5a937805bfcc558f530b2e15f4ab400c87ffdc3fb5fe95cd.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a3e7c9fb50ca7c0f0695-aba723d65898ce589fe2adebf92b4580c0a04800a5e471505efbc05f7d20cfff.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a3e7c9fb50ca7c0f0695-14c012799b6f8c0eddee409c826fc9d89aafd86586aea7f624432adff42ab9b9.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a3e7c9fb50ca7c0f0695-ddfe32106ab4b6002503068ade8d10ffb9056f13285c0330d41e75064e1728a9.jpg"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 469.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "4072939",
+    "surface_m2": 86.0,
+    "tags": [
+     "colocation",
+     "furnished?"
+    ],
+    "title": "Colocation rénové à neuf - Proximité ga...",
+    "url": "https://www.immojeune.com/colocation/lyon-09-69/colocation-renove-a-neuf-proximite-gare-de-vaise_4072939.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:4072945": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T00:00:42+00:00",
+   "last_seen": "2026-11-22T00:00:42+00:00",
+   "listing": {
+    "charges": null,
+    "description": "",
+    "district": "Lyon 6e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a3ee1422ccef3309c600-5c7faada189bd5926bee2d7b1fdedbe664acbf118f00cb57665e8e89f998b276.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a3ee1422ccef3309c600-93bb93c12df98688afc8949b7abc759022bf00c79a1d6af646b75ef46ceeb3f9.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a3ee1422ccef3309c600-f1f0a88e42912594b6b7d774a2ef7ac88d59152300b5aaabc8d5e26bc6a0f2fd.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a3ee1422ccef3309c600-35074b24b50f70c66a94b8282a838173e7cc56ac889bd0c9681f43181e649e25.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a3ee1422ccef3309c600-1d1eb805f43efe5d092b9ca4b754076e097165be9b15d08265208b1368a4084f.jpg"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 580.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "4072945",
+    "surface_m2": 43.0,
+    "tags": [
+     "colocation",
+     "furnished?"
+    ],
+    "title": "Chambre en coloc Lyon 6",
+    "url": "https://www.immojeune.com/colocation/lyon-06-69/chambre-en-coloc-lyon-6_4072945.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:4072977": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T00:00:42+00:00",
+   "last_seen": "2026-11-22T00:00:42+00:00",
+   "listing": {
+    "charges": null,
+    "description": "",
+    "district": "Lyon 3e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": null,
+    "photos": [
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a40d35c354db8a056a22-f38a256eda81d5f9d359801d9a54ae5c02185ad80e427c92d42108a873513b77.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a40d35c354db8a056a22-08a1002d24411ce5d6c7a8a7bdf57ef00011b7d11291f847c7e228fc0b5ad4f4.jpg",
+     "https://aycp-image.s3.rbx.io.cloud.ovh.net/c-6b01a40d35c354db8a056a22-d3427b149b1dda87aa0fdb65ff5fdc29dd7cd9fb823209b4f1520b05cd255129.jpg"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 650.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "4072977",
+    "surface_m2": 25.0,
+    "tags": [
+     "kind?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement Lyon 3ème , 25m2 , 650 euro...",
+    "url": "https://www.immojeune.com/location-etudiant/lyon-03-69/appartement-lyon-3eme-25m2-650-euros-tcc_4072977.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "immojeune:u1470872": {
    "also": [],
    "dup_of": "bienici:ag752861-426261598",
@@ -42230,7 +42423,7 @@
    "also": [],
    "dup_of": "bienici:hektor-groupe-hapi_1-290",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T21:00:16+00:00",
+   "last_seen": "2026-11-22T00:00:42+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -42239,7 +42432,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-21T21:00:16+00:00",
+   "last_seen": "2026-11-22T00:00:42+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 6 699 € CC* Appartement 32 m 2 Lyon 5 2 pièces 1 chambre DPE : D 230 kWh/m².an 7 kg CO 2 /m².an À Lyon, appartement T2 de 32,68 m² dans la résidence Jardins de Fourvière. Entièrement réhabilité, il offre une pièce de vie lumineuse, une cuisine équipée et une chambre avec placard. Terrasse extérieure et proximité des transports en commun. VALORITY ADMINISTRATION DE BIENS 250 annonces 19/11/2026 Voir Contacter",
