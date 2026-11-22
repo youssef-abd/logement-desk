@@ -29,7 +29,7 @@
    "last_success": "2026-11-22T15:50:25+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -69341,6 +69341,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:ryr7c5": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T17:40:20+00:00",
+   "last_seen": "2026-11-22T17:40:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 100 m². Disponible dès 2026-12-03",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-9cd6ce9fc78680ca893d881f0cd2e6d5/6621063/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 450,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ryr7c5",
+    "surface_m2": 100,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/sous-locations/fr/auvergne-rhone-alpes/lyon/a/ryr7c5"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:s7zpw9": {
    "also": [],
    "dup_of": null,
@@ -69963,7 +70000,7 @@
    "checked": "2026-11-22T13:40:08+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-22T12:10:27+00:00",
+   "last_seen": "2026-11-22T17:40:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
