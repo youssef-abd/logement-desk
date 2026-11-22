@@ -29,8 +29,8 @@
    "last_success": "2026-11-22T12:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
-   "consecutive_failures": 3,
+   "blocked_runs": 4,
+   "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-22T12:50:21+00:00"
@@ -1024,6 +1024,90 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:ag353261-560993573": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 135,
+    "city": "angers-49",
+    "description": "KER EUGENE 7\n\nKenavHome, spécialiste du coliving à Angers, vous propose une chambre au sein d'une maison en coliving entièrement rénovée et équipée, située dans le quartier La Fayette, proche de la gare d'Angers, des transports en communs et du marché La Fayette.\n\nLa maison de plus de 230 m² est constituée de 10 chambres d'une surface habitable comprise entre 7,6 et 17 m², elles sont toutes équipées de :\n- Un lit double de qualité hôtelière avec couette et oreillers\n- Un bureau et une chaise\n- u",
+    "district": "Angers",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag353261-560993573_photos.ubiflow.net_353261_560993573_photos_1.jpg_INSOON_EB_5512801818_20261118220352",
+     "https://file.bienici.com/photo/ag353261-560993573_photos.ubiflow.net_353261_560993573_photos_2.jpg_INSOON_EB_5512801818_20261118220352",
+     "https://file.bienici.com/photo/ag353261-560993573_photos.ubiflow.net_353261_560993573_photos_3.jpg_INSOON_EB_5512801818_20261118220352",
+     "https://file.bienici.com/photo/ag353261-560993573_photos.ubiflow.net_353261_560993573_photos_4.jpg_INSOON_EB_5512801818_20261118220352",
+     "https://file.bienici.com/photo/ag353261-560993573_photos.ubiflow.net_353261_560993573_photos_5.jpg_INSOON_EB_5512801818_20261118220352",
+     "https://file.bienici.com/photo/ag353261-560993573_photos.ubiflow.net_353261_560993573_photos_6.jpg_INSOON_EB_5512801818_20261118220352"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "KENAVHOME",
+    "published_at": "2026-11-18T21:23:32.964Z",
+    "rent_cc": 735,
+    "rooms": 7,
+    "source": "bienici",
+    "source_id": "ag353261-560993573",
+    "surface_m2": 229,
+    "tags": [],
+    "title": "KER EUGENE 7",
+    "url": "https://www.bienici.com/annonce/ag353261-560993573"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag353261-560993870": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 135,
+    "city": "angers-49",
+    "description": "KER EUGENE - Appartement meublé T2 40m² à Angers\n\nKenavHome, spécialiste du coliving à Angers, vous propose une chambre au sein d'une maison en coliving entièrement rénovée et équipée, située dans le quartier La Fayette, proche de la gare d'Angers, des transports en communs et du marché La Fayette.\n\nLa maison de plus de 230 m² est constituée de 10 chambres d'une surface habitable comprise entre 9 et 17 m², elles sont toutes équipées de :\n- Un lit double de qualité hôtelière avec couette et oreil",
+    "district": "Angers",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag353261-560993870_photos.ubiflow.net_353261_560993870_photos_1.jpg_INSOON_EB_5512801818_20261118220436",
+     "https://file.bienici.com/photo/ag353261-560993870_photos.ubiflow.net_353261_560993870_photos_2.jpg_INSOON_EB_5512801818_20261118220436",
+     "https://file.bienici.com/photo/ag353261-560993870_photos.ubiflow.net_353261_560993870_photos_3.jpg_INSOON_EB_5512801818_20261118220436",
+     "https://file.bienici.com/photo/ag353261-560993870_photos.ubiflow.net_353261_560993870_photos_4.jpg_INSOON_EB_5512801818_20261118220436",
+     "https://file.bienici.com/photo/ag353261-560993870_photos.ubiflow.net_353261_560993870_photos_5.jpg_INSOON_EB_5512801818_20261118220436",
+     "https://file.bienici.com/photo/ag353261-560993870_photos.ubiflow.net_353261_560993870_photos_6.jpg_INSOON_EB_5512801818_20261118220436"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "KENAVHOME",
+    "published_at": "2026-11-18T21:23:32.964Z",
+    "rent_cc": 735,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag353261-560993870",
+    "surface_m2": 40,
+    "tags": [],
+    "title": "KER EUGENE - Appartement meublé T2 40m² à Angers",
+    "url": "https://www.bienici.com/annonce/ag353261-560993870"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:ag380516-520550744": {
    "also": [],
    "dup_of": null,
@@ -2006,6 +2090,481 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "bienici:ag443027-560942141": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 70,
+    "city": "angers-49",
+    "description": "À LOUER – APPARTEMENT T1 BIS NON MEUBLÉ DE 34 m² – RUE VOLNEY \n\n Emplacement idéal ! Situé rue Volney, à moins de 500 mètres de L'UCO, cet appartement bénéficie d'un emplacement privilégié, à proximité des commodités et des établissements scolaires.\n\n Un appartement entièrement rénové, lumineux et au calme !\nD'une superficie de 34,27m², cet agréable T1 bis non meublé se compose de :\n\n Une entrée accueillante avec un grand placard de rangement.\n Une belle pièce de vie lumineuse, donnant sur une c",
+    "district": "Angers",
+    "flags": [
+     "available_now"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag443027-560942141_photos.ubiflow.net_443027_560942141_photos_1.jpg_INSOON_EB_5512801818_20261118171534",
+     "https://file.bienici.com/photo/ag443027-560942141_photos.ubiflow.net_443027_560942141_photos_2.jpg_INSOON_EB_5512801818_20261118171534",
+     "https://file.bienici.com/photo/ag443027-560942141_photos.ubiflow.net_443027_560942141_photos_3.jpg_INSOON_EB_5512801818_20261118171534",
+     "https://file.bienici.com/photo/ag443027-560942141_photos.ubiflow.net_443027_560942141_photos_4.jpg_INSOON_EB_5512801818_20261118171534",
+     "https://file.bienici.com/photo/ag443027-560942141_photos.ubiflow.net_443027_560942141_photos_5.jpg_INSOON_EB_5512801818_20261118171534",
+     "https://file.bienici.com/photo/ag443027-560942141_photos.ubiflow.net_443027_560942141_photos_6.jpg_INSOON_EB_5512801818_20261118171534"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncièrement Vôtre",
+    "published_at": "2026-11-18T17:11:28.448Z",
+    "rent_cc": 550,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag443027-560942141",
+    "surface_m2": 34,
+    "tags": [],
+    "title": "Appartement À Louer",
+    "url": "https://www.bienici.com/annonce/ag443027-560942141"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag443027-561543143": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 100,
+    "city": "angers-49",
+    "description": "PAS DE FRAIS D'AGENCE ! \n\n Situé au 115 avenue Victor Chatenay ANGERS / entre l'arrêt de bus \"Banchais\" et l'arrêt \"Route de Paris\" -cet appartement T4 de 77,20 m² est au 4ème et dernier étage d'une résidence avec ascenseur.\n\nDescription du logement :\n Entrée de 2,80 m² avec grand placard de rangement.\n Séjour/ cuisine de 26 m², donnant sur un balcon filant sur la longueur de l'appartement de 17,30m².\n Première chambre de 9,80 m² avec placard.\n Seconde chambre de 11,60 m².\n Troisième chambre de ",
+    "district": "Angers",
+    "flags": [
+     "agency_fees_no",
+     "visale"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag443027-561543143_photos.ubiflow.net_443027_561543143_photos_1.jpg_INSOON_EB_5512801818_20261120183447",
+     "https://file.bienici.com/photo/ag443027-561543143_photos.ubiflow.net_443027_561543143_photos_2.jpg_INSOON_EB_5512801818_20261120183447",
+     "https://file.bienici.com/photo/ag443027-561543143_photos.ubiflow.net_443027_561543143_photos_3.jpg_INSOON_EB_5512801818_20261120183447",
+     "https://file.bienici.com/photo/ag443027-561543143_photos.ubiflow.net_443027_561543143_photos_4.jpg_INSOON_EB_5512801818_20261120183447",
+     "https://file.bienici.com/photo/ag443027-561543143_photos.ubiflow.net_443027_561543143_photos_5.jpg_INSOON_EB_5512801818_20261120183447",
+     "https://file.bienici.com/photo/ag443027-561543143_photos.ubiflow.net_443027_561543143_photos_6.jpg_INSOON_EB_5512801818_20261120183447"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "Foncièrement Vôtre",
+    "published_at": "2026-11-20T18:41:16.766Z",
+    "rent_cc": 898.21,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "ag443027-561543143",
+    "surface_m2": 77,
+    "tags": [],
+    "title": "Appartement À Louer",
+    "url": "https://www.bienici.com/annonce/ag443027-561543143"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag443579-561059687": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 154,
+    "city": "angers-49",
+    "description": "Angers Parc de l'arboretum\nA proximité immédiate des transports, du centre et des commerces, bel appartement de type 4 inondé de soleil, comprenant  entrée, salon-séjour donnant sur balcon-terrasse sud ouest, cuisine équipée, 3 chambres, salle d'eau et WC le tout situé au 3ème étage d'une résidence bien entretenue.\nIdéal colocation. Cave et parking libre.\nLes provisions pour charges mensuelles comprennent : charges locatives, chauffage, eau et ordures ménagères.\nLes informations sur les risques ",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag443579-561059687_photos.ubiflow.net_443579_561059687_photos_1.jpg_INSOON_EB_5512801818_20261119051455",
+     "https://file.bienici.com/photo/ag443579-561059687_photos.ubiflow.net_443579_561059687_photos_2.jpg_INSOON_EB_5512801818_20261119051455",
+     "https://file.bienici.com/photo/ag443579-561059687_photos.ubiflow.net_443579_561059687_photos_3.jpg_INSOON_EB_5512801818_20261119051455",
+     "https://file.bienici.com/photo/ag443579-561059687_photos.ubiflow.net_443579_561059687_photos_4.jpg_INSOON_EB_5512801818_20261119051455",
+     "https://file.bienici.com/photo/ag443579-561059687_photos.ubiflow.net_443579_561059687_photos_5.jpg_INSOON_EB_5512801818_20261119051455",
+     "https://file.bienici.com/photo/ag443579-561059687_photos.ubiflow.net_443579_561059687_photos_6.jpg_INSOON_EB_5512801818_20261119051455"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "PICHELIN IMMOBILIER",
+    "published_at": "2026-11-19T04:47:37.228Z",
+    "rent_cc": 795,
+    "rooms": 4,
+    "source": "bienici",
+    "source_id": "ag443579-561059687",
+    "surface_m2": 66,
+    "tags": [],
+    "title": "Angers Arboretum - T4 avec balcon",
+    "url": "https://www.bienici.com/annonce/ag443579-561059687"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag490879-560934782": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 66.08,
+    "city": "angers-49",
+    "description": "Sans frais d'agence - Quartier des Capucins, à deux pas du tramway, dans une résidence récente équipée d'un ascenseur, ce bel appartement type 2 dispose d'une grande terrasse et vous offre : une cuisine ouverte sur la pièce de vie avec un placard, une chambre avec un placard, une salle de bains et des WC. Un local à vélos, ainsi qu'un stationnement en sous-sol sont inclus avec le logement. L'eau froide et l'entretien des parties communes sont provisionnés dans les charges. Ce logement est soumis",
+    "district": "Angers",
+    "flags": [
+     "agency_fees_no"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag490879-560934782_photos.ubiflow.net_490879_560934782_photos_1.jpg_INSOON_EB_5512801818_20261119150250",
+     "https://file.bienici.com/photo/ag490879-560934782_photos.ubiflow.net_490879_560934782_photos_2.jpg_INSOON_EB_5512801818_20261119150250",
+     "https://file.bienici.com/photo/ag490879-560934782_photos.ubiflow.net_490879_560934782_photos_3.jpg_INSOON_EB_5512801818_20261119150250",
+     "https://file.bienici.com/photo/ag490879-560934782_photos.ubiflow.net_490879_560934782_photos_4.jpg_INSOON_EB_5512801818_20261119150250",
+     "https://file.bienici.com/photo/ag490879-560934782_photos.ubiflow.net_490879_560934782_photos_5.jpg_INSOON_EB_5512801818_20261119150250",
+     "https://file.bienici.com/photo/ag490879-560934782_photos.ubiflow.net_490879_560934782_photos_6.jpg_INSOON_EB_5512801818_20261119150250"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "SERGIC ANGERS",
+    "published_at": "2026-11-18T17:15:32.236Z",
+    "rent_cc": 611.08,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag490879-560934782",
+    "surface_m2": 51,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement type 2",
+    "url": "https://www.bienici.com/annonce/ag490879-560934782"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag491342-561002672": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 20,
+    "city": "angers-49",
+    "description": "Appartement idéalement situé, à proximité du tram et de toutes commodités. Il offre une spacieuse entrée permettant l'aménagement d'un dressing, une cuisine aménagée et équipée, un séjour, une chambre, une salle d'eau, un WC séparé\nTerrasse privative\n\nChauffage individuel gaz\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag491342-561002672_photos.ubiflow.net_491342_561002672_photos_1.jpg_INSOON_EB_5512801818_20261118230434",
+     "https://file.bienici.com/photo/ag491342-561002672_photos.ubiflow.net_491342_561002672_photos_2.jpg_INSOON_EB_5512801818_20261118230435",
+     "https://file.bienici.com/photo/ag491342-561002672_photos.ubiflow.net_491342_561002672_photos_3.jpg_INSOON_EB_5512801818_20261118230435",
+     "https://file.bienici.com/photo/ag491342-561002672_photos.ubiflow.net_491342_561002672_photos_4.jpg_INSOON_EB_5512801818_20261118230435",
+     "https://file.bienici.com/photo/ag491342-561002672_photos.ubiflow.net_491342_561002672_photos_5.jpg_INSOON_EB_5512801818_20261118230435",
+     "https://file.bienici.com/photo/ag491342-561002672_photos.ubiflow.net_491342_561002672_photos_6.jpg_INSOON_EB_5512801818_20261118230435"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "CABINET TAPISSIER & ASSOCIES",
+    "published_at": "2026-11-18T22:33:41.045Z",
+    "rent_cc": 760,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag491342-561002672",
+    "surface_m2": 62,
+    "tags": [],
+    "title": "Appartement T2 bis (Belle Beille)",
+    "url": "https://www.bienici.com/annonce/ag491342-561002672"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag491342-561002687": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 50,
+    "city": "angers-49",
+    "description": "Appartement type 2 meublé très bon état avec balcon - Quartier Lafayette, proche tramway et tout commerces\n\nSitué dans le quartier recherché Lafayette, à proximité immédiate du tramway et de toutes les commodités, ce bel appartement T2 neuf et entièrement meublé vous séduira par ses prestations modernes et son confort.\nL'appartement se compose d'une pièce de vie lumineuse avec mobilier contemporain, d'une cuisine entièrement équipée (électroménager inclus), d'une chambre confortable avec rangeme",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag491342-561002687_photos.ubiflow.net_491342_561002687_photos_1.jpg_INSOON_EB_5512801818_20261118230438",
+     "https://file.bienici.com/photo/ag491342-561002687_photos.ubiflow.net_491342_561002687_photos_2.jpg_INSOON_EB_5512801818_20261118230438",
+     "https://file.bienici.com/photo/ag491342-561002687_photos.ubiflow.net_491342_561002687_photos_3.jpg_INSOON_EB_5512801818_20261118230438",
+     "https://file.bienici.com/photo/ag491342-561002687_photos.ubiflow.net_491342_561002687_photos_4.jpg_INSOON_EB_5512801818_20261118230438",
+     "https://file.bienici.com/photo/ag491342-561002687_photos.ubiflow.net_491342_561002687_photos_5.jpg_INSOON_EB_5512801818_20261118230438",
+     "https://file.bienici.com/photo/ag491342-561002687_photos.ubiflow.net_491342_561002687_photos_6.jpg_INSOON_EB_5512801818_20261118230438"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "CABINET TAPISSIER & ASSOCIES",
+    "published_at": "2026-11-18T22:33:41.045Z",
+    "rent_cc": 850,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag491342-561002687",
+    "surface_m2": 50,
+    "tags": [],
+    "title": "T2",
+    "url": "https://www.bienici.com/annonce/ag491342-561002687"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag491342-561002690": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 30,
+    "city": "angers-49",
+    "description": "Angers LAFAYETTE/GARE\nStudio de 25 m² meublé. Salle d'eau et WC, kitchenette équipée.\nSitué au 4ème étage avec ascenseur, parking privatif extérieur, chauffage individuel électrique.\nParking extérieur privatif\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "match": true,
+    "photos": [
+     "https://file.bienici.com/photo/ag491342-561002690_photos.ubiflow.net_491342_561002690_photos_1.jpg_INSOON_EB_5512801818_20261118230439",
+     "https://file.bienici.com/photo/ag491342-561002690_photos.ubiflow.net_491342_561002690_photos_2.jpg_INSOON_EB_5512801818_20261118230439",
+     "https://file.bienici.com/photo/ag491342-561002690_photos.ubiflow.net_491342_561002690_photos_3.jpg_INSOON_EB_5512801818_20261118230439",
+     "https://file.bienici.com/photo/ag491342-561002690_photos.ubiflow.net_491342_561002690_photos_4.jpg_INSOON_EB_5512801818_20261118230439",
+     "https://file.bienici.com/photo/ag491342-561002690_photos.ubiflow.net_491342_561002690_photos_5.jpg_INSOON_EB_5512801818_20261118230439",
+     "https://file.bienici.com/photo/ag491342-561002690_photos.ubiflow.net_491342_561002690_photos_6.jpg_INSOON_EB_5512801818_20261118230440"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "CABINET TAPISSIER & ASSOCIES",
+    "published_at": "2026-11-18T22:33:41.045Z",
+    "rent_cc": 555,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag491342-561002690",
+    "surface_m2": 26,
+    "tags": [],
+    "title": "Studio",
+    "url": "https://www.bienici.com/annonce/ag491342-561002690"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag491342-561002699": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 170,
+    "city": "angers-49",
+    "description": "Appartement meublé situé en rez-de-chaussée, comprenant une entrée, une cuisine équipée ouverte sur le séjour, une chambre avec placard, une salle de bain et un WC.\n\nLe logement dispose également d'une petite terrasse privative.\nLogement sur la même assiette foncière que les propriétaires\n\nProvision sur charges comprennent l'eau froide/chaude, chauffage, électricité, internet\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gou",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag491342-561002699_photos.ubiflow.net_491342_561002699_photos_1.jpg_INSOON_EB_5512801818_20261118230442",
+     "https://file.bienici.com/photo/ag491342-561002699_photos.ubiflow.net_491342_561002699_photos_2.jpg_INSOON_EB_5512801818_20261118230442",
+     "https://file.bienici.com/photo/ag491342-561002699_photos.ubiflow.net_491342_561002699_photos_3.jpg_INSOON_EB_5512801818_20261118230442",
+     "https://file.bienici.com/photo/ag491342-561002699_photos.ubiflow.net_491342_561002699_photos_4.jpg_INSOON_EB_5512801818_20261118230442",
+     "https://file.bienici.com/photo/ag491342-561002699_photos.ubiflow.net_491342_561002699_photos_5.jpg_INSOON_EB_5512801818_20261118230442",
+     "https://file.bienici.com/photo/ag491342-561002699_photos.ubiflow.net_491342_561002699_photos_6.jpg_INSOON_EB_5512801818_20261118230442"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "CABINET TAPISSIER & ASSOCIES",
+    "published_at": "2026-11-18T22:33:41.045Z",
+    "rent_cc": 800,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag491342-561002699",
+    "surface_m2": 50,
+    "tags": [],
+    "title": "Appartement T2 meublé",
+    "url": "https://www.bienici.com/annonce/ag491342-561002699"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag491342-561135035": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 130,
+    "city": "angers-49",
+    "description": "Secteur Doutre Angers\nAppartement type 2 de 62 m² avec balcon\nVaste entrée, séjour avec balcon, cuisine aménagée et équipée, 1 chambre, salle de bain, wc\nChauffage collectif inclus dans la provision de charges\nLibre janvier 2027\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag491342-561135035_photos.ubiflow.net_491342_561135035_photos_1.jpg_INSOON_EB_5512801818_20261119121247",
+     "https://file.bienici.com/photo/ag491342-561135035_photos.ubiflow.net_491342_561135035_photos_2.jpg_INSOON_EB_5512801818_20261119121247",
+     "https://file.bienici.com/photo/ag491342-561135035_photos.ubiflow.net_491342_561135035_photos_3.jpg_INSOON_EB_5512801818_20261119121247",
+     "https://file.bienici.com/photo/ag491342-561135035_photos.ubiflow.net_491342_561135035_photos_4.jpg_INSOON_EB_5512801818_20261119121247",
+     "https://file.bienici.com/photo/ag491342-561135035_photos.ubiflow.net_491342_561135035_photos_5.jpg_INSOON_EB_5512801818_20261119121247",
+     "https://file.bienici.com/photo/ag491342-561135035_photos.ubiflow.net_491342_561135035_photos_6.jpg_INSOON_EB_5512801818_20261119121247"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "CABINET TAPISSIER & ASSOCIES",
+    "published_at": "2026-11-19T12:08:48.666Z",
+    "rent_cc": 766,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag491342-561135035",
+    "surface_m2": 62,
+    "tags": [],
+    "title": "T2",
+    "url": "https://www.bienici.com/annonce/ag491342-561135035"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag491636-561431657": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 35,
+    "city": "angers-49",
+    "description": "T1 BIS DUPLEX MEUBLE situé 20 rue Saint Lazare comprenant une belle pièce de vie avec cuisine aménagée et équipée, espace nuit en mezzanine avec salle de bain à l'étage, toilettes. Un emplacement de stationnement extérieur. Chauffage individuel électrique.\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://file.bienici.com/photo/ag491636-561431657_photos.ubiflow.net_491636_561431657_photos_1.jpg_INSOON_EB_5512801818_20261120110104",
+     "https://file.bienici.com/photo/ag491636-561431657_photos.ubiflow.net_491636_561431657_photos_2.jpg_INSOON_EB_5512801818_20261120110104",
+     "https://file.bienici.com/photo/ag491636-561431657_photos.ubiflow.net_491636_561431657_photos_3.jpg_INSOON_EB_5512801818_20261120110104",
+     "https://file.bienici.com/photo/ag491636-561431657_photos.ubiflow.net_491636_561431657_photos_4.jpg_INSOON_EB_5512801818_20261120110104",
+     "https://file.bienici.com/photo/ag491636-561431657_photos.ubiflow.net_491636_561431657_photos_5.jpg_INSOON_EB_5512801818_20261120110104",
+     "https://file.bienici.com/photo/ag491636-561431657_photos.ubiflow.net_491636_561431657_photos_6.jpg_INSOON_EB_5512801818_20261120110104"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "AGENCE DE L'ANJOU",
+    "published_at": "2026-11-20T10:24:46.680Z",
+    "rent_cc": 635,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag491636-561431657",
+    "surface_m2": 23,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "A LOUER T1 BIS DUPLEX MEUBLE DOUTRE",
+    "url": "https://www.bienici.com/annonce/ag491636-561431657"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag491636-561484796": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 50,
+    "city": "angers-49",
+    "description": "Appartement rénové en 2025 au 2ème étage, de type 1 d'environ 20 m² situé 14 rue D'Iena proche place de la visitation : pièce de vie coin cuisine aménagée et équipée, salle d'eau avec wc. Chauffage collectif gaz. Eau chaude individuel électrique. Sous compteur d'énergie sous les radiateurs.\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag491636-561484796_photos.ubiflow.net_491636_561484796_photos_1.jpg_INSOON_EB_5512801818_20261120150742",
+     "https://file.bienici.com/photo/ag491636-561484796_photos.ubiflow.net_491636_561484796_photos_2.jpg_INSOON_EB_5512801818_20261120150742"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "AGENCE DE L'ANJOU",
+    "published_at": "2026-11-20T14:33:59.147Z",
+    "rent_cc": 530,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag491636-561484796",
+    "surface_m2": 20,
+    "tags": [],
+    "title": "A LOUER T1 RENOVE EN 2025 ANGERS GARE",
+    "url": "https://www.bienici.com/annonce/ag491636-561484796"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag491636-561484853": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 110,
+    "city": "angers-49",
+    "description": "Appartement de type 3 MEUBLE situé 88 rue Lareveillère au 14ème étage, avec ascenseur comprenant : séjour, deux chambres, un bureau, cuisine aménagée et équipée, salle d'eau, water-closet avec lave mains, dégagement avec placard. Eau froide, eau chaude et chauffage collectifs compris dans les charges.\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag491636-561484853_photos.ubiflow.net_491636_561484853_photos_1.jpg_INSOON_EB_5512801818_20261120150749",
+     "https://file.bienici.com/photo/ag491636-561484853_photos.ubiflow.net_491636_561484853_photos_2.jpg_INSOON_EB_5512801818_20261120150749",
+     "https://file.bienici.com/photo/ag491636-561484853_photos.ubiflow.net_491636_561484853_photos_3.jpg_INSOON_EB_5512801818_20261120150749",
+     "https://file.bienici.com/photo/ag491636-561484853_photos.ubiflow.net_491636_561484853_photos_4.jpg_INSOON_EB_5512801818_20261120150749",
+     "https://file.bienici.com/photo/ag491636-561484853_photos.ubiflow.net_491636_561484853_photos_5.jpg_INSOON_EB_5512801818_20261120150749",
+     "https://file.bienici.com/photo/ag491636-561484853_photos.ubiflow.net_491636_561484853_photos_6.jpg_INSOON_EB_5512801818_20261120150749"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "AGENCE DE L'ANJOU",
+    "published_at": "2026-11-20T14:33:59.147Z",
+    "rent_cc": 810,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "ag491636-561484853",
+    "surface_m2": 68,
+    "tags": [],
+    "title": "A LOUER T3 MEUBLE ANGERS LAREVEILLERE",
+    "url": "https://www.bienici.com/annonce/ag491636-561484853"
+   },
+   "notified": false,
    "status": "active"
   },
   "bienici:ag603630-499691285": {
@@ -38416,6 +38975,45 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:hektor-cabinetsibout-59610": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 55,
+    "city": "angers-49",
+    "description": "HYPER CENTRE. Beau Duplex 3 pièces de 59m2 en dernier étage, comprenant une grande pièce principale avec cuisine ouverte, salle d'eau, wc, chambre. A l'étage, chambre et mezzaninne.<br> LIBRE LE 23/01/2023<br>Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/hektor-cabinetsibout-59610_bourseimmo.staticlbi.com_original_images_biens_1_2a5ac367c4f819d65b82f2a44c9b8034_photo_b57271aac8d6cd0fbc924f1a6e56ec28.jpg",
+     "https://file.bienici.com/photo/hektor-cabinetsibout-59610_bourseimmo.staticlbi.com_original_images_biens_1_2a5ac367c4f819d65b82f2a44c9b8034_photo_a89814bd90cff8dc63fbd66d86184850.jpg",
+     "https://file.bienici.com/photo/hektor-cabinetsibout-59610_bourseimmo.staticlbi.com_original_images_biens_1_2a5ac367c4f819d65b82f2a44c9b8034_photo_be812bdc479f8caebc5fe48cb95b725a.jpg",
+     "https://file.bienici.com/photo/hektor-cabinetsibout-59610_bourseimmo.staticlbi.com_original_images_biens_1_2a5ac367c4f819d65b82f2a44c9b8034_photo_7bfafbe190d4fdbb713b65b3b907e4d2.jpg",
+     "https://file.bienici.com/photo/hektor-cabinetsibout-59610_bourseimmo.staticlbi.com_original_images_biens_1_2a5ac367c4f819d65b82f2a44c9b8034_photo_81824237d70032ee9fe7c2fa0ad2040b.jpg",
+     "https://file.bienici.com/photo/hektor-cabinetsibout-59610_bourseimmo.staticlbi.com_original_images_biens_1_2a5ac367c4f819d65b82f2a44c9b8034_photo_29e04eb11ab7cfaeb8014acc364e8247.jpg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "CABINET SIBOUT",
+    "published_at": "2026-11-20T09:28:02.600Z",
+    "rent_cc": 790,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "hektor-cabinetsibout-59610",
+    "surface_m2": 59.65,
+    "tags": [],
+    "title": "Appartement T3 Duplex hyper centre",
+    "url": "https://www.bienici.com/annonce/hektor-cabinetsibout-59610"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:hektor-centralysimmobilier-1094": {
    "also": [],
    "dup_of": null,
@@ -45637,6 +46235,82 @@
     "tags": [],
     "title": "4 pièce(s) 88.16 m² Vénissieux",
     "url": "https://www.bienici.com/annonce/ics-vil_VILLE_VIGNE_loc-GES01880082-1077"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ics-xdr_PIGE_loc-GES02000006-183": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 61,
+    "city": "angers-49",
+    "description": "PLACE NEY / PASTEUR - TYPE III dans résidence de bon standing, disponible au 14 Décembre 2026. Comprenant entrée avec placard, séjour lumineux avec cuisine ouverte, 2 chambres avec placards, salle de bains, WC séparés. Belle hauteur sous plafond. Parking extérieur fermé. \nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 790 et 1 120 euros.",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ics-xdr_PIGE_loc-GES02000006-183_box.ics.fr_xdr_PIGE_thn_location_photo_P1070193-5420498475399912596.jpg",
+     "https://file.bienici.com/photo/ics-xdr_PIGE_loc-GES02000006-183_box.ics.fr_xdr_PIGE_thn_location_photo_P1010203-4660495026048752388.jpg",
+     "https://file.bienici.com/photo/ics-xdr_PIGE_loc-GES02000006-183_box.ics.fr_xdr_PIGE_thn_location_photo_P1010204-1313930075259451612.jpg",
+     "https://file.bienici.com/photo/ics-xdr_PIGE_loc-GES02000006-183_box.ics.fr_xdr_PIGE_thn_location_photo_P1070206-6071997293667740655.jpg",
+     "https://file.bienici.com/photo/ics-xdr_PIGE_loc-GES02000006-183_box.ics.fr_xdr_PIGE_thn_location_photo_P1070201-8601835594412972123.jpg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "CABINET PIGE ET ASSOCIES",
+    "published_at": "2026-11-19T00:16:21.814Z",
+    "rent_cc": 798,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "ics-xdr_PIGE_loc-GES02000006-183",
+    "surface_m2": 65.23,
+    "tags": [],
+    "title": "3 pièce(s) 65.23 m² Angers",
+    "url": "https://www.bienici.com/annonce/ics-xdr_PIGE_loc-GES02000006-183"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ics-xdr_PIGE_loc-GES05950077-183": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 80,
+    "city": "angers-49",
+    "description": "CENTRE COMMERCIAL ALLONNEAU - TYPE 1 entièrement rénové comprenant entrée avec placard, pièce principale, Cuisine Aménagée et équipée (plaques vitrocéramique et réfrigérateur), Salle de bains avec WC. Appartement très lumineux avec vue dégagée. Parking sous-sol. CHAUFFAGE ET EAU FROIDE COMPRIS DANS LES CHARGES. Disponible au 26 Décembre 2026. \nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 470 et 670 euros.",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ics-xdr_PIGE_loc-GES05950077-183_box.ics.fr_xdr_PIGE_thn_location_photo_90-90-20221025_104006-11231401044855670307.jpg",
+     "https://file.bienici.com/photo/ics-xdr_PIGE_loc-GES05950077-183_box.ics.fr_xdr_PIGE_thn_location_photo_90-90-20221025_103954-13700962796639591104.jpg",
+     "https://file.bienici.com/photo/ics-xdr_PIGE_loc-GES05950077-183_box.ics.fr_xdr_PIGE_thn_location_photo_90-90-20221025_104037-14497735416508534456.jpg",
+     "https://file.bienici.com/photo/ics-xdr_PIGE_loc-GES05950077-183_box.ics.fr_xdr_PIGE_thn_location_photo_90-20221025_104309-10276259937856769981.jpg",
+     "https://file.bienici.com/photo/ics-xdr_PIGE_loc-GES05950077-183_box.ics.fr_xdr_PIGE_thn_location_photo_90-90-20221025_104054-18041854876498837259.jpg"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "CABINET PIGE ET ASSOCIES",
+    "published_at": "2026-11-19T00:16:21.814Z",
+    "rent_cc": 470,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ics-xdr_PIGE_loc-GES05950077-183",
+    "surface_m2": 31.09,
+    "tags": [],
+    "title": "1 pièce(s) 31.09 m² Angers",
+    "url": "https://www.bienici.com/annonce/ics-xdr_PIGE_loc-GES05950077-183"
    },
    "notified": false,
    "status": "active"
@@ -56031,6 +56705,82 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:immo-facile-61764268": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 78,
+    "city": "angers-49",
+    "description": "QUARTIER JARDIN DES PLANTES, Type 3 de 69.04 m² au  érez-de-chaussée, comprenant : <br>Une entrée avec placard, un séjour donnant sur balcon, une cuisine, deux chambres avec placards, une salle de bains, un wc<br>Accessoires du logement une place de parking en sous-sol<br>Mode de chauffage : Individuel électrique <br>Loyers : 800 € dont 78 € de charges <br>Montant des dépenses théoriques d'énergie annuelle : entre 1230 € et 1720 €  (année des prix moyens des énergies indexés : 2021, 2022 et 2023",
+    "district": "Angers",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/immo-facile-61764268_media.immo-facile.com_office20_cabinevetu_2210041024_catalog_images_pr_p_6_1_7_6_4_2_6_8_61764268a.jpg_DATEMAJ_20_11_2026-10_18_16",
+     "https://file.bienici.com/photo/immo-facile-61764268_media.immo-facile.com_office20_cabinevetu_2210041024_catalog_images_pr_p_6_1_7_6_4_2_6_8_61764268b.jpg_DATEMAJ_20_11_2026-15_44_11",
+     "https://file.bienici.com/photo/immo-facile-61764268_media.immo-facile.com_office20_cabinevetu_2210041024_catalog_images_pr_p_6_1_7_6_4_2_6_8_61764268c.jpg_DATEMAJ_20_11_2026-15_44_14",
+     "https://file.bienici.com/photo/immo-facile-61764268_media.immo-facile.com_office20_cabinevetu_2210041024_catalog_images_pr_p_6_1_7_6_4_2_6_8_61764268d.jpg_DATEMAJ_20_11_2026-15_44_15",
+     "https://file.bienici.com/photo/immo-facile-61764268_media.immo-facile.com_office20_cabinevetu_2210041024_catalog_images_pr_p_6_1_7_6_4_2_6_8_61764268e.jpg_DATEMAJ_20_11_2026-15_44_16"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "Cabinet Daniel VETU",
+    "published_at": "2026-11-20T09:43:35.663Z",
+    "rent_cc": 800,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "immo-facile-61764268",
+    "surface_m2": 69.04,
+    "tags": [],
+    "title": "TYPE 3 - JARDIN DES PLANTES",
+    "url": "https://www.bienici.com/annonce/immo-facile-61764268"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:immo-facile-61765626": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 165,
+    "city": "angers-49",
+    "description": "QUARTIER JARDIN DES PLANTES, Type 2 de 46.95 m² au 10ème étage avec ascenseurs, comprenant : <br>Une entrée, un séjour, un coin cuisine, une chambre, une salle de bains et un wc.<br>Accessoires du logement une cave et un parking<br>Mode de chauffage : COLLECTIF<br>Loyers : 730 € dont 165 € de charges <br>Montant des dépenses théoriques d'énergie annuelle : entre 520 € et 760 €  (année des prix moyens des énergies indexés : 2021, 2022 et 2023)<br>Dépôt de garantie : 565 € <br>Honoraires rédaction",
+    "district": "Angers",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/immo-facile-61765626_media.immo-facile.com_office20_cabinevetu_2210041024_catalog_images_pr_p_6_1_7_6_5_6_2_6_61765626a.jpg_DATEMAJ_20_11_2026-14_36_21"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "Cabinet Daniel VETU",
+    "published_at": "2026-11-20T15:44:35.060Z",
+    "rent_cc": 730,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "immo-facile-61765626",
+    "surface_m2": 46.95,
+    "tags": [],
+    "title": "TYPE 2 - JARDIN DES PLANTES",
+    "url": "https://www.bienici.com/annonce/immo-facile-61765626"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:immo-facile-61775955": {
    "also": [],
    "dup_of": null,
@@ -57281,6 +58031,50 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:megagence-1-211585": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 50,
+    "city": "angers-49",
+    "description": "Idéalement situé dans le quartier recherché de la Roseraie à ANGERS !<br>Venez découvrir cet agréable appartement T1 au 1er étage rénové, bénéficiant d'un emplacement privilégié, au pied du tramway et à proximité immédiate des lignes de bus. <br>Situé dans une résidence avec ascenseur, il se compose d'une pièce offrant un espace agréable et fonctionnel. Avec une partie de la pièce donnant sur une cuisine neuve et un accès direct sur la terrasse de 8m² qui est ombragée. Un côté nuit indépendant a",
+    "district": "Angers",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/megagence-1-211585_cdn.megagence.com_bien-photo_2_11_211585_bc6ce76bf8e9d103caeda4d4958925a7645eddb3_rg-2.jpg",
+     "https://file.bienici.com/photo/megagence-1-211585_cdn.megagence.com_bien-photo_2_11_211585_036b93858a826053623318d5f67a6448d1f973f2_rg-4.jpg",
+     "https://file.bienici.com/photo/megagence-1-211585_cdn.megagence.com_bien-photo_2_11_211585_6c76a8f052815074e84ee914fbcbe53e5ee633cc_rg-2.jpg",
+     "https://file.bienici.com/photo/megagence-1-211585_cdn.megagence.com_bien-photo_2_11_211585_b5626ea11df539197665c4e52e101e10dd2b06b7_rg-4.jpg",
+     "https://file.bienici.com/photo/megagence-1-211585_cdn.megagence.com_bien-photo_2_11_211585_0653e5c5b1ebf45da28358a02b3946899c1b04b0_rg-2.jpg",
+     "https://file.bienici.com/photo/megagence-1-211585_cdn.megagence.com_bien-photo_2_11_211585_feef6dc3c6322325800e0d7d3b7ef098fa892ce3_rg-2.jpg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": "2026-11-19T18:45:50.037Z",
+    "rent_cc": 660,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "megagence-1-211585",
+    "surface_m2": 32,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "A louer - ANGERS la Roseraie - Appartement T1 rénové avec place de parking privatif et ascenseur.",
+    "url": "https://www.bienici.com/annonce/megagence-1-211585"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:mgc-ancien-602_0602_004639": {
    "also": [],
    "dup_of": null,
@@ -58143,6 +58937,47 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "bienici:nestenn-1-99939808756": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 200,
+    "city": "angers-49",
+    "description": "Angers la Traquette proche secteur BICHON. Appartement de type 4 situé au rez-de-chaussée d'une agréable copropriété entourée d'un espace verdoyant. <br>L'appartement comprend une entrée,un séjour, une cuisine indépendante aménagée équipée (plaque, four, LV), une salle d'eau, des wc séparés et 3 chambres (ou 2 chambres et un salon). <br>Dispose également d'une cave et d'un balcon. <br>Facilité de stationnement au pied de la résidence. <br>Libre immédiatement. <br>+ d'infos NESTENN ANGERS DOUTRE ",
+    "district": "Angers",
+    "flags": [
+     "available_now"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/nestenn-1-99939808756_media.immo-facile.com_office3_nestangersdoutre_16072026_catalog_images_pr_p_3_9_8_0_8_7_5_6_39808756a.jpg_DATEMAJ_17_11_2026-17_48_39",
+     "https://file.bienici.com/photo/nestenn-1-99939808756_media.immo-facile.com_office3_nestangersdoutre_16072026_catalog_images_pr_p_3_9_8_0_8_7_5_6_39808756b.jpg_DATEMAJ_17_11_2026-17_48_39",
+     "https://file.bienici.com/photo/nestenn-1-99939808756_media.immo-facile.com_office3_nestangersdoutre_16072026_catalog_images_pr_p_3_9_8_0_8_7_5_6_39808756c.jpg_DATEMAJ_17_11_2026-17_48_39",
+     "https://file.bienici.com/photo/nestenn-1-99939808756_media.immo-facile.com_office3_nestangersdoutre_16072026_catalog_images_pr_p_3_9_8_0_8_7_5_6_39808756d.jpg_DATEMAJ_17_11_2026-17_48_39",
+     "https://file.bienici.com/photo/nestenn-1-99939808756_media.immo-facile.com_office3_nestangersdoutre_16072026_catalog_images_pr_p_3_9_8_0_8_7_5_6_39808756e.jpg_DATEMAJ_17_11_2026-17_48_39",
+     "https://file.bienici.com/photo/nestenn-1-99939808756_media.immo-facile.com_office3_nestangersdoutre_16072026_catalog_images_pr_p_3_9_8_0_8_7_5_6_39808756f.jpg_DATEMAJ_17_11_2026-17_48_39"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "NESTENN ANGERS DOUTRE",
+    "published_at": "2026-11-18T15:36:35.647Z",
+    "rent_cc": 900,
+    "rooms": 4,
+    "source": "bienici",
+    "source_id": "nestenn-1-99939808756",
+    "surface_m2": 67.34,
+    "tags": [],
+    "title": "A LOUER - Appartement en rez de chaussée de type 4 avec balcon",
+    "url": "https://www.bienici.com/annonce/nestenn-1-99939808756"
+   },
+   "notified": false,
+   "status": "active"
   },
   "bienici:netty-bumper-appt-2997": {
    "also": [],
@@ -61388,6 +62223,49 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:netty-imoe-appt-11882": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 110,
+    "city": "angers-49",
+    "description": "RUE DE BRISSAC ANGERS<br>T2 de 33,05m², au premier étage d'une résidence sécurisée sans ascenseur, à proximité de la Gare Angers Saint-Laud et de l'hypercentre ville.<br>Il se compose d'une cuisine aménagée et d'équipée (four, plaques de cuisson, hotte et réfrigérateur), de deux pièces offrant différentes possibilités d'aménagement : un séjour et une chambre ou deux chambres selon vos besoins, d'une salle d'eau et d'un WC indépendant.<br>Disponible début janvier.<br>Loyer 697€ dont 110€ de provi",
+    "district": "Angers",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/netty-imoe-appt-11882_img.netty.immo_productcw_imoe_4_LA11882_179512536011_LA11882_5_original.jpg",
+     "https://file.bienici.com/photo/netty-imoe-appt-11882_img.netty.immo_productcw_imoe_4_LA11882_179512535911_LA11882_4_original.jpg",
+     "https://file.bienici.com/photo/netty-imoe-appt-11882_img.netty.immo_productcw_imoe_4_LA11882_179512535611_LA11882_1_original.jpg",
+     "https://file.bienici.com/photo/netty-imoe-appt-11882_img.netty.immo_productcw_imoe_4_LA11882_179512535711_LA11882_2_original.jpg",
+     "https://file.bienici.com/photo/netty-imoe-appt-11882_img.netty.immo_productcw_imoe_4_LA11882_179512561111_LA11882_8_original.jpg",
+     "https://file.bienici.com/photo/netty-imoe-appt-11882_img.netty.immo_productcw_imoe_4_LA11882_179512561011_LA11882_7_original.jpg"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "MAISON BLANCHE",
+    "published_at": "2026-11-20T12:39:20.918Z",
+    "rent_cc": 697,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "netty-imoe-appt-11882",
+    "surface_m2": 33.05,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "T2 PROCHE GARE D'ANGERS",
+    "url": "https://www.bienici.com/annonce/netty-imoe-appt-11882"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:netty-novea-appt-13367": {
    "also": [],
    "dup_of": null,
@@ -62575,6 +63453,81 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:square-habitat-immo-facile-43516299": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 125,
+    "city": "angers-49",
+    "description": "Au 4ème étage d'une résidence neuve, appartement de type 3 comprenant : une entrée avec placard, deux chambre, une salle de bain, un WC séparé, une pièce de vie avec une cuisine ouverte, aménagée et équipée (plaque de cuisson, hotte).<br>Un balcon de plus de 34m² fait l'angle de l'appartement, offrant une double exposition. Place de parking en sous sol.<br>Chauffage collectif urbain. <br>Loyer : 885€ comprenant 125€ de charges (comprenant 115 € pour l'entretien et l'électricité des parties commu",
+    "district": "Angers",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": null,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/square-habitat-immo-facile-43516299_media.immo-facile.com_office17_sh_secteur_angers_agglo_catalog_images_pr_p_4_3_5_1_6_2_9_9_43516299a.jpg_DATEMAJ_18_11_2026-16_57_14"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Square Habitat Angers",
+    "published_at": "2026-11-18T17:25:49.691Z",
+    "rent_cc": 885,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "square-habitat-immo-facile-43516299",
+    "surface_m2": 61.4,
+    "tags": [],
+    "title": "Appartement neuf type 3 - Secteur Belle Beille",
+    "url": "https://www.bienici.com/annonce/square-habitat-immo-facile-43516299"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:square-habitat-immo-facile-43517577": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": 110,
+    "city": "angers-49",
+    "description": "Situé au 3ème étage d'une résidence neuve, un appartement 2 pièces comprend une entrée avec placard desservant un cellier et une salle d'eau avec WC, une pièce de vie avec cuisine aménagée et équipée (plaque de cuisson, réfrigérateur, micro-ondes, hotte), ainsi qu'une chambre avec accès au balcon, également accessible depuis le séjour et la cuisine. Une place de parking sécurisée.<br>LOGEMENT SOUMIS A LA LOI PINEL +.<br>Logement disponible au 28/12/2026.<br>Honoraires à la charges du locataire :",
+    "district": "Angers",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": null,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://file.bienici.com/photo/square-habitat-immo-facile-43517577_media.immo-facile.com_office17_sh_secteur_angers_agglo_catalog_images_pr_p_4_3_5_1_7_5_7_7_43517577a.jpg_DATEMAJ_20_11_2026-16_27_02"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Square Habitat Angers",
+    "published_at": "2026-11-20T17:17:09.687Z",
+    "rent_cc": 685,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "square-habitat-immo-facile-43517577",
+    "surface_m2": 40,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 2 pièces NEUF",
+    "url": "https://www.bienici.com/annonce/square-habitat-immo-facile-43517577"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:webgenery-5FF80EC310248512367611": {
    "also": [],
    "dup_of": null,
@@ -63012,6 +63965,110 @@
    "notified": false,
    "status": "stale"
   },
+  "foncia:331654252": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Angers - Résidence Le Belvédère - 66/68 Avenue Victor Chatenay. Un appartement T2 meublé comprenant …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/e9/ee/e5/c2/9e/1b/26/3f/77/ff/2c/34/17/58/f5/3f/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 720,
+    "rooms": 2,
+    "source": "foncia",
+    "source_id": "331654252",
+    "surface_m2": 51.0,
+    "tags": [],
+    "title": "Location Appartement meublé 2 pièces 51 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement-meuble/331654252.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331658191": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Angers, Résidence Les Amaryllis - 7, rue de Bamako. Un appartement T4 avec cave et garage en …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/46/d6/f5/fc/ca/9c/be/a0/35/c3/aa/04/0c/98/7a/1e/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 880,
+    "rooms": 4,
+    "source": "foncia",
+    "source_id": "331658191",
+    "surface_m2": 76.41,
+    "tags": [],
+    "title": "Location Appartement 4 pièces 76.41 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331658191.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331666444": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement meublé - Une chambre - Secteur Banchais / Pasteur : L'agence Foncia ANGERS vous propose …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": true,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/fa/79/8d/45/64/16/11/14/d4/a5/9e/26/4c/00/2a/c5/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 699,
+    "rooms": 2,
+    "source": "foncia",
+    "source_id": "331666444",
+    "surface_m2": 35.35,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Location Appartement meublé 2 pièces 35.35 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement-meuble/331666444.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "foncia:331672380": {
    "also": [],
    "dup_of": null,
@@ -63045,6 +64102,42 @@
    "notified": false,
    "status": "active"
   },
+  "foncia:331687641": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "ANGERS, proche place du Lycée au 1 rue Saint-Léonard. Quartier recherché proche tous commerces, dans …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/b4/ea/26/4b/91/13/0f/35/d6/5f/ce/55/2d/08/b2/7c/lg.jpeg"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 678,
+    "rooms": 2,
+    "source": "foncia",
+    "source_id": "331687641",
+    "surface_m2": 50.13,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Location Appartement 2 pièces 50.13 m² - Angers 49100",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331687641.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "foncia:331692179": {
    "also": [],
    "dup_of": null,
@@ -63074,6 +64167,40 @@
     "tags": [],
     "title": "Location Appartement meublé 3 pièces 62.88 m² - Villeurbanne 69100",
     "url": "https://fr.foncia.com/location/villeurbanne-69100/appartement-meuble/331692179.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331696743": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Ville d'ANGERS - Résidence les Studiantes - 15 rue du Haut pressoir au 3ème étage, un Studio …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/75/96/37/42/44/e6/b4/4e/cb/34/10/91/a0/2e/44/57/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 370,
+    "rooms": 1,
+    "source": "foncia",
+    "source_id": "331696743",
+    "surface_m2": 19.0,
+    "tags": [],
+    "title": "Location Studio 19 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331696743.htm"
    },
    "notified": false,
    "status": "active"
@@ -63145,6 +64272,40 @@
    "notified": false,
    "status": "active"
   },
+  "foncia:331701957": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Nouveau quartier, proche tramway dans une résicence récente avec terrasse et parking privatif. …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/9f/22/ee/19/84/37/9f/81/1e/0e/7d/a8/06/0a/94/57/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 600,
+    "rooms": 2,
+    "source": "foncia",
+    "source_id": "331701957",
+    "surface_m2": 45.24,
+    "tags": [],
+    "title": "Location Appartement 2 pièces 45.24 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331701957.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "foncia:331703688": {
    "also": [],
    "dup_of": null,
@@ -63173,6 +64334,76 @@
     "tags": [],
     "title": "Location Studio meublé 18.15 m² - Bron 69500",
     "url": "https://fr.foncia.com/location/bron-69500/appartement-meuble/331703688.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331703837": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Quartier doutre - proximité centre ville et transports en communs, au 2ème étage : agréable studio …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": true,
+    "kind": "studio",
+    "match": true,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/2e/22/ae/26/df/14/a4/f9/21/85/7d/13/9e/ff/ca/d3/lg.jpeg"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 507,
+    "rooms": 1,
+    "source": "foncia",
+    "source_id": "331703837",
+    "surface_m2": 16.11,
+    "tags": [],
+    "title": "Location Studio meublé 16.11 m² - Angers 49100",
+    "url": "https://fr.foncia.com/location/angers-49/appartement-meuble/331703837.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331708430": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Agréable T2 meublé de 39,31 m², situé proche place Ney, entièrement rénové, situé au 2ᵉ étage avec …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": true,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/ca/88/82/90/73/91/20/3b/77/3f/1a/98/f0/7d/52/47/lg.jpeg"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 700,
+    "rooms": 2,
+    "source": "foncia",
+    "source_id": "331708430",
+    "surface_m2": 39.37,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Location Appartement meublé 2 pièces 39.37 m² - Angers 49100",
+    "url": "https://fr.foncia.com/location/angers-49/appartement-meuble/331708430.htm"
    },
    "notified": false,
    "status": "active"
@@ -63328,6 +64559,40 @@
    "notified": true,
    "status": "active"
   },
+  "foncia:331718716": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Studio Avenue Montaigne - Résidence du BellayCe studio se compose d'une pièce principale, d'une …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/a7/21/b9/28/25/00/32/66/2f/97/cf/48/82/a7/9a/a4/lg.jpeg"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 530,
+    "rooms": 1,
+    "source": "foncia",
+    "source_id": "331718716",
+    "surface_m2": 35.88,
+    "tags": [],
+    "title": "Location Studio 35.88 m² - Angers 49100",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331718716.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "foncia:331718970": {
    "also": [],
    "dup_of": null,
@@ -63472,6 +64737,40 @@
    "notified": false,
    "status": "active"
   },
+  "foncia:331724845": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Angers au 104 Boulevard Jean Moulin - Dans résidence de 2024 située proche du tramway et des …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/b3/4d/4b/8b/ed/82/99/ae/2d/03/74/bb/45/03/84/fa/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 830,
+    "rooms": 3,
+    "source": "foncia",
+    "source_id": "331724845",
+    "surface_m2": 63.96,
+    "tags": [],
+    "title": "Location Appartement 3 pièces 63.96 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331724845.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "foncia:331724968": {
    "also": [],
    "dup_of": null,
@@ -63501,6 +64800,42 @@
     "tags": [],
     "title": "Location Studio meublé 37.13 m² - Lyon 69003",
     "url": "https://fr.foncia.com/location/lyon-69003/appartement-meuble/331724968.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331725601": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "quartier calme proche tous commerces dans résidence récente beau 3 pièces avec cuisine ouverte, …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/ea/f2/af/90/27/d0/9c/f0/b4/d6/61/34/7f/f4/f1/64/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": null,
+    "rooms": 3,
+    "source": "foncia",
+    "source_id": "331725601",
+    "surface_m2": 69.75,
+    "tags": [
+     "rent?"
+    ],
+    "title": "Location Appartement 3 pièces 69.75 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331725601.htm"
    },
    "notified": false,
    "status": "active"
@@ -63538,6 +64873,40 @@
    "notified": false,
    "status": "active"
   },
+  "foncia:331725865": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Angers centre-ville au 2 Passage des Arènes, idéalement situé dans une résidence récente, studio …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/0d/03/5f/bd/f4/62/c3/2d/03/1e/ba/1c/20/ce/24/9b/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 534,
+    "rooms": 1,
+    "source": "foncia",
+    "source_id": "331725865",
+    "surface_m2": 32.8,
+    "tags": [],
+    "title": "Location Studio 32.8 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331725865.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "foncia:331726379": {
    "also": [],
    "dup_of": "bienici:ag690006-552959186",
@@ -63545,6 +64914,76 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "foncia:331726383": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement meublé T2 totalement refait à neuf dans un immeuble de charme - Quartier centre-ville - …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/a8/f3/20/99/38/79/de/3a/93/2f/db/ae/7b/5e/06/03/lg.jpeg"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 790,
+    "rooms": 2,
+    "source": "foncia",
+    "source_id": "331726383",
+    "surface_m2": 44.8,
+    "tags": [],
+    "title": "Location Appartement meublé 2 pièces 44.8 m² - Angers 49100",
+    "url": "https://fr.foncia.com/location/angers-49/appartement-meuble/331726383.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331726438": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Angers au 167 Avenue des Hauts de Saint-Aubin, à 10 min du centre ville en tramway situé au pied de …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/9d/8a/36/a6/49/5c/c6/d1/c9/6e/bd/c6/c5/d6/78/d0/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": null,
+    "rooms": 3,
+    "source": "foncia",
+    "source_id": "331726438",
+    "surface_m2": 66.93,
+    "tags": [
+     "rent?"
+    ],
+    "title": "Location Appartement 3 pièces 66.93 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331726438.htm"
+   },
+   "notified": false,
    "status": "active"
   },
   "foncia:331727220": {
@@ -63576,6 +65015,74 @@
     "tags": [],
     "title": "Location Studio meublé 35.59 m² - Villeurbanne 69100",
     "url": "https://fr.foncia.com/location/villeurbanne-69100/appartement-meuble/331727220.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331727581": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Angers au 7 rue de Buffon, proche du centre ville et des facultés, à proximité des commerces : …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/7a/d2/ea/ac/94/92/37/45/30/5b/fe/d6/6e/1b/9d/b9/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 480,
+    "rooms": 1,
+    "source": "foncia",
+    "source_id": "331727581",
+    "surface_m2": 20.33,
+    "tags": [],
+    "title": "Location Studio 20.33 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331727581.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331727634": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Quartier des Banchais, appartement de type 3 dans une résidence très récente au premier étage avec …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/6f/26/b0/99/ac/f1/ab/7d/da/26/7d/ee/fe/59/80/fc/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 824,
+    "rooms": 3,
+    "source": "foncia",
+    "source_id": "331727634",
+    "surface_m2": 59.31,
+    "tags": [],
+    "title": "Location Appartement 3 pièces 59.31 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331727634.htm"
    },
    "notified": false,
    "status": "active"
@@ -63679,6 +65186,76 @@
    "notified": false,
    "status": "active"
   },
+  "foncia:331728761": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Dans résidence calme et sécurisée, appartement T1 lumineux et spacieux avec balcon, comprenant : …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/bb/8a/52/18/45/d9/52/91/f6/36/2d/91/71/ac/0f/65/lg.jpeg"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 525,
+    "rooms": 1,
+    "source": "foncia",
+    "source_id": "331728761",
+    "surface_m2": 36.64,
+    "tags": [],
+    "title": "Location Studio 36.64 m² - Angers 49100",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331728761.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331728786": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Cadre arboré dans résidence récente de standing, sécurisée aux prestations soignées T2 lumineux avec …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/1d/a4/3f/50/5e/c2/57/0b/0b/a9/2e/e7/91/18/9e/9e/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 660,
+    "rooms": 2,
+    "source": "foncia",
+    "source_id": "331728786",
+    "surface_m2": 42.15,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Location Appartement 2 pièces 42.15 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331728786.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "foncia:331728988": {
    "also": [],
    "dup_of": null,
@@ -63707,6 +65284,74 @@
     "tags": [],
     "title": "Location Studio meublé 18.64 m² - Lyon 69009",
     "url": "https://fr.foncia.com/location/lyon-69009/appartement-meuble/331728988.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331730179": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "ANGERS Hyper centre au 10 rue de,la Roë, appartement T2 comprenant une entrée, un séjour, une …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/33/80/1f/53/61/93/23/d5/41/91/78/cb/58/c8/15/8c/lg.jpeg"
+    ],
+    "postal_code": "49100",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 585,
+    "rooms": 2,
+    "source": "foncia",
+    "source_id": "331730179",
+    "surface_m2": 45.0,
+    "tags": [],
+    "title": "Location Appartement 2 pièces 45 m² - Angers 49100",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331730179.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331731039": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "ANGERS au 2 Avenue Pierre Mendes France. Résidence récente de 2023, appartement T3 situé au 1er …",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/7f/b4/a6/ed/e7/0e/31/9c/8a/f9/d6/b7/a7/dd/a3/79/lg.jpeg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 850,
+    "rooms": 3,
+    "source": "foncia",
+    "source_id": "331731039",
+    "surface_m2": 66.15,
+    "tags": [],
+    "title": "Location Appartement 3 pièces 66.15 m² - Angers 49000",
+    "url": "https://fr.foncia.com/location/angers-49/appartement/331731039.htm"
    },
    "notified": false,
    "status": "active"
@@ -64190,6 +65835,47 @@
    "notified": false,
    "status": "active"
   },
+  "immojeune:3997085": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://www.immojeune.com/uploads/housing/570x366/c5039e721d566b8b81a2e30b59d465b17e4b432f-570x366.jpg",
+     "https://www.immojeune.com/uploads/housing/570x366/5da957b8c6bd8410ada2f8fcb25a54e67ad456b5-570x366.jpg",
+     "https://www.immojeune.com/uploads/housing/570x366/2d814c14beee2f88461feada62491ad1862a09b7-570x366.jpg",
+     "https://www.immojeune.com/uploads/housing/570x366/7b22e55d012bf2a3ec61c72cf8e067ba8faf7f80-570x366.jpg",
+     "https://www.immojeune.com/uploads/housing/570x366/b910d40a2d4ee76daf8b9dba07213bd0eba5ee9c-570x366.jpg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 450.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "3997085",
+    "surface_m2": 110.0,
+    "tags": [
+     "colocation",
+     "furnished?"
+    ],
+    "title": "Chambre dans colocation de 5",
+    "url": "https://www.immojeune.com/location-etudiant/angers-49/chambre-dans-colocation-de-5_3997085.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "immojeune:4043219": {
    "also": [],
    "dup_of": null,
@@ -64304,6 +65990,47 @@
     ],
     "title": "Harmonieuse chambre de 10 m² à louer pr...",
     "url": "https://www.immojeune.com/colocation/villeurbanne-69/harmonieuse-chambre-de-10-m-a-louer-pres-de-lyon-lyo38_4043230.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:4044167": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/b6624a21fb1f69b1209953e77134fbcbd6e4b5ea-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/efed14947dccf6933c90bf5e1d4547e078acc063-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/1e2f3f9220358d11b77b8bbe486b1b5fefba06a7-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/7d09b0eecfbeea8e77668a1c7f06ffffe07927eb-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/47d71f8719768fb78eeb612a4d7689fe100f92c0-570x366.jpg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 640.0,
+    "rooms": 2,
+    "source": "immojeune",
+    "source_id": "4044167",
+    "surface_m2": 49.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Location Angers, T2, 49m²",
+    "url": "https://www.immojeune.com/location-etudiant/angers-49/location-angers-t2-49m_4044167.html"
    },
    "notified": false,
    "status": "active"
@@ -64623,6 +66350,165 @@
     ],
     "title": "Agréable chambre de 10 m² à louer à Vil...",
     "url": "https://www.immojeune.com/colocation/villeurbanne-69/agreable-chambre-de-10-m-a-louer-a-villeurbanne-lyo34_4066868.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:4071969": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/6fc7a4db04d63b4407f6c189f69a198e16324868-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/2240826d4b22ecbb795672bd4dc77c5cf6c05ae5-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/e59b68fd66b36c4c76fa88d67dc13c920ceb55cd-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/9ecf71d551d7de3404387698cc245bf0d797cbf4-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/5c5796ff29a304adeb6d6433d422ab813ce351ad-570x366.jpg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 1100.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "4071969",
+    "surface_m2": 69.0,
+    "tags": [
+     "colocation"
+    ],
+    "title": "Chambre dans une colocation de 69m² à A...",
+    "url": "https://www.immojeune.com/colocation/angers-49/chambre-dans-une-colocation-de-69m-a-angers_4071969.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:4071970": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "studio",
+    "match": true,
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/117ad9863f9995cad4a71435109f28b7cd8c126b-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/a438d5aad0965048de6a633cc82b12046f74568c-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/7bcd94d3876c0bf4f0024401fbba2fa3f6015468-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/949810fad350f3aa2fb08b44cc0adecb816b8462-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/b9d75ac50a25cb183a0cd8e58e07e49baeb975cf-570x366.jpg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 490.0,
+    "rooms": 1,
+    "source": "immojeune",
+    "source_id": "4071970",
+    "surface_m2": 25.0,
+    "tags": [
+     "furnished?"
+    ],
+    "title": "Location Studio à Angers, surface de 25...",
+    "url": "https://www.immojeune.com/location-etudiant/angers-49/location-studio-a-angers-surface-de-25m_4071970.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:4072189": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/70f57d1dc4b768d680ac4adf79a7b31fe76c1ebb-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/a8c59baf3dbb0ea618067a3c8ae7bc6558da0a72-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/aaf82caa1743c74dc45f749feaa430f16277aabf-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/716c6100b8a094b0288af9db6b802afdb7e60a1e-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/d401c9946a882e2c65cc7a2cc7775a28721fbeda-570x366.jpg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 611.0,
+    "rooms": 2,
+    "source": "immojeune",
+    "source_id": "4072189",
+    "surface_m2": 51.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Logement à louer Angers, T2, 51m²",
+    "url": "https://www.immojeune.com/location-etudiant/angers-49/logement-a-louer-angers-t2-51m_4072189.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:4072190": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/3c60f40bf435d90cffde9ac461eb487e454f2de0-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/00d5772c6b0171a0475f0cf7ac2b8f96e1f86b09-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/fb8163d2e6697f4fa0d78de707437d8ed547280f-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/963e9984f681813aab5811bd92f2d5b62c1ecee3-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/4a40ee43f016ea835a9f37d7ee6768f4711ce983-570x366.jpg"
+    ],
+    "postal_code": "49000",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 840.0,
+    "rooms": 3,
+    "source": "immojeune",
+    "source_id": "4072190",
+    "surface_m2": 56.0,
+    "tags": [],
+    "title": "Appartement à Angers, T3, 56m² à louer",
+    "url": "https://www.immojeune.com/location-etudiant/angers-49/appartement-a-angers-t3-56m-a-louer_4072190.html"
    },
    "notified": false,
    "status": "active"
@@ -65720,6 +67606,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:02foyl": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 4 pièces de 89 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-d5af59c99ab2752c9bdd053ff6765e5d/234986/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 480,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "02foyl",
+    "surface_m2": 89,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 89 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/02foyl"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:0dneen": {
    "also": [],
    "dup_of": null,
@@ -66073,6 +67996,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:4coqga": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 4 pièces de 70 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-a93e42cffe5c2da69cfadf6cb8ce7589/6466734/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 450,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "4coqga",
+    "surface_m2": 70,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 70 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/4coqga"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:5gyhu6": {
    "also": [],
    "dup_of": null,
@@ -66104,6 +68064,43 @@
     ],
     "title": "Appartement 4 pièces de 84 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/5gyhu6"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:5vdal3": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Maison 8 pièces de 186 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-d6048723e924b5e062a6bb160b9aaeea/6619274/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 390,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "5vdal3",
+    "surface_m2": 186,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Maison 8 pièces de 186 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/5vdal3"
    },
    "notified": false,
    "status": "active"
@@ -66247,6 +68244,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:7dwulv": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 5 pièces de 90 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-7f14ff160e02f5f2679094b80c892a8f/6615119/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 420,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "7dwulv",
+    "surface_m2": 90,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/7dwulv"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:7iw080": {
    "also": [],
@@ -66672,6 +68706,117 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:ahq02p": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 5 pièces de 81 m². Disponible dès 2026-12-01",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-7a896d1c70da76b635ce71fab21e72cc/5565271/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 480,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ahq02p",
+    "surface_m2": 81,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 81 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/ahq02p"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:ajak90": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 3 pièces de 54 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-bcf3a1b30d484e1b895bad820953a44a/6451065/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 550,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ajak90",
+    "surface_m2": 54,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 54 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/ajak90"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:axqfep": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 5 pièces de 92 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-21046ed43af399db13e3df60545b547a/5100399/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 500,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "axqfep",
+    "surface_m2": 92,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 92 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/axqfep"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:b402a0": {
    "also": [],
    "dup_of": null,
@@ -66742,6 +68887,153 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:bfctp6": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 8 pièces de 82 m². Disponible dès 2026-12-15",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-2a17d03b9a058a3b90817583fc8d0180/5735439/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 550,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "bfctp6",
+    "surface_m2": 82,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 8 pièces de 82 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/bfctp6"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:bn5cux": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 2 pièces de 42 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-399fe3693aea6ad64ac962965e0cc814/6451002/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 786,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "bn5cux",
+    "surface_m2": 42,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 2 pièces de 42 m²",
+    "url": "https://www.lacartedescolocs.fr/locations/fr/pays-de-la-loire/angers/a/bn5cux"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:c4cewg": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 5 pièces de 86 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-03f6c28b9b8eab981a2a77a91f83f13d/5471039/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 450,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "c4cewg",
+    "surface_m2": 86,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 86 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/c4cewg"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:c4pxj5": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Maison 5 pièces de 100 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-6b2cc917fad85cf17c3f587a186995db/6533833/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 470,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "c4pxj5",
+    "surface_m2": 100,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Maison 5 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/c4pxj5"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:c7pkfl": {
    "also": [],
    "dup_of": null,
@@ -66773,6 +69065,43 @@
     ],
     "title": "Appartement 6 pièces de 98 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/c7pkfl"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:c92dni": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 5 pièces de 86 m². Disponible dès 2026-12-22",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-7ca376984c643d492e2ed8d2e221cc72/6615725/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 450,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "c92dni",
+    "surface_m2": 86,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 86 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/c92dni"
    },
    "notified": false,
    "status": "active"
@@ -66813,6 +69142,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:ch0x7d": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Maison 6 pièces de 129 m². Disponible dès 2026-12-15",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-2e3d4941826cb4f95c22f3ba386311f9/5239920/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 595,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ch0x7d",
+    "surface_m2": 129,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Maison 6 pièces de 129 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/ch0x7d"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:cjpscs": {
    "also": [],
    "dup_of": null,
@@ -66844,6 +69210,42 @@
     ],
     "title": "Appartement 4 pièces de 90 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/cjpscs"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:d8zqag": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 1 pièce de 30 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-0167ecffd46c530c8775803a4c55daf7/6451083/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 755,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "d8zqag",
+    "surface_m2": 30,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 1 pièce de 30 m²",
+    "url": "https://www.lacartedescolocs.fr/locations/fr/pays-de-la-loire/angers/a/d8zqag"
    },
    "notified": false,
    "status": "active"
@@ -66914,6 +69316,43 @@
     ],
     "title": "Appartement 3 pièces de 70 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/eicaxu"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:eslb7q": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Maison 8 pièces de 150 m². Disponible dès 2026-12-01",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-9dc508c616e9b713e1ef22fbf5b4e181/6614149/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 550,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "eslb7q",
+    "surface_m2": 150,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Maison 8 pièces de 150 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/eslb7q"
    },
    "notified": false,
    "status": "active"
@@ -67094,6 +69533,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:j7gnei": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 4 pièces de 89 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-27f4bf702dd4f3f54a84d68aaf34868a/6189763/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 445,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "j7gnei",
+    "surface_m2": 89,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 89 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/j7gnei"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:j8lgph": {
    "also": [],
    "dup_of": null,
@@ -67162,6 +69638,43 @@
     ],
     "title": "Appartement 5 pièces de 100 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/jbg8fq"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:jiqwa9": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 5 pièces de 82 m². Disponible dès 2026-12-20",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-67ff3a8a64aa0c79b12974970b7c26e8/5290209/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 490,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "jiqwa9",
+    "surface_m2": 82,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 82 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/jiqwa9"
    },
    "notified": false,
    "status": "active"
@@ -67237,6 +69750,80 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:konvdv": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 8 pièces de 130 m². Disponible dès 2026-11-30",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-beb674181e63e1bf092aec6c98edb7b9/5473006/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 490,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "konvdv",
+    "surface_m2": 130,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 8 pièces de 130 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/konvdv"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:l5j8w7": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 8 pièces de 85 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-177d80bff94f18ff0c040df01fe7c1e6/6454613/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 380,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "l5j8w7",
+    "surface_m2": 85,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 8 pièces de 85 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/l5j8w7"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:m8xqgt": {
    "also": [],
@@ -67451,6 +70038,80 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:ngeg6u": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 4 pièces de 72 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-7163114a2d430357651595b663bc2311/3454226/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 400,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ngeg6u",
+    "surface_m2": 72,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 72 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/ngeg6u"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:njatkn": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 3 pièces de 75 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-1b7c45284b919e69bea0dbbf309c9081/6104140/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 590,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "njatkn",
+    "surface_m2": 75,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 75 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/njatkn"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:nzgvek": {
    "also": [],
    "dup_of": null,
@@ -67486,6 +70147,117 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:o1tok6": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 5 pièces de 112 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-55e18012829fe5110ab24aa052680bf5/6540207/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 410,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "o1tok6",
+    "surface_m2": 112,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 112 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/o1tok6"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:oaeyl1": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Maison 5 pièces de 163 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-45631680af4c07a6d7f3b132d0603280/6434167/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 430,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "oaeyl1",
+    "surface_m2": 163,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Maison 5 pièces de 163 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/oaeyl1"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:p6q6fy": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 5 pièces de 98 m². Disponible dès 2026-12-11",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-e36e590ace371ff82819a8e68004c67d/6587942/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 457,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "p6q6fy",
+    "surface_m2": 98,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 98 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/p6q6fy"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:pb1bym": {
    "also": [],
    "dup_of": null,
@@ -67517,6 +70289,43 @@
     ],
     "title": "Appartement 3 pièces de 90 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/pb1bym"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:pt5e8y": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 4 pièces de 70 m². Disponible dès 2026-12-31",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-98b36128d30162727fdf6dfabf1b4bb3/6614483/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 470,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "pt5e8y",
+    "surface_m2": 70,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 70 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/pt5e8y"
    },
    "notified": false,
    "status": "active"
@@ -67978,6 +70787,80 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:x6b3qz": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 5 pièces de 75 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-7b76ebe619f37911699861ecc111185e/6545805/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 530,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "x6b3qz",
+    "surface_m2": 75,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 75 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/x6b3qz"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:x7p5kg": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 5 pièces de 82 m²",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-272edae755da1c7ce0863924ac118012/6250461/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 475,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "x7p5kg",
+    "surface_m2": 82,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 82 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/x7p5kg"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:xp6ms2": {
    "also": [],
    "dup_of": null,
@@ -68082,6 +70965,79 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:yrfqyf": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 7 pièces de 229 m². Disponible dès 2026-12-10",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-81aaf9310421e84162b2eadb79019627/6606717/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 735,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "yrfqyf",
+    "surface_m2": 229,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 7 pièces de 229 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/yrfqyf"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:z4v34m": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Appartement 4 pièces de 70 m². Disponible dès 2026-11-25",
+    "district": "Angers",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-862c22422432e545a10d26925278ebd3/6548426/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 499,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "z4v34m",
+    "surface_m2": 70,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 70 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/angers/a/z4v34m"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:zlj7fj": {
    "also": [],
@@ -72916,6 +75872,136 @@
    "notified": true,
    "status": "active"
   },
+  "paruvendu:1297008483": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 10 855 € CC* Appartement 67 m 2 Angers (49) 3 pièces 2 chambres DPE : D 189 kWh/m².an 10 kg CO 2 /m².an Dans une commune appréciée, appartement T3 meublé avec entrée, cuisine aménagée équipée, double pièce de vie, deux chambres avec placards et balcon. Proche du parc de l'arboretum. Disponible à partir du 29.11.2026. NESTENN ANGERS 50 annonces 21/11/2026 Voir Contacter * Loyer mensuel charges comprises. M'envoyer les prochaines annonces 1 - 30 sur 81 annonces Suivant 1 2 3 R",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/e1/57/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzgvOC82LzQvOC82LzUvMzg4NjQ4NjVhLmpwZz9EQVRFTUFKPTE1LzA0LzIwMjYtMTQ6NTg6MDMmMjAyNjExMjEwNjE4Mzg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/14/02/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzgvOC82LzQvOC82LzUvMzg4NjQ4NjViLmpwZz9EQVRFTUFKPTE1LzA0LzIwMjYtMTQ6NTg6MDMmMjAyNjExMjEwNjE4Mzg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/f0/65/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzgvOC82LzQvOC82LzUvMzg4NjQ4NjVjLmpwZz9EQVRFTUFKPTE1LzA0LzIwMjYtMTQ6NTg6MDMmMjAyNjExMjEwNjE4Mzg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/f3/04/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzgvOC82LzQvOC82LzUvMzg4NjQ4NjVkLmpwZz9EQVRFTUFKPTE1LzA0LzIwMjYtMTQ6NTg6MDMmMjAyNjExMjEwNjE4Mzg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/14/71/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzgvOC82LzQvOC82LzUvMzg4NjQ4NjVlLmpwZz9EQVRFTUFKPTE1LzA0LzIwMjYtMTQ6NTg6MDMmMjAyNjExMjEwNjE4Mzg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/2d/b7/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzgvOC82LzQvOC82LzUvMzg4NjQ4NjVmLmpwZz9EQVRFTUFKPTE1LzA0LzIwMjYtMTQ6NTg6MDMmMjAyNjExMjEwNjE4Mzg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "NESTENN ANGERS",
+    "published_at": "2026-11-21",
+    "rent_cc": 855,
+    "rooms": 3,
+    "source": "paruvendu",
+    "source_id": "1297008483",
+    "surface_m2": 67.0,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 3 pièce(s) - 67 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297008483A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297008484": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 10 1 090 € CC* Appartement Angers (49) 3 pièces 2 chambres DPE : D 219 kWh/m².an 8 kg CO 2 /m².an À Angers, appartement T3 au 1949, avec entrée, pièce de vie lumineuse et cuisine aménagée. À l'étage, deux chambres et salle d'eau. Disponibilité immédiate. Contactez l'agence NESTENN pour plus d'infos. NESTENN ANGERS 50 annonces 22/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/05/bb/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzkvMi82LzMvMy82LzEvMzkyNjMzNjFhLmpwZz9EQVRFTUFKPTA2LzExLzIwMjYtMTY6MDI6NTMmMjAyNjExMjIwNTU3MjU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/07/c9/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzkvMi82LzMvMy82LzEvMzkyNjMzNjFiLmpwZz9EQVRFTUFKPTA2LzExLzIwMjYtMTY6MDI6NTMmMjAyNjExMjIwNTU3MjU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/06/48/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzkvMi82LzMvMy82LzEvMzkyNjMzNjFjLmpwZz9EQVRFTUFKPTA2LzExLzIwMjYtMTY6MDI6NTMmMjAyNjExMjIwNTU3MjU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/c2/b9/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzkvMi82LzMvMy82LzEvMzkyNjMzNjFkLmpwZz9EQVRFTUFKPTA2LzExLzIwMjYtMTY6MDI6NTMmMjAyNjExMjIwNTU3MjU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/8a/71/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzkvMi82LzMvMy82LzEvMzkyNjMzNjFlLmpwZz9EQVRFTUFKPTA2LzExLzIwMjYtMTY6MDI6NTMmMjAyNjExMjIwNTU3MjU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/30/8f/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzkvMi82LzMvMy82LzEvMzkyNjMzNjFmLmpwZz9EQVRFTUFKPTA2LzExLzIwMjYtMTY6MDI6NTMmMjAyNjExMjIwNTU3MjU_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "NESTENN ANGERS",
+    "published_at": "2026-11-22",
+    "rent_cc": 1090,
+    "rooms": 3,
+    "source": "paruvendu",
+    "source_id": "1297008484",
+    "surface_m2": null,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 3 pièce(s)",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297008484A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297008635": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 10 570 € CC* Appartement 24 m 2 Angers (49) 1 pièce DPE : D 200 kWh/m².an 40 kg CO 2 /m².an Situé à proximité d'UCO, ce studio lumineux à louer offre un salon, une kitchenette et une salle de douche avec WC. Profitez d'un parking privatif dans un environnement calme, proche des écoles et des commerces. FONCIERE ANJOU 44 annonces 18/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/9d/86/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS8yLzUvOS80LzIvMi85MjU5NDIyYS5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTExOjIxOjM0JjIwMjYxMTE4MDY1MzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/c7/cf/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS8yLzUvOS80LzIvMi85MjU5NDIyYi5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTExOjIxOjM0JjIwMjYxMTE4MDY1MzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/a7/6f/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS8yLzUvOS80LzIvMi85MjU5NDIyYy5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTExOjIxOjM0JjIwMjYxMTE4MDY1MzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/d6/38/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS8yLzUvOS80LzIvMi85MjU5NDIyZC5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTExOjIxOjM0JjIwMjYxMTE4MDY1MzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/bd/18/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS8yLzUvOS80LzIvMi85MjU5NDIyZS5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTExOjIxOjM0JjIwMjYxMTE4MDY1MzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/ba/e9/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS8yLzUvOS80LzIvMi85MjU5NDIyZi5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTExOjIxOjM0JjIwMjYxMTE4MDY1MzI1_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "FONCIERE ANJOU",
+    "published_at": "2026-11-18",
+    "rent_cc": 570,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297008635",
+    "surface_m2": 24.0,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 24 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297008635A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "paruvendu:1297008745": {
    "also": [],
    "dup_of": "bienici:immo-facile-31417515",
@@ -73110,6 +76196,93 @@
    "notified": true,
    "status": "active"
   },
+  "paruvendu:1297093188": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 6 500 € CC* Appartement 22 m 2 Angers (49) 2 pièces 1 chambre DPE : E 374 kWh/m².an 14 kg CO 2 /m².an Centre ville, appartement à louer non-meublé. Comprend une pièce principale avec kitchenette, un coin nuit séparé, salle d'eau avec WC. Bon état, chauffage individuel électrique, fenêtre PVC double vitrage, fibre optique disponible. FONCIERE ANJOU 44 annonces 18/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/33/cf/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8yLzgvMi80LzYvOC83LzEyODI0Njg3YS5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTE3OjI0OjExJjIwMjYxMTE4MDY1MzA2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/78/10/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8yLzgvMi80LzYvOC83LzEyODI0Njg3Yi5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTE3OjI0OjExJjIwMjYxMTE4MDY1MzA2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/10/e5/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8yLzgvMi80LzYvOC83LzEyODI0Njg3Yy5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTE3OjI0OjExJjIwMjYxMTE4MDY1MzA2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/27/8e/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8yLzgvMi80LzYvOC83LzEyODI0Njg3ZC5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTE3OjI0OjExJjIwMjYxMTE4MDY1MzA2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/f6/16/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8yLzgvMi80LzYvOC83LzEyODI0Njg3ZS5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTE3OjI0OjExJjIwMjYxMTE4MDY1MzA2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/0d/fc/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl9wLzEvMi84LzIvNC82LzgvNy8xMjgyNDY4N2YuanBnP0RBVEVNQUo9MDkvMTEvMjAyNi0xNzoyNDoxMiYyMDI2MTExODA2NTMwNg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "FONCIERE ANJOU",
+    "published_at": "2026-11-18",
+    "rent_cc": 500,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297093188",
+    "surface_m2": 22.0,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 22 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297093188A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297093191": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 9 490 € CC* Appartement 21 m 2 Angers (49) 1 pièce DPE : C 196 kWh/m².an 7 kg CO 2 /m².an Hypercentre, studio lumineux à louer, rue Botanique. Il se compose d'une pièce de vie avec grand placard, coin kitchenette équipé, salle de bains avec WC. Proche commerces et tramway. Bon état général. DPE : C. FONCIERE ANJOU 44 annonces 18/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/69/fd/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS8yLzUvOS81LzUvNS85MjU5NTU1YS5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTE3OjEzOjE5JjIwMjYxMTE4MDY1MzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/0d/73/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS8yLzUvOS81LzUvNS85MjU5NTU1Yi5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTE3OjEzOjE5JjIwMjYxMTE4MDY1MzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/4c/61/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS8yLzUvOS81LzUvNS85MjU5NTU1Yy5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTE3OjEzOjE5JjIwMjYxMTE4MDY1MzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/40/a5/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl9wLzkvMi81LzkvNS81LzUvOTI1OTU1NWQuanBnP0RBVEVNQUo9MDkvMTEvMjAyNi0xNzoxMzoxOSYyMDI2MTExODA2NTMyNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/d6/bd/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS8yLzUvOS81LzUvNS85MjU5NTU1ZS5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTE3OjEzOjE5JjIwMjYxMTE4MDY1MzI1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/02/2d/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS8yLzUvOS81LzUvNS85MjU5NTU1Zi5qcGc_REFURU1BSj0wOS8xMS8yMDI2LTE3OjEzOjE5JjIwMjYxMTE4MDY1MzI1_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "FONCIERE ANJOU",
+    "published_at": "2026-11-18",
+    "rent_cc": 490,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297093191",
+    "surface_m2": 21.0,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 21 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297093191A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "paruvendu:1297093210": {
    "also": [],
    "dup_of": "bienici:immo-facile-58798199",
@@ -73181,6 +76354,134 @@
     "tags": [],
     "title": "Appartement - 1 pièce(s) - 80 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297093312A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297093588": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "3 865 € CC* Appartement 42 m 2 Angers (49) 2 pièces 1 chambre DPE : C A LOUER T2 lumineux 42 m2- Angers la Madeleine - Découvrez cet appartement calme, confortable et lumineux, situé dans le quartier de la Madeleine à Angers. Ce logement se compose de trois pièces bien agencées, chaleureuse et confortable (entrée - cuisine aménagée équipée, avec vue sur jardin sans vis-à-vis - séjour avec étagères de rangement - grande chambre avec dressing - salle de douche). Possibilité mise à disposition de m",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/a9/7b/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTUyMjIxXzEucG5nPzIwMjYxMTA2MDg1OTQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/4b/17/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTUyMjIxXzIuanBlZz8yMDI2MTEwNjA4NTk0Mg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/f8/06/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTUyMjIxXzMucG5nPzIwMjYxMTA2MDg1OTQy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-06",
+    "rent_cc": 865,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297093588",
+    "surface_m2": 42.0,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 42 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297093588A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297102967": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "5 675 € CC* Appartement 31 m 2 Angers (49) Exclusivité 2 pièces 1 chambre DPE : D 192 kWh/m².an 5 kg CO 2 /m².an Bien situé en hyper centre, appartement T2 de 31 m² à louer. Au 1er étage, il comprend un séjour spacieux, cuisine fonctionnelle, salle d'eau, toilettes séparées. Proche commerces et transports. Libre à partir du 23/12/2026. Citya Saint Laud 53 annonces 06/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/b5/31/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0yLS03ODY3MTQyMTQxMTM0MzkxMjg1LmpwZz8yMDI2MTEwNjIwMTYxMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/97/8d/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS01LS04MjU4OTI0NjAwNDc1MDUzOTM2LmpwZz8yMDI2MTEwNjIwMTYxMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/52/ac/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0xLS04OTEzNzM0MzQ5MTk5NzQzMjIxLmpwZz8yMDI2MTEwNjIwMTYxMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/93/0a/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS00LS0yMzE5NTkxOTE0NDMzNTUyMjc4LmpwZz8yMDI2MTEwNjIwMTYxMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/89/29/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS0zLS0yNDIxNTI3OTI4MTgyNjI3MjMwLmpwZz8yMDI2MTEwNjIwMTYxMg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "Citya Saint Laud",
+    "published_at": "2026-12-23",
+    "rent_cc": 675,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297102967",
+    "surface_m2": 31.0,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 31 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297102967A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297102970": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 10 508 € CC* Appartement 28 m 2 Angers (49) Exclusivité 2 pièces 1 chambre DPE : F 414 kWh/m².an 16 kg CO 2 /m².an Hyper centre, T2 de 28 m² à louer. Situé au troisième étage sans ascenseur, cet appartement lumineux convient à une personne seule ou un couple. Chauffage individuel, proche de transports en commun. Emplacement central et pratique. Citya Saint Laud 53 annonces 06/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/3c/9f/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1UQVBQOTY3Njk0LTE2NjQxMDc1NTUyMjg1NzA4NzM1LmpwZz8yMDI2MTEwNjIwMTYxMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/bc/13/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1ncm9zZGlkaWVyXzAwMDAzLTUwNDEyNTA0NDIwNjE1NzU0NDYuanBnPzIwMjYxMTA2MjAxNjEy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/2a/0f/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1ncm9zZGlkaWVyXzAwMDAyLTk1NjgwMDMyNTQxMzQxNDgzNTcuanBnPzIwMjYxMTA2MjAxNjEy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/4e/64/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1ncm9zZGlkaWVyXzAwMDA0LTEwMzI3NjM2OTM3MDM1MjAzMTY5LmpwZz8yMDI2MTEwNjIwMTYxMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/03/6a/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1ncm9zZGlkaWVyXzAwMDA1LTE1MjE5Mzg4NjI3OTA3MDM3NzI5LmpwZz8yMDI2MTEwNjIwMTYxMg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/25/fa/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1ncm9zZGlkaWVyXzAwMDA2LTQ5OTY1MDk1Mzc5MjkzMjAxOTIuanBnPzIwMjYxMTA2MjAxNjEy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "Citya Saint Laud",
+    "published_at": "2026-11-06",
+    "rent_cc": 508,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297102970",
+    "surface_m2": 28.0,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 28 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297102970A1KILHAP000"
    },
    "notified": false,
    "status": "active"
@@ -73557,6 +76858,92 @@
    "notified": false,
    "status": "active"
   },
+  "paruvendu:1297297166": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 8 840 € CC* Appartement 56 m 2 Angers (49) 3 pièces 2 chambres DPE : F 385 kWh/m².an 85 kg CO 2 /m².an À proximité des commerces et transports, appartement T3 à louer en rez-de-chaussée surélevé. Il comprend une cuisine aménagée, une pièce de vie avec balcon, deux chambres, une salle de bains, un WC séparé et un dressing. Cave privative incluse. L'ADRESSE ANGERS PASTEUR 25 annonces 360 Visite 360° 19/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/2e/39/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8yLzIvNi8zLzkvOS80LzEyMjYzOTk0YS5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE1OjQ5OjIyJjIwMjYxMTE5MDY0MDA0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/9e/a7/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8yLzIvNi8zLzkvOS80LzEyMjYzOTk0Yi5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE1OjQ5OjIyJjIwMjYxMTE5MDY0MDA0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/e4/48/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8yLzIvNi8zLzkvOS80LzEyMjYzOTk0Yy5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE1OjQ5OjIyJjIwMjYxMTE5MDY0MDA0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/a6/32/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8yLzIvNi8zLzkvOS80LzEyMjYzOTk0ZC5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE1OjQ5OjIyJjIwMjYxMTE5MDY0MDA0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/b9/68/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8yLzIvNi8zLzkvOS80LzEyMjYzOTk0ZS5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE1OjQ5OjIyJjIwMjYxMTE5MDY0MDA0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/50/69/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8yLzIvNi8zLzkvOS80LzEyMjYzOTk0Zi5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE1OjQ5OjIyJjIwMjYxMTE5MDY0MDA0_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "L'ADRESSE ANGERS PASTEUR",
+    "published_at": "2026-11-19",
+    "rent_cc": 840,
+    "rooms": 3,
+    "source": "paruvendu",
+    "source_id": "1297297166",
+    "surface_m2": 56.0,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 3 pièce(s) - 56 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297297166A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297297169": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 6 735 € CC* Appartement 48 m 2 Angers (49) 2 pièces 1 chambre DPE : C 133 kWh/m².an 12 kg CO 2 /m².an À Angers, appartement meublé de type II dans une résidence calme et sécurisée. Comprend entrée, cuisine séparée, salle de bains, chambre, salon-séjour, cave et place de stationnement. Disponible le 30/11/2026. FONCIERE ANJOU 44 annonces 18/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/0c/e1/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8zLzYvOS81LzQvMi8yLzEzNjk1NDIyYS5qcGc_REFURU1BSj0xNS8wMy8yMDI1LTIzOjU5OjUxJjIwMjYxMTE4MDY1MzA4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/ac/44/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8zLzYvOS81LzQvMi8yLzEzNjk1NDIyYi5qcGc_REFURU1BSj0xNS8wMy8yMDI1LTIzOjU5OjUxJjIwMjYxMTE4MDY1MzA4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/25/c2/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8zLzYvOS81LzQvMi8yLzEzNjk1NDIyYy5qcGc_REFURU1BSj0xNS8wMy8yMDI1LTIzOjU5OjUyJjIwMjYxMTE4MDY1MzA4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/63/96/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8zLzYvOS81LzQvMi8yLzEzNjk1NDIyZC5qcGc_REFURU1BSj0xNS8wMy8yMDI1LTIzOjU5OjUyJjIwMjYxMTE4MDY1MzA4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/2c/e5/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8zLzYvOS81LzQvMi8yLzEzNjk1NDIyZS5qcGc_REFURU1BSj0xNS8wMy8yMDI1LTIzOjU5OjUyJjIwMjYxMTE4MDY1MzA4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/42/cd/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS8zLzYvOS81LzQvMi8yLzEzNjk1NDIyZi5qcGc_REFURU1BSj0xNS8wMy8yMDI1LTIzOjU5OjUzJjIwMjYxMTE4MDY1MzA4_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "FONCIERE ANJOU",
+    "published_at": "2026-11-30",
+    "rent_cc": 735,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297297169",
+    "surface_m2": 48.0,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 48 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297297169A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "paruvendu:1297297223": {
    "also": [
     "bienici:immo-facile-44354600"
@@ -73605,6 +76992,93 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297314083": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 8 826 € CC* Appartement 56 m 2 Angers (49) Exclusivité 2 pièces 1 chambre DPE : E 308 kWh/m².an 67 kg CO 2 /m².an Bien situé dans une commune recherchée, appartement T2 rénové de 56 m² à louer, proche de la gare. Il comprend une pièce de vie lumineuse, une cuisine aménagée, une chambre confortable et une salle d'eau contemporaine. Emplacement idéal. Citya Saint Laud 53 annonces 17/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/81/95/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMDMwNi01NzcxMDQwNTk2MTYxNjQ4NDIxLmpwZz8yMDI2MTExNzExNDYxNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/9a/4b/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMDMwNy0xNTk2NjA3MzQzNTI1MTA0MjE2Ni5qcGc_MjAyNjExMTcxMTQ2MTU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/bf/01/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMDMxMS0xMDI2OTQ4NzkzOTE0OTU2ODYzNy5qcGc_MjAyNjExMTcxMTQ2MTU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/21/59/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfNjU4NC0xMjY5NjE4OTA0NTg4MjY2MzE1Mi5qcGc_MjAyNjExMTcxMTQ2MTU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/52/fe/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMDMwNS0zODk3NTI1ODAwMTQyMzczMzY5LmpwZz8yMDI2MTExNzExNDYxNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/f9/b9/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMDMwOC03NzU1NzU5NzgzMDc1OTU1ODI2LmpwZz8yMDI2MTExNzExNDYxNQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "Citya Saint Laud",
+    "published_at": "2026-11-17",
+    "rent_cc": 826,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297314083",
+    "surface_m2": 56.0,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 56 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297314083A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297315175": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 6 632 € CC* Appartement 30 m 2 Angers (49) 1 pièce 1 chambre DPE : D 250 kWh/m².an 50 kg CO 2 /m².an Appartement T1 meublé de 30 m² à louer, idéal pour étudiants, situé à Angers. Comprend un grand séjour, cuisine équipée, balcon, cave, stationnement possible et à proximité des commerces et transports. LOCService 800 annonces 21/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/5d/63/LzU2MjA4Ni81NTkzMzAxNTQvcGhvdG9zLzEuanBnPzIwMjYxMTIxMTMzNTQ2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/5c/32/LzU2MjA4Ni81NTkzMzAxNTQvcGhvdG9zLzIuanBnPzIwMjYxMTIxMTMzNTQ2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/87/b2/LzU2MjA4Ni81NTkzMzAxNTQvcGhvdG9zLzMuanBnPzIwMjYxMTIxMTMzNTQ2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/03/01/LzU2MjA4Ni81NTkzMzAxNTQvcGhvdG9zLzQuanBnPzIwMjYxMTIxMTMzNTQ2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/b7/dc/LzU2MjA4Ni81NTkzMzAxNTQvcGhvdG9zLzUuanBnPzIwMjYxMTIxMTMzNTQ2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/b2/ff/LzU2MjA4Ni81NTkzMzAxNTQvcGhvdG9zLzYuanBnPzIwMjYxMTIxMTMzNTQ2_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "LOCService",
+    "published_at": "2026-11-21",
+    "rent_cc": 632,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297315175",
+    "surface_m2": 30.0,
+    "tags": [
+     "area?",
+     "near-miss"
+    ],
+    "title": "Appartement - 1 pièce(s) - 30 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297315175A1KILHAP000"
+   },
+   "notified": false,
    "status": "active"
   },
   "paruvendu:1297315202": {
@@ -73957,6 +77431,49 @@
    "notified": false,
    "status": "active"
   },
+  "paruvendu:1297390292": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 6 1 011 € CC* Appartement 95 m 2 Angers (49) Exclusivité 4 pièces 3 chambres DPE : C 117 kWh/m².an 23 kg CO 2 /m².an Bien situé, grand appartement 4 pièces de 94,56 m² à louer. Quartier calme, proche des commerces. Composé d'une entrée, séjour de 24 m², trois chambres, cuisine, salle de bains et balcon. Garage disponible, accès sécurisé par interphone. Citya Saint Laud 53 annonces 13/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/c5/fb/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMjAyMDAxMTNfMTQ0NzI4LTEyODM4NTgyMDkzODU0MzA5OTg5LmpwZz8yMDI2MTExMzIwMTU0Mg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/1e/e6/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMjAyMDAxMTNfMTQ0NzM3LTMxMTA0ODkxMTI3MTQ2MDM0OTYuanBnPzIwMjYxMTEzMjAxNTQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/60/72/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMjAyMDAxMTNfMTQ0NzUxLTUwMzgzMDQ0NzUzNjY1OTEzMDguanBnPzIwMjYxMTEzMjAxNTQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/29/22/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1EU0NGMTIzMC0xMzA0MjQ3MzMxNjEyMzc1NTQxMC5qcGc_MjAyNjExMTMyMDE1NDI_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/d1/78/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1EU0NGMTIyOS04MjkwNDY3MDQyOTg4ODQxNjQ5LmpwZz8yMDI2MTExMzIwMTU0Mg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/e5/cb/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1oX3JvdWF1ZF8tX2FuZ2V2aW5pX3JlXzAwNC0yMTkxODkyNzIzMDQzNzkwODI2LmpwZz8yMDI2MTExMzIwMTU0Mg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "Citya Saint Laud",
+    "published_at": "2026-11-13",
+    "rent_cc": 1011,
+    "rooms": 4,
+    "source": "paruvendu",
+    "source_id": "1297390292",
+    "surface_m2": 95.0,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 4 pièce(s) - 95 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297390292A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "paruvendu:1297390427": {
    "also": [
     "bienici:citya-immobilier-5041-GES56300079-184"
@@ -74146,6 +77663,94 @@
     ],
     "title": "Appartement - 1 pièce(s) - 29 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297413428A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297419186": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 10 790 € CC* Appartement 59 m 2 Angers (49) 2 pièces 1 chambre DPE : E 254 kWh/m².an 16 kg CO 2 /m².an Bien situé, à louer meublé, appartement en duplex type II. Comprend entrée, pièce principale, cuisine séparée aménagée, WC, chambre et salle d'eau. Charges comprises, internet à la charge du locataire. Disponible le 7 décembre 2026. FONCIERE ANJOU 44 annonces 18/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/73/87/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzYvNS81LzEvMy80LzE0NjU1MTM0YS5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE1OjA4OjUxJjIwMjYxMTE4MDY1MzIy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/db/78/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzYvNS81LzEvMy80LzE0NjU1MTM0Yi5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE1OjA4OjUxJjIwMjYxMTE4MDY1MzIy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/65/70/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzYvNS81LzEvMy80LzE0NjU1MTM0Yy5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE1OjA4OjUxJjIwMjYxMTE4MDY1MzIy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/48/a2/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzYvNS81LzEvMy80LzE0NjU1MTM0ZC5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE1OjA4OjUxJjIwMjYxMTE4MDY1MzIy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/ed/54/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzYvNS81LzEvMy80LzE0NjU1MTM0ZS5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE1OjA4OjUxJjIwMjYxMTE4MDY1MzIy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/87/b3/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzYvNS81LzEvMy80LzE0NjU1MTM0Zi5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE1OjA4OjUxJjIwMjYxMTE4MDY1MzIy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "FONCIERE ANJOU",
+    "published_at": "2026-11-18",
+    "rent_cc": 790,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297419186",
+    "surface_m2": 59.0,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 59 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297419186A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297419188": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 12 670 € CC* Appartement 37 m 2 Angers (49) 2 pièces 1 chambre DPE : D 248 kWh/m².an 50 kg CO 2 /m².an À proximité de la Place de la Madeleine, appartement T2 non-meublé à louer dans une petite résidence calme. Composé d'une pièce principale avec cuisine ouverte, une chambre, un dressing aménagé et une salle d'eau moderne. Disponible immédiatement. FONCIERE ANJOU 44 annonces 22/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "available_now",
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/43/4e/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzYvOC82LzIvOC84LzE0Njg2Mjg4YS5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE4OjMzOjA3JjIwMjYxMTIyMDYyMTE2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/9e/d4/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzYvOC82LzIvOC84LzE0Njg2Mjg4Yi5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE4OjMzOjA3JjIwMjYxMTIyMDYyMTE2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/37/5f/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzYvOC82LzIvOC84LzE0Njg2Mjg4Yy5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE4OjMzOjA3JjIwMjYxMTIyMDYyMTE2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/8b/c9/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzYvOC82LzIvOC84LzE0Njg2Mjg4ZC5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE4OjMzOjA3JjIwMjYxMTIyMDYyMTE2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/db/6b/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzYvOC82LzIvOC84LzE0Njg2Mjg4ZS5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE4OjMzOjA3JjIwMjYxMTIyMDYyMTE2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/4f/ab/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzYvOC82LzIvOC84LzE0Njg2Mjg4Zi5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTE4OjMzOjA3JjIwMjYxMTIyMDYyMTE2_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "FONCIERE ANJOU",
+    "published_at": "2026-11-22",
+    "rent_cc": 670,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297419188",
+    "surface_m2": 37.0,
+    "tags": [
+     "area?",
+     "near-miss"
+    ],
+    "title": "Appartement - 2 pièce(s) - 37 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297419188A1KILHAP000"
    },
    "notified": false,
    "status": "active"
@@ -74590,6 +78195,48 @@
     "tags": [],
     "title": "Appartement - 2 pièce(s) - 43 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297517021A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297519354": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "5 500 € CC* Appartement 33 m 2 Angers (49) 2 pièces T2 meublé 33 m² meublé angers. deux pièces meublé avec 23 m² de surface, séjour cuisine ouverte, salle de douche. l'internet est inclus avec lave-linge - lave vaisselle - micro-ondes - four - plaque de cuisson - vaisselle - réfrigérateur -... Particulier 18/11/2026 Voir Contacter Recevez les nouvelles annonces dès leur publication",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/59/2e/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTk1Mzk2XzEuanBlZz8yMDI2MTExODEzMjc0Ng_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/47/63/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTk1Mzk2XzIuanBlZz8yMDI2MTExODEzMjc0Ng_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/b8/68/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTk1Mzk2XzMuanBlZz8yMDI2MTExODEzMjc0Ng_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/bd/15/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTk1Mzk2XzQuanBlZz8yMDI2MTExODEzMjc0Ng_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/41/9a/L21lZGlhLXBhL1dJMTcvOC8xL1dJMTc4MTk1Mzk2XzUuanBlZz8yMDI2MTExODEzMjc0Ng_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-18",
+    "rent_cc": 500,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297519354",
+    "surface_m2": 33.0,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 33 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297519354A1KILHAP000"
    },
    "notified": false,
    "status": "active"
@@ -75134,6 +78781,50 @@
    "notified": false,
    "status": "active"
   },
+  "paruvendu:1297574950": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "5 700 € CC* Appartement 47 m 2 Angers (49) 2 pièces 1 chambre DPE : E 256 kWh/m².an 7 kg CO 2 /m².an Bien situé à Angers, appartement T2 de 47 m² avec balcon et cave. Proche du tramway, commerces et écoles, il se compose d'un séjour lumineux, d'une cuisine indépendante, d'une chambre et d'une salle d'eau. À découvrir sans tarder ! PROPRIETES PRIVEES Arnaud Debruyne 18/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/f2/94/LzQ0MDQxNC81NjA3NDcxODAvcGhvdG9zLzEuanBnPzIwMjYxMTE4MDcyMTE0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/17/52/LzQ0MDQxNC81NjA3NDcxODAvcGhvdG9zLzIuanBnPzIwMjYxMTE4MDcyMTE0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/47/3d/LzQ0MDQxNC81NjA3NDcxODAvcGhvdG9zLzMuanBnPzIwMjYxMTE4MDcyMTE0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/9d/11/LzQ0MDQxNC81NjA3NDcxODAvcGhvdG9zLzQuanBnPzIwMjYxMTE4MDcyMTE0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/8d/16/LzQ0MDQxNC81NjA3NDcxODAvcGhvdG9zLzUuanBnPzIwMjYxMTE4MDcyMTE0_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "PROPRIETES PRIVEES",
+    "published_at": "2026-11-18",
+    "rent_cc": 700,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297574950",
+    "surface_m2": 47.0,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 47 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297574950A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "paruvendu:1297575790": {
    "also": [],
    "dup_of": "bienici:ag340369-560787770",
@@ -75494,6 +79185,134 @@
    "notified": true,
    "status": "active"
   },
+  "paruvendu:1297621799": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "4 590 € CC* Appartement 40 m 2 Angers (49) 2 pièces 1 chambre DPE : D 211 kWh/m².an 8 kg CO 2 /m².an Dans le quartier de la Madeleine, appartement T2 bien agencé avec kitchenette, chambre avec placard et salle de bains avec WC. Profitez d'un bon état général et d'un accès à la fibre optique. Disponible de suite. NESTENN ANGERS 50 annonces 19/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/1d/e6/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzcvNy8wLzEvMS83LzAvMzc3MDExNzBhLmpwZz9EQVRFTUFKPTE4LzExLzIwMjYtMDk6NDk6MjYmMjAyNjExMTkwNzE5NTI_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/d5/71/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzcvNy8wLzEvMS83LzAvMzc3MDExNzBiLmpwZz9EQVRFTUFKPTE4LzExLzIwMjYtMDk6NDk6MjYmMjAyNjExMTkwNzE5NTI_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/2c/6e/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzcvNy8wLzEvMS83LzAvMzc3MDExNzBjLmpwZz9EQVRFTUFKPTE4LzExLzIwMjYtMDk6NDk6MjYmMjAyNjExMTkwNzE5NTI_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/77/ae/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzcvNy8wLzEvMS83LzAvMzc3MDExNzBkLmpwZz9EQVRFTUFKPTE4LzExLzIwMjYtMDk6NDk6MjYmMjAyNjExMTkwNzE5NTI_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "NESTENN ANGERS",
+    "published_at": "2026-11-19",
+    "rent_cc": 590,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297621799",
+    "surface_m2": 40.0,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 40 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297621799A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297621800": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 9 985 € CC* Appartement 49 m 2 Angers (49) 3 pièces 2 chambres DPE : D 234 kWh/m².an 9 kg CO 2 /m².an Au c?ur de la commune, appartement T3 meublé avec entrée, pièce de vie et cuisine équipée. Comprend deux chambres, salle d'eau et WC indépendants. Disponible à partir du 20.12.2026. Contactez l'agence pour plus de renseignements. NESTENN ANGERS 50 annonces 19/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/e2/aa/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzgvMC8xLzAvNS8wLzYvMzgwMTA1MDZhLmpwZz9EQVRFTUFKPTMxLzA3LzIwMjYtMjI6MzQ6MjAmMjAyNjExMTkwNzE5NTI_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/e9/7d/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzgvMC8xLzAvNS8wLzYvMzgwMTA1MDZiLmpwZz9EQVRFTUFKPTMxLzA3LzIwMjYtMjI6MzQ6MjImMjAyNjExMTkwNzE5NTI_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/83/b1/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzgvMC8xLzAvNS8wLzYvMzgwMTA1MDZjLmpwZz9EQVRFTUFKPTMxLzA3LzIwMjYtMjI6MzQ6MjImMjAyNjExMTkwNzE5NTI_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/b8/7f/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzgvMC8xLzAvNS8wLzYvMzgwMTA1MDZkLmpwZz9EQVRFTUFKPTMxLzA3LzIwMjYtMjI6MzQ6MjMmMjAyNjExMTkwNzE5NTI_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/d8/b6/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzgvMC8xLzAvNS8wLzYvMzgwMTA1MDZlLmpwZz9EQVRFTUFKPTMxLzA3LzIwMjYtMjI6MzQ6MjQmMjAyNjExMTkwNzE5NTI_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/90/b1/L29mZmljZTE1L2F2aXNfMjQwMzEvY2F0YWxvZy9pbWFnZXMvcHJfcC8zLzgvMC8xLzAvNS8wLzYvMzgwMTA1MDZmLmpwZz9EQVRFTUFKPTMxLzA3LzIwMjYtMjI6MzQ6MjUmMjAyNjExMTkwNzE5NTI_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "NESTENN ANGERS",
+    "published_at": "2026-11-19",
+    "rent_cc": 985,
+    "rooms": 3,
+    "source": "paruvendu",
+    "source_id": "1297621800",
+    "surface_m2": 49.0,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 3 pièce(s) - 49 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297621800A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297622802": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 8 850 € CC* Appartement 82 m 2 Angers (49) 3 pièces 2 chambres Ascenseur DPE : D 162 kWh/m².an 46 kg CO 2 /m².an Bien situé dans la commune, à louer appartement de 83 m² meublé. Il comprend une entrée, une cuisine équipée, un salon séjour double, 2 chambres, une salle d'eau, un wc séparé, et un cellier. DPE : D, disponible à partir du 05/01/2026. L'ADRESSE DOUTRE 29 annonces 19/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/9c/0d/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzIvMi8zLzIvMC8zLzE0MjIzMjAzYS5qcGc_REFURU1BSj0xMS8xMi8yMDI1LTEwOjI2OjMwJjIwMjYxMTE5MDc1MDE2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/40/54/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzIvMi8zLzIvMC8zLzE0MjIzMjAzYi5qcGc_REFURU1BSj0xMS8xMi8yMDI1LTEwOjI2OjMwJjIwMjYxMTE5MDc1MDE2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/15/a8/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzIvMi8zLzIvMC8zLzE0MjIzMjAzYy5qcGc_REFURU1BSj0xMS8xMi8yMDI1LTEwOjI2OjMwJjIwMjYxMTE5MDc1MDE2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/8d/6c/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzIvMi8zLzIvMC8zLzE0MjIzMjAzZC5qcGc_REFURU1BSj0xMS8xMi8yMDI1LTEwOjI2OjMwJjIwMjYxMTE5MDc1MDE2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/17/a5/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzIvMi8zLzIvMC8zLzE0MjIzMjAzZS5qcGc_REFURU1BSj0xMS8xMi8yMDI1LTEwOjI2OjMwJjIwMjYxMTE5MDc1MDE2_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/a0/2b/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvMS80LzIvMi8zLzIvMC8zLzE0MjIzMjAzZi5qcGc_REFURU1BSj0xMS8xMi8yMDI1LTEwOjI2OjMwJjIwMjYxMTE5MDc1MDE2_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "L'ADRESSE DOUTRE",
+    "published_at": "2026-01-05",
+    "rent_cc": 850,
+    "rooms": 3,
+    "source": "paruvendu",
+    "source_id": "1297622802",
+    "surface_m2": 82.0,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 3 pièce(s) - 82 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297622802A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "paruvendu:1297622819": {
    "also": [],
    "dup_of": "bienici:immo-facile-60582711",
@@ -75811,6 +79630,51 @@
    "notified": false,
    "status": "active"
   },
+  "paruvendu:1297650708": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 10 660 € CC* Appartement 32 m 2 Angers (49) 1 pièce 1 chambre DPE : C 150 kWh/m².an À proximité du tramway, agréable appartement T1 rénové au 1er étage. Il comprend une pièce avec cuisine neuve, accès à une terrasse ombragée de 8m², un côté nuit indépendant avec dressing et salle de bains. Cave et place de parking. MEGAGENCE 4 015 annonces 19/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/cdn.megagence.com/d6/92/L2JpZW4tcGhvdG8vMi8xMS8yMTE1ODUvYmM2Y2U3NmJmOGU5ZDEwM2NhZWRhNGQ0OTU4OTI1YTc2NDVlZGRiMy9yZy0yLmpwZz8yMDI2MTExOTIwMjA0MQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/cdn.megagence.com/2d/94/L2JpZW4tcGhvdG8vMi8xMS8yMTE1ODUvMDM2YjkzODU4YTgyNjA1MzYyMzMxOGQ1ZjY3YTY0NDhkMWY5NzNmMi9yZy00LmpwZz8yMDI2MTExOTIwMjA0MQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/cdn.megagence.com/c6/5a/L2JpZW4tcGhvdG8vMi8xMS8yMTE1ODUvNmM3NmE4ZjA1MjgxNTA3NGU4NGVlOTE0ZmJjYmU1M2U1ZWU2MzNjYy9yZy0yLmpwZz8yMDI2MTExOTIwMjA0MQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/cdn.megagence.com/b4/28/L2JpZW4tcGhvdG8vMi8xMS8yMTE1ODUvYjU2MjZlYTExZGY1MzkxOTc2NjVjNGU1MmUxMDFlMTBkZDJiMDZiNy9yZy00LmpwZz8yMDI2MTExOTIwMjA0MQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/cdn.megagence.com/6c/d1/L2JpZW4tcGhvdG8vMi8xMS8yMTE1ODUvMDY1M2U1YzViMWViZjQ1ZGEyODM1OGEwMmIzOTQ2ODk5YzFiMDRiMC9yZy0yLmpwZz8yMDI2MTExOTIwMjA0MQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/cdn.megagence.com/f0/b5/L2JpZW4tcGhvdG8vMi8xMS8yMTE1ODUvZmVlZjZkYzNjNjMyMjMyNTgwMGUwZDdkM2I3ZWYwOThmYTg5MmNlMy9yZy0yLmpwZz8yMDI2MTExOTIwMjA0MQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "MEGAGENCE",
+    "published_at": "2026-11-19",
+    "rent_cc": 660,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297650708",
+    "surface_m2": 32.0,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 32 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297650708A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "paruvendu:1297652349": {
    "also": [],
    "dup_of": null,
@@ -75893,6 +79757,92 @@
     ],
     "title": "Appartement - 2 pièce(s) - 40 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297659051A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297666403": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "5 770 € CC* Appartement 55 m 2 Angers (49) 3 pièces 2 chambres DPE : D 241 kWh/m².an 9 kg CO 2 /m².an Bien situé dans la commune, T3 au dernier étage sans ascenseur. Comprend un salon, une cuisine séparée, 2 chambres, salle de bains et wc. Proche des commerces et transports. Parking aérien. DPE : E. Disponible le 01/12/2025. L'ADRESSE DOUTRE 29 annonces 20/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/ad/0b/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS83LzgvMS84LzcvMS85NzgxODcxYS5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTEyOjM5OjM4JjIwMjYxMTIwMDcyMDE1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/35/92/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl9wLzkvNy84LzEvOC83LzEvOTc4MTg3MWIuanBnP0RBVEVNQUo9MTMvMTEvMjAyNi0xMjozOTozOCYyMDI2MTEyMDA3MjAxNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/83/1d/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS83LzgvMS84LzcvMS85NzgxODcxYy5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTEyOjM5OjM4JjIwMjYxMTIwMDcyMDE1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/ad/e4/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS83LzgvMS84LzcvMS85NzgxODcxZC5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTEyOjM5OjM4JjIwMjYxMTIwMDcyMDE1_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/12/f8/L29mZmljZTIxL2xhZHJlc3NlQWMzLTM1Ni9jYXRhbG9nL2ltYWdlcy9wcl93ZWIvOS83LzgvMS84LzcvMS85NzgxODcxZS5qcGc_REFURU1BSj0xMy8xMS8yMDI2LTEyOjM5OjM4JjIwMjYxMTIwMDcyMDE1_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "L'ADRESSE DOUTRE",
+    "published_at": "2025-12-01",
+    "rent_cc": 770,
+    "rooms": 3,
+    "source": "paruvendu",
+    "source_id": "1297666403",
+    "surface_m2": 55.0,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement - 3 pièce(s) - 55 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297666403A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297666860": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Voir d'autres photos 6 420 € CC* Appartement 95 m 2 Angers (49) 5 pièces 1 chambre Terrain 160 m 2 DPE : C 135 kWh/m².an 28 kg CO 2 /m².an Bien situé, colocation dans une maison avec 4 chambres. 1 chambre disponible. Espaces communs fonctionnels (cuisine équipée, séjour, salle de bain) pour un cadre de vie confortable. Idéal pour étudiants ou jeunes actifs. AGENCE 230 87 annonces 21/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/12/73/L29mZmljZTcvbGFkcmVzc2VfaWxlZGVuYW50ZXMvY2F0YWxvZy9pbWFnZXMvcHJfcC8xLzQvMy80LzcvNy84LzcvMTQzNDc3ODdhLmpwZz9EQVRFTUFKPTE5LzExLzIwMjYtMTg6MTg6MzEmMjAyNjExMjEwNTE1MDg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/58/15/L29mZmljZTcvbGFkcmVzc2VfaWxlZGVuYW50ZXMvY2F0YWxvZy9pbWFnZXMvcHJfcC8xLzQvMy80LzcvNy84LzcvMTQzNDc3ODdiLmpwZz9EQVRFTUFKPTE5LzExLzIwMjYtMTg6MTg6MzEmMjAyNjExMjEwNTE1MDg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/1c/3e/L29mZmljZTcvbGFkcmVzc2VfaWxlZGVuYW50ZXMvY2F0YWxvZy9pbWFnZXMvcHJfcC8xLzQvMy80LzcvNy84LzcvMTQzNDc3ODdjLmpwZz9EQVRFTUFKPTE5LzExLzIwMjYtMTg6MTg6MzEmMjAyNjExMjEwNTE1MDg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/0f/c9/L29mZmljZTcvbGFkcmVzc2VfaWxlZGVuYW50ZXMvY2F0YWxvZy9pbWFnZXMvcHJfcC8xLzQvMy80LzcvNy84LzcvMTQzNDc3ODdkLmpwZz9EQVRFTUFKPTE5LzExLzIwMjYtMTg6MTg6MzEmMjAyNjExMjEwNTE1MDg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/0c/f2/L29mZmljZTcvbGFkcmVzc2VfaWxlZGVuYW50ZXMvY2F0YWxvZy9pbWFnZXMvcHJfcC8xLzQvMy80LzcvNy84LzcvMTQzNDc3ODdlLmpwZz9EQVRFTUFKPTE5LzExLzIwMjYtMTg6MTg6MzEmMjAyNjExMjEwNTE1MDg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/25/0b/L29mZmljZTcvbGFkcmVzc2VfaWxlZGVuYW50ZXMvY2F0YWxvZy9pbWFnZXMvcHJfcC8xLzQvMy80LzcvNy84LzcvMTQzNDc3ODdmLmpwZz9EQVRFTUFKPTE5LzExLzIwMjYtMTg6MTg6MzEmMjAyNjExMjEwNTE1MDg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "AGENCE 230",
+    "published_at": "2026-11-21",
+    "rent_cc": 420,
+    "rooms": 5,
+    "source": "paruvendu",
+    "source_id": "1297666860",
+    "surface_m2": 95.0,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement - 5 pièce(s) - 95 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297666860A1KILHAP000"
    },
    "notified": false,
    "status": "active"
@@ -76015,6 +79965,47 @@
     "tags": [],
     "title": "Appartement - 3 pièce(s) - 70 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297669327A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297676471": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "2 660 € CC* Appartement 31 m 2 Angers (49) 2 pièces 1 chambre DPE : D 234 kWh/m².an 8 kg CO 2 /m².an Au c?ur de la commune, beau T2 rénové de 31 m² habitables, situé au 2ème et dernier étage. Il comprend une grande pièce de vie, une chambre et une salle d'eau. Disponible en janvier 2027. REVO IMMO 126 annonces 20/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.exportadapt.com/bf/29/LzQ5MDEwLzQ5MDEwNTE4ODlfMS5qcGc_MjAyNjExMjAxMTE5MDQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.exportadapt.com/45/0f/LzQ5MDEwLzQ5MDEwNTE4ODlfMi5qcGc_MjAyNjExMjAxMTE5MDQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "REVO IMMO",
+    "published_at": "2026-11-20",
+    "rent_cc": 660,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297676471",
+    "surface_m2": 31.0,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 31 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297676471A1KILHAP000"
    },
    "notified": false,
    "status": "active"
@@ -76418,6 +80409,136 @@
    "last_seen": "2026-11-22T12:51:45+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297719005": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Nouveau 5 430 € CC* Appartement 24 m 2 Angers (49) Exclusivité 1 pièce DPE : E 327 kWh/m².an 12 kg CO 2 /m².an À proximité de l'hyper centre, appartement T1 de 24 m² au dernier étage sans ascenseur. Comprend une pièce principale lumineuse, kitchenette et salle de bain. Proche de supermarchés et universités. Disponible le 05/02/2027. Citya Saint Laud 55 annonces 21/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/05/dd/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUctNDQ4Ny0xNjY5Nzg3ODIxNTc4MTE2NjkzLmpwZz8yMDI2MTEyMTIwMTU1OQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/20/7b/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUctNDQ4Ni0zODE3MTkxNDcxMTAxMzI4NTU1LmpwZz8yMDI2MTEyMTIwMTU1OQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/7c/88/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUctNDQ5MC00MDA0NzQ4ODg2MDM5MjUxMzMwLmpwZz8yMDI2MTEyMTIwMTU1OQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/39/84/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUctNDQ5Mi0xMzYxNDE4MTcyODU1MjkyOTM0MS5qcGc_MjAyNjExMjEyMDE1NTk_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/08/db/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1DYXB0dXJlX2RfY3Jhbl8yMDI2LTExLTIwXzA5MzMzMS0xOTI2OTMyMDExMTU3ODgwODkzLmpwZz8yMDI2MTEyMTIwMTU1OQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "Citya Saint Laud",
+    "published_at": "2027-02-05",
+    "rent_cc": 430,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297719005",
+    "surface_m2": 24.0,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 24 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297719005A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297719006": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Nouveau 5 480 € CC* Appartement 24 m 2 Angers (49) Exclusivité 1 pièce DPE : C 174 kWh/m².an 6 kg CO 2 /m².an Dans la commune d'Angers, cet appartement 1 pièce de 24,16 m² comprend un séjour de 19 m² avec cuisine équipée, une salle de bains, et dispose d'une cave et d'un parking. Chauffage individuel électrique et interphone pour un accès sécurisé. Citya Saint Laud 55 annonces 21/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/c4/00/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1DYXB0dXJlX2RfY3Jhbl8yMDI2LTExLTEzXzExMzUyMy0xOTUxODAwMTA1NTMzOTA4NDQ5LmpwZz8yMDI2MTEyMTIwMTU1OQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/b3/16/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1DYXB0dXJlX2RfY3Jhbl8yMDI2LTExLTEzXzExNDAyOS0xOTM2NDQ0ODkxNDI5NDU2MTQyLmpwZz8yMDI2MTEyMTIwMTU1OQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/19/a6/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1DYXB0dXJlX2RfY3Jhbl8yMDI2LTExLTEzXzExMzczNS0xNDE3NzM4OTE3MDMwNzkxNjk0OC5qcGc_MjAyNjExMjEyMDE1NTk_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/8e/d1/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1DYXB0dXJlX2RfY3Jhbl8yMDI2LTExLTEzXzExMzkxMS0xMzcxNDU2MzQ2OTIyMDE1NjgzLmpwZz8yMDI2MTEyMTIwMTU1OQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/b8/c3/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1DYXB0dXJlX2RfY3Jhbl8yMDI2LTExLTEzXzExNDIzMC0xMjQyMzc4OTI5OTQzNjg0Mjk2NC5qcGc_MjAyNjExMjEyMDE1NTk_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "Citya Saint Laud",
+    "published_at": "2026-11-21",
+    "rent_cc": 480,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297719006",
+    "surface_m2": 24.0,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 24 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297719006A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297719007": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:17:36+00:00",
+   "last_seen": "2026-11-22T13:17:36+00:00",
+   "listing": {
+    "charges": null,
+    "city": "angers-49",
+    "description": "Nouveau Voir d'autres photos 6 495 € CC* Appartement 29 m 2 Angers (49) Exclusivité 1 pièce DPE : E 347 kWh/m².an 11 kg CO 2 /m².an À Angers, appartement T1 de 28 m² à louer. Il dispose d'une pièce principale lumineuse, d'une cuisine aménagée, d'une salle de bains, et d'un parking extérieur. Situé dans une résidence sécurisée avec accès facile aux transports en commun. Citya Saint Laud 55 annonces 21/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/21/aa/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1waWVjZV9kZV92aWUtMTIzODUxMjc1NTk2Mjg0MTc3NTYuanBnPzIwMjYxMTIxMjAxNTU5_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/9f/2f/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1waWVjZV9kZV92aWVfMi0xNDAwNTk2Nzk5OTU3ODM4MzAyOS5qcGc_MjAyNjExMjEyMDE1NTk_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/e2/55/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1jdWlzaW5lLTExMjI5MzU5NjQxMTA5NDkxMDU2LmpwZz8yMDI2MTEyMTIwMTU1OQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/36/66/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1jdWlzaW5lXzItMTA1NTE3NjUxNTUyNTY1NTQ2MjEuanBnPzIwMjYxMTIxMjAxNTU5_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/68/04/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1zYWxsbGVfZGVfYmFpbi0xNDA1NDQ3MTU2MDk2NTQyODUxOC5qcGc_MjAyNjExMjEyMDE1NTk_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/0a/44/L2NpdF9DSVRZQV9BTkdFUlNfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1DYXB0dXJlX2RfY3Jhbl8yMDI2LTExLTIwXzA5MjIwMS00MDc0NTA2NzcwMTA1MDc5NDE5LmpwZz8yMDI2MTEyMTIwMTU1OQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": null,
+    "poster": "agence",
+    "poster_name": "Citya Saint Laud",
+    "published_at": "2026-11-21",
+    "rent_cc": 495,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297719007",
+    "surface_m2": 29.0,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 29 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297719007A1KILHAP000"
+   },
+   "notified": false,
    "status": "active"
   },
   "paruvendu:1297719069": {
