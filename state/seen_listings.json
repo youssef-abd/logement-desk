@@ -26,14 +26,14 @@
    "consecutive_failures": 0,
    "cooldown_until": null,
    "last_error": null,
-   "last_success": "2026-11-22T09:50:21+00:00"
+   "last_success": "2026-11-22T12:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 9,
-   "consecutive_failures": 4,
-   "cooldown_until": "2026-11-22T11:10:24+00:00",
-   "last_error": "blocked",
-   "last_success": "2026-11-22T04:40:21+00:00"
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
+   "cooldown_until": null,
+   "last_error": null,
+   "last_success": "2026-11-22T12:50:21+00:00"
   },
   "logicimmo": {
    "blocked_runs": 1,
@@ -10853,7 +10853,8 @@
   },
   "bienici:ag752861-478302200": {
    "also": [
-    "immojeune:u2832938"
+    "immojeune:u2832938",
+    "leboncoin:3293057065"
    ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:42:17+00:00",
@@ -14553,7 +14554,9 @@
    "status": "stale"
   },
   "bienici:apimo-83431336": {
-   "also": [],
+   "also": [
+    "leboncoin:3302780657"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:02:56+00:00",
    "last_seen": "2026-11-22T10:00:36+00:00",
@@ -36935,7 +36938,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T18:20:19+00:00",
-   "last_seen": "2026-11-22T09:50:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 4 pièces de 76 m²",
@@ -38660,7 +38663,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": null,
     "description": "STUDIO MEUBLE -  Lyon - Villeurbanne\n\nCharmant T1 meublé à Villeurbanne\n\nAnnonce immobilière – REF STUDIOVIL\nLYON VILLEURBANNE - Proximité 3ème et 6ème arrondissements\n\nDéposez votre dossier en ligne via le lien en fin d'annonce.\n\nDans une résidence de standing à Villeurbanne, idéalement située sur la ligne A du métro :\n\nBeau T1 de 24 m², moderne, climatisé et entièrement meublé\nAgencement :\nSéjour lumineux avec cuisine ouverte équipée.\nEspace chambre avec lit double et dressing intégré.\nSalle d",
@@ -38699,7 +38702,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T18:20:19+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": 50.0,
     "description": "Studio 1 pièce 18 m²\n\n150 GRANDE RUE DE SAINT CLAIR - CALUIRE ET CUIRE\nDans résidence sécurisée, immeuble situé à proximité directe du campus de la Doua et en face du parc de la tête d'or. Les bus C1 et C2 vous permettent de rejoindre la gare Part Dieu en moins de 15 minutes.\nCommerces de proximité et nombreuses lignes de bus au pied de l'immeuble. \nVenez visiter ce studio neuf de 18.25 m² et entièrement meublé au 7e étage avec ascenseur\nIl se compose d'une pièce à vivre avec lit simple + lit d'",
@@ -38728,6 +38731,48 @@
     "tags": [],
     "title": "Studio 1 pièce 18 m²",
     "url": "https://www.leboncoin.fr/ad/locations/3267203475"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3267235293": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T12:50:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
+   "listing": {
+    "charges": 28.0,
+    "description": "Appartement 1 pièce 29 m²\n\nStudio meublé avec garage fermé - 372 Route de Genas - STUDIO meublé/cuisine équipée/ avec garage fermé.\nDécouvrez ce charmant T1 meublé, idéalement situé au 372 Route de Genas, offrant un cadre de vie pratique et confortable.\nL'appartement se compose d'une pièce de vie lumineuse avec un espace cuisine entièrement aménagé et équipé comprenant :\nPlaque de cuisson à induction\nRéfrigérateur\nFour micro-ondes\nMachine à laver\nVous bénéficierez également d'une salle de bains ",
+    "district": "Bron 69500",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/4f/d5/e5/4fd5e5d4d19071bd8cc52ffc4dc61b6472bc6806.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/1c/79/d4/1c79d432123a819f51750f9ed9d6caa0b8426c59.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f3/d9/cf/f3d9cff82c2a6c117a7656e8b6a27ac6612eb3ec.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ee/6f/ef/ee6fef6fe094f72c22a2f11f0c2ebb807d76c4bf.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/0b/34/7f/0b347f1a66abd95de276a48dd57227da4af177d9.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/9f/44/42/9f4442c18e86f08a053a5b4e776c212b0542e56d.jpg?rule=ad-large"
+    ],
+    "postal_code": "69500",
+    "poster": "agence",
+    "poster_name": "BAGNERES",
+    "published_at": "2026-11-05 13:18:05",
+    "rent_cc": 628.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3267235293",
+    "surface_m2": 29.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement 1 pièce 29 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3267235293"
    },
    "notified": false,
    "status": "active"
@@ -38769,6 +38814,53 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "leboncoin:3279363845": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T12:50:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
+   "listing": {
+    "charges": 80.0,
+    "description": "Appartement\n\nCaluire et Cuire- A 500 m du métro Cuire- Chambre de service meublé avec cuisine privative- Dans une résidence calme et arborée, nos vous proposons de découvrir ce bien meublé, il est composé d'une pièce principale fonctionnelle avec une cuisine kitchenette avec tout le nécessaire (plaque électrique 2 feux, réfrigérateur etc...), d'un coin nuit avec un lit pour deux personnes, une commode et table,  d'une salle d'eau. Vous disposerez d'un agréable balcon. Pour plus d'informations ou",
+    "district": "Caluire-et-Cuire 69300",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e4/56/59/e4565984fa338430393e0a2a48c38261e27ef978.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/36/9f/6a/369f6a5b311d058b7c79e287f55c8057174de60f.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fd/b3/e3/fdb3e39a563a005e6fcf89a9068ed05e69cf21f2.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/87/7e/95/877e957ef5e15cdebcfe4b41fde56fb69d5a676c.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8e/6b/9c/8e6b9cb2e893d772c4abb495cc7b74a9ad47e421.jpg?rule=ad-large"
+    ],
+    "postal_code": "69300",
+    "poster": "agence",
+    "poster_name": "Lamy Lyon Part-Dieu",
+    "published_at": "2026-09-30 08:42:50",
+    "rent_cc": 460.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3279363845",
+    "surface_m2": 17.0,
+    "tags": [],
+    "title": "Appartement 1 pièce 17 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3279363845"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3279839593": {
+   "also": [],
+   "dup_of": "paruvendu:1297719335",
+   "first_seen": "2026-11-22T12:50:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
   },
   "leboncoin:3283236300": {
    "also": [],
@@ -38813,7 +38905,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T15:10:20+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": 45.0,
     "description": "Studio 1 pièce 22 m²\n\nAvenue Roger Salengro, dans un immeuble ancien, beau studio entièrement rénové et meublé de 22.48m2 au 3ème étage comprenant une pièce de vie avec cuisine ouverte équipée, une salle d'eau et un wc. Parfait état. L'appartement dispose d'une cave.\n Honoraires : 226.59EUR + 67.88EUR frais état des lieux / Zone soumise à encadrement des loyers/ loyer de référence médian 427EURHC / loyer majoré : 512EURHC. Complement de loyer : 61EURHC.\n La prise de rendez-vous s'effectue en lig",
@@ -38851,7 +38943,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T21:10:26+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": 80.0,
     "description": "COLOCATION - RUE DE NUITS 69004 LYON\n\nEmplacement idéal pour cette colocation dans le 4ème arrondissement de Lyon, à quelques minutes à pied du métro Croix Rousse, quartier vivant et à proximité de toutes commodités.\n\nLa colocation est au 5ème étage sans ascenseur et offre 80,14 m² de surface répartis de la manière suivantes :\n\nSéjour/cuisine équipé ouverte, 4 chambres avec leur salle d'eau privative et 1 WC indépendant.\nL'ensemble entièrement meublé et équipé.\n\nLa chambre de 9,96m² et sa salle ",
@@ -38893,7 +38985,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T13:30:17+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": 78.0,
     "description": "Studio Meublé  À Louer\n\nÀ louer à Vénissieux, charmant appartement de 17,28 m², idéal pour un étudiant ou un actif à la recherche d'un pied-à-terre fonctionnel. Situé dans un immeuble construit en 1930, et entièrement rénové en 2022 pour la création de cette copropriété, ce logement en parfait état offre une pièce de vie agréable et optimisée.\nChauffage individuel électrique.\nProposé au loyer de 678 € par mois charges comprise . Contactez votre agence Orpi pour plus d'informations et organiser u",
@@ -38973,7 +39065,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé - 33 m² - Lyon 9ᵉ\n\nSitué avenue Sidoine-Apollinaire, dans le 9ᵉ arrondissement de Lyon, ce studio meublé de 33 m² se trouve au rez-de-chaussée d'un immeuble calme. Il comprend un espace de vie lumineux avec canapé, télévision et coin repas, un espace nuit avec lit double, une cuisine équipée d'un four, de plaques à induction, d'un réfrigérateur, d'un congélateur, d'un micro-ondes, d'un grille-pain et d'une bouilloire, ainsi qu'une salle de bain avec baignoire, lavabo et WC. Le loge",
@@ -39099,11 +39191,20 @@
    "notified": true,
    "status": "active"
   },
+  "leboncoin:3293057065": {
+   "also": [],
+   "dup_of": "bienici:ag752861-478302200",
+   "first_seen": "2026-11-22T12:50:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3297258927": {
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé et équipé - proche métro D\n\nLa résidence Carré Saône vous accueille au sein d'appartements propices au travail, sécurisés et fonctionnels, à seulement 8 minutes en métro du centre et de la Place Bellecour. En plein coeur du dynamique et nouveau Quartier de l'Industrie, la résidence bénéficie de tous les services du quotidien (supermarchés, restaurants, bars, banques) et d'une offre culturelle et sportive riche (Multiplexe Pathé, terrains de sport, quais de Saône…).\n\nA LOUER, Studio",
@@ -39142,7 +39243,7 @@
    "also": [],
    "dup_of": "bienici:ag696718-516959267",
    "first_seen": "2026-11-21T11:40:19+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -39229,7 +39330,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": null,
     "description": "T1 bis meublé et équipé - proche écoles et transports\n\nSituée au cœur du 9ème arrondissement à Vaise, l'un des quartiers les plus prisés de Lyon, la résidente étudiante Study West bénéficie d'un emplacement exceptionnel à deux pas de nombreux équipements : cinéma Pathé Vaise, commerces, parc de la Tête d'or…  Il est également réputé pour ses nombreuses grandes écoles et universités parmi lesquelles on recense : l'Ecole centrale de Lyon, l'EM Lyon, l'Université René Cassin…\n\nBien desservie par le",
@@ -39268,7 +39369,7 @@
    "also": [],
    "dup_of": "bienici:apimo-87143848",
    "first_seen": "2026-11-21T11:40:19+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -39277,7 +39378,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé et équipé - Valmy proche métro\n\nSituée à 150 mètres du métro D, arrêt Valmy, la résidence étudiante Lyon UNIVERS 9 profite d'un quartier vivant et rénové à seulement 10 minutes de la place Bellecour et à proximité du pôle universitaire de Vaise regroupant les écoles d'architecture et de commerce (IDRAC Lyon, Ifag, Sup de Com...).\n\nA LOUER, Studio de 18,6m² entièrement meublé et équipé. Prestations de qualité et nombreux services adaptés à la vie étudiante: accès internet fibre grat",
@@ -39316,7 +39417,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé et équipé - proche écoles et transports\n\nSituée au cœur du 9ème arrondissement à Vaise, l'un des quartiers les plus prisés de Lyon, la résidente étudiante Study West bénéficie d'un emplacement exceptionnel à deux pas de nombreux équipements : cinéma Pathé Vaise, commerces, parc de la Tête d'or…  Il est également réputé pour ses nombreuses grandes écoles et universités parmi lesquelles on recense : l'Ecole centrale de Lyon, l'EM, l'Université René Cassin…\n\nBien desservie par les tra",
@@ -39360,7 +39461,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé et équipé - Jean Jaurès / Quartier Gerland\n\nSitué au sein de la résidence étudiante CAP AVENIR, à deux pas du métro Jean Jaurès et à quelques minutes à pied de la gare Jean Macé, ce logement bénéficie d'un emplacement idéal : proche du centre-ville, des commerces et des principaux établissements d'enseignement supérieur.\n\n Le logement :\nStudio de 18 m², entièrement meublé et équipé, offrant des prestations de qualité.\nParfait pour une colocation étudiante ou un couple d'étudiants s",
@@ -39519,11 +39620,20 @@
    "notified": false,
    "status": "stale"
   },
+  "leboncoin:3302780657": {
+   "also": [],
+   "dup_of": "bienici:apimo-83431336",
+   "first_seen": "2026-11-22T12:50:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3302812786": {
    "also": [],
    "dup_of": "bienici:apimo-86635285",
    "first_seen": "2026-11-21T21:10:26+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -39532,7 +39642,7 @@
    "also": [],
    "dup_of": "bienici:ag692498-539601197",
    "first_seen": "2026-11-21T11:40:19+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -39617,7 +39727,7 @@
    "also": [],
    "dup_of": "bienici:ag752345-559034990",
    "first_seen": "2026-11-21T21:10:26+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -39711,7 +39821,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": 118.0,
     "description": "VILLEURBANNE - STUDIO MEUBLE - 19,80 m²\n\nDescription de l'offre : \nAu coeur de Villeurbanne, secteur Croix Luizet, nous vous proposons ce studio meublé de 19,80 m²\nSitué au 6 ème étage avec ascenseur, il se compose d'une pièce de vie avec un coin kitchenette, une penderie et un salle d'eau (douche) avec toilettes. \n\nLaverie commune\nAscenseur\nPlace de parking en sous sol (petite place)\n\nLe chauffage est individuel électrique\nL'eau chaude est individuelle électrique\nL'eau froide est collective\n\nLo",
@@ -40296,7 +40406,7 @@
    "also": [],
    "dup_of": "bienici:ag752345-527397419",
    "first_seen": "2026-11-21T11:40:19+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -40666,7 +40776,7 @@
    "also": [],
    "dup_of": "bienici:ics-anj_ANJALYS_loc-GES20800202-713",
    "first_seen": "2026-11-21T13:20:20+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -40714,7 +40824,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:50:19+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": 65.0,
     "description": "Dans une maison divisée en trois logements, nous proposons un studio meublé, entièrement refait à neuf, de 21,21 m2 loi Carrez. Vous serez la première ou le premier locataire.\nSon espace est optimisé et possède de nombreux rangements grâce à la hauteur sous plafond. L'isolation est très performante, le DPE, fait il y a 1 mois, l'atteste et est disponible. \nCuisine/salon entièrement équipés : frigo intégré, lave-vaisselle, plaques à induction, four option micro onde intégré, hotte à extraction, V",
@@ -40752,7 +40862,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T15:30:17+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": 30.0,
     "description": "LYON 1er, rue Flesselles, proche clinique Saint Charles, en étage, type 1, grande pièce (avec\nplacard), séparée par une cloison pour former 2 pièces (espace cuisine et espace nuit), comptoir,\ncuisine équipée, frigo, four multifonctions, plaque vitrocéramique, hotte aspirante, machine à\nlaver/sèche linge, aspirateur, BZ dans le salon et TV. Double vitrages, très lumineux. Loyer = 488 Euros (458+30) charges comprises meublé et équipé.",
@@ -40791,7 +40901,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T16:30:17+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": 65.0,
     "description": "GERLAND Rue Jacques Monod A proximité immédiate du Métro B et des Tram 1 et 6 Arrêt Debourg, des Ecoles Normales Supérieures et de tous les commerces et services\nAgréable T1 Meublé 27m2 + Parking privé dans sous-sol sécurisé 2e étage dans copropriété bon standing avec ascenseur et interphone. Hall avec grand placard Grande pièce lumineuse avec coin cuisine équipée ( plaques de cuisson, réfrigérateur, micro-onde, table, chaise, rangements, vaisselle ) et coin nuit avec bureau + étagères et canapé",
@@ -40829,7 +40939,7 @@
    ],
    "dup_of": null,
    "first_seen": "2026-11-21T16:30:17+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": 18.0,
     "description": "Idéalement situé à 2mn des arrêts de bus « Grand Clément » et « Blanqui-le Rize », à quelques minutes du métro Flachet, et de la gare de Villeurbanne, de l’IUT Gratte-Ciel, du Médipôle Vinatier / Edouard Herriot ,… dans une résidence de caractère, sécurisée totalement rénovée, à proximité des commerces, nous vous proposons à la location, au 3ème étage avec ascenseur, un joli studio meublé de 18m² environ, rénové et très bien équipé, comprenant entrée avec placard, salle d’eau - WC, une pièce pri",
@@ -40869,7 +40979,7 @@
    "also": [],
    "dup_of": "bienici:ag603630-552438875",
    "first_seen": "2026-11-21T16:30:17+00:00",
-   "last_seen": "2026-11-22T04:40:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -40911,13 +41021,13 @@
     "url": "https://www.leboncoin.fr/ad/locations/3314814710"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3314917748": {
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T06:40:24+00:00",
-   "last_seen": "2026-11-22T06:40:24+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
    "listing": {
     "charges": 45.0,
     "description": "Nous louons T1 meublé de 24 m2 + balcon terrasse de 4 m2 au 2ème et dernier étage d’un petit immeuble sécurisé, rue des Roses, avec place de parking privative en sous sol. Proche commerces, transports (Bus C25 à 3 mn, Métro D à 10 mn et T6 à 8 mn). Chaudière individuelle Gaz. Les charges comprennent l’entretien des parties communes, espace verts et révision chaudière. DPE 07/2025 -Libre au 1er décembre 2026. 1er contact par email, merci",
@@ -40949,6 +41059,53 @@
     "url": "https://www.leboncoin.fr/ad/locations/3314917748"
    },
    "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3315228189": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T12:50:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
+   "listing": {
+    "charges": 0.0,
+    "description": "Loue studio meublé 19m² dans résidence étudiante, bd du 11 novembre en face de l'INSA sur le\ncampus de la Doua. Lit 1 personne, kitchenette refaite à neuf (frigo neuf, micro ondes,\nrangement), bureau, placard dans l'entrée, salle de bain. 570€ CC, frais eau & électricité à\nrajouter.\nRésidence calme et sécurisée avec gardien, interphone et accès avec badge. \nDisponible immédiatement.\nProche tram T1 & T4. Etudiant uniquement.",
+    "district": "Villeurbanne 69100",
+    "flags": [
+     "available_now",
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/05/74/ad/0574adf4c85b2d4a95871a0906206e4d376141ac.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/14/fb/c3/14fbc3d494d0526947c9372e1f18544e620591c5.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/01/68/b6/0168b67d744eef3856fd001b7fa71af9d770c8bb.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/4d/d4/19/4dd4194e880995671bf378f738c9147c634602cf.jpg?rule=ad-large"
+    ],
+    "postal_code": "69100",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-22 12:38:00",
+    "rent_cc": 570.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3315228189",
+    "surface_m2": 19.0,
+    "tags": [],
+    "title": "A louer - studio meuble la doua",
+    "url": "https://www.leboncoin.fr/ad/locations/3315228189"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3315235652": {
+   "also": [],
+   "dup_of": "studapart:residence_1601",
+   "first_seen": "2026-11-22T12:50:21+00:00",
+   "last_seen": "2026-11-22T12:50:21+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "paruvendu:1286858274": {
@@ -43604,7 +43761,9 @@
    "status": "stale"
   },
   "paruvendu:1297719335": {
-   "also": [],
+   "also": [
+    "leboncoin:3279839593"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T19:20:17+00:00",
    "last_seen": "2026-11-22T10:40:26+00:00",
@@ -45004,7 +45163,9 @@
    "status": "active"
   },
   "studapart:residence_1601": {
-   "also": [],
+   "also": [
+    "leboncoin:3315235652"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T22:01:56+00:00",
    "last_seen": "2026-11-22T10:00:36+00:00",
