@@ -1,0 +1,570 @@
+{
+ "cities": {
+  "paris": {
+   "name": "Paris",
+   "dept": "75",
+   "postal_codes": [
+    "75001",
+    "75002",
+    "75003",
+    "75004",
+    "75005",
+    "75006",
+    "75007",
+    "75008",
+    "75009",
+    "75010",
+    "75011",
+    "75012",
+    "75013",
+    "75014",
+    "75015",
+    "75016",
+    "75017",
+    "75018",
+    "75019",
+    "75020",
+    "75116"
+   ],
+   "lat": 48.8589,
+   "lng": 2.347,
+   "sources": {
+    "paruvendu": {
+     "urls": [
+      "https://www.paruvendu.fr/immobilier/recherche/location/appartement/paris/"
+     ]
+    },
+    "foncia": {
+     "urls": [
+      "https://fr.foncia.com/location/paris-75/appartement-meuble",
+      "https://fr.foncia.com/location/paris-75/appartement"
+     ]
+    },
+    "immojeune": {
+     "urls": [
+      "https://www.immojeune.com/logement-etudiant/paris-75.html",
+      "https://www.immojeune.com/location-etudiant/paris-75.html"
+     ]
+    },
+    "studapart": {
+     "urls": [
+      "https://www.studapart.com/fr/location-studio-paris",
+      "https://www.studapart.com/fr/location-appartement-paris"
+     ]
+    },
+    "lacartedescolocs": {
+     "url": "https://www.lacartedescolocs.fr/colocations/fr/ile-de-france/paris"
+    },
+    "bienici": {
+     "zone_ids": [
+      "-7444"
+     ]
+    },
+    "leboncoin": {
+     "city": "Paris",
+     "lat": 48.8589,
+     "lng": 2.347,
+     "radius_m": 9000
+    }
+   }
+  },
+  "marseille": {
+   "name": "Marseille",
+   "dept": "13",
+   "postal_codes": [
+    "13001",
+    "13002",
+    "13003",
+    "13004",
+    "13005",
+    "13006",
+    "13007",
+    "13008",
+    "13009",
+    "13010",
+    "13011",
+    "13012",
+    "13013",
+    "13014",
+    "13015",
+    "13016"
+   ],
+   "lat": 43.2803,
+   "lng": 5.3806,
+   "sources": {
+    "paruvendu": {
+     "urls": [
+      "https://www.paruvendu.fr/immobilier/recherche/location/appartement/marseille/"
+     ]
+    },
+    "foncia": {
+     "urls": [
+      "https://fr.foncia.com/location/marseille-13/appartement-meuble",
+      "https://fr.foncia.com/location/marseille-13/appartement"
+     ]
+    },
+    "studapart": {
+     "urls": [
+      "https://www.studapart.com/fr/location-studio-marseille",
+      "https://www.studapart.com/fr/location-appartement-marseille"
+     ]
+    },
+    "lacartedescolocs": {
+     "url": "https://www.lacartedescolocs.fr/colocations/fr/provence-alpes-cote-d-azur/marseille"
+    },
+    "bienici": {
+     "zone_ids": [
+      "-76469"
+     ]
+    },
+    "leboncoin": {
+     "city": "Marseille",
+     "lat": 43.2803,
+     "lng": 5.3806,
+     "radius_m": 9000
+    }
+   }
+  },
+  "toulouse": {
+   "name": "Toulouse",
+   "dept": "31",
+   "postal_codes": [
+    "31000",
+    "31100",
+    "31200",
+    "31300",
+    "31400",
+    "31500"
+   ],
+   "lat": 43.6007,
+   "lng": 1.4328,
+   "sources": {
+    "leboncoin": {
+     "city": "Toulouse",
+     "lat": 43.6007,
+     "lng": 1.4328,
+     "radius_m": 9000
+    },
+    "paruvendu": {
+     "urls": [
+      "https://www.paruvendu.fr/immobilier/recherche/location/appartement/toulouse/"
+     ]
+    },
+    "foncia": {
+     "urls": [
+      "https://fr.foncia.com/location/toulouse-31/appartement-meuble",
+      "https://fr.foncia.com/location/toulouse-31/appartement"
+     ]
+    },
+    "immojeune": {
+     "urls": [
+      "https://www.immojeune.com/logement-etudiant/toulouse-31.html",
+      "https://www.immojeune.com/location-etudiant/toulouse-31.html"
+     ]
+    },
+    "studapart": {
+     "urls": [
+      "https://www.studapart.com/fr/location-studio-toulouse",
+      "https://www.studapart.com/fr/location-appartement-toulouse"
+     ]
+    },
+    "lacartedescolocs": {
+     "url": "https://www.lacartedescolocs.fr/colocations/fr/occitanie/toulouse"
+    },
+    "bienici": {
+     "zone_ids": [
+      "-35738"
+     ]
+    }
+   }
+  },
+  "bordeaux": {
+   "name": "Bordeaux",
+   "dept": "33",
+   "postal_codes": [
+    "33000",
+    "33100",
+    "33200",
+    "33300",
+    "33800"
+   ],
+   "lat": 44.8624,
+   "lng": -0.5848,
+   "sources": {
+    "leboncoin": {
+     "city": "Bordeaux",
+     "lat": 44.8624,
+     "lng": -0.5848,
+     "radius_m": 9000
+    },
+    "paruvendu": {
+     "urls": [
+      "https://www.paruvendu.fr/immobilier/recherche/location/appartement/bordeaux/"
+     ]
+    },
+    "foncia": {
+     "urls": [
+      "https://fr.foncia.com/location/bordeaux-33/appartement-meuble",
+      "https://fr.foncia.com/location/bordeaux-33/appartement"
+     ]
+    },
+    "studapart": {
+     "urls": [
+      "https://www.studapart.com/fr/location-studio-bordeaux",
+      "https://www.studapart.com/fr/location-appartement-bordeaux"
+     ]
+    },
+    "lacartedescolocs": {
+     "url": "https://www.lacartedescolocs.fr/colocations/fr/nouvelle-aquitaine/bordeaux"
+    },
+    "bienici": {
+     "zone_ids": [
+      "-105270"
+     ]
+    }
+   }
+  },
+  "lille": {
+   "name": "Lille",
+   "dept": "59",
+   "postal_codes": [
+    "59000",
+    "59160",
+    "59260",
+    "59777",
+    "59800"
+   ],
+   "lat": 50.6311,
+   "lng": 3.0468,
+   "sources": {
+    "paruvendu": {
+     "urls": [
+      "https://www.paruvendu.fr/immobilier/recherche/location/appartement/lille/"
+     ]
+    },
+    "foncia": {
+     "urls": [
+      "https://fr.foncia.com/location/lille-59/appartement-meuble",
+      "https://fr.foncia.com/location/lille-59/appartement"
+     ]
+    },
+    "studapart": {
+     "urls": [
+      "https://www.studapart.com/fr/location-studio-lille",
+      "https://www.studapart.com/fr/location-appartement-lille"
+     ]
+    },
+    "lacartedescolocs": {
+     "url": "https://www.lacartedescolocs.fr/colocations/fr/hauts-de-france/lille"
+    },
+    "bienici": {
+     "zone_ids": [
+      "-58404"
+     ]
+    },
+    "leboncoin": {
+     "city": "Lille",
+     "lat": 50.6311,
+     "lng": 3.0468,
+     "radius_m": 9000
+    }
+   }
+  },
+  "nantes": {
+   "name": "Nantes",
+   "dept": "44",
+   "postal_codes": [
+    "44000",
+    "44100",
+    "44200",
+    "44300"
+   ],
+   "lat": 47.2382,
+   "lng": -1.5603,
+   "sources": {
+    "paruvendu": {
+     "urls": [
+      "https://www.paruvendu.fr/immobilier/recherche/location/appartement/nantes/"
+     ]
+    },
+    "foncia": {
+     "urls": [
+      "https://fr.foncia.com/location/nantes-44/appartement-meuble",
+      "https://fr.foncia.com/location/nantes-44/appartement"
+     ]
+    },
+    "immojeune": {
+     "urls": [
+      "https://www.immojeune.com/logement-etudiant/nantes-44.html",
+      "https://www.immojeune.com/location-etudiant/nantes-44.html"
+     ]
+    },
+    "studapart": {
+     "urls": [
+      "https://www.studapart.com/fr/location-studio-nantes",
+      "https://www.studapart.com/fr/location-appartement-nantes"
+     ]
+    },
+    "lacartedescolocs": {
+     "url": "https://www.lacartedescolocs.fr/colocations/fr/pays-de-la-loire/nantes"
+    },
+    "bienici": {
+     "zone_ids": [
+      "-59874"
+     ]
+    },
+    "leboncoin": {
+     "city": "Nantes",
+     "lat": 47.2382,
+     "lng": -1.5603,
+     "radius_m": 9000
+    }
+   }
+  },
+  "montpellier": {
+   "name": "Montpellier",
+   "dept": "34",
+   "postal_codes": [
+    "34000",
+    "34070",
+    "34080",
+    "34090"
+   ],
+   "lat": 43.61,
+   "lng": 3.8742,
+   "sources": {
+    "leboncoin": {
+     "city": "Montpellier",
+     "lat": 43.61,
+     "lng": 3.8742,
+     "radius_m": 9000
+    },
+    "paruvendu": {
+     "urls": [
+      "https://www.paruvendu.fr/immobilier/recherche/location/appartement/montpellier/"
+     ]
+    },
+    "foncia": {
+     "urls": [
+      "https://fr.foncia.com/location/montpellier-34/appartement-meuble",
+      "https://fr.foncia.com/location/montpellier-34/appartement"
+     ]
+    },
+    "immojeune": {
+     "urls": [
+      "https://www.immojeune.com/logement-etudiant/montpellier-34.html",
+      "https://www.immojeune.com/location-etudiant/montpellier-34.html"
+     ]
+    },
+    "studapart": {
+     "urls": [
+      "https://www.studapart.com/fr/location-studio-montpellier",
+      "https://www.studapart.com/fr/location-appartement-montpellier"
+     ]
+    },
+    "lacartedescolocs": {
+     "url": "https://www.lacartedescolocs.fr/colocations/fr/occitanie/montpellier"
+    },
+    "bienici": {
+     "zone_ids": [
+      "-28722"
+     ]
+    }
+   }
+  },
+  "strasbourg": {
+   "name": "Strasbourg",
+   "dept": "67",
+   "postal_codes": [
+    "67000",
+    "67100",
+    "67200"
+   ],
+   "lat": 48.5691,
+   "lng": 7.7621,
+   "sources": {
+    "paruvendu": {
+     "urls": [
+      "https://www.paruvendu.fr/immobilier/recherche/location/appartement/strasbourg/"
+     ]
+    },
+    "foncia": {
+     "urls": [
+      "https://fr.foncia.com/location/strasbourg-67/appartement-meuble",
+      "https://fr.foncia.com/location/strasbourg-67/appartement"
+     ]
+    },
+    "studapart": {
+     "urls": [
+      "https://www.studapart.com/fr/location-studio-strasbourg",
+      "https://www.studapart.com/fr/location-appartement-strasbourg"
+     ]
+    },
+    "lacartedescolocs": {
+     "url": "https://www.lacartedescolocs.fr/colocations/fr/grand-est/strasbourg"
+    },
+    "bienici": {
+     "zone_ids": [
+      "-71033"
+     ]
+    },
+    "leboncoin": {
+     "city": "Strasbourg",
+     "lat": 48.5691,
+     "lng": 7.7621,
+     "radius_m": 9000
+    }
+   }
+  },
+  "rennes": {
+   "name": "Rennes",
+   "dept": "35",
+   "postal_codes": [
+    "35000",
+    "35200",
+    "35700"
+   ],
+   "lat": 48.1159,
+   "lng": -1.6884,
+   "sources": {
+    "paruvendu": {
+     "urls": [
+      "https://www.paruvendu.fr/immobilier/recherche/location/appartement/rennes/"
+     ]
+    },
+    "foncia": {
+     "urls": [
+      "https://fr.foncia.com/location/rennes-35/appartement-meuble",
+      "https://fr.foncia.com/location/rennes-35/appartement"
+     ]
+    },
+    "immojeune": {
+     "urls": [
+      "https://www.immojeune.com/logement-etudiant/rennes-35.html",
+      "https://www.immojeune.com/location-etudiant/rennes-35.html"
+     ]
+    },
+    "studapart": {
+     "urls": [
+      "https://www.studapart.com/fr/location-studio-rennes",
+      "https://www.studapart.com/fr/location-appartement-rennes"
+     ]
+    },
+    "lacartedescolocs": {
+     "url": "https://www.lacartedescolocs.fr/colocations/fr/bretagne/rennes"
+    },
+    "bienici": {
+     "zone_ids": [
+      "-54517"
+     ]
+    },
+    "leboncoin": {
+     "city": "Rennes",
+     "lat": 48.1159,
+     "lng": -1.6884,
+     "radius_m": 9000
+    }
+   }
+  },
+  "grenoble": {
+   "name": "Grenoble",
+   "dept": "38",
+   "postal_codes": [
+    "38000",
+    "38100"
+   ],
+   "lat": 45.1842,
+   "lng": 5.7155,
+   "sources": {
+    "leboncoin": {
+     "city": "Grenoble",
+     "lat": 45.1842,
+     "lng": 5.7155,
+     "radius_m": 9000
+    },
+    "paruvendu": {
+     "urls": [
+      "https://www.paruvendu.fr/immobilier/recherche/location/appartement/grenoble/"
+     ]
+    },
+    "foncia": {
+     "urls": [
+      "https://fr.foncia.com/location/grenoble-38/appartement-meuble",
+      "https://fr.foncia.com/location/grenoble-38/appartement"
+     ]
+    },
+    "immojeune": {
+     "urls": [
+      "https://www.immojeune.com/logement-etudiant/grenoble-38.html",
+      "https://www.immojeune.com/location-etudiant/grenoble-38.html"
+     ]
+    },
+    "studapart": {
+     "urls": [
+      "https://www.studapart.com/fr/location-studio-grenoble",
+      "https://www.studapart.com/fr/location-appartement-grenoble"
+     ]
+    },
+    "lacartedescolocs": {
+     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/grenoble"
+    },
+    "bienici": {
+     "zone_ids": [
+      "-80348"
+     ]
+    }
+   }
+  },
+  "nice": {
+   "name": "Nice",
+   "dept": "06",
+   "postal_codes": [
+    "06000",
+    "06100",
+    "06200",
+    "06300"
+   ],
+   "lat": 43.7032,
+   "lng": 7.2528,
+   "sources": {
+    "paruvendu": {
+     "urls": [
+      "https://www.paruvendu.fr/immobilier/recherche/location/appartement/nice/"
+     ]
+    },
+    "foncia": {
+     "urls": [
+      "https://fr.foncia.com/location/nice-06/appartement-meuble",
+      "https://fr.foncia.com/location/nice-06/appartement"
+     ]
+    },
+    "immojeune": {
+     "urls": [
+      "https://www.immojeune.com/logement-etudiant/nice-06.html",
+      "https://www.immojeune.com/location-etudiant/nice-06.html"
+     ]
+    },
+    "studapart": {
+     "urls": [
+      "https://www.studapart.com/fr/location-studio-nice",
+      "https://www.studapart.com/fr/location-appartement-nice"
+     ]
+    },
+    "lacartedescolocs": {
+     "url": "https://www.lacartedescolocs.fr/colocations/fr/provence-alpes-cote-d-azur/nice"
+    },
+    "bienici": {
+     "zone_ids": [
+      "-170100"
+     ]
+    },
+    "leboncoin": {
+     "city": "Nice",
+     "lat": 43.7032,
+     "lng": 7.2528,
+     "radius_m": 9000
+    }
+   }
+  }
+ }
+}

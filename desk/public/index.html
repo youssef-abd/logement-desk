@@ -56,6 +56,7 @@
     <section class="controls" aria-label="Filters">
       <select id="sort" aria-label="Sort"><option value="newest">Newest first</option><option value="price">Price, low to high</option><option value="eur_m2">€/m², low to high</option><option value="size">Largest first</option></select>
       <select id="source" aria-label="Source"><option value="all">All sources</option></select>
+      <select id="city" aria-label="City" hidden><option value="all">All cities</option></select>
       <select id="kind" aria-label="Type"><option value="all">All types</option><option value="flat">Flats only</option><option value="studio">Studios</option><option value="t1">T1</option><option value="t2">T2</option><option value="t3+">T3 and up</option><option value="room">Rooms</option><option value="coloc">Colocations only</option></select>
       <select id="furn" aria-label="Furnished"><option value="known">Furnished or unknown</option><option value="yes">Furnished only</option><option value="any">Any</option></select>
       <label class="rng">Max rent <output id="rentout"></output><input type="range" id="rent" min="300" max="1200" step="50" aria-label="Maximum rent"></label>
@@ -88,6 +89,9 @@
     <label for="me-name">Name</label><input id="me-name" autocomplete="name">
     <label for="me-phone">Phone</label><input id="me-phone" autocomplete="tel">
     <label for="me-visale">Visale number</label><input id="me-visale" autocomplete="off"></div>
+  <div class="box"><strong>Cities to search</strong><p class="sub">The next run (within 10 minutes) starts collecting what you tick here. Up to 6 cities.</p>
+    <div class="citybox" id="citybox"></div>
+    <button class="btn" id="citysave" type="button">Save cities</button> <span class="sub" id="citymsg"></span></div>
   <div class="box"><strong>Alerts on this device</strong><p class="sub" id="pushmsg"></p>
     <button class="btn" id="pushbtn" type="button">Turn on alerts</button> <button class="btn" id="pushtest" type="button">Send a test</button></div>
   <div class="box"><strong>Run now</strong><p class="sub" id="runmsg"></p><button class="btn" id="runbtn" type="button">Start a run</button></div>

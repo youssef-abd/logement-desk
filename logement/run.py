@@ -9,6 +9,7 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 
 from . import store
+from . import cities as citymod
 from .config import load_profile
 from .dedupe import process
 from .errors import Blocked, DriftError, EmptyResult
@@ -50,8 +51,35 @@ def _record_success(h, now, profile):
         h["last_success"] = now
 
 
-def run(profile, state, now, fetchers=None, sleep=time.sleep, deep=False):
+def _fetch_cities(fetch, name, fetch_profile, passes, sleep):
+    """One fetch per wanted city, each with that city's verified options for this source; a city that fails does not lose the others."""
+    items, errors = [], []
+    for key, _name, _codes, overrides in passes:
+        if overrides is None:
+            p = fetch_profile  # the home city: the profile's own settings
+        elif name in overrides:
+            p = {**fetch_profile, "sources": {**fetch_profile["sources"], name: {**fetch_profile["sources"][name], **overrides[name]}}}
+        else:
+            continue  # nothing verified for this source in that city
+        try:
+            got = _fetch_with_retry(fetch, p, sleep)
+        except Exception as e:
+            errors.append(e)
+            continue
+        for l in got:
+            l.city = key
+        items += got
+    if not items and errors:
+        raise errors[0]
+    return items
+
+
+def run(profile, state, now, fetchers=None, sleep=time.sleep, deep=False, cities=None, registry=None):
     fetch_profile = {**profile, **(profile.get("collect") or {}), **({"deep": True} if deep else {})}  # sources are asked with the wide net
+    passes = citymod.plan(profile, citymod.load_registry() if registry is None else registry, cities)
+    codes = [p[2] for p in passes]
+    allowed = [] if any(not c for c in codes) else sorted({x for c in codes for x in c})  # an unrestricted city leaves the area filter off
+    profile = {**profile, "areas": {**profile["areas"], "allowed_postal_codes": allowed}}
     fetchers = fetchers or {}
     state.setdefault("listings", {})
     health = state.setdefault("health", {})
@@ -69,7 +97,7 @@ def run(profile, state, now, fetchers=None, sleep=time.sleep, deep=False):
             continue
         fetch = fetchers.get(name) or load_fetch(name)
         try:
-            items = _fetch_with_retry(fetch, fetch_profile, sleep)
+            items = _fetch_cities(fetch, name, fetch_profile, passes, sleep)
             check_drift(items, profile["health"]["drift_ratio"])
             if not items:
                 raise EmptyResult("no listings")
@@ -102,7 +130,7 @@ def run(profile, state, now, fetchers=None, sleep=time.sleep, deep=False):
     store.prune(state, now, profile["prune_days"])
     attempted = [r for r in report.values() if r["status"] in ("ok", "error", "blocked")]
     failing = sorted(n for n, h in health.items() if h["consecutive_failures"] >= threshold)
-    return {"alerts": alerts, "report": report, "failing": failing, "newly_failing": newly_failing,
+    return {"cities": [{"key": k, "name": n, "postal_codes": c} for k, n, c, _ in passes], "alerts": alerts, "report": report, "failing": failing, "newly_failing": newly_failing,
             "run_failed": bool(attempted) and not ok}
 
 
@@ -128,7 +156,8 @@ def main(argv=None):
     state = store.load(a.state)
     working = copy.deepcopy(state) if a.check else state
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    res = run(profile, working, now, deep=a.deep)
+    wanted = citymod.desk_cities() or profile.get("cities")
+    res = run(profile, working, now, deep=a.deep, cities=wanted)
 
     for name, r in res["report"].items():  # counts only: the Actions log of a public repo is public
         extra = f" fetched={r['fetched']} kept={r['kept']}" if r["status"] == "ok" else ""
@@ -142,7 +171,7 @@ def main(argv=None):
         store.save(a.state, state)
         os.makedirs("out", exist_ok=True)
         with open("out/desk.json", "w", encoding="utf-8", newline="\n") as f:
-            json.dump(build_payload(state, res["report"], now, profile), f, ensure_ascii=False)
+            json.dump(build_payload(state, res["report"], now, profile, res["cities"]), f, ensure_ascii=False)
         topic = os.environ.get("NTFY_TOPIC", "")
         if topic and res["newly_failing"]:
             notify(topic, "logement-desk: source failing: " + ", ".join(res["newly_failing"]))

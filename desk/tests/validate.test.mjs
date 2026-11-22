@@ -94,3 +94,11 @@ test("cleanPayload keeps the match flag and the criteria, and tolerates their ab
   assert.equal(cleanPayload({ listings: [l] }).criteria, null);
   assert.equal(cleanPayload({ listings: [l], criteria: { max_rent_cc: "x" } }).criteria, null);
 });
+
+test("cleanPayload keeps valid cities and a listing's city, and drops bad ones", () => {
+  const l = { id: "a", source: "bienici", url: "https://www.bienici.com/annonce/a", city: "grenoble" };
+  const p = cleanPayload({ listings: [l, { ...l, id: "b", city: "../x" }], cities: [{ key: "lyon", name: "Lyon", postal_codes: ["69001"] }, { key: "Bad Key" }, null] });
+  assert.deepEqual(p.listings.map((x) => x.city), ["grenoble", null]);
+  assert.deepEqual(p.cities, [{ key: "lyon", name: "Lyon", postal_codes: ["69001"] }]);
+  assert.deepEqual(cleanPayload({ listings: [l] }).cities, []);
+});

@@ -1,0 +1,50 @@
+[
+ {
+  "key": "lyon",
+  "name": "Lyon"
+ },
+ {
+  "key": "bordeaux",
+  "name": "Bordeaux"
+ },
+ {
+  "key": "grenoble",
+  "name": "Grenoble"
+ },
+ {
+  "key": "lille",
+  "name": "Lille"
+ },
+ {
+  "key": "marseille",
+  "name": "Marseille"
+ },
+ {
+  "key": "montpellier",
+  "name": "Montpellier"
+ },
+ {
+  "key": "nantes",
+  "name": "Nantes"
+ },
+ {
+  "key": "nice",
+  "name": "Nice"
+ },
+ {
+  "key": "paris",
+  "name": "Paris"
+ },
+ {
+  "key": "rennes",
+  "name": "Rennes"
+ },
+ {
+  "key": "strasbourg",
+  "name": "Strasbourg"
+ },
+ {
+  "key": "toulouse",
+  "name": "Toulouse"
+ }
+]

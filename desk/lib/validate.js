@@ -27,7 +27,7 @@ export function cleanListing(l) {
     risk: ["check", "high"].includes(l.risk) ? l.risk : null, risk_reasons: arr(l.risk_reasons, 60, 5),
     status: l.status === "stale" ? "stale" : "active", flags: arr(l.flags), tags: arr(l.tags),
     photos: (Array.isArray(l.photos) ? l.photos : []).map(safePhoto).filter(Boolean).slice(0, 8), also: num(l.also) || 0,
-    match: l.match !== false, eur_m2: num(l.eur_m2), posted: str(l.posted, 40), similar: Number.isInteger(l.similar) && l.similar > 0 ? l.similar : 0,
+    match: l.match !== false, city: /^[a-z0-9-]{2,30}$/.test(l.city || "") ? l.city : null, eur_m2: num(l.eur_m2), posted: str(l.posted, 40), similar: Number.isInteger(l.similar) && l.similar > 0 ? l.similar : 0,
   };
 }
 
@@ -51,5 +51,7 @@ export function cleanPayload(p) {
   const c = p.criteria && typeof p.criteria === "object" ? p.criteria : null;
   const criteria = c && num(c.max_rent_cc) !== null ? { max_rent_cc: c.max_rent_cc, near_miss_margin: num(c.near_miss_margin) || 0,
     furnished: ["required", "preferred", "any"].includes(c.furnished) ? c.furnished : "any", collect_max_rent_cc: num(c.collect_max_rent_cc) || c.max_rent_cc } : null;
-  return { updated: str(p.updated, 40), listings: listings.slice(0, 1500), areas: Object.fromEntries(areaEntries), health, criteria };
+  const cities = (Array.isArray(p.cities) ? p.cities : []).filter((c) => c && /^[a-z0-9-]{2,30}$/.test(c.key || "")).slice(0, 12)
+    .map((c) => ({ key: c.key, name: str(c.name, 40) || c.key, postal_codes: arr(c.postal_codes, 5, 40) }));
+  return { updated: str(p.updated, 40), listings: listings.slice(0, 1500), areas: Object.fromEntries(areaEntries), health, criteria, cities };
 }

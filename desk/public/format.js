@@ -62,6 +62,7 @@ export function matches(l, f, stage) {
   if (f.furn === "yes" && l.furnished !== true) return false;
   if (f.furn === "known" && l.furnished === false) return false;
   if (f.area && f.area !== "all" && l.postal_code !== f.area) return false;
+  if (f.city && f.city !== "all" && (l.city || "lyon") !== f.city) return false; // listings from before cities existed are Lyon's
   if (f.cheap && !(l.tags || []).includes("cheap-for-area")) return false;
   if (!f.near && (l.tags || []).includes("near-miss")) return false;
   return !f.q || `${l.title} ${l.district || ""} ${l.source}`.toLowerCase().includes(f.q.toLowerCase());

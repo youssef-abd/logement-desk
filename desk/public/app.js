@@ -5,7 +5,7 @@ const $ = (id) => document.getElementById(id);
 const ls = { get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }, set(k, v) { try { v == null ? localStorage.removeItem(k) : localStorage.setItem(k, v); } catch (e) { /* private mode */ } } };
 const S = {
   token: ls.get("ld-token") || "", data: null, marks: {}, yield: {}, sort: "newest", dense: ls.get("ld-density") === "compact", shown: 60,
-  since: Number(ls.get("ld-lastvisit")) || Date.now(), f: { tab: "new", source: "all", poster: "all", kind: "all", near: true, cheap: false, q: "", area: "all", maxRent: null, furn: "known" },
+  since: Number(ls.get("ld-lastvisit")) || Date.now(), f: { tab: "new", source: "all", poster: "all", kind: "all", near: true, cheap: false, q: "", area: "all", city: "all", maxRent: null, furn: "known" },
 };
 const TABS = [["new", "New", "New listings"], ["saved", "Saved", "Saved"], ["following", "Following", "Following up"], ["closed", "Closed", "Closed"]];
 const STAGES = [["none", "New"], ["saved", "Saved"], ["contacted", "Contacted"], ["visit", "Visit"], ["dossier", "Dossier sent"], ["refused", "Refused"]];
@@ -33,6 +33,11 @@ async function load() {
   $("source").replaceChildren(new Option("All sources", "all"), ...src.map((s) => new Option(s, s)));
   if (!src.includes(S.f.source)) S.f.source = "all";
   $("source").value = S.f.source;
+  const cs = S.data.cities || [];
+  $("city").replaceChildren(new Option("All cities", "all"), ...cs.map((c) => new Option(c.name, c.key)));
+  if (!cs.some((c) => c.key === S.f.city)) S.f.city = "all";
+  $("city").value = S.f.city; $("city").hidden = cs.length < 2;
+  if (cs.length) $("scope").textContent = cs.map((c) => c.name).join(", ") + ", furnished or not";
   setupBudget(S.data.criteria);
   render();
 }
@@ -239,7 +244,7 @@ async function runRefresh() {
 }
 function openSettings() {
   $("code").value = S.token; const m = me(); $("me-name").value = m.name || ""; $("me-phone").value = m.phone || ""; $("me-visale").value = m.visale || "";
-  $("dlg").showModal(); pushRefresh(); if (S.token) runRefresh();
+  $("dlg").showModal(); pushRefresh(); if (S.token) { runRefresh(); cityRefresh(); }
 }
 
 // the budget and furnished filters start from the owner's own criteria and can be loosened up to what the run collects
@@ -253,6 +258,27 @@ function setupBudget(c) {
 }
 const saveFilters = () => ls.set("ld-filters", JSON.stringify({ maxRent: S.f.maxRent, furn: S.f.furn }));
 const rerender = () => { S.shown = 60; render(); };
+// the cities the next runs collect: the catalogue is a static file, the choice lives on the desk
+const CITY = { catalog: [], chosen: ["lyon"] };
+function renderCityBox() {
+  $("citybox").replaceChildren(...CITY.catalog.map((c) => {
+    const lab = el("label", "chk"), box = document.createElement("input"); box.type = "checkbox"; box.value = c.key; box.checked = CITY.chosen.includes(c.key);
+    lab.append(box, document.createTextNode(" " + c.name)); return lab;
+  }));
+}
+async function cityRefresh() {
+  try { const [cat, cur] = await Promise.all([fetch("/cities.json", { cache: "no-store" }).then((r) => r.json()), api("/api/search")]); CITY.catalog = cat; CITY.chosen = cur.cities; $("citymsg").textContent = ""; }
+  catch (e) { $("citymsg").textContent = "Could not load the cities."; }
+  renderCityBox();
+}
+$("citysave").addEventListener("click", async () => {
+  const keys = [...$("citybox").querySelectorAll("input:checked")].map((i) => i.value);
+  if (!keys.length) { $("citymsg").textContent = "Pick at least one city."; return; }
+  if (keys.length > 6) { $("citymsg").textContent = "Up to 6 cities."; return; }
+  try { const r = await api("/api/search", { method: "PUT", body: JSON.stringify({ cities: keys }) }); CITY.chosen = r.cities; $("citymsg").textContent = "Saved. The next run starts collecting these cities."; }
+  catch (e) { $("citymsg").textContent = "Not saved: " + e.message; }
+});
+$("city").addEventListener("change", (e) => { S.f.city = e.target.value; rerender(); });
 $("rent").addEventListener("input", (e) => { S.f.maxRent = Number(e.target.value); $("rentout").textContent = S.f.maxRent + " €"; saveFilters(); rerender(); });
 $("furn").addEventListener("change", (e) => { S.f.furn = e.target.value; saveFilters(); rerender(); });
 $("sort").addEventListener("change", (e) => { S.sort = e.target.value; rerender(); });

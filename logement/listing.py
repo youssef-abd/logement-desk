@@ -24,6 +24,7 @@ class Listing:
     flags: list = field(default_factory=list)
     tags: list = field(default_factory=list)
     found_by: str = ""
+    city: Optional[str] = None  # the registry key of the city pass that found it
     match: bool = True  # meets the owner's own criteria (the collection net can be wider)
 
     @property

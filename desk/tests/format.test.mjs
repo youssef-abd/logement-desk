@@ -110,3 +110,10 @@ test("matches applies the budget, furnished and room-type filters", () => {
   assert.equal(matches(L({ kind: "t2" }), { ...F, kind: "studio" }, "none"), false);
   assert.equal(matches(L({ kind: "studio" }), { ...F, kind: "studio" }, "none"), true);
 });
+
+test("matches filters by city and treats listings without one as Lyon", () => {
+  assert.equal(matches(L({ city: "grenoble" }), { ...F, city: "lyon" }, "none"), false);
+  assert.equal(matches(L({ city: "grenoble" }), { ...F, city: "grenoble" }, "none"), true);
+  assert.equal(matches(L(), { ...F, city: "lyon" }, "none"), true);
+  assert.equal(matches(L(), { ...F, city: "all" }, "none"), true);
+});
