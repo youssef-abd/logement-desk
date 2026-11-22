@@ -26,10 +26,10 @@
    "consecutive_failures": 0,
    "cooldown_until": null,
    "last_error": null,
-   "last_success": "2026-11-22T12:50:21+00:00"
+   "last_success": "2026-11-22T15:50:25+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -67998,6 +67998,44 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:bn1erk": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T15:50:25+00:00",
+   "last_seen": "2026-11-22T15:50:25+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 101 m². Disponible dès 2026-12-23",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-873d582134c303ce135fd2d8dafb2b27/6620801/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 637,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "bn1erk",
+    "surface_m2": 101,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 101 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/bn1erk"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:c7pkfl": {
    "also": [],
    "checked": "2026-11-22T13:40:08+00:00",
@@ -68617,6 +68655,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:mho5xl": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T15:50:25+00:00",
+   "last_seen": "2026-11-22T15:50:25+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 7 pièces de 160 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-475890de78925d503d2c59c65842ff53/6620787/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 470,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "mho5xl",
+    "surface_m2": 160,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 7 pièces de 160 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/mho5xl"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:mj9i2g": {
    "also": [],
    "dup_of": null,
@@ -69051,6 +69126,44 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:sru1rs": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T15:50:25+00:00",
+   "last_seen": "2026-11-22T15:50:25+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 90 m². Disponible dès 2026-12-18",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-d7ed6a9b2969bb9c11a2ba49d097e08e/6620712/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 650,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "sru1rs",
+    "surface_m2": 90,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/sru1rs"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:t186e0": {
    "also": [],
