@@ -29,7 +29,7 @@
    "last_success": "2026-11-22T00:30:20+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
+   "blocked_runs": 1,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-22T01:00:21+00:00",
    "last_error": "blocked",
@@ -35066,7 +35066,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T21:50:17+00:00",
-   "last_seen": "2026-11-21T21:50:17+00:00",
+   "last_seen": "2026-11-22T01:00:51+00:00",
    "listing": {
     "charges": null,
     "description": "",
@@ -37510,7 +37510,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/s9icmn"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:t186e0": {
    "also": [],
