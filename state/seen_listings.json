@@ -68965,7 +68965,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T18:30:23+00:00",
-   "last_seen": "2026-11-22T18:30:23+00:00",
+   "last_seen": "2026-11-22T21:30:30+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -69467,6 +69467,43 @@
     ],
     "title": "Appartement 5 pièces de 98 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/lbwiw1"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:m0x3l1": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T21:30:30+00:00",
+   "last_seen": "2026-11-22T21:30:30+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 50 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-df9affde483f11d7265aa77c0be538f7/6541000/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 455,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "m0x3l1",
+    "surface_m2": 50,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 50 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/m0x3l1"
    },
    "notified": false,
    "status": "active"
