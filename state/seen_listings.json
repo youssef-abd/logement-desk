@@ -29,7 +29,7 @@
    "last_success": "2026-11-22T19:01:02+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 9,
+   "blocked_runs": 10,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -33738,6 +33738,7 @@
    "also": [
     "paruvendu:1297678227"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -33780,6 +33781,7 @@
   },
   "bienici:citya-immobilier-5042-GES50020076-175": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -33823,6 +33825,7 @@
   },
   "bienici:citya-immobilier-5042-GES59310007-175": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -33867,6 +33870,7 @@
    "also": [
     "paruvendu:1297470468"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -33911,6 +33915,7 @@
    "also": [
     "paruvendu:1297596536"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -33955,6 +33960,7 @@
    "also": [
     "paruvendu:1295782650"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -34040,6 +34046,7 @@
    "also": [
     "paruvendu:1297632526"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -34134,6 +34141,7 @@
    "also": [
     "paruvendu:1296582891"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -34277,6 +34285,7 @@
    "also": [
     "leboncoin:3300018734"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -34394,6 +34403,7 @@
   },
   "bienici:era-2-56264816": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -34434,6 +34444,7 @@
   },
   "bienici:era-2-61725552": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -35334,6 +35345,7 @@
   },
   "bienici:gedeon-33468959": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -35680,6 +35692,7 @@
   },
   "bienici:gedeon-33672221": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -35880,6 +35893,7 @@
   },
   "bienici:gedeon-34033212": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -35919,6 +35933,7 @@
   },
   "bienici:gedeon-34042420": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -35960,6 +35975,7 @@
   },
   "bienici:gedeon-34059121": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36005,6 +36021,7 @@
   },
   "bienici:gedeon-34070434": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36046,6 +36063,7 @@
   },
   "bienici:gedeon-34074425": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36205,6 +36223,7 @@
   },
   "bienici:gedeon-34124850": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36291,6 +36310,7 @@
   },
   "bienici:gedeon-34156012": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36369,6 +36389,7 @@
   },
   "bienici:gedeon-34191764": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36457,6 +36478,7 @@
   },
   "bienici:gedeon-34218849": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36496,6 +36518,7 @@
   },
   "bienici:gedeon-34219868": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36538,6 +36561,7 @@
   },
   "bienici:gedeon-34236900": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36579,6 +36603,7 @@
   },
   "bienici:guy-hoquet-18-GT0208-9178": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36622,6 +36647,7 @@
    "also": [
     "leboncoin:3307909911"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36701,6 +36727,7 @@
    "also": [
     "leboncoin:3288291577"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36742,6 +36769,7 @@
    "also": [
     "leboncoin:3302599723"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36900,6 +36928,7 @@
   },
   "bienici:guy-hoquet-18-GT0236-5099": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -36983,6 +37012,7 @@
   },
   "bienici:guy-hoquet-18-GT0477-6366": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -37132,6 +37162,7 @@
   },
   "bienici:guy-hoquet-18-GT0648-5283": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -37483,6 +37514,7 @@
   },
   "bienici:guy-hoquet-immo-facile-7820351": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -37525,6 +37557,7 @@
   },
   "bienici:hektor-133_ericmey-110539": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -37678,6 +37711,7 @@
   },
   "bienici:hektor-1_virginie-france-immobilier-47": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -37794,6 +37828,7 @@
   },
   "bienici:hektor-2138_EXPERTIMO22-330402": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -37835,6 +37870,7 @@
   },
   "bienici:hektor-2_metropole69490-1166": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -37873,6 +37909,7 @@
   },
   "bienici:hektor-396932-110": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -37915,6 +37952,7 @@
   },
   "bienici:hektor-396932-119": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -37957,6 +37995,7 @@
   },
   "bienici:hektor-396932-120": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -38117,6 +38156,7 @@
   },
   "bienici:hektor-COGESTRIM-612": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -38156,6 +38196,7 @@
   },
   "bienici:hektor-EICARLA2020-2923": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -38196,6 +38237,7 @@
   },
   "bienici:hektor-EICARLA2020-6145": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -38350,6 +38392,7 @@
   },
   "bienici:hektor-MYCASA-32090": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -38389,6 +38432,7 @@
   },
   "bienici:hektor-MYCASA-37064": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -38551,6 +38595,7 @@
    "also": [
     "paruvendu:1296295462"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -38678,6 +38723,7 @@
    "also": [
     "paruvendu:1297526306"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -38955,6 +39001,7 @@
   },
   "bienici:hektor-archeconsultant-235": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -38997,6 +39044,7 @@
   },
   "bienici:hektor-archeconsultant-236": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -39158,6 +39206,7 @@
   },
   "bienici:hektor-betemps-1681": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -39241,6 +39290,7 @@
   },
   "bienici:hektor-betemps-1939": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -39284,6 +39334,7 @@
   },
   "bienici:hektor-betemps-1974": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -39325,6 +39376,7 @@
   },
   "bienici:hektor-betemps-2013": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -39446,6 +39498,7 @@
   },
   "bienici:hektor-developpement69-681": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -39528,6 +39581,7 @@
   },
   "bienici:hektor-grim-686": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -39569,6 +39623,7 @@
   },
   "bienici:hektor-groupe-hapi_1-131": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -39721,6 +39776,7 @@
   },
   "bienici:hektor-groupe-hapi_1-227": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -39909,6 +39965,7 @@
   },
   "bienici:hektor-groupe-hapi_1-307": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -39948,6 +40005,7 @@
   },
   "bienici:hektor-groupe-hapi_1-354": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40025,6 +40083,7 @@
   },
   "bienici:hektor-groupe-hapi_1-370": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40064,6 +40123,7 @@
   },
   "bienici:hektor-groupe-hapi_1-372": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40103,6 +40163,7 @@
   },
   "bienici:hektor-groupe-hapi_1-386": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40146,6 +40207,7 @@
   },
   "bienici:hektor-immo7-transaction-672": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40185,6 +40247,7 @@
   },
   "bienici:hektor-lesadresses_01-4112": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40228,6 +40291,7 @@
   },
   "bienici:hektor-lesadresses_01-4123": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40563,6 +40627,7 @@
    "also": [
     "leboncoin:3303886237"
    ],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40606,6 +40671,7 @@
   },
   "bienici:hektor-lyon3-2573": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40645,6 +40711,7 @@
   },
   "bienici:hektor-lyon3-2574": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40684,6 +40751,7 @@
   },
   "bienici:hektor-myhoreapartners69006-222": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40802,6 +40870,7 @@
   },
   "bienici:hektor-myhoreapartners69006-36": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40841,6 +40910,7 @@
   },
   "bienici:hektor-myhoreapartners69006-366": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40882,6 +40952,7 @@
   },
   "bienici:hektor-myhoreapartners69006-371": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40956,6 +41027,7 @@
   },
   "bienici:hektor-onilimmo-2791": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -40996,6 +41068,7 @@
   },
   "bienici:hektor-onilimmo-2835": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -41039,6 +41112,7 @@
   },
   "bienici:hektor-onilimmo-2863": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -41079,6 +41153,7 @@
   },
   "bienici:hektor-onilimmo-2886": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -41122,6 +41197,7 @@
   },
   "bienici:hektor-onilimmo-2894": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -41163,6 +41239,7 @@
   },
   "bienici:hektor-onilimmo-2895": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -41203,6 +41280,7 @@
   },
   "bienici:hektor-onilimmo-2908": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -41329,6 +41407,7 @@
   },
   "bienici:hektor-pericles-martin-immobilier-net-1495": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -41369,6 +41448,7 @@
   },
   "bienici:hektor-pericles-martin-immobilier-net-1743": {
    "also": [],
+   "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-22T19:01:02+00:00",
@@ -68811,7 +68891,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T18:00:37+00:00",
-   "last_seen": "2026-11-22T18:00:37+00:00",
+   "last_seen": "2026-11-22T21:00:46+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -69905,7 +69985,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T18:00:37+00:00",
-   "last_seen": "2026-11-22T18:00:37+00:00",
+   "last_seen": "2026-11-22T21:00:46+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -76423,7 +76503,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/chambre/1293804576A1KILHCM000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1293878771": {
    "also": [],
@@ -82646,7 +82726,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T14:00:36+00:00",
-   "last_seen": "2026-11-22T18:00:37+00:00",
+   "last_seen": "2026-11-22T21:00:46+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -82724,7 +82804,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T14:00:36+00:00",
-   "last_seen": "2026-11-22T18:00:37+00:00",
+   "last_seen": "2026-11-22T21:00:46+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
