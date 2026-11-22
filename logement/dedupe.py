@@ -39,6 +39,7 @@ def process(state, kept, ok_sources, now, profile):
             if e["status"] == "stale":
                 e["status"] = "active"
                 e["last_seen"] = now
+                e.pop("gone", None)  # the results show it again: the liveness check was wrong or the ad is back
             elif store.age_minutes(now, e["last_seen"]) >= touch:
                 e["last_seen"] = now
             continue

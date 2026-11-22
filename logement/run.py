@@ -10,6 +10,7 @@ from datetime import datetime, timedelta, timezone
 
 from . import store
 from . import cities as citymod
+from . import liveness
 from .config import load_profile
 from .dedupe import process
 from .errors import Blocked, DriftError, EmptyResult
@@ -173,6 +174,9 @@ def main(argv=None):
     wanted = citymod.desk_cities() or profile.get("cities")
     res = run(profile, working, now, deep=a.deep, cities=wanted)
 
+    if a.deep:  # open a few listing pages to catch taken-down ads sooner than the 12-hour "not seen" rule
+        live = liveness.sweep(working, now, profile)
+        print(f"liveness: checked={live['checked']} gone={live['gone']} unknown={live['unknown']}")
     for name, r in res["report"].items():  # counts only: the Actions log of a public repo is public
         extra = f" fetched={r['fetched']} kept={r['kept']}" if r["status"] == "ok" else ""
         print(f"{name}: {r['status']}{extra}")
