@@ -35262,6 +35262,86 @@
    "notified": false,
    "status": "active"
   },
+  "immojeune:4060418": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T01:20:21+00:00",
+   "last_seen": "2026-11-22T01:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "description": "",
+    "district": "Lyon 7e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/1d327d34b996dcf8de3c1da8eb7e354009a9a1a7-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/e79fc8965c28da057f3c24b74d109a19850d46d0-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/df38808a923b6a8fef71e3d072d14bc96e7737ec-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/403072d877e8b9efeeed6791b93a6e32e1ff756b-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/c134a1055e15b433f1ec4844df111a38c62890bd-570x366.jpg"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 645.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "4060418",
+    "surface_m2": 74.0,
+    "tags": [
+     "colocation",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Chambre dans une colocation de 74m² à L...",
+    "url": "https://www.immojeune.com/colocation/lyon-07-69/chambre-dans-une-colocation-de-74m-a-lyon-07_4060418.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:4060419": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T01:20:21+00:00",
+   "last_seen": "2026-11-22T01:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "description": "",
+    "district": "Lyon 7e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/a2523fef9e469f6b5e4156de603631c4f5ab8a65-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/616e5708cb5cfb66079799141f289ccc7d15ff14-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/2355fbf3205d2df744b5d740ea7dcc85a431a64a-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/edb93a430c5435a778306b6c719eae581a3776f2-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/28b1af68194d9cf08780769d61a3fc9f8f9f8c8d-570x366.jpg"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 660.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "4060419",
+    "surface_m2": 91.0,
+    "tags": [
+     "colocation",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Chambre dans une colocation de 91m² à L...",
+    "url": "https://www.immojeune.com/colocation/lyon-07-69/chambre-dans-une-colocation-de-91m-a-lyon-07_4060419.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "immojeune:4072599": {
    "also": [],
    "dup_of": null,
@@ -37340,7 +37420,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T16:10:18+00:00",
-   "last_seen": "2026-11-21T22:20:21+00:00",
+   "last_seen": "2026-11-22T01:20:21+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 5 pièces de 85 m². Disponible dès 2026-12-20",
@@ -37691,7 +37771,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T16:10:18+00:00",
-   "last_seen": "2026-11-21T22:20:21+00:00",
+   "last_seen": "2026-11-22T01:20:21+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 4 pièces de 65 m²",
@@ -42810,7 +42890,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T19:20:17+00:00",
-   "last_seen": "2026-11-21T22:20:21+00:00",
+   "last_seen": "2026-11-22T01:20:21+00:00",
    "listing": {
     "charges": null,
     "description": "Nouveau Voir d'autres photos 10 686 € CC* Appartement 30 m 2 Lyon 3 1 pièce DPE : D 256 kWh/m².an 9 kg CO 2 /m².an À Lyon 3, appartement F1 avec mezzanine de couchage, séjour, cuisine équipée, salle de bain et wc. Situé au 1er étage d'un immeuble de 5 niveaux, sécurisé par un digicode. Double vitrage et volets roulants. Un bien à découvrir rapidement. LOC'A 51 annonces 21/11/2026 Voir Contacter",
