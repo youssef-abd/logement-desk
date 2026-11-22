@@ -14,8 +14,11 @@ Read this first. State on 2026-11-22: the pipeline, the Cloudflare cron Worker (
 - The desk filters (max rent slider, furnished, room type, city) start from `criteria` in the payload and are saved per browser.
 
 ## Cities
-- `data/cities.json` (built by `python scripts/make_cities.py`, run from the PC): 11 cities with postcodes and the per-source options that really returned listings there; `desk/public/cities.json` is the catalogue shown in Settings. Lyon is the profile's own hand-tuned setup.
-- The desk stores the chosen cities in KV (`/api/search`, max 6); the run reads them (`logement/cities.py: desk_cities`, falls back to the profile's `cities`, then Lyon). `run()` makes one pass per city per source with that city's options; a failing city keeps the others; listings carry `city`. ParuVendu's city pages show only the département, so area is attributed by city, not postcode.
+- Any French commune works. In Settings the owner types a name; the desk (`/api/city-search`, a proxy of geo.api.gouv.fr) returns city records `{key, name, dept, postal_codes, lat, lng, region}`; the choice is stored in KV (`/api/search`). ONE city at a time: `MAX_CITIES` in `desk/lib/search.js` is the only number to raise for 2 or 3.
+- The run (`logement/cities.py`) reads the choice (`desk_cities`, fallback: profile `cities`, then Lyon) and builds each source's requests from the record at run time (`options_for`: one address pattern per source; Bien'ici zone ids come from its suggest service). Lyon stays the profile's own hand-tuned setup. `data/cities.json` (from `python scripts/make_cities.py`, run from the PC) holds 11 cities whose options were VERIFIED against the real sites; a verified entry wins over the generated options.
+- `run()` makes one pass per city per source; a failing city keeps the others; listings carry `city`; a site that gives no area gets the searched city's name. The payload's `cities[].sources` says per source what the last run found (`ok`/`none`/`blocked`/`error`/`n/a`, with counts); Settings shows it, so a source that finds nothing for a town is visible, not silent.
+- Switching city leaves the old city's listings active for about 12 hours; the desk defaults its city filter to the collected city. The Where map and area ranking are Lyon's and are hidden for other cities.
+- Tested end to end on 2026-11-22 with Angers (not in the registry): picked in the UI, collected on the cloud, shown on the desk; the test listings were then purged from the state.
 
 ## What exists
 - `logement/`: the pipeline. `python -m logement.run --check --show --profile profile.json` is the local dry run; `--strict` exits 1 if any source is not ok.
