@@ -29,7 +29,7 @@
    "last_success": "2026-11-22T12:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 6,
+   "blocked_runs": 7,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -63832,7 +63832,7 @@
     "url": "https://www.immojeune.com/colocation/lyon-08-69/chambre-dans-une-colocation-de-96m-a-lyon-08_3208401.html"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "immojeune:3232924": {
    "also": [
@@ -67302,6 +67302,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:lbwiw1": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T13:30:19+00:00",
+   "last_seen": "2026-11-22T13:30:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 98 m². Disponible dès 2027-01-01",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-0d01217cf3609f8c9bc07a3522e338ed/6620595/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 477,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "lbwiw1",
+    "surface_m2": 98,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 98 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/lbwiw1"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:m8xqgt": {
    "also": [],
