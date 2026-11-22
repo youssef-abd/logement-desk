@@ -75,6 +75,8 @@ def _fetch_cities(fetch, name, fetch_profile, passes, sleep, city_report=None):
             continue
         for l in got:
             l.city = key
+            if overrides is not None and not l.district:
+                l.district = _name  # some sites give only the département: the city pass knows which city this is
         _note(city_report, key, name, "ok" if got else "none", fetched=len(got))
         items += got
     if not items and errors:

@@ -109,3 +109,13 @@ def test_the_run_reports_what_each_source_found_in_the_city(profile):
     assert src["bienici"] == {"status": "ok", "fetched": 2, "kept": 2}
     assert src["foncia"] == {"status": "blocked", "fetched": 0, "kept": 0}
     assert src["paruvendu"] == {"status": "none", "fetched": 0, "kept": 0}
+
+
+def test_a_listing_without_an_area_gets_the_city_that_was_searched(profile):
+    p = only(profile, "paruvendu")
+    p["areas"]["allowed_postal_codes"] = []
+    reg = {"angers-49": {"name": "Angers", "postal_codes": ["49000"], "sources": {"paruvendu": {"urls": ["v"]}}}}
+    state = store.empty()
+    run(p, state, NOW, fetchers={"paruvendu": lambda prof: [make_listing(source="paruvendu", postal_code=None, district=None)]}, cities=["angers-49"], registry=reg)
+    [e] = state["listings"].values()
+    assert e["listing"]["district"] == "Angers" and e["listing"]["city"] == "angers-49"

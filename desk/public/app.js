@@ -5,7 +5,7 @@ const $ = (id) => document.getElementById(id);
 const ls = { get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }, set(k, v) { try { v == null ? localStorage.removeItem(k) : localStorage.setItem(k, v); } catch (e) { /* private mode */ } } };
 const S = {
   token: ls.get("ld-token") || "", data: null, marks: {}, yield: {}, sort: "newest", dense: ls.get("ld-density") === "compact", shown: 60,
-  since: Number(ls.get("ld-lastvisit")) || Date.now(), f: { tab: "new", source: "all", poster: "all", kind: "all", near: true, cheap: false, q: "", area: "all", city: "all", maxRent: null, furn: "known" },
+  since: Number(ls.get("ld-lastvisit")) || Date.now(), f: { tab: "new", source: "all", poster: "all", kind: "all", near: true, cheap: false, q: "", area: "all", city: null, maxRent: null, furn: "known" },
 };
 const TABS = [["new", "New", "New listings"], ["saved", "Saved", "Saved"], ["following", "Following", "Following up"], ["closed", "Closed", "Closed"]];
 const STAGES = [["none", "New"], ["saved", "Saved"], ["contacted", "Contacted"], ["visit", "Visit"], ["dossier", "Dossier sent"], ["refused", "Refused"]];
@@ -34,9 +34,12 @@ async function load() {
   if (!src.includes(S.f.source)) S.f.source = "all";
   $("source").value = S.f.source;
   const cs = S.data.cities || [];
-  $("city").replaceChildren(new Option("All cities", "all"), ...cs.map((c) => new Option(c.name, c.key)));
-  if (!cs.some((c) => c.key === S.f.city)) S.f.city = "all";
-  $("city").value = S.f.city; $("city").hidden = cs.length < 2;
+  const label = (k) => (cs.find((c) => c.key === k) || {}).name || k.replace(/-\d+[ab]?$/, "").replace(/-/g, " ").replace(/\b\w/g, (m) => m.toUpperCase());
+  const keys = [...new Set([...cs.map((c) => c.key), ...S.data.listings.map((l) => l.city || "lyon")])]; // the city being collected, and any earlier one still listed
+  $("city").replaceChildren(new Option("All cities", "all"), ...keys.map((k) => new Option(label(k), k)));
+  if (S.f.city === null) S.f.city = cs.length && keys.length > 1 ? cs[0].key : "all"; // first look: the city being collected
+  if (S.f.city !== "all" && !keys.includes(S.f.city)) S.f.city = "all";
+  $("city").value = S.f.city; $("city").hidden = keys.length < 2;
   if (cs.length) $("scope").textContent = cs.map((c) => c.name).join(", ") + ", furnished or not";
   document.querySelector(".where").hidden = cs.length === 1 && cs[0].key !== "lyon"; // the map outlines Lyon's areas only
   setupBudget(S.data.criteria);
