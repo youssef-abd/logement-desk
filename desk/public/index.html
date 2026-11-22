@@ -27,7 +27,7 @@
 
   <header class="topbar">
     <strong id="mtitle">Logement</strong>
-    <button class="btn" id="burger" type="button">Menu</button>
+    <button class="btn" id="burger" type="button">Settings</button>
   </header>
 
   <main class="canvas">
@@ -41,7 +41,7 @@
 
     <section class="kpis" id="kpis" aria-label="Summary"></section>
 
-    <section class="where">
+    <section class="where" id="where">
       <div class="panel">
         <div class="panel-head"><h2>Where</h2><button class="link" id="clear-area" type="button" hidden>Clear area</button></div>
         <svg id="map" role="group" aria-label="Areas of Lyon"></svg>
@@ -53,7 +53,11 @@
       </details>
     </section>
 
-    <section class="controls" aria-label="Filters">
+    <section class="controls" id="filters" aria-label="Filters">
+      <div class="mtools">
+        <button class="btn" id="filtertoggle" type="button" aria-expanded="false" aria-controls="filters">Filters<span id="fcount"></span></button>
+        <button class="btn" id="maptoggle" type="button" aria-expanded="false" aria-controls="where">Map and areas</button>
+      </div>
       <select id="sort" aria-label="Sort"><option value="newest">Newest first</option><option value="price">Price, low to high</option><option value="eur_m2">€/m², low to high</option><option value="size">Largest first</option></select>
       <select id="source" aria-label="Source"><option value="all">All sources</option></select>
       <select id="city" aria-label="City" hidden><option value="all">All cities</option></select>
@@ -75,12 +79,13 @@
   </main>
 </div>
 
+<nav class="tabbar" id="tabbar" aria-label="Views"></nav>
+
 <dialog id="gal" aria-label="Photos">
   <div class="gal-bar"><span id="galn"></span><button class="btn" id="galx" type="button">Close</button></div>
   <div class="gal-stage"><button class="btn" id="galp" type="button" aria-label="Previous photo">Previous</button><img id="galimg" alt="" referrerpolicy="no-referrer"><button class="btn" id="galnx" type="button" aria-label="Next photo">Next</button></div>
 </dialog>
 
-<dialog id="navsheet" aria-label="Menu"><div id="sheetnav" class="nav"></div><div class="foot"><button class="btn" id="sheetclose" type="button">Close</button></div></dialog>
 
 <dialog id="dlg" aria-label="Settings">
   <h2>Settings</h2>
@@ -98,7 +103,7 @@
   <div class="box"><strong>Alerts on this device</strong><p class="sub" id="pushmsg"></p>
     <button class="btn" id="pushbtn" type="button">Turn on alerts</button> <button class="btn" id="pushtest" type="button">Send a test</button></div>
   <div class="box"><strong>Run now</strong><p class="sub" id="runmsg"></p><button class="btn" id="runbtn" type="button">Start a run</button></div>
-  <div class="foot"><button class="btn" id="dlgcancel" type="button">Close</button><button class="btn primary" id="dlgsave" type="button">Save</button></div>
+  <div class="foot"><button class="btn" id="dlgcancel" type="button" autofocus>Close</button><button class="btn primary" id="dlgsave" type="button">Save</button></div>
 </dialog>
 <script type="module" src="/app.js"></script>
 </body>

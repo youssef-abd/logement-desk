@@ -61,20 +61,20 @@ function render() {
   const age = d.updated ? (Date.now() - Date.parse(d.updated)) / 60000 : Infinity;
   $("updated").textContent = d.updated ? "Updated " + ago(d.updated) : "No data yet";
   $("updated").classList.toggle("bad", age > 30);
-  nav($("nav")); nav($("sheetnav"), true);
+  nav($("nav")); nav($("tabbar"));
+  mobileBar();
   kpis(rows); drawMap(); areaList(); list(rows); health();
 }
 
-function nav(box, sheet) {
+function nav(box) {
   box.replaceChildren(...TABS.map(([key, name]) => {
     const n = S.data.listings.filter((l) => tabOf(l, stage(l)) === key).length;
     const b = el("button", "navbtn"); b.type = "button";
     b.append(el("span", null, name)); if (key !== "closed") b.append(el("span", "n", String(n)));
     if (S.f.tab === key) b.setAttribute("aria-current", "page");
-    b.addEventListener("click", () => { S.f.tab = key; S.shown = 60; if (sheet) $("navsheet").close(); render(); });
+    b.addEventListener("click", () => { S.f.tab = key; S.shown = 60; render(); });
     return b;
   }));
-  if (sheet) { const s = el("button", "navbtn", "Settings"); s.type = "button"; s.addEventListener("click", () => { $("navsheet").close(); openSettings(); }); box.append(s); }
 }
 
 function kpis(rows) {
@@ -258,9 +258,22 @@ function setupBudget(c) {
   $("rent").max = String(top);
   S.f.maxRent = Math.min(top, Number.isFinite(saved.maxRent) ? saved.maxRent : own);
   S.f.furn = ["known", "yes", "any"].includes(saved.furn) ? saved.furn : c && c.furnished === "any" ? "any" : "known";
+  S.def = { maxRent: Math.min(top, own), furn: c && c.furnished === "any" ? "any" : "known" };
   $("rent").value = String(S.f.maxRent); $("furn").value = S.f.furn; $("rentout").textContent = S.f.maxRent + " €";
 }
 const saveFilters = () => ls.set("ld-filters", JSON.stringify({ maxRent: S.f.maxRent, furn: S.f.furn }));
+// phone: the filters and the map fold away so the listings come first; the button says how many filters are active
+const ui = { filters: false, map: false };
+function mobileBar() {
+  const d = S.def || {};
+  const n = [S.f.source !== "all", S.f.kind !== "all", S.f.poster !== "all", S.f.area !== "all", S.f.cheap, !S.f.near, S.f.furn !== d.furn, d.maxRent != null && S.f.maxRent !== d.maxRent].filter(Boolean).length;
+  $("fcount").textContent = n ? ` (${n})` : "";
+  $("filters").classList.toggle("closed", !ui.filters); $("where").classList.toggle("closed", !ui.map);
+  $("filtertoggle").setAttribute("aria-expanded", String(ui.filters)); $("maptoggle").setAttribute("aria-expanded", String(ui.map));
+  $("maptoggle").hidden = $("where").hidden;
+}
+$("filtertoggle").addEventListener("click", () => { ui.filters = !ui.filters; mobileBar(); });
+$("maptoggle").addEventListener("click", () => { ui.map = !ui.map; mobileBar(); });
 const rerender = () => { S.shown = 60; render(); };
 // the city the next runs collect: any French commune, looked up by the desk; one at a time for now (the desk says how many are allowed)
 const CITY = { chosen: [{ key: "lyon", name: "Lyon" }], max: 1 };
@@ -323,9 +336,11 @@ $("d-compact").addEventListener("click", () => { S.dense = true; ls.set("ld-dens
 $("more").addEventListener("click", () => { S.shown += 60; render(); });
 $("clear-area").addEventListener("click", () => { S.f.area = "all"; rerender(); });
 $("settings").addEventListener("click", openSettings);
-$("burger").addEventListener("click", () => $("navsheet").showModal());
-$("sheetclose").addEventListener("click", () => $("navsheet").close());
+$("burger").addEventListener("click", openSettings);
 $("galx").addEventListener("click", () => $("gal").close());
+let swipeX = null; // swipe left or right to move between photos
+$("gal").addEventListener("touchstart", (e) => { swipeX = e.touches[0].clientX; }, { passive: true });
+$("gal").addEventListener("touchend", (e) => { if (swipeX === null) return; const dx = e.changedTouches[0].clientX - swipeX; swipeX = null; if (Math.abs(dx) > 50) step(dx < 0 ? 1 : -1); }, { passive: true });
 $("galp").addEventListener("click", () => step(-1)); $("galnx").addEventListener("click", () => step(1));
 $("gal").addEventListener("keydown", (e) => { if (e.key === "ArrowLeft") step(-1); else if (e.key === "ArrowRight") step(1); });
 $("dlgcancel").addEventListener("click", () => $("dlg").close());

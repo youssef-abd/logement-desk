@@ -15,6 +15,8 @@ h1, h2 { margin: 0; font-weight: 600; letter-spacing: -0.01em; }
 h1 { font-size: 24px; line-height: 1.2; }
 h2 { font-size: 16px; }
 button, select, input { font: inherit; color: inherit; }
+button, select, a, summary { touch-action: manipulation; }
+html { -webkit-text-size-adjust: 100%; }
 .app { display: grid; grid-template-columns: 240px minmax(0, 1fr); min-height: 100vh; }
 
 /* sidebar: open plane, no rule, no fill */
@@ -29,6 +31,7 @@ button, select, input { font: inherit; color: inherit; }
 .navbtn .n { font-size: 12px; color: var(--muted); }
 .side-foot { margin-top: auto; }
 .topbar { display: none; }
+.tabbar, .mtools { display: none; }
 
 .canvas { padding: 32px 32px 64px; min-width: 0; }
 .title-row { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; margin-bottom: 20px; }
@@ -149,7 +152,7 @@ dialog input { width: 100%; }
   .acts, .links { justify-content: flex-start; }
 }
 
-/* phone: sidebar folds into a 48px top bar + full-screen menu sheet; the map sits above a single column */
+/* phone: sidebar folds into a 48px top bar (Settings) and a bottom tab bar; the map sits above a single column */
 @media (max-width: 900px) {
   .app { display: block; }
   .side { display: none; }
@@ -170,5 +173,71 @@ dialog input { width: 100%; }
   .c-s, .c-p, .c-r { text-align: left; align-self: end; }
   .c-p::after { content: " €/m²"; }
   .compact .row { grid-template-columns: 1fr 1fr 1fr; grid-template-areas: "main main main" "s p r" "a a a"; }
-  #navsheet { max-width: none; width: 100%; height: 100%; max-height: none; border-radius: 0; }
+}
+
+/* phone, second pass: touch-sized controls, text that does not make iOS zoom, listings first, big photos, a bottom tab bar */
+@media (max-width: 900px) {
+  :root { --ctl: 44px; }
+  select, input, .btn, .seg button { font-size: 16px; }
+  .btn.sm, .acts .btn { height: 44px; padding: 0 14px; }
+  .acts select { height: 44px; font-size: 16px; }
+  .topbar .btn { height: 44px; }
+  summary.panel-head { min-height: 44px; align-items: center; }
+  .health summary { display: flex; align-items: center; min-height: 44px; }
+  .canvas { padding: 12px 12px calc(76px + env(safe-area-inset-bottom)); }
+  .title-row { margin-bottom: 12px; }
+  h1 { font-size: 20px; }
+  .kpi { padding: 10px 14px; }
+  .kpi .v { font-size: 22px; }
+  .kpi .k { font-size: 12px; }
+
+  /* filters: the search box and two buttons stay; the rest unfolds on demand, two to a row */
+  .controls { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0 8px; }
+  .controls #q { order: -2; grid-column: 1 / -1; width: 100%; }
+  .controls .mtools { order: -1; grid-column: 1 / -1; display: flex; gap: 8px; }
+  .mtools .btn { flex: 1; }
+  .controls > select, .controls > .btn { width: 100%; }
+  .controls .rng, .controls .seg, .controls #furn { grid-column: 1 / -1; }
+  .rng { gap: 10px; }
+  .rng input { flex: 1; width: auto; min-width: 0; height: 44px; }
+  .chk { min-height: 44px; }
+  .chk input { width: 22px; height: 22px; }
+  .seg button { height: 42px; flex: 1; }
+  .seg { display: flex; }
+  .controls.closed > :not(#q):not(.mtools) { display: none; }
+  .where.closed { display: none; }
+  #map { height: 260px; }
+  .arow { padding: 14px 8px; }
+
+  /* listings: a card with a full-width photo, the numbers, then big buttons */
+  #list { overflow: hidden; }
+  .row { grid-template-columns: 1fr 1fr 1fr; grid-template-areas: "img img img" "main main main" "s p r" "a a a"; row-gap: 10px; padding: 12px 16px 16px; }
+  .row > * { min-width: 0; }
+  .media { display: block; margin: -12px -16px 0; }
+  .thumb-ph { display: none; }
+  .thumb { width: 100%; height: 180px; border-radius: 0; }
+  .chips { min-width: 0; }
+  .pill { white-space: normal; max-width: 100%; overflow-wrap: anywhere; }
+  .l1 { font-size: 16px; }
+  .row:not(.rowhead) .c-r { font-size: 18px; }
+  .acts { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; justify-content: stretch; }
+  .acts select { width: 100%; }
+  .links { grid-column: 1 / -1; flex-wrap: wrap; gap: 8px; }
+  .links a { flex: 1; display: flex; align-items: center; justify-content: center; min-height: 44px; border-radius: var(--r-ctl); background: var(--accent); color: #fff; font-size: 16px; font-weight: 500; text-decoration: none; }
+  .nudge { flex-basis: 100%; }
+  .compact .row { grid-template-columns: 1fr 1fr 1fr; grid-template-areas: "main main main" "s p r" "a a a"; padding: 10px 16px 14px; }
+  .compact .media { display: none; }
+
+  /* the bottom tab bar switches views */
+  .tabbar { display: flex; position: fixed; left: 0; right: 0; bottom: 0; z-index: 4; background: var(--surface); border-top: 1px solid var(--border); padding-bottom: env(safe-area-inset-bottom); }
+  .tabbar .navbtn { flex: 1; flex-direction: column; justify-content: flex-start; padding-top: 10px; align-items: center; gap: 2px; min-height: 56px; padding: 6px 4px; border-radius: 0; font-size: 13px; }
+  .tabbar .navbtn .n { font-size: 12px; }
+  .tabbar .navbtn[aria-current="page"] { background: none; color: var(--text); font-weight: 600; box-shadow: inset 0 2px 0 var(--accent); }
+
+  /* dialogs: full height with a footer that stays reachable */
+  dialog { max-height: calc(100dvh - 16px); overflow: auto; }
+  dialog input, dialog select { font-size: 16px; }
+  dialog .foot { position: sticky; bottom: -20px; margin: 16px -20px -20px; padding: 12px 20px; background: var(--surface); border-top: 1px solid var(--rule); }
+  .gal-stage { grid-template-columns: minmax(0, 1fr); }
+  .gal-stage .btn { display: none; }
 }
