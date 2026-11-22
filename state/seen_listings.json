@@ -37037,6 +37037,41 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:9edpy7": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T11:10:18+00:00",
+   "last_seen": "2026-11-22T11:10:18+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 5 pièces de 87 m². Disponible dès 2026-12-15",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-e4335b197bdd8454178d88dfc8970e48/6013644/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 500,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "9edpy7",
+    "surface_m2": 87,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 87 m²",
+    "url": "https://www.lacartedescolocs.fr/sous-locations/fr/auvergne-rhone-alpes/lyon/a/9edpy7"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:9ybqgw": {
    "also": [],
    "dup_of": null,
@@ -43752,6 +43787,47 @@
     ],
     "title": "Appartement - 1 pièce(s) - 18 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297755484A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297758028": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T11:10:18+00:00",
+   "last_seen": "2026-11-22T11:10:18+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Nouveau 5 641 € CC* Appartement 33 m 2 Lyon 7 Exclusivité 1 pièce DPE : E 280 kWh/m².an 8 kg CO 2 /m².an À lyon 07, appartement T1 de 32,5 m² à louer. Cuisine indépendante, séjour avec placards, salle de bains avec wc. Situé au 4ème étage sans ascenseur, chauffage individuel électrique. Disponibilité : début décembre. Citya Les Célestins 14 annonces 22/11/2026 Voir Contacter",
+    "district": "Lyon 7e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/0d/0b/L2NpdF9DSVRZQV9SRUdJRUNFTEVTVElOUzJfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMDA1Ni05MDU4NDkxMjUyMDg1NjM1OTIzLmpwZz8yMDI2MTEyMjEyMDAzNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/07/d9/L2NpdF9DSVRZQV9SRUdJRUNFTEVTVElOUzJfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMDA1NC0zMzc5NjU3NTE5NTQ2MjAwMjQ0LmpwZz8yMDI2MTEyMjEyMDAzNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/48/6e/L2NpdF9DSVRZQV9SRUdJRUNFTEVTVElOUzJfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMDA0OC04MTYzMDE4MzQzNjI3NTE0MDMwLmpwZz8yMDI2MTEyMjEyMDAzNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/27/b8/L2NpdF9DSVRZQV9SRUdJRUNFTEVTVElOUzJfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMDAzOC04MDA4NTI5NTI3OTExNTcwNjk3LmpwZz8yMDI2MTEyMjEyMDAzNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/box.ics.fr/34/c7/L2NpdF9DSVRZQV9SRUdJRUNFTEVTVElOUzJfdGljL2xvY2F0aW9uL3Bob3RvL2ZpbGlncmFuZS1JTUdfMDA0MS03MjIxOTY2MTQ2MzE5NjYyMTMyLmpwZz8yMDI2MTEyMjEyMDAzNQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "Citya Les Célestins",
+    "published_at": "2026-11-22",
+    "rent_cc": 641,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297758028",
+    "surface_m2": 33.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 1 pièce(s) - 33 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297758028A1KILHAP000"
    },
    "notified": false,
    "status": "active"
