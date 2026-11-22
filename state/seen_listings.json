@@ -29,10 +29,10 @@
    "last_success": "2026-11-22T00:30:20+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-21T22:40:19+00:00"
   },
   "logicimmo": {
@@ -34979,6 +34979,46 @@
     ],
     "title": "Chambre dans une colocation de 104m² à ...",
     "url": "https://www.immojeune.com/colocation/villeurbanne-69/chambre-dans-une-colocation-de-104m-a-villeurbanne_3208400.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:3208401": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T01:30:17+00:00",
+   "last_seen": "2026-11-22T01:30:17+00:00",
+   "listing": {
+    "charges": null,
+    "description": "",
+    "district": "Lyon 8e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/a7d65b9e0772fd06ad1d8727bc6b31d431e3fd3a-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/3759140739a08ada43cbe548419821a0b6e7466c-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/c53c9b0c79290e62cd5ddaf287c923172be70bb5-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/4d7aa143d880e379bde2f874536fa136bcd1ab5e-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/01b81214ee1ee85f08b1077b23fb1d094f3eb962-570x366.jpg"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 697.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "3208401",
+    "surface_m2": 96.0,
+    "tags": [
+     "colocation",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Chambre dans une colocation de 96m² à L...",
+    "url": "https://www.immojeune.com/colocation/lyon-08-69/chambre-dans-une-colocation-de-96m-a-lyon-08_3208401.html"
    },
    "notified": false,
    "status": "active"
