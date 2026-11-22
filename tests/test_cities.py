@@ -119,3 +119,16 @@ def test_a_listing_without_an_area_gets_the_city_that_was_searched(profile):
     run(p, state, NOW, fetchers={"paruvendu": lambda prof: [make_listing(source="paruvendu", postal_code=None, district=None)]}, cities=["angers-49"], registry=reg)
     [e] = state["listings"].values()
     assert e["listing"]["district"] == "Angers" and e["listing"]["city"] == "angers-49"
+
+
+def test_an_already_stored_listing_picks_up_its_city_and_district_when_seen_again(profile):
+    p = only(profile, "paruvendu")
+    p["areas"]["allowed_postal_codes"] = []
+    reg = {"angers-49": {"name": "Angers", "postal_codes": ["49000"], "sources": {"paruvendu": {"urls": ["v"]}}}}
+    state = store.empty()
+    run(p, state, NOW, fetchers={"paruvendu": lambda prof: [make_listing(source="paruvendu", postal_code=None, district=None)]}, cities=["angers-49"], registry=reg)
+    [e] = state["listings"].values()
+    e["listing"]["district"] = None
+    e["listing"]["city"] = None  # as stored before cities existed
+    run(p, state, NOW, fetchers={"paruvendu": lambda prof: [make_listing(source="paruvendu", postal_code=None, district=None)]}, cities=["angers-49"], registry=reg)
+    assert e["listing"]["district"] == "Angers" and e["listing"]["city"] == "angers-49"

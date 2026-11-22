@@ -33,6 +33,9 @@ def process(state, kept, ok_sources, now, profile):
         if e is not None:
             if e["listing"] is not None and l.poster_name and not e["listing"].get("poster_name"):
                 e["listing"]["poster_name"] = l.poster_name  # backfill a field added after the listing was first seen
+            for field in ("district", "city"):
+                if e["listing"] is not None and getattr(l, field) and not e["listing"].get(field):
+                    e["listing"][field] = getattr(l, field)
             if e["status"] == "stale":
                 e["status"] = "active"
                 e["last_seen"] = now
