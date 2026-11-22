@@ -38,6 +38,7 @@ async function load() {
   if (!cs.some((c) => c.key === S.f.city)) S.f.city = "all";
   $("city").value = S.f.city; $("city").hidden = cs.length < 2;
   if (cs.length) $("scope").textContent = cs.map((c) => c.name).join(", ") + ", furnished or not";
+  document.querySelector(".where").hidden = cs.length === 1 && cs[0].key !== "lyon"; // the map outlines Lyon's areas only
   setupBudget(S.data.criteria);
   render();
 }
@@ -258,24 +259,50 @@ function setupBudget(c) {
 }
 const saveFilters = () => ls.set("ld-filters", JSON.stringify({ maxRent: S.f.maxRent, furn: S.f.furn }));
 const rerender = () => { S.shown = 60; render(); };
-// the cities the next runs collect: the catalogue is a static file, the choice lives on the desk
-const CITY = { catalog: [], chosen: ["lyon"] };
-function renderCityBox() {
-  $("citybox").replaceChildren(...CITY.catalog.map((c) => {
-    const lab = el("label", "chk"), box = document.createElement("input"); box.type = "checkbox"; box.value = c.key; box.checked = CITY.chosen.includes(c.key);
-    lab.append(box, document.createTextNode(" " + c.name)); return lab;
-  }));
+// the city the next runs collect: any French commune, looked up by the desk; one at a time for now (the desk says how many are allowed)
+const CITY = { chosen: [{ key: "lyon", name: "Lyon" }], max: 1 };
+const nameOf = (c) => (typeof c === "string" ? ((S.data && (S.data.cities || []).find((x) => x.key === c)) || {}).name || c : c.name);
+const keyOf = (c) => (typeof c === "string" ? c : c.key);
+const SRC_NAMES = { bienici: "Bien'ici", leboncoin: "Leboncoin", paruvendu: "ParuVendu", foncia: "Foncia", immojeune: "ImmoJeune", studapart: "Studapart", lacartedescolocs: "La Carte des Colocs", pap: "PAP", logicimmo: "Logic-Immo" };
+function srcLine(name, r) {
+  const label = SRC_NAMES[name] || name, row = el("div", r.status === "ok" ? "" : "warn");
+  row.textContent = r.status === "ok" ? `${label}: ${r.fetched} found, ${r.kept} kept`
+    : r.status === "none" ? `${label}: nothing found (the site may not cover this city)`
+    : r.status === "blocked" ? `${label}: blocked on the last run`
+    : r.status === "n/a" ? `${label}: no address for this city` : `${label}: failed on the last run`;
+  return row;
+}
+function renderCity() {
+  $("citynow").textContent = CITY.chosen.map(nameOf).join(", ") || "none";
+  $("citysub").textContent = `The next run (within 10 minutes) starts collecting the city you pick. ${CITY.max === 1 ? "One city at a time." : `Up to ${CITY.max} cities.`}`;
+  const live = S.data && (S.data.cities || []).find((c) => c.key === keyOf(CITY.chosen[0] || ""));
+  const rows = live ? Object.entries(live.sources || {}) : [];
+  $("citystat").replaceChildren(...(rows.length ? [el("div", "", "Last run, per source:"), ...rows.map(([n, r]) => srcLine(n, r))] : []));
 }
 async function cityRefresh() {
-  try { const [cat, cur] = await Promise.all([fetch("/cities.json", { cache: "no-store" }).then((r) => r.json()), api("/api/search")]); CITY.catalog = cat; CITY.chosen = cur.cities; $("citymsg").textContent = ""; }
-  catch (e) { $("citymsg").textContent = "Could not load the cities."; }
-  renderCityBox();
+  try { const cur = await api("/api/search"); CITY.chosen = cur.cities; CITY.max = cur.max || 1; $("citymsg").textContent = ""; }
+  catch (e) { $("citymsg").textContent = "Could not load the city."; }
+  renderCity();
 }
+let cityTimer = 0;
+$("cityq").addEventListener("input", (e) => {
+  clearTimeout(cityTimer);
+  const q = e.target.value.trim();
+  if (q.length < 2) { $("cityres").replaceChildren(); return; }
+  cityTimer = setTimeout(async () => {
+    try {
+      const r = await api("/api/city-search?q=" + encodeURIComponent(q));
+      $("cityres").replaceChildren(...(r.cities.length ? r.cities.map((c) => {
+        const b = el("button", "btn", `${c.name} (${c.dept})`); b.type = "button";
+        b.addEventListener("click", () => { CITY.chosen = CITY.max === 1 ? [c] : [...CITY.chosen.filter((x) => keyOf(x) !== c.key), c].slice(-CITY.max); $("cityres").replaceChildren(); $("cityq").value = ""; $("citymsg").textContent = ""; renderCity(); });
+        return b;
+      }) : [el("span", "sub", "No city found.")]));
+    } catch (err) { $("cityres").replaceChildren(el("span", "sub", "Search failed: " + err.message)); }
+  }, 300);
+});
 $("citysave").addEventListener("click", async () => {
-  const keys = [...$("citybox").querySelectorAll("input:checked")].map((i) => i.value);
-  if (!keys.length) { $("citymsg").textContent = "Pick at least one city."; return; }
-  if (keys.length > 6) { $("citymsg").textContent = "Up to 6 cities."; return; }
-  try { const r = await api("/api/search", { method: "PUT", body: JSON.stringify({ cities: keys }) }); CITY.chosen = r.cities; $("citymsg").textContent = "Saved. The next run starts collecting these cities."; }
+  if (!CITY.chosen.length) { $("citymsg").textContent = "Pick a city first."; return; }
+  try { const r = await api("/api/search", { method: "PUT", body: JSON.stringify({ cities: CITY.chosen }) }); CITY.chosen = r.cities; CITY.max = r.max || CITY.max; renderCity(); $("citymsg").textContent = "Saved. The next run starts collecting it."; }
   catch (e) { $("citymsg").textContent = "Not saved: " + e.message; }
 });
 $("city").addEventListener("change", (e) => { S.f.city = e.target.value; rerender(); });

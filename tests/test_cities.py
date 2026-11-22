@@ -74,3 +74,38 @@ def test_desk_cities_reads_the_selection_and_never_raises(monkeypatch):
         raise OSError("down")
     monkeypatch.setattr(cities.urllib.request, "urlopen", boom)
     assert cities.desk_cities(env) is None and cities.desk_cities({}) is None
+
+
+ANGERS = {"key": "angers-49", "name": "Angers", "dept": "49", "postal_codes": ["49000", "49100"], "lat": 47.47, "lng": -0.55, "region": "pays-de-la-loire"}
+
+
+def test_a_city_record_gets_every_sources_address_built_from_its_name_and_codes():
+    o = cities.options_for(ANGERS, ["-1234"])
+    assert o["foncia"]["urls"][0] == "https://fr.foncia.com/location/angers-49/appartement-meuble"
+    assert o["paruvendu"]["urls"] == ["https://www.paruvendu.fr/immobilier/recherche/location/appartement/angers/"]
+    assert o["immojeune"]["urls"][0].endswith("/logement-etudiant/angers-49.html") and o["studapart"]["urls"][0].endswith("/fr/location-studio-angers")
+    assert o["lacartedescolocs"]["url"].endswith("/colocations/fr/pays-de-la-loire/angers") and o["bienici"] == {"zone_ids": ["-1234"]}
+    assert o["leboncoin"] == {"city": "Angers", "lat": 47.47, "lng": -0.55, "radius_m": 9000}
+    assert "bienici" not in cities.options_for(ANGERS) and "lacartedescolocs" not in cities.options_for({**ANGERS, "region": ""})
+    assert cities.slug("Saint-Étienne") == "saint-etienne"
+
+
+def test_plan_builds_a_city_that_is_not_in_the_registry_from_its_record(profile):
+    p = cities.plan(profile, REG, [ANGERS, {"key": "broken"}, "atlantis"], zones_for=lambda c: ["-77"])
+    assert [x[0] for x in p] == ["angers-49"] and p[0][2] == ["49000", "49100"] and p[0][3]["bienici"] == {"zone_ids": ["-77"]}
+    assert cities.plan(profile, REG, [{**ANGERS, "key": "grenoble"}], zones_for=lambda c: [])[0][3] == REG["grenoble"]["sources"]  # verified options win
+
+
+def test_the_run_reports_what_each_source_found_in_the_city(profile):
+    p = only(profile, "bienici", "foncia", "paruvendu")
+    p["areas"]["allowed_postal_codes"] = []
+    def bienici(prof):
+        return [make_listing(source="bienici", source_id="b", postal_code="49000", rent_cc=500.0), make_listing(source="bienici", source_id="c", postal_code="49100", rent_cc=710.0)]
+    def foncia(prof):
+        raise Blocked("403")
+    reg = {"angers-49": {"name": "Angers", "postal_codes": ["49000", "49100"], "sources": {"bienici": {"zone_ids": ["-1"]}, "foncia": {"urls": ["u"]}, "paruvendu": {"urls": ["v"]}}}}
+    res = run(p, store.empty(), NOW, fetchers={"bienici": bienici, "foncia": foncia, "paruvendu": lambda prof: []}, sleep=lambda s: None, cities=["angers-49"], registry=reg)
+    src = res["cities"][0]["sources"]
+    assert src["bienici"] == {"status": "ok", "fetched": 2, "kept": 2}
+    assert src["foncia"] == {"status": "blocked", "fetched": 0, "kept": 0}
+    assert src["paruvendu"] == {"status": "none", "fetched": 0, "kept": 0}

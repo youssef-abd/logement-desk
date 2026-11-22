@@ -12,6 +12,7 @@ import urllib.parse
 import urllib.request
 
 sys.path.insert(0, ".")
+from logement.cities import options_for, slug  # noqa: E402
 from logement.errors import Blocked  # noqa: E402
 
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130 Safari/537.36"}
@@ -23,11 +24,6 @@ def get(url):
     return json.load(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=25))
 
 
-def slug(s):
-    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
-    return "-".join("".join(c if c.isalnum() else " " for c in s).split())
-
-
 def commune(name):
     q = urllib.parse.quote(name)
     c = get(f"https://geo.api.gouv.fr/communes?nom={q}&boost=population&limit=1&fields=nom,code,codesPostaux,centre,departement,region")[0]
@@ -36,21 +32,12 @@ def commune(name):
 
 
 def candidates(c, zones):
-    """The per-source options to try for a city, in the order they are verified."""
-    name, dept, sl = c["nom"], c["departement"]["code"], slug(c["nom"])
-    lng, lat = c["centre"]["coordinates"]
-    region = slug(c["region"]["nom"]) if c.get("region") else ""
-    pv = "https://www.paruvendu.fr/immobilier/recherche/location/appartement/"
-    out = {
-        "leboncoin": [{"city": name, "lat": lat, "lng": lng, "radius_m": 9000}],
-        "paruvendu": [{"urls": [f"{pv}{sl}/"]}, {"urls": [f"{pv}{sl}-{c['codesPostaux'][0]}/"]}],
-        "foncia": [{"urls": [f"https://fr.foncia.com/location/{sl}-{dept}/appartement-meuble", f"https://fr.foncia.com/location/{sl}-{dept}/appartement"]}],
-        "immojeune": [{"urls": [f"https://www.immojeune.com/logement-etudiant/{sl}-{dept}.html", f"https://www.immojeune.com/location-etudiant/{sl}-{dept}.html"]}],
-        "studapart": [{"urls": [f"https://www.studapart.com/fr/location-studio-{sl}", f"https://www.studapart.com/fr/location-appartement-{sl}"], "launch": {"channel": "msedge"}}],
-        "lacartedescolocs": [{"url": f"https://www.lacartedescolocs.fr/colocations/fr/{region}/{sl}"}],
-    }
-    if zones:
-        out["bienici"] = [{"zone_ids": zones}]
+    """The per-source options to try for a city, in the order they are verified (the same address patterns the run uses)."""
+    rec = {"name": c["nom"], "dept": c["departement"]["code"], "postal_codes": c["codesPostaux"], "lat": c["centre"]["coordinates"][1],
+           "lng": c["centre"]["coordinates"][0], "region": slug(c["region"]["nom"]) if c.get("region") else ""}
+    out = {k: [v] for k, v in options_for(rec, zones).items()}
+    out["paruvendu"].append({"urls": [f"https://www.paruvendu.fr/immobilier/recherche/location/appartement/{slug(c['nom'])}-{c['codesPostaux'][0]}/"]})
+    out["studapart"] = [{**out["studapart"][0], "launch": {"channel": "msedge"}}]  # the PC's own Edge for the check
     return out
 
 
@@ -97,14 +84,12 @@ def main(names):
 
 
 def finish():
-    """Leboncoin's option is only coordinates, so it needs no verification (the site may refuse this machine); then write the desk's catalogue."""
+    """Leboncoin's option is only coordinates, so it needs no verification (the site may refuse this machine)."""
     registry = json.load(open(OUT, encoding="utf-8"))
     for e in registry["cities"].values():
         e["sources"].setdefault("leboncoin", {"city": e["name"], "lat": e["lat"], "lng": e["lng"], "radius_m": 9000})
     json.dump(registry, open(OUT, "w", encoding="utf-8", newline="\n"), ensure_ascii=False, indent=1)
-    catalog = [{"key": "lyon", "name": "Lyon"}] + sorted(({"key": k, "name": e["name"]} for k, e in registry["cities"].items()), key=lambda c: c["name"])
-    json.dump(catalog, open("desk/public/cities.json", "w", encoding="utf-8", newline="\n"), ensure_ascii=False, indent=1)
-    print("catalogue:", ", ".join(c["name"] for c in catalog))
+    print("registry written:", ", ".join(e["name"] for e in registry["cities"].values()))
 
 
 if __name__ == "__main__":

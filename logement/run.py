@@ -51,7 +51,12 @@ def _record_success(h, now, profile):
         h["last_success"] = now
 
 
-def _fetch_cities(fetch, name, fetch_profile, passes, sleep):
+def _note(city_report, key, source, status, fetched=0):
+    if city_report is not None:
+        city_report.setdefault(key, {})[source] = {"status": status, "fetched": fetched, "kept": 0}
+
+
+def _fetch_cities(fetch, name, fetch_profile, passes, sleep, city_report=None):
     """One fetch per wanted city, each with that city's verified options for this source; a city that fails does not lose the others."""
     items, errors = [], []
     for key, _name, _codes, overrides in passes:
@@ -60,14 +65,17 @@ def _fetch_cities(fetch, name, fetch_profile, passes, sleep):
         elif name in overrides:
             p = {**fetch_profile, "sources": {**fetch_profile["sources"], name: {**fetch_profile["sources"][name], **overrides[name]}}}
         else:
-            continue  # nothing verified for this source in that city
+            _note(city_report, key, name, "n/a")  # no address pattern for this source in that city
+            continue
         try:
             got = _fetch_with_retry(fetch, p, sleep)
         except Exception as e:
             errors.append(e)
+            _note(city_report, key, name, "blocked" if isinstance(e, Blocked) else "error")
             continue
         for l in got:
             l.city = key
+        _note(city_report, key, name, "ok" if got else "none", fetched=len(got))
         items += got
     if not items and errors:
         raise errors[0]
@@ -77,6 +85,7 @@ def _fetch_cities(fetch, name, fetch_profile, passes, sleep):
 def run(profile, state, now, fetchers=None, sleep=time.sleep, deep=False, cities=None, registry=None):
     fetch_profile = {**profile, **(profile.get("collect") or {}), **({"deep": True} if deep else {})}  # sources are asked with the wide net
     passes = citymod.plan(profile, citymod.load_registry() if registry is None else registry, cities)
+    city_report = {}
     codes = [p[2] for p in passes]
     allowed = [] if any(not c for c in codes) else sorted({x for c in codes for x in c})  # an unrestricted city leaves the area filter off
     profile = {**profile, "areas": {**profile["areas"], "allowed_postal_codes": allowed}}
@@ -97,7 +106,7 @@ def run(profile, state, now, fetchers=None, sleep=time.sleep, deep=False, cities
             continue
         fetch = fetchers.get(name) or load_fetch(name)
         try:
-            items = _fetch_cities(fetch, name, fetch_profile, passes, sleep)
+            items = _fetch_cities(fetch, name, fetch_profile, passes, sleep, city_report)
             check_drift(items, profile["health"]["drift_ratio"])
             if not items:
                 raise EmptyResult("no listings")
@@ -105,6 +114,9 @@ def run(profile, state, now, fetchers=None, sleep=time.sleep, deep=False, cities
                 l.found_by = name
                 apply_flags(l, profile)
             kept = [l for l in items if hard_filter(l, profile)]
+            for l in kept:
+                if l.city in city_report and name in city_report[l.city]:
+                    city_report[l.city][name]["kept"] += 1
         except Blocked:
             h["consecutive_failures"] = min(h["consecutive_failures"] + 1, threshold + 1)
             h["blocked_runs"] += 1
@@ -130,7 +142,7 @@ def run(profile, state, now, fetchers=None, sleep=time.sleep, deep=False, cities
     store.prune(state, now, profile["prune_days"])
     attempted = [r for r in report.values() if r["status"] in ("ok", "error", "blocked")]
     failing = sorted(n for n, h in health.items() if h["consecutive_failures"] >= threshold)
-    return {"cities": [{"key": k, "name": n, "postal_codes": c} for k, n, c, _ in passes], "alerts": alerts, "report": report, "failing": failing, "newly_failing": newly_failing,
+    return {"cities": [{"key": k, "name": n, "postal_codes": c, "sources": city_report.get(k, {})} for k, n, c, _ in passes], "alerts": alerts, "report": report, "failing": failing, "newly_failing": newly_failing,
             "run_failed": bool(attempted) and not ok}
 
 

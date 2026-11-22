@@ -1,6 +1,6 @@
 // Rule 1: /api/* is never cached or touched. Rule 2: everything else is network-first, last copy when offline.
 // A push carries no text: on a push this worker asks /api/pending (with the access code kept in IndexedDB) what to say.
-const VER = "logement-v7";
+const VER = "logement-v8";
 const SHELL = ["/", "/app.css", "/app.js", "/format.js", "/geo.js", "/fonts/geist.woff2", "/icons/icon-192.png"];
 
 self.addEventListener("install", (e) => { e.waitUntil(caches.open(VER).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting())); });

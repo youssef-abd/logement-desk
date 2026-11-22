@@ -99,6 +99,13 @@ test("cleanPayload keeps valid cities and a listing's city, and drops bad ones",
   const l = { id: "a", source: "bienici", url: "https://www.bienici.com/annonce/a", city: "grenoble" };
   const p = cleanPayload({ listings: [l, { ...l, id: "b", city: "../x" }], cities: [{ key: "lyon", name: "Lyon", postal_codes: ["69001"] }, { key: "Bad Key" }, null] });
   assert.deepEqual(p.listings.map((x) => x.city), ["grenoble", null]);
-  assert.deepEqual(p.cities, [{ key: "lyon", name: "Lyon", postal_codes: ["69001"] }]);
+  assert.deepEqual(p.cities, [{ key: "lyon", name: "Lyon", postal_codes: ["69001"], sources: {} }]);
   assert.deepEqual(cleanPayload({ listings: [l] }).cities, []);
+});
+
+test("cleanPayload keeps what each source found in a city and sanitises it", () => {
+  const l = { id: "a", source: "bienici", url: "https://www.bienici.com/annonce/a" };
+  const p = cleanPayload({ listings: [l], cities: [{ key: "angers-49", name: "Angers", postal_codes: ["49000"], sources: { foncia: { status: "ok", fetched: 30, kept: 20 }, "Bad Name": { status: "ok" }, paruvendu: { status: "weird", fetched: "x" } } }] });
+  assert.deepEqual(p.cities[0].sources, { foncia: { status: "ok", fetched: 30, kept: 20 }, paruvendu: { status: "error", fetched: 0, kept: 0 } });
+  assert.deepEqual(cleanPayload({ listings: [l], cities: [{ key: "lyon", name: "Lyon" }] }).cities[0].sources, {});
 });

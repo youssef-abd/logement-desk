@@ -31,6 +31,15 @@ export function cleanListing(l) {
   };
 }
 
+// what each source found in a city on the last run: counts only
+function citySources(s) {
+  const out = {};
+  for (const [name, r] of Object.entries(s && typeof s === "object" ? s : {}).filter(([n, v]) => /^[a-z0-9_]{2,30}$/.test(n) && v && typeof v === "object").slice(0, 14)) {
+    out[name] = { status: ["ok", "none", "blocked", "error", "n/a"].includes(r.status) ? r.status : "error", fetched: num(r.fetched) || 0, kept: num(r.kept) || 0 };
+  }
+  return out;
+}
+
 export function cleanPayload(p) {
   if (!p || typeof p !== "object" || !Array.isArray(p.listings)) return null;
   const health = {};
@@ -52,6 +61,6 @@ export function cleanPayload(p) {
   const criteria = c && num(c.max_rent_cc) !== null ? { max_rent_cc: c.max_rent_cc, near_miss_margin: num(c.near_miss_margin) || 0,
     furnished: ["required", "preferred", "any"].includes(c.furnished) ? c.furnished : "any", collect_max_rent_cc: num(c.collect_max_rent_cc) || c.max_rent_cc } : null;
   const cities = (Array.isArray(p.cities) ? p.cities : []).filter((c) => c && /^[a-z0-9-]{2,30}$/.test(c.key || "")).slice(0, 12)
-    .map((c) => ({ key: c.key, name: str(c.name, 40) || c.key, postal_codes: arr(c.postal_codes, 5, 40) }));
+    .map((c) => ({ key: c.key, name: str(c.name, 40) || c.key, postal_codes: arr(c.postal_codes, 5, 40), sources: citySources(c.sources) }));
   return { updated: str(p.updated, 40), listings: listings.slice(0, 1500), areas: Object.fromEntries(areaEntries), health, criteria, cities };
 }

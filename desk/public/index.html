@@ -89,9 +89,12 @@
     <label for="me-name">Name</label><input id="me-name" autocomplete="name">
     <label for="me-phone">Phone</label><input id="me-phone" autocomplete="tel">
     <label for="me-visale">Visale number</label><input id="me-visale" autocomplete="off"></div>
-  <div class="box"><strong>Cities to search</strong><p class="sub">The next run (within 10 minutes) starts collecting what you tick here. Up to 6 cities.</p>
-    <div class="citybox" id="citybox"></div>
-    <button class="btn" id="citysave" type="button">Save cities</button> <span class="sub" id="citymsg"></span></div>
+  <div class="box"><strong>City to search</strong><p class="sub" id="citysub"></p>
+    <input id="cityq" type="search" placeholder="Type a French city, for example Angers" autocomplete="off" aria-label="Search a city">
+    <div class="cityres" id="cityres" role="list"></div>
+    <p class="sub">Now collecting: <strong id="citynow">Lyon</strong></p>
+    <div class="citystat" id="citystat"></div>
+    <button class="btn" id="citysave" type="button">Save city</button> <span class="sub" id="citymsg"></span></div>
   <div class="box"><strong>Alerts on this device</strong><p class="sub" id="pushmsg"></p>
     <button class="btn" id="pushbtn" type="button">Turn on alerts</button> <button class="btn" id="pushtest" type="button">Send a test</button></div>
   <div class="box"><strong>Run now</strong><p class="sub" id="runmsg"></p><button class="btn" id="runbtn" type="button">Start a run</button></div>
