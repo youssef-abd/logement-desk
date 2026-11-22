@@ -33,7 +33,7 @@ async function load() {
   $("source").replaceChildren(new Option("All sources", "all"), ...src.map((s) => new Option(s, s)));
   if (!src.includes(S.f.source)) S.f.source = "all";
   $("source").value = S.f.source;
-  setupBudget(d.criteria);
+  setupBudget(S.data.criteria);
   render();
 }
 
