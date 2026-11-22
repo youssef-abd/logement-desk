@@ -29,7 +29,7 @@
    "last_success": "2026-11-22T00:30:20+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 9,
+   "blocked_runs": 10,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -36897,7 +36897,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-21T23:53:27+00:00",
+   "last_seen": "2026-11-22T03:00:34+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 4 pièces de 83 m². Disponible dès 2027-01-28",
@@ -37776,7 +37776,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T14:40:17+00:00",
-   "last_seen": "2026-11-21T23:53:27+00:00",
+   "last_seen": "2026-11-22T03:00:34+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 2 pièces de 35 m²",
@@ -38059,7 +38059,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-21T23:53:27+00:00",
+   "last_seen": "2026-11-22T03:00:34+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 4 pièces de 82 m²",
@@ -43678,7 +43678,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T23:00:48+00:00",
-   "last_seen": "2026-11-21T23:00:48+00:00",
+   "last_seen": "2026-11-22T03:00:34+00:00",
    "listing": {
     "charges": null,
     "description": "Chambre individuelle dans un appartement partagé, composé de 3 chambres et 1 salle de bain. D'une superficie d'environ 10 avec un lit double et un poste de travail.. Avec wifi, lave-vaisselle, machine à laver. Classe d'énergie : D, IPE 0,00 Kwh/Sqm année.",
