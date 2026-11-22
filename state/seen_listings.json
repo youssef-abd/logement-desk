@@ -10503,7 +10503,9 @@
    "status": "stale"
   },
   "bienici:ag752345-557485331": {
-   "also": [],
+   "also": [
+    "paruvendu:1297758199"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
    "last_seen": "2026-11-22T10:00:36+00:00",
@@ -35106,7 +35108,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T21:50:17+00:00",
-   "last_seen": "2026-11-22T08:00:43+00:00",
+   "last_seen": "2026-11-22T11:00:54+00:00",
    "listing": {
     "charges": null,
     "description": "",
@@ -35618,7 +35620,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T00:00:42+00:00",
-   "last_seen": "2026-11-22T08:00:43+00:00",
+   "last_seen": "2026-11-22T11:00:54+00:00",
    "listing": {
     "charges": null,
     "description": "",
@@ -35734,7 +35736,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T00:00:42+00:00",
-   "last_seen": "2026-11-22T08:00:43+00:00",
+   "last_seen": "2026-11-22T11:00:54+00:00",
    "listing": {
     "charges": null,
     "description": "",
@@ -38448,7 +38450,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T08:00:43+00:00",
-   "last_seen": "2026-11-22T08:00:43+00:00",
+   "last_seen": "2026-11-22T11:00:54+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 3 pièces de 64 m²",
@@ -41577,7 +41579,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-21T19:00:31+00:00",
+   "last_seen": "2026-11-22T11:00:54+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 9 452 € CC* Appartement 82 m 2 Lyon 9 5 pièces 4 chambres DPE : D 192 kWh/m².an 9 kg CO 2 /m².an Lyon 09, colocation meublée de 82 m2. 4 chambres dont 3 disponibles. Proche des commerces, parcs et clubs de sport. Cuisine équipée, salon avec balcon, cave et place de parking. Idéal pour travailleurs et étudiants. Entièrement meublé, prêt à vivre. BTOBED 18 annonces 17/11/2026 Voir Contacter",
@@ -41610,7 +41612,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296315083A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1296494944": {
    "also": [],
@@ -43078,7 +43080,7 @@
    "also": [],
    "dup_of": "bienici:hektor-groupe-hapi_1-290",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-22T08:00:43+00:00",
+   "last_seen": "2026-11-22T11:00:54+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -43087,7 +43089,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-22T08:00:43+00:00",
+   "last_seen": "2026-11-22T11:00:54+00:00",
    "listing": {
     "charges": null,
     "description": "Voir d'autres photos 6 699 € CC* Appartement 32 m 2 Lyon 5 2 pièces 1 chambre DPE : D 230 kWh/m².an 7 kg CO 2 /m².an À Lyon, appartement T2 de 32,68 m² dans la résidence Jardins de Fourvière. Entièrement réhabilité, il offre une pièce de vie lumineuse, une cuisine équipée et une chambre avec placard. Terrasse extérieure et proximité des transports en commun. VALORITY ADMINISTRATION DE BIENS 250 annonces 19/11/2026 Voir Contacter",
@@ -43754,6 +43756,90 @@
    "notified": false,
    "status": "active"
   },
+  "paruvendu:1297758199": {
+   "also": [],
+   "dup_of": "bienici:ag752345-557485331",
+   "first_seen": "2026-11-22T11:00:54+00:00",
+   "last_seen": "2026-11-22T11:00:54+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297758200": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T11:00:54+00:00",
+   "last_seen": "2026-11-22T11:00:54+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Nouveau Voir d'autres photos 9 590 € CC* Chambre 12 m 2 Villeurbanne (69) 1 pièce DPE : C 67 kWh/m².an 12 kg CO 2 /m².an Bien situé à Villeurbanne, chambre meublée en colocation. Immeuble sécurisé avec interphone et digicode, double vitrage. Charges incluses : chauffage, eau, électricité, internet, assurance et ménage. Proche de toutes commodités. LOC'A 51 annonces 22/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "coloc",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/09/fb/L2JpZW5zLzM0MjUxMTM0LzZiMDJjMzlkMjA5Mjg_MjAyNjExMjIxMTU4NTg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/fa/d5/L2JpZW5zLzM0MjUxMTM0LzZiMDJjMzllNGZiNWY_MjAyNjExMjIxMTU4NTg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/7d/32/L2JpZW5zLzM0MjUxMTM0LzZiMDJjMzlmMzhkYmE_MjAyNjExMjIxMTU4NTg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/f7/62/L2JpZW5zLzM0MjUxMTM0LzZiMDJjM2ExMjIzZjI_MjAyNjExMjIxMTU4NTg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/61/31/L2JpZW5zLzM0MjUxMTM0LzZiMDJjM2EyMDEwYjg_MjAyNjExMjIxMTU4NTg_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/63/61/L2JpZW5zLzM0MjUxMTM0LzZiMDJjM2EzZWNkZDI_MjAyNjExMjIxMTU4NTg_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-22",
+    "rent_cc": 590,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297758200",
+    "surface_m2": 12.0,
+    "tags": [],
+    "title": "Chambre - 1 pièce(s) - 12 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/chambre/1297758200A1KILHCM000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297758201": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T11:00:54+00:00",
+   "last_seen": "2026-11-22T11:00:54+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Nouveau 3 490 € CC* Chambre 11 m 2 Vénissieux (69) 1 pièce DPE : D 228 kWh/m².an 49 kg CO 2 /m².an 490€ cc / mois - a saisir! quartier parilly sur vénissieux, chambre meublée toutes charges comprises ( chauffage, eau et edf), colocation dans appartement avec cuisine et sanitaire à partager, placards, double vitrage. pour plus de... LOC'A 51 annonces 22/11/2026 Voir Contacter * Loyer mensuel charges comprises. M'envoyer les prochaines annonces Recevoir les nouvelles annonces Le top villes pour vo",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "coloc",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/20/e3/L2JpZW5zLzM0MjUxMTM1LzZiMDJjNDM2MzBmMGM_MjAyNjExMjIxMTU2MDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/d0/f8/L2JpZW5zLzM0MjUxMTM1LzZiMDJjNDM3MDQwMWY_MjAyNjExMjIxMTU2MDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/5e/d7/L2JpZW5zLzM0MjUxMTM1LzZiMDJjNDM3ZTY1ZDM_MjAyNjExMjIxMTU2MDc_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69200",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-22",
+    "rent_cc": 490,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297758201",
+    "surface_m2": 11.0,
+    "tags": [],
+    "title": "Chambre - 1 pièce(s) - 11 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/chambre/1297758201A1KILHCM000"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "studapart:08e20664-7672-4ba4-a8f9-e4fc4b6e0c38": {
    "also": [],
    "dup_of": null,
@@ -43943,7 +44029,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:00:38+00:00",
-   "last_seen": "2026-11-22T08:00:43+00:00",
+   "last_seen": "2026-11-22T11:00:54+00:00",
    "listing": {
     "charges": null,
     "description": "Chambre individuelle dans un appartement partagé, composé de 3 chambres et 1 salle de bain. D'une superficie d'environ 10 avec un lit double et un poste de travail.. Avec wifi, lave-vaisselle, machine à laver. Classe d'énergie : E, IPE 0,00 Kwh/Sqm année.",
