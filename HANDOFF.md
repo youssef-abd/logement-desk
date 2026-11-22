@@ -1,6 +1,21 @@
 # logement-desk: handoff
 
-Read this first. State: plan 1 (the pipeline) is built, tested (77 offline tests) and verified live on GitHub Actions on 2026-11-15: a dry run and two full runs from a runner IP (Bien'ici and Leboncoin both answer; the first full run saved the state, the immediate second run made no commit). It is started by hand: `gh workflow run run.yml -f mode=full|check`. Plan 2 (Worker cron, desk, push alerts) is not started.
+Read this first. State on 2026-11-22: the pipeline, the Cloudflare cron Worker (runs every 10 minutes, deep sweep on the hourly tick), the Pages desk (photos, stages, filters, city picker, Web Push code) and many sources are live. Tests: 163 Python (`.venv/Scripts/python -m pytest -q`), 43 JS (`node --test desk/tests/*.test.mjs`). Phone alerts and the phone test are still postponed (no device subscribed yet). Sections "Sources today", "Collect vs match" and "Cities" below are the current picture; the older "Source facts" were verified on 2026-11-15.
+
+## Sources today (cloud, no PC)
+- Work: Bien'ici, ParuVendu, Foncia (through the desk relay, `relay: true`), ImmoJeune (private ads each run; residence units via each residence page on deep runs; deep paging follows the page's `rel="next"` link), Studapart (headless Chrome via Playwright, `deep_only` in the profile so Chrome is installed only on deep runs), La Carte des Colocs (fallback only for the owner), Leboncoin (mostly blocked: about 21 of 24 recent runs).
+- Built but off (blocked from the GitHub runner): PAP (works from the PC and through the desk relay from some Cloudflare data centres only), Logic-Immo (works from the PC with a Chrome-fingerprint request; page 1 of each search embeds 25 listings as JSON in `__UFRN_FETCHER__`). SeLoger is blocked even from the PC (real Edge too).
+- Dead ends, do not retry: Scrapling and headless Chrome from GitHub (IP block, not fingerprint), Cloudflare placement hints for PAP, spoofing headers/TLS or cycling browser fingerprints against Datadome (the assistant is blocked from doing it), Locservice (teaser only), Jinka (needs an account), FJT directory (no prices).
+- The desk relay (`/api/relay`, x-push-token, hosts allowlisted in `desk/lib/relay.js`) fetches pages from Cloudflare's network for sites that refuse GitHub.
+- The desk is NOT deployed by `deploy-desk.yml` (no Cloudflare token secret): deploy by hand with `cd desk && npx wrangler pages deploy public --branch main`. Bump `VER` in `desk/public/sw.js` when the interface files change.
+
+## Collect vs match
+- Profile `collect` (private): the net the sources are asked with (currently up to 1200 EUR, furnished or not, all kinds). The top-level `max_rent_cc`, `near_miss_margin`, `furnished`, `kinds` are the owner's own criteria. `Listing.match` says whether a listing meets them; only `match` listings raise phone alerts (desk `ingest.js` checks it). Deploy the desk BEFORE widening `collect`, otherwise an old desk would alert on everything.
+- The desk filters (max rent slider, furnished, room type, city) start from `criteria` in the payload and are saved per browser.
+
+## Cities
+- `data/cities.json` (built by `python scripts/make_cities.py`, run from the PC): 11 cities with postcodes and the per-source options that really returned listings there; `desk/public/cities.json` is the catalogue shown in Settings. Lyon is the profile's own hand-tuned setup.
+- The desk stores the chosen cities in KV (`/api/search`, max 6); the run reads them (`logement/cities.py: desk_cities`, falls back to the profile's `cities`, then Lyon). `run()` makes one pass per city per source with that city's options; a failing city keeps the others; listings carry `city`. ParuVendu's city pages show only the département, so area is attributed by city, not postcode.
 
 ## What exists
 - `logement/`: the pipeline. `python -m logement.run --check --show --profile profile.json` is the local dry run; `--strict` exits 1 if any source is not ok.
@@ -38,5 +53,5 @@ Read this first. State: plan 1 (the pipeline) is built, tested (77 offline tests
 - A repost more than `stale_after_minutes` after the original left the newest page alerts again; ParuVendu and La Carte des Colocs have no postal code, so they never dedupe.
 - `--strict` (weekly contract check) fails while a source is in cooldown or returns nothing, by design.
 
-## Next (plan 2)
-Cloudflare Worker cron (dispatches `run.yml`), Pages desk with photos and stages, Web Push, source-health panel, "Run now", per-query yield log. Before showing photos, verify that each source's photo URLs load from another site (spec section 14). Adding sources: spec section 16.
+## Next
+Phone test of Web Push; widen the profile (T2, suburbs) if the volume is still thin; a residential proxy is the only thing seen to unblock Leboncoin/SeLoger/PAP/Logic-Immo from the cloud (paid, not chosen). Adding sources: spec section 16. Adding a city: add its name to `CANDIDATES` in `scripts/make_cities.py` and run it.
