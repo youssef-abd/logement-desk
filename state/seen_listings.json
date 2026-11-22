@@ -12,7 +12,7 @@
    "consecutive_failures": 0,
    "cooldown_until": null,
    "last_error": null,
-   "last_success": "2026-11-22T07:20:19+00:00"
+   "last_success": "2026-11-22T10:20:27+00:00"
   },
   "immojeune": {
    "blocked_runs": 0,
@@ -29,7 +29,7 @@
    "last_success": "2026-11-22T09:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 8,
+   "blocked_runs": 9,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-22T09:00:21+00:00",
    "last_error": "blocked",
@@ -34647,7 +34647,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "Avenue Roger Salengro Villeurbanne, à deux pas du tram T6 et à proximité immédiate du campus de la …",
@@ -34679,7 +34679,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "Studio meublé à Bron, idéal étudiantSitué au 225 avenue Franklin Roosevelt, à Bron, ce studio meublé …",
@@ -34711,7 +34711,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "LE PARC DE CHALIN, 8 chemin Louis Chirpaz, Proche des commodités (accès en 15 minutes au centre de …",
@@ -34743,7 +34743,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "Découvrez ce studio récemment rénové et meublé, situé dans un environnement calme, à seulement 20 …",
@@ -34777,7 +34777,7 @@
    "also": [],
    "dup_of": "leboncoin:3306328631",
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -34786,7 +34786,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "22 RUE SAINT MICHEL - 69007 LYONVISITE VIRTUELLE UNIQUEMENTA deux pas du métro Saxe Gambetta (ligne …",
@@ -34820,7 +34820,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "36 RUE DES ANTONINS VILLEURBANNE - Dans une résidence calme et sécurisée, avec un gardien et une …",
@@ -34852,7 +34852,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "36 RUE DES ANTONINS VILLEURBANNE - Dans une résidence sécurisée, avec un gardien une laverie et un …",
@@ -34884,7 +34884,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "Rue de Margnolles, Caluire - A proximité immédiate du métro Cuire, situé dans un quartier …",
@@ -34916,7 +34916,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:50:43+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "VISITE VIRTUELLE EXCLUSIVEMENTRéservé aux étudiants, découvrez ce studio meublé de 18.64 m² au 1er …",
@@ -36405,7 +36405,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 3 pièces de 70 m². Disponible dès 2026-12-15",
@@ -36648,6 +36648,41 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:5gyhu6": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Appartement 4 pièces de 84 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-2f53da192b6e2dad0552c9de3742a4f7/6535025/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 500,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "5gyhu6",
+    "surface_m2": 84,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 84 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/5gyhu6"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:60fm63": {
    "also": [],
    "dup_of": null,
@@ -36792,7 +36827,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 4 pièces de 90 m². Disponible dès 2026-12-21",
@@ -37461,7 +37496,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 3 pièces de 70 m². Disponible dès 2026-12-24",
@@ -37674,7 +37709,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 3 pièces de 70 m². Disponible dès 2026-12-23",
@@ -37745,7 +37780,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 7 pièces de 240 m². Disponible dès 2026-12-17",
@@ -37816,7 +37851,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 3 pièces de 90 m². Disponible dès 2026-12-22",
@@ -38167,7 +38202,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T04:20:18+00:00",
-   "last_seen": "2026-11-22T07:20:19+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
    "listing": {
     "charges": null,
     "description": "Appartement 3 pièces de 80 m². Disponible dès 2026-12-16",
@@ -43676,6 +43711,45 @@
     ],
     "title": "Appartement - 3 pièce(s) - 70 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297750474A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297755484": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-22T10:20:27+00:00",
+   "last_seen": "2026-11-22T10:20:27+00:00",
+   "listing": {
+    "charges": null,
+    "description": "Nouveau 4 610 € CC* Appartement 18 m 2 Lyon 1 1 pièce DPE : E 349 kWh/m².an 11 kg CO 2 /m².an À Lyon 1, studio meublé au 1er étage, proche de l?hôtel de Ville. Il comprend un séjour, cuisine équipée, salle d'eau, wc et placards. Charges incluant chauffage, eau et EDF. Digicode et double vitrage. Idéal pour un premier logement. LOC'A 51 annonces 22/11/2026 Voir Contacter",
+    "district": "Lyon 1er",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/57/68/L2JpZW5zLzM0MjUxMTMwLzZiMDJiNjNmZDI0OTI_MjAyNjExMjIxMTE4MTE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/02/a2/L2JpZW5zLzM0MjUxMTMwLzZiMDJiNjQxMTE2OGU_MjAyNjExMjIxMTE4MTE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/19/b3/L2JpZW5zLzM0MjUxMTMwLzZiMDJiNjQxOTFiN2Q_MjAyNjExMjIxMTE4MTE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/20/03/L2JpZW5zLzM0MjUxMTMwLzZiMDJiNjQwNzBkMTY_MjAyNjExMjIxMTE4MTE_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-22",
+    "rent_cc": 610,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297755484",
+    "surface_m2": 18.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 1 pièce(s) - 18 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297755484A1KILHAP000"
    },
    "notified": false,
    "status": "active"
