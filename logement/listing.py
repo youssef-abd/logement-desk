@@ -24,6 +24,7 @@ class Listing:
     flags: list = field(default_factory=list)
     tags: list = field(default_factory=list)
     found_by: str = ""
+    match: bool = True  # meets the owner's own criteria (the collection net can be wider)
 
     @property
     def key(self):

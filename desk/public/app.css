@@ -73,6 +73,9 @@ summary.panel-head::-webkit-details-marker { display: none; }
 .controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 20px 0 8px; }
 select, input[type="search"], input[type="password"], input:not([type]) { height: var(--ctl); padding: 0 10px; border: 1px solid var(--control); border-radius: var(--r-ctl); background: var(--surface); }
 input[type="search"] { flex: 1; min-width: 140px; }
+.rng { display: inline-flex; gap: 8px; align-items: center; min-height: var(--ctl); color: var(--muted); }
+.rng output { min-width: 4.5em; color: var(--ink); font-variant-numeric: tabular-nums; }
+.rng input { width: 130px; }
 .chk { display: inline-flex; gap: 6px; align-items: center; min-height: var(--ctl); color: var(--muted); }
 .seg { display: inline-flex; border: 1px solid var(--control); border-radius: var(--r-ctl); overflow: hidden; }
 .seg button { height: calc(var(--ctl) - 2px); padding: 0 12px; border: 0; background: var(--surface); cursor: pointer; }

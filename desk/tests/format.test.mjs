@@ -98,3 +98,15 @@ test("the kind filter separates colocations from flats", () => {
   assert.equal(matches(L({ kind: "studio" }), { ...F2, kind: "flat" }, "none"), true);
   assert.equal(matches(L({ kind: "coloc" }), { ...F2 }, "none"), true);
 });
+
+test("matches applies the budget, furnished and room-type filters", () => {
+  assert.equal(matches(L({ rent_cc: 650 }), { ...F, maxRent: 600 }, "none"), false);
+  assert.equal(matches(L({ rent_cc: 650 }), { ...F, maxRent: 700 }, "none"), true);
+  assert.equal(matches(L({ rent_cc: null }), { ...F, maxRent: 300 }, "none"), true); // an unknown rent is not hidden
+  assert.equal(matches(L({ furnished: false }), { ...F, furn: "known" }, "none"), false);
+  assert.equal(matches(L({ furnished: null }), { ...F, furn: "known" }, "none"), true);
+  assert.equal(matches(L({ furnished: null }), { ...F, furn: "yes" }, "none"), false);
+  assert.equal(matches(L({ furnished: false }), { ...F, furn: "any" }, "none"), true);
+  assert.equal(matches(L({ kind: "t2" }), { ...F, kind: "studio" }, "none"), false);
+  assert.equal(matches(L({ kind: "studio" }), { ...F, kind: "studio" }, "none"), true);
+});

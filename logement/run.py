@@ -51,7 +51,7 @@ def _record_success(h, now, profile):
 
 
 def run(profile, state, now, fetchers=None, sleep=time.sleep, deep=False):
-    fetch_profile = {**profile, "deep": True} if deep else profile
+    fetch_profile = {**profile, **(profile.get("collect") or {}), **({"deep": True} if deep else {})}  # sources are asked with the wide net
     fetchers = fetchers or {}
     state.setdefault("listings", {})
     health = state.setdefault("health", {})
@@ -98,7 +98,7 @@ def run(profile, state, now, fetchers=None, sleep=time.sleep, deep=False):
             continue
         if h["consecutive_failures"] == threshold:
             newly_failing.append(name)
-    alerts = process(state, kept_all, ok, now, profile)
+    alerts = [l for l in process(state, kept_all, ok, now, profile) if l.match]
     store.prune(state, now, profile["prune_days"])
     attempted = [r for r in report.values() if r["status"] in ("ok", "error", "blocked")]
     failing = sorted(n for n, h in health.items() if h["consecutive_failures"] >= threshold)
@@ -142,7 +142,7 @@ def main(argv=None):
         store.save(a.state, state)
         os.makedirs("out", exist_ok=True)
         with open("out/desk.json", "w", encoding="utf-8", newline="\n") as f:
-            json.dump(build_payload(state, res["report"], now), f, ensure_ascii=False)
+            json.dump(build_payload(state, res["report"], now, profile), f, ensure_ascii=False)
         topic = os.environ.get("NTFY_TOPIC", "")
         if topic and res["newly_failing"]:
             notify(topic, "logement-desk: source failing: " + ", ".join(res["newly_failing"]))

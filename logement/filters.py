@@ -27,7 +27,7 @@ def infer_kind(l):
     return None
 
 
-def hard_filter(l, p):
+def _check(l, p):
     """True to keep. Adds tags for unknown values instead of rejecting on them."""
     codes = p["areas"].get("allowed_postal_codes") or []
     if codes:
@@ -58,15 +58,24 @@ def hard_filter(l, p):
     if l.rent_cc is None:
         _tag(l, "rent?")
     else:
-        ceiling = p["max_rent_cc"]
-        if l.rent_cc > ceiling + p["near_miss_margin"]:
+        if l.rent_cc > p["max_rent_cc"] + p["near_miss_margin"]:
             return False
-        if l.rent_cc > ceiling:
-            _tag(l, "near-miss")
 
     if p["furnished"] == "required":
         if l.furnished is False:
             return False
         if l.furnished is None:
             _tag(l, "furnished?")
+    return True
+
+
+def hard_filter(l, p):
+    """True to keep. With a profile "collect" section the net is wider than the owner's criteria (the desk narrows it live);
+    l.match then says whether the listing also meets the owner's own criteria, which is what phone alerts use."""
+    wide = {**p, **(p.get("collect") or {})}
+    if not _check(l, wide):
+        return False
+    if l.rent_cc is not None and p["max_rent_cc"] < l.rent_cc <= p["max_rent_cc"] + p["near_miss_margin"]:
+        _tag(l, "near-miss")
+    l.match = _check(l, p) if p.get("collect") else True
     return True

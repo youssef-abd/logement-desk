@@ -77,3 +77,30 @@ def test_colocation_is_detected_from_the_description_but_not_from_a_landlord_rul
     assert infer_kind(make_listing(title="Colocation 3 chambres", description="", rooms=3)) == "coloc"
     assert infer_kind(make_listing(title="T3", description="Colocation autorisée, beau T3 lumineux", rooms=3)) == "t3+"
     assert infer_kind(make_listing(title="Studio", description="Colocation non acceptée", rooms=1)) == "studio"
+
+
+def wide(profile):
+    profile["collect"] = {"max_rent_cc": 1200, "near_miss_margin": 0, "furnished": "any", "kinds": {"allowed": ["studio", "t1", "t2", "t3+", "room", "coloc"], "max_surface_for_t1": 60}}
+    return profile
+
+
+def test_collect_widens_the_net_but_marks_what_misses_the_owners_criteria(profile):
+    p = wide(profile)
+    cheap, dear, unfurnished = make_listing(rent_cc=500.0), make_listing(rent_cc=950.0), make_listing(rent_cc=550.0, furnished=False)
+    for l in (cheap, dear, unfurnished):
+        assert hard_filter(l, p) is True
+    assert (cheap.match, dear.match, unfurnished.match) == (True, False, False)
+    assert hard_filter(make_listing(rent_cc=1300.0), p) is False
+
+
+def test_near_miss_tag_still_refers_to_the_owners_budget_when_the_net_is_wide(profile):
+    p = wide(profile)  # budget 700, margin 50
+    near, over = make_listing(rent_cc=720.0), make_listing(rent_cc=800.0)
+    hard_filter(near, p)
+    hard_filter(over, p)
+    assert "near-miss" in near.tags and near.match is True and "near-miss" not in over.tags and over.match is False
+
+
+def test_without_collect_nothing_changes_and_everything_matches(profile):
+    l = make_listing(rent_cc=720.0)
+    assert hard_filter(l, profile) is True and l.match is True and hard_filter(make_listing(rent_cc=900.0), profile) is False

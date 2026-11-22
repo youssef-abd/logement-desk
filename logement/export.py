@@ -5,13 +5,20 @@ from .coloc import is_coloc
 from .scam import risk, signals
 
 KEEP = ("source", "url", "title", "rent_cc", "surface_m2", "rooms", "kind", "district", "postal_code",
-        "furnished", "poster", "poster_name", "published_at", "flags", "tags", "photos")
+        "furnished", "poster", "poster_name", "published_at", "flags", "tags", "photos", "match")
 MAX_LISTINGS = 1500
 MAX_STALE = 100  # the Closed tab keeps only the most recently seen listings that left the site
 SMALL_M2 = 35  # price tags only apply to flats up to this size
 
 
-def build_payload(state, report, now):
+def criteria(p):
+    """What the desk filters start from: the owner's own criteria, and how far the collection net reaches."""
+    wide = {**p, **(p.get("collect") or {})}
+    return {"max_rent_cc": p["max_rent_cc"], "near_miss_margin": p["near_miss_margin"], "furnished": p["furnished"],
+            "collect_max_rent_cc": wide["max_rent_cc"] + wide["near_miss_margin"]}
+
+
+def build_payload(state, report, now, profile=None):
     """The desk's data: canonical listings (no duplicate entries, no descriptions), newest first, plus per-source health."""
     rows, items = [], []
     for key, e in state["listings"].items():
@@ -67,4 +74,4 @@ def build_payload(state, report, now):
     health = {name: {"last_success": h.get("last_success"), "failures": h.get("consecutive_failures", 0),
                      "error": h.get("last_error"), "cooldown_until": h.get("cooldown_until"), "run": report.get(name)}
               for name, h in state.get("health", {}).items() if not report or name in report}  # only sources enabled in this run
-    return {"updated": now, "listings": rows[:MAX_LISTINGS], "areas": areas, "health": health}
+    return {"updated": now, "listings": rows[:MAX_LISTINGS], "areas": areas, "health": health, "criteria": criteria(profile) if profile else None}

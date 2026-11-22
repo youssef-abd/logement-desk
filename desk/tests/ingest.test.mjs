@@ -68,3 +68,10 @@ test("freshness follows the posted date: an old listing discovered just now is n
   const r = await ingest({ kv, payload: P(old, live), now: NOW, send: async () => 201 });
   assert.equal(r.fresh, 1);
 });
+
+test("listings outside the owner's own criteria are stored but never raise an alert", async () => {
+  const kv = fakeKV({ notified: [] }), sent = [];
+  const out = await ingest({ kv, payload: P(L("in"), L("out", { match: false })), now: NOW, send: async (s) => { sent.push(s); return 201; } });
+  assert.equal(out.fresh, 1);
+  assert.deepEqual(await kv.get("notified", "json"), ["in"]);
+});

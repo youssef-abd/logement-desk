@@ -22,4 +22,10 @@ def load_profile(path=None, env=None):
         raise ValueError("profile is missing: " + ", ".join(missing))
     if data["furnished"] not in ("required", "preferred", "any"):
         raise ValueError("furnished must be required, preferred or any")
+    c = data.get("collect")
+    if c is not None:
+        if not isinstance(c, dict) or c.get("max_rent_cc", data["max_rent_cc"]) < data["max_rent_cc"]:
+            raise ValueError("collect must be an object whose max_rent_cc is not below max_rent_cc")
+        if c.get("furnished", "any") not in ("required", "preferred", "any"):
+            raise ValueError("collect.furnished must be required, preferred or any")
     return data

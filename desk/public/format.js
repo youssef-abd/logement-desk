@@ -57,6 +57,10 @@ export function matches(l, f, stage) {
   if (f.poster !== "all" && l.poster !== f.poster) return false;
   if (f.kind === "coloc" && l.kind !== "coloc") return false;
   if (f.kind === "flat" && l.kind === "coloc") return false;
+  if (["studio", "t1", "t2", "t3+", "room"].includes(f.kind) && l.kind !== f.kind) return false;
+  if (f.maxRent != null && l.rent_cc != null && l.rent_cc > f.maxRent) return false;
+  if (f.furn === "yes" && l.furnished !== true) return false;
+  if (f.furn === "known" && l.furnished === false) return false;
   if (f.area && f.area !== "all" && l.postal_code !== f.area) return false;
   if (f.cheap && !(l.tags || []).includes("cheap-for-area")) return false;
   if (!f.near && (l.tags || []).includes("near-miss")) return false;

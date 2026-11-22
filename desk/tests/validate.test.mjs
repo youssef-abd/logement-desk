@@ -85,3 +85,12 @@ test("poster_name is kept as a short string", () => {
   assert.equal(cleanListing({ ...good, poster_name: "x".repeat(200) }).poster_name.length, 60);
   assert.equal(cleanListing({ ...good, poster_name: 5 }).poster_name, null);
 });
+
+test("cleanPayload keeps the match flag and the criteria, and tolerates their absence", () => {
+  const l = { id: "a", source: "bienici", url: "https://www.bienici.com/annonce/a" };
+  const p = cleanPayload({ listings: [l, { ...l, id: "b", match: false }], criteria: { max_rent_cc: 600, near_miss_margin: 100, furnished: "required", collect_max_rent_cc: 1200, junk: 1 } });
+  assert.deepEqual(p.listings.map((x) => x.match), [true, false]);
+  assert.deepEqual(p.criteria, { max_rent_cc: 600, near_miss_margin: 100, furnished: "required", collect_max_rent_cc: 1200 });
+  assert.equal(cleanPayload({ listings: [l] }).criteria, null);
+  assert.equal(cleanPayload({ listings: [l], criteria: { max_rent_cc: "x" } }).criteria, null);
+});

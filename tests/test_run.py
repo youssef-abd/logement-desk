@@ -159,3 +159,17 @@ def test_deep_only_sources_are_skipped_on_light_runs_and_run_on_deep_runs(profil
     light = run(p, store.empty(), NOW, fetchers=fetchers)
     assert light["report"]["leboncoin"] == {"status": "skipped"} and light["report"]["bienici"]["status"] == "ok"
     assert run(p, store.empty(), NOW, fetchers=fetchers, deep=True)["report"]["leboncoin"]["status"] == "ok"
+
+
+def test_only_listings_that_meet_the_owners_criteria_raise_alerts_but_all_are_kept(profile):
+    p = profile_with(profile, "bienici")
+    p["collect"] = {"max_rent_cc": 1200, "near_miss_margin": 0, "furnished": "any", "kinds": {"allowed": ["studio", "t1", "t2", "t3+", "room", "coloc"], "max_surface_for_t1": 60}}
+    seen = {}
+    def fetch(prof):
+        seen["max"] = prof["max_rent_cc"]
+        return [make_listing(source_id="cheap", rent_cc=500.0), make_listing(source_id="dear", rent_cc=950.0)]
+    state = store.empty()
+    res = run(p, state, NOW, fetchers={"bienici": fetch})
+    assert seen["max"] == 1200  # the source is asked with the wide net
+    assert [a.key for a in res["alerts"]] == ["bienici:cheap"]
+    assert set(state["listings"]) == {"bienici:cheap", "bienici:dear"} and state["listings"]["bienici:dear"]["listing"]["match"] is False

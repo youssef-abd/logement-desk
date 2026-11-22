@@ -5,7 +5,7 @@ const $ = (id) => document.getElementById(id);
 const ls = { get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }, set(k, v) { try { v == null ? localStorage.removeItem(k) : localStorage.setItem(k, v); } catch (e) { /* private mode */ } } };
 const S = {
   token: ls.get("ld-token") || "", data: null, marks: {}, yield: {}, sort: "newest", dense: ls.get("ld-density") === "compact", shown: 60,
-  since: Number(ls.get("ld-lastvisit")) || Date.now(), f: { tab: "new", source: "all", poster: "all", kind: "all", near: true, cheap: false, q: "", area: "all" },
+  since: Number(ls.get("ld-lastvisit")) || Date.now(), f: { tab: "new", source: "all", poster: "all", kind: "all", near: true, cheap: false, q: "", area: "all", maxRent: null, furn: "known" },
 };
 const TABS = [["new", "New", "New listings"], ["saved", "Saved", "Saved"], ["following", "Following", "Following up"], ["closed", "Closed", "Closed"]];
 const STAGES = [["none", "New"], ["saved", "Saved"], ["contacted", "Contacted"], ["visit", "Visit"], ["dossier", "Dossier sent"], ["refused", "Refused"]];
@@ -33,6 +33,7 @@ async function load() {
   $("source").replaceChildren(new Option("All sources", "all"), ...src.map((s) => new Option(s, s)));
   if (!src.includes(S.f.source)) S.f.source = "all";
   $("source").value = S.f.source;
+  setupBudget(d.criteria);
   render();
 }
 
@@ -241,7 +242,19 @@ function openSettings() {
   $("dlg").showModal(); pushRefresh(); if (S.token) runRefresh();
 }
 
+// the budget and furnished filters start from the owner's own criteria and can be loosened up to what the run collects
+function setupBudget(c) {
+  const top = (c && c.collect_max_rent_cc) || 1200, own = c ? c.max_rent_cc + (c.near_miss_margin || 0) : top;
+  let saved = {}; try { saved = JSON.parse(ls.get("ld-filters") || "{}"); } catch (e) { saved = {}; }
+  $("rent").max = String(top);
+  S.f.maxRent = Math.min(top, Number.isFinite(saved.maxRent) ? saved.maxRent : own);
+  S.f.furn = ["known", "yes", "any"].includes(saved.furn) ? saved.furn : c && c.furnished === "any" ? "any" : "known";
+  $("rent").value = String(S.f.maxRent); $("furn").value = S.f.furn; $("rentout").textContent = S.f.maxRent + " €";
+}
+const saveFilters = () => ls.set("ld-filters", JSON.stringify({ maxRent: S.f.maxRent, furn: S.f.furn }));
 const rerender = () => { S.shown = 60; render(); };
+$("rent").addEventListener("input", (e) => { S.f.maxRent = Number(e.target.value); $("rentout").textContent = S.f.maxRent + " €"; saveFilters(); rerender(); });
+$("furn").addEventListener("change", (e) => { S.f.furn = e.target.value; saveFilters(); rerender(); });
 $("sort").addEventListener("change", (e) => { S.sort = e.target.value; rerender(); });
 $("source").addEventListener("change", (e) => { S.f.source = e.target.value; rerender(); });
 $("kind").addEventListener("change", (e) => { S.f.kind = e.target.value; rerender(); });

@@ -148,3 +148,14 @@ def test_health_lists_only_sources_enabled_in_this_run(profile):
     state["health"]["old"] = {"consecutive_failures": 3, "last_success": None, "last_error": "blocked", "cooldown_until": None}
     state["health"]["bienici"] = {"consecutive_failures": 0, "last_success": NOW, "last_error": None, "cooldown_until": None}
     assert list(build_payload(state, {"bienici": {"status": "ok"}}, NOW)["health"]) == ["bienici"]
+
+
+def test_payload_carries_the_match_flag_and_the_criteria_the_desk_starts_from(profile):
+    state = store.empty()
+    state["listings"]["bienici:a"] = {"dup_of": None, "first_seen": NOW, "last_seen": NOW, "status": "active", "also": [], "notified": True,
+                                      "listing": make_listing(source_id="a", match=False).to_dict()}
+    profile["collect"] = {"max_rent_cc": 1200, "near_miss_margin": 0}
+    p = build_payload(state, {}, NOW, profile)
+    assert p["listings"][0]["match"] is False
+    assert p["criteria"] == {"max_rent_cc": 700, "near_miss_margin": 50, "furnished": "required", "collect_max_rent_cc": 1200}
+    assert build_payload(state, {}, NOW)["criteria"] is None

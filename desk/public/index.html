@@ -56,7 +56,9 @@
     <section class="controls" aria-label="Filters">
       <select id="sort" aria-label="Sort"><option value="newest">Newest first</option><option value="price">Price, low to high</option><option value="eur_m2">€/m², low to high</option><option value="size">Largest first</option></select>
       <select id="source" aria-label="Source"><option value="all">All sources</option></select>
-      <select id="kind" aria-label="Type"><option value="all">All types</option><option value="flat">Flats only</option><option value="coloc">Colocations only</option></select>
+      <select id="kind" aria-label="Type"><option value="all">All types</option><option value="flat">Flats only</option><option value="studio">Studios</option><option value="t1">T1</option><option value="t2">T2</option><option value="t3+">T3 and up</option><option value="room">Rooms</option><option value="coloc">Colocations only</option></select>
+      <select id="furn" aria-label="Furnished"><option value="known">Furnished or unknown</option><option value="yes">Furnished only</option><option value="any">Any</option></select>
+      <label class="rng">Max rent <output id="rentout"></output><input type="range" id="rent" min="300" max="1200" step="50" aria-label="Maximum rent"></label>
       <select id="poster" aria-label="Poster"><option value="all">Anyone</option><option value="particulier">Private owners only</option></select>
       <label class="chk"><input type="checkbox" id="near" checked> Include over-budget</label>
       <label class="chk"><input type="checkbox" id="cheap"> Cheap for the area</label>
