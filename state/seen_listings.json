@@ -29,10 +29,10 @@
    "last_success": "2026-11-23T07:30:26+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-23T07:40:20+00:00"
   },
   "logicimmo": {
@@ -69507,7 +69507,7 @@
    "checked": "2026-11-23T04:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-22T17:50:19+00:00",
+   "last_seen": "2026-11-23T08:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -69537,7 +69537,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/b402a0"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:baurpv": {
    "also": [],
