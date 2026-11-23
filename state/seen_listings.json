@@ -29,10 +29,10 @@
    "last_success": "2026-11-23T13:50:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
-   "consecutive_failures": 4,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
+   "last_error": null,
    "last_success": "2026-11-23T14:30:19+00:00"
   },
   "logicimmo": {
@@ -553,7 +553,9 @@
    "status": "active"
   },
   "bienici:ag210198-558923807": {
-   "also": [],
+   "also": [
+    "leboncoin:3316381047"
+   ],
    "checked": "2026-11-23T07:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -2015,7 +2017,8 @@
   },
   "bienici:ag440414-557669600": {
    "also": [
-    "paruvendu:1297005506"
+    "paruvendu:1297005506",
+    "leboncoin:3303848958"
    ],
    "checked": "2026-11-23T07:00:41+00:00",
    "dup_of": null,
@@ -11493,7 +11496,9 @@
    "status": "stale"
   },
   "bienici:ag692498-552056246": {
-   "also": [],
+   "also": [
+    "leboncoin:3248839494"
+   ],
    "checked": "2026-11-23T08:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -18822,7 +18827,9 @@
    "status": "active"
   },
   "bienici:ag696596-550775648": {
-   "also": [],
+   "also": [
+    "leboncoin:3274677907"
+   ],
    "checked": "2026-11-23T10:03:03+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -39048,7 +39055,9 @@
    "status": "active"
   },
   "bienici:hektor-EICARLA2020-6145": {
-   "also": [],
+   "also": [
+    "leboncoin:3270551375"
+   ],
    "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -40353,7 +40362,9 @@
    "status": "stale"
   },
   "bienici:hektor-developpement69-681": {
-   "also": [],
+   "also": [
+    "leboncoin:3316387956"
+   ],
    "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -45026,7 +45037,9 @@
    "status": "active"
   },
   "bienici:ics-rci_RCI_loc-GES31930208-377": {
-   "also": [],
+   "also": [
+    "leboncoin:3269935973"
+   ],
    "checked": "2026-11-23T13:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -48858,7 +48871,9 @@
    "status": "active"
   },
   "bienici:immo-facile-44526238": {
-   "also": [],
+   "also": [
+    "leboncoin:3311945528"
+   ],
    "checked": "2026-11-23T14:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -69258,7 +69273,9 @@
    "status": "active"
   },
   "immojeune:u3998649": {
-   "also": [],
+   "also": [
+    "leboncoin:3316387059"
+   ],
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T22:01:56+00:00",
@@ -75153,6 +75170,15 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3248839494": {
+   "also": [],
+   "dup_of": "bienici:ag692498-552056246",
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3254135351": {
    "also": [],
    "dup_of": "bienici:ag755239-546204131",
@@ -75456,11 +75482,29 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3269935973": {
+   "also": [],
+   "dup_of": "bienici:ics-rci_RCI_loc-GES31930208-377",
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3270547976": {
    "also": [],
    "dup_of": "bienici:mgc-ancien-SNI_0000_314103",
    "first_seen": "2026-11-22T16:30:21+00:00",
    "last_seen": "2026-11-22T16:30:21+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3270551375": {
+   "also": [],
+   "dup_of": "bienici:hektor-EICARLA2020-6145",
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -75578,6 +75622,15 @@
    "dup_of": "bienici:ag692498-559680755",
    "first_seen": "2026-11-23T09:50:19+00:00",
    "last_seen": "2026-11-23T09:50:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3274677907": {
+   "also": [],
+   "dup_of": "bienici:ag696596-550775648",
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -77430,6 +77483,48 @@
    "notified": true,
    "status": "active"
   },
+  "leboncoin:3298245313": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": {
+    "charges": 65.0,
+    "city": "lyon",
+    "description": "Appartement 2 pièces 44 m²\n\nVILLEURBANNE - Rue Clément Michut /Appartement 2 pièces de 44 m2, au 5e étage avec ascenseur, proche des commerces et de toutes commodités.\n\nIl se compose d'une entrée avec un dressing, 1 cuisine indépendante, 1 pièce de vie lumineuse donnant sur une terrasse de 11.58m2, 1 chambre avec un placard, 1 salle de bains et un WC séparé,\n\nVous disposez également d'un garage en sous-sol \n\nEau froide, Chauffage et eau chaude collectifs \n\nLoyer appartement : 799€ charges inclus",
+    "district": "Villeurbanne 69100",
+    "flags": [
+     "agency_fees",
+     "charges_hc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": null,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/49/4a/f9/494af9d8af3f44891e6559ee718b3f61701f8033.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e7/37/bd/e737bd3729f9c8542d18487cf508bb9175db38a7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/3e/6b/4e/3e6b4e9baa6429b502c69c3356d0ae31ee951d57.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/31/45/9e/31459e1f4da3c1a61adec03a12651bb20da6eb90.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8b/bd/d3/8bbdd3ee7562b2a00f543b64afe62493a59cf550.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f7/27/97/f727979cc5c7ef4277f0e3c05bbfbbbbb79fa7b6.jpg?rule=ad-large"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "REGIE GENERALE DE LYON",
+    "published_at": "2026-10-30 15:02:41",
+    "rent_cc": 799.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3298245313",
+    "surface_m2": 44.0,
+    "tags": [],
+    "title": "Appartement 2 pièces 44 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3298245313"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3298357206": {
    "also": [],
    "dup_of": "bienici:immo-facile-54091333",
@@ -78055,6 +78150,15 @@
    "dup_of": "bienici:ag692498-539601197",
    "first_seen": "2026-11-21T11:40:19+00:00",
    "last_seen": "2026-11-23T15:40:20+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3303848958": {
+   "also": [],
+   "dup_of": "bienici:ag440414-557669600",
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -78707,6 +78811,46 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "leboncoin:3307909818": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": {
+    "charges": 55.0,
+    "city": "lyon",
+    "description": "Quartier Moulin à Vent, ce spacieux T1 entièrement RENOVE et ISOLE vous offre un cadre de vie idéal. Situé au 4ème étage avec ascenseur d'un immeuble bien entretenu, cet appartement est traversant nord / sud avec une absence totale de vis-à-vis. Vous apprécierez sa luminosité naturelle et sa vue dégagée sur Fourvière coté cour. L'espace se compose d'une entrée, d'une belle pièce de vie en parquet, d'une grande cuisine indépendante, d'une salle d'eau et pour plus de confort des WC séparés. L'agen",
+    "district": "Lyon 69008",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/03/d4/9c/03d49c6b0a13c551dba3010edd8717d88494e6b7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6c/af/5a/6caf5a1f279811d9ba6c62c23b395d4862f3d201.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6f/1d/e5/6f1de5672f1914720a99f1f56df494c80eae26a4.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/50/c8/2f/50c82f4328645c7a5553dd201d92a0f76edd3fbe.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/57/74/ae/5774ae03a8fba53977ede3604a39b94336d56e56.jpg?rule=ad-large"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "Foncia Lyon Tête d'Or - Lumière",
+    "published_at": "2026-11-12 15:05:13",
+    "rent_cc": 695.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3307909818",
+    "surface_m2": 33.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Apartment",
+    "url": "https://www.leboncoin.fr/ad/locations/3307909818"
+   },
+   "notified": false,
+   "status": "active"
   },
   "leboncoin:3307909911": {
    "also": [],
@@ -79619,6 +79763,54 @@
     "url": "https://www.leboncoin.fr/ad/locations/3311769826"
    },
    "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3311865203": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": {
+    "charges": 30.0,
+    "city": "lyon",
+    "description": "Appartement 1 pièce 34 m²\n\nDécouvrez ce charmant appartement T1 bis meublé de 33,97 m², situé au 1er étage d'un immeuble de 4 étages, dans un secteur recherché de Lyon 2ème, à proximité immédiate des quais et de toutes les commodités.\nFonctionnel et agréable à vivre, cet appartement bénéficie d'un agencement optimisé et offre un espace confortable pour une personne seule ou un couple. Il se compose d'une agréable pièce de vie avec cuisine ouverte aménagée et équipée, idéale pour profiter pleinem",
+    "district": "Lyon 69002",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": null,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/73/b7/49/73b74954018baa852cf838643e166209f42e8944.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/c3/ad/c5/c3adc54075d389a412a68b509adcfd05b5ecef1e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/03/2d/71/032d71aff203783e18b4a70103b1552edc955ebd.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/cf/5d/3c/cf5d3cca2f439bd12b73053350e35524a71fd9a1.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d6/36/5e/d6365eb054e3eca797d01cf8e14d05aa72c5792d.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/0b/6d/0f0b6d8f802ec1c9b805003ac9c15a3eebfcb130.jpg?rule=ad-large"
+    ],
+    "postal_code": "69002",
+    "poster": "agence",
+    "poster_name": "ERA GRAND OUEST AZERGUES IMMOBILIER",
+    "published_at": "2026-11-18 04:21:24",
+    "rent_cc": 880.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3311865203",
+    "surface_m2": 34.0,
+    "tags": [],
+    "title": "Appartement 1 pièce 34 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3311865203"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3311945528": {
+   "also": [],
+   "dup_of": "bienici:immo-facile-44526238",
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "leboncoin:3312056394": {
@@ -84303,6 +84495,310 @@
     "tags": [],
     "title": "Appartement 2 pièces 49 m²",
     "url": "https://www.leboncoin.fr/ad/locations/3316361402"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316381001": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": {
+    "charges": 26.0,
+    "city": "lyon",
+    "description": "Appartement Lyon 1 pièce(s) 25 m2\n\nSAINT PAUL - Charmant T1 MEUBLE au coeur du quartier St Paul comprenant une pièce principale, une cuisine ouverte aménagée et équipée, une salle d'eau et un WC. Au calme total cet appartement est entièrement équipé et bénéficie de nombreux rangements. Indice de performance énergétique : E Libre à partir du 7 Décembre 2026. Loyer charges comprises : 673  (dont 26  de charges) Dépôt de garantie : 673  Honoraires locataire : 326 \nRéférence annonce : V0JA-DLP-F",
+    "district": "Lyon 69005",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/83/4e/55/834e5570b9ea39b9ccf95fd2e2c552fa8e1d19a3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/86/df/6b/86df6baa77bc196632396a6bba9dd5a78c416726.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/06/38/6d/06386d9d1adffeaf07dbd16b3e00da191d5d5b69.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/1a/67/161a6746c46f464da8f0968a315ae9a7a20c415f.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/72/b6/30/72b630684b7e69ad1bd9c60b975aed4270dbcbc3.jpg?rule=ad-large"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "poster_name": "Immo Du Quai Gestion",
+    "published_at": "2026-11-23 16:57:32",
+    "rent_cc": 673.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3316381001",
+    "surface_m2": 25.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement 1 pièce 25 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3316381001"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316381047": {
+   "also": [],
+   "dup_of": "bienici:ag210198-558923807",
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3316383048": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": {
+    "charges": 70.0,
+    "city": "lyon",
+    "description": "Appartement de 49 m2 à louer sur Lyon \n\n LYON 3ᵉ – Rue Paul Bert - T2 avec garage. À découvrir, cet agréable appartement de 49,82 m², idéalement situé dans le 3ᵉ arrondissement de Lyon, à proximité immédiate de la gare Part-Dieu, des transports et des commerces.\n\nSitué au 1er étage d’une résidence sécurisée, ce bien offre un cadre de vie confortable et fonctionnel. Il se compose d’une entrée avec placard, d’une pièce de vie lumineuse, projet d'une cuisine ouverte aménagée et équipée (installatio",
+    "district": "Lyon 69003",
+    "flags": [
+     "agency_fees_no",
+     "garant"
+    ],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8b/96/25/8b9625f85620b563509930aa8d1ba762342c9abb.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f1/6f/0f/f16f0f75a547890f2024798716f1feab950ab055.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/47/7d/d5/477dd5295969e49759bb8ab15213d80ed4d06605.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/34/5f/01/345f01eb5ff2e3fc4bf2c2438499fdb697fa8bfd.jpg?rule=ad-large"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "MBNA INVEST",
+    "published_at": "2026-11-23 17:00:11",
+    "rent_cc": 900.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3316383048",
+    "surface_m2": 49.0,
+    "tags": [],
+    "title": "Location 2 pièces",
+    "url": "https://www.leboncoin.fr/ad/locations/3316383048"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316383081": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": {
+    "charges": 42.0,
+    "city": "lyon",
+    "description": "Appartement de 36 m2 à louer sur Villeurbanne \n\n Joli T1 bis refait entièrement dans un quartier entre Grand Clément et Montchat.\n \nL’appartement est situé à 1 min à pied du C3 (Direction Part -Dieu) ainsi que du C11 (Saxe-Gambetta -> Laurent Bonnevay).\nPrésence également du Tram T3 à proximité à 600 m et du futur tram T6.\n\nCet appartement est situé au premier étage d’une petite copropriété sans ascenseur et comprend également une cave.\n \n Le studio dispose :\n \n- D’une cuisine entièrement équipé",
+    "district": "Villeurbanne 69100",
+    "flags": [
+     "agency_fees_no",
+     "garant"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/c5/86/86/c586866d44cea6da5fe5d0ceaf928fc4aaeec851.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e3/84/b9/e384b9926eba06d742bf307fcc96f2a0ed968f98.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/1e/d2/08/1ed2089031d95f87ee4a77d549e568ca69dd597e.jpg?rule=ad-large"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "MBNA INVEST",
+    "published_at": "2026-11-23 17:00:11",
+    "rent_cc": 863.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3316383081",
+    "surface_m2": 36.0,
+    "tags": [],
+    "title": "Lumineux T1 bis traversant de 36 m2",
+    "url": "https://www.leboncoin.fr/ad/locations/3316383081"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316387059": {
+   "also": [],
+   "dup_of": "immojeune:u3998649",
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3316387956": {
+   "also": [],
+   "dup_of": "bienici:hektor-developpement69-681",
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3316388310": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": {
+    "charges": 20.0,
+    "city": "lyon",
+    "description": "Studio meublé vaise \nLoyer majoré de référence 612\nComplément de loyer (lave linge, tv) 50€\nCharge 20€\nloyer Cc 682",
+    "district": "Lyon 69009",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "match": true,
+    "photos": [],
+    "postal_code": "69009",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-23 17:07:05",
+    "rent_cc": 682.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3316388310",
+    "surface_m2": 27.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio meublé Vaise",
+    "url": "https://www.leboncoin.fr/ad/locations/3316388310"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316396222": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": {
+    "charges": 50.0,
+    "city": "lyon",
+    "description": "Je propose en location ce charmant studio meublé de 37 m² situé au 2ème étage d'un immeuble de 4 étages à Lyon, quartier Guillotière. Construite en 1860, cette petite perle offre tout le charme de l'architecture ancienne.\nCe studio comprend une pièce principale avec cuisine séparée et équipée, ainsi qu'une salle de bain. L'appartement bénéficie d'une belle luminosité grâce à ses fenêtres donnant sur la rue, et dispose d'un charme authentique avec ses hauts plafonds et ses boiseries d'époque.\n- M",
+    "district": "Lyon 69007",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/gh/2b/ff/gh2bff03167a11d7f68422dd34ef59bf59a6123a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/02/e1/0f02e1dc0fb3711637bd54d80883daebbe245747.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f4/95/a6/f495a61a5eff5e9e26cc431de02dde694fd264b3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/19/58/71/195871d987cce63c1f415b17ca32bac78d66bae0.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/10/47/95/1047959602e99c671b82c0c89675cc62541ec73e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f1/0c/72/f10c72e5cfd48b5cc756c7cc4d9c69396841044e.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-23 17:17:34",
+    "rent_cc": 760.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3316396222",
+    "surface_m2": 37.0,
+    "tags": [],
+    "title": "Studio meublé",
+    "url": "https://www.leboncoin.fr/ad/locations/3316396222"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316396760": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "12 Rue de Cuire-Lyon -69004  - T2 Meublé - 990 €CC\n\nPlusse vous propose un appartement Meublé de 42 m2 situé au 12 Rue de Cuire-Lyon -69004\nAu cœur du plateau de la Croix-Rousse, le bien bénéficie d'une adresse prisée offrant un mode de vie « tout à pied ». À moins de 5 minutes de marche, vous profitez du célèbre marché quotidien de la Croix-Rousse, de supermarchés (Monoprix, Carrefour Express), de commerces de bouche, de pharmacies et de cabinets médicaux. Le quartier se distingue par son ambia",
+    "district": "Lyon 69004",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": null,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/2e/42/aa/2e42aa4c40fd32998ca922398b5dbe9eae55414e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/2c/2c/0f2c2cc08a9e205fffc08ad6115a521c69ba6380.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e5/35/ec/e535ecb89a0d0ea7e0eb7e57c810957cb9466b60.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a4/fa/55/a4fa55647e03a101bdfee09bbf5322cc3e5ab715.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d2/ab/5b/d2ab5b9f781b647d928b21de2f06ab5d348486c1.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/48/3c/c0/483cc063dc1bc0624bdf0b3a257bf779b366eb9e.jpg?rule=ad-large"
+    ],
+    "postal_code": "69004",
+    "poster": "agence",
+    "poster_name": "Plusse",
+    "published_at": "2026-11-23 17:18:16",
+    "rent_cc": 990.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3316396760",
+    "surface_m2": 42.0,
+    "tags": [],
+    "title": "Appartement 2 pièces 42 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3316396760"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316397348": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T16:40:23+00:00",
+   "last_seen": "2026-11-23T16:40:23+00:00",
+   "listing": {
+    "charges": 15.0,
+    "city": "lyon",
+    "description": "STUDIO 4em étages sans ascenseur 18 M2 env. \n1 rue de la Fontaine angle Rue Eugène Pons\nComposé d’une pièce avec kitchenette équipé (évier,2 plaques,frigo) Lave linge et une salle de d eau WC.\ntrès belle vue , calme.\n455 euros + 15 € de charges.\nGarant obligatoire",
+    "district": "Lyon 69004",
+    "flags": [
+     "garant"
+    ],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f3/62/43/f36243f10cd14c30ff91a74cdf53aed06639c93e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/21/0c/c7/210cc747687ff6e42412d7d7b20e2e057cf42745.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/46/12/6f/46126fa6ea3555f2f9138c4d2cd3fb5c3f2e1eb7.jpg?rule=ad-large"
+    ],
+    "postal_code": "69004",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-23 17:19:16",
+    "rent_cc": 470.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3316397348",
+    "surface_m2": 18.0,
+    "tags": [],
+    "title": "Studio 18 m2 rue de la Fontaine",
+    "url": "https://www.leboncoin.fr/ad/locations/3316397348"
    },
    "notified": false,
    "status": "active"
