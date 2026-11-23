@@ -29,8 +29,8 @@
    "last_success": "2026-11-23T16:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
-   "consecutive_failures": 3,
+   "blocked_runs": 4,
+   "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-23T14:30:19+00:00"
@@ -28966,6 +28966,45 @@
     "tags": [],
     "title": "Appartement T3 PROCHE METRO VALMY/GORGE DE LOUP",
     "url": "https://www.bienici.com/annonce/apimo-87623184"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:apimo-87624918": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T17:20:20+00:00",
+   "last_seen": "2026-11-23T17:20:20+00:00",
+   "listing": {
+    "charges": 20,
+    "city": "lyon",
+    "description": "Place Rouville, à proximité du jardin des Plantes. Superbe T2 meublé de 30 m² entièrement rénové avec une superbe vue sur Fourvière. L'appartement est composé d'une entrée desservant un séjour avec une cuisine ouverte, une chambre et une salle d'eau avec toilettes. \nL'appartement dispose d'une absence totale de vis à vis avec une jolie vue dégagée. Le bien vient d'être entièrement rénové avec une excellente isolation des murs. \nA voir très rapidement !\nContacter Frederic au <span class=\"importDe",
+    "district": "Lyon 1er",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/apimo-87624918_media.apimo.pro_cache_82feec304d14bd3ebc6fe01b5ef945cb_9c0ae68234_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87624918_media.apimo.pro_cache_a77fcb3638196a0c0c7a5bf1462417f2_c2b48c3bdb_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87624918_media.apimo.pro_cache_3df61c2443ddad14775a97204dfdcfeb_e16fa21b82_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87624918_media.apimo.pro_cache_40210eef571d041ef802a8650cff733c_096ce6afcc_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87624918_media.apimo.pro_cache_fbed4672a25de797729a7efd935ea156_8ef953eb07_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87624918_media.apimo.pro_cache_5ed8ada159a1057ff6a04f2743e1ca89_b721d49fd2_1920-original.jpg"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "poster_name": "Muldo Immo",
+    "published_at": "2026-11-23T16:56:20.482Z",
+    "rent_cc": 850,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "apimo-87624918",
+    "surface_m2": 30,
+    "tags": [],
+    "title": "T2 place Rouville avec vue imprenable sur Fourvière",
+    "url": "https://www.bienici.com/annonce/apimo-87624918"
    },
    "notified": false,
    "status": "active"
@@ -60984,6 +61023,15 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:nestenn-1-99939820019": {
+   "also": [],
+   "dup_of": "leboncoin:3316361402",
+   "first_seen": "2026-11-23T17:20:20+00:00",
+   "last_seen": "2026-11-23T17:20:20+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "bienici:netty-bumper-appt-2997": {
    "also": [],
    "checked": "2026-11-23T06:00:39+00:00",
@@ -72748,6 +72796,42 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:me84g5": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T17:20:20+00:00",
+   "last_seen": "2026-11-23T17:20:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 12 pièces de 380 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-2bfb03f3ebd17dddae043e17874d8676/6568642/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 775,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "me84g5",
+    "surface_m2": 380,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 12 pièces de 380 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/me84g5"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:mho5xl": {
    "also": [],
    "checked": "2026-11-23T02:00:59+00:00",
@@ -84464,7 +84548,9 @@
    "status": "active"
   },
   "leboncoin:3316361402": {
-   "also": [],
+   "also": [
+    "bienici:nestenn-1-99939820019"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-23T15:40:20+00:00",
    "last_seen": "2026-11-23T15:40:20+00:00",
@@ -91955,7 +92041,7 @@
    "also": [],
    "dup_of": "bienici:ag690006-549039977",
    "first_seen": "2026-11-23T08:00:44+00:00",
-   "last_seen": "2026-11-23T14:20:19+00:00",
+   "last_seen": "2026-11-23T17:20:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
