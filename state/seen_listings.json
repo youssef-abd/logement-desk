@@ -29,8 +29,8 @@
    "last_success": "2026-11-23T10:40:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
-   "consecutive_failures": 3,
+   "blocked_runs": 4,
+   "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-23T10:40:24+00:00"
@@ -48259,7 +48259,7 @@
    "also": [],
    "dup_of": "leboncoin:3316044095",
    "first_seen": "2026-11-23T09:30:20+00:00",
-   "last_seen": "2026-11-23T09:30:20+00:00",
+   "last_seen": "2026-11-23T12:30:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -68990,7 +68990,7 @@
    "checked": "2026-11-23T03:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T00:10:19+00:00",
-   "last_seen": "2026-11-23T09:30:20+00:00",
+   "last_seen": "2026-11-23T12:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70319,7 +70319,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/baurpv"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:bn1erk": {
    "also": [],
@@ -81606,7 +81606,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1289437939A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1289689077": {
    "also": [],
@@ -88382,6 +88382,47 @@
     "tags": [],
     "title": "Chambre - 1 pièce(s) - 12 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/chambre/1297764963A1KILHCM000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297766491": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T12:30:20+00:00",
+   "last_seen": "2026-11-23T12:30:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 11 920 € CC* Appartement 50 m 2 Caluire-et-Cuire (69) 2 pièces 1 chambre Caluire et cuire - appartement meuble - rue pasteur - 50 m2. particulier loue appartement meublé de type 2 de 50 m2 en rdc surélevé avec balcon dans une résidence fermée, sécurisée avec caméra et gardien. place de parking numérotée dans la... Particulier 23/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/e1/8d/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjE4MTE5XzEuanBlZz8yMDI2MTEyMzEzMjU0NA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/41/94/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjE4MTE5XzIuanBlZz8yMDI2MTEyMzEzMjU0NA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/e6/6d/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjE4MTE5XzMuanBlZz8yMDI2MTEyMzEzMjU0NA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/5f/90/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjE4MTE5XzQuanBlZz8yMDI2MTEyMzEzMjU0NA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/5c/7f/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjE4MTE5XzUuanBlZz8yMDI2MTEyMzEzMjU0NA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/8a/b8/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjE4MTE5XzYuanBlZz8yMDI2MTEyMzEzMjU0NA_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69300",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-23",
+    "rent_cc": 920,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297766491",
+    "surface_m2": 50.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 50 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297766491A1KILHAP000"
    },
    "notified": false,
    "status": "active"
