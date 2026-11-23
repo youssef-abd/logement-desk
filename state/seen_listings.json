@@ -19520,7 +19520,9 @@
    "status": "active"
   },
   "bienici:ag696718-557867201": {
-   "also": [],
+   "also": [
+    "leboncoin:3308503156"
+   ],
    "checked": "2026-11-23T10:03:03+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -53166,7 +53168,8 @@
   },
   "bienici:immo-facile-59554830": {
    "also": [
-    "paruvendu:1295471834"
+    "paruvendu:1295471834",
+    "leboncoin:3271783719"
    ],
    "checked": "2026-11-22T23:00:31+00:00",
    "dup_of": null,
@@ -69966,6 +69969,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:c7kbr8": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T11:50:19+00:00",
+   "last_seen": "2026-11-23T11:50:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 6 pièces de 110 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-28395efb67d4d3eeec0f0a273d0dfef6/347402/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 540,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "c7kbr8",
+    "surface_m2": 110,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 6 pièces de 110 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/c7kbr8"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:c7pkfl": {
    "also": [],
    "checked": "2026-11-22T13:40:08+00:00",
@@ -73463,6 +73503,15 @@
    "notified": true,
    "status": "active"
   },
+  "leboncoin:3271783719": {
+   "also": [],
+   "dup_of": "bienici:immo-facile-59554830",
+   "first_seen": "2026-11-23T11:50:19+00:00",
+   "last_seen": "2026-11-23T11:50:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3272345443": {
    "also": [],
    "dup_of": "bienici:immo-facile-61724474",
@@ -75735,6 +75784,47 @@
    "notified": false,
    "status": "stale"
   },
+  "leboncoin:3305656086": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T11:50:19+00:00",
+   "last_seen": "2026-11-23T11:50:19+00:00",
+   "listing": {
+    "charges": 30.0,
+    "city": "lyon",
+    "description": "Appartement T2 bis Meublé - Saint Rambert\n\nAppartement T2 bis Entièrement Meublé - 42.56 m² de Calme et de Charme\n\nNOVEA Immobilier a le plaisir de vous présenter ce T2 bis atypique sur 3 niveaux.\n\nL'appartement dispose, au rez-de-chaussée, d'un coin salle à manger avec dans le prolongement, des WC séparés ainsi qu'une cuisine entièrement équipée.\n\nAu premier étage, vous retrouverez un coin salon avec dans le prolongement la salle d'eau (avec WC) ainsi qu'une chambre (lit double). Vous pourrez a",
+    "district": "Lyon 69009",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e2/e3/e4/e2e3e4a83a3494d2e18c654f269675257335ae23.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/27/bb/b3/27bbb3828afba51a4d6f489628b8c765170d40be.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fd/cb/7b/fdcb7b975e462d97a083ea89becc1e43865e87e3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/97/3b/90/973b90a5006f20638ebc02a6c333772381ac8774.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/2d/13/6d/2d136d97e55e2a78714e41ebbe1e625ad7af7830.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/34/87/30/348730d03856f38445c9327b538e8f7bcf4f88a4.jpg?rule=ad-large"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": "NOVEA IMMOBILIER",
+    "published_at": "2026-11-09 14:38:46",
+    "rent_cc": 766.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3305656086",
+    "surface_m2": 42.0,
+    "tags": [],
+    "title": "Appartement 2 pièces 42 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3305656086"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3305723625": {
    "also": [],
    "dup_of": null,
@@ -76247,6 +76337,15 @@
    "dup_of": "bienici:ag752861-556885883",
    "first_seen": "2026-11-22T14:10:18+00:00",
    "last_seen": "2026-11-22T14:10:18+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3308503156": {
+   "also": [],
+   "dup_of": "bienici:ag696718-557867201",
+   "first_seen": "2026-11-23T11:50:19+00:00",
+   "last_seen": "2026-11-23T11:50:19+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -80694,6 +80793,87 @@
     "tags": [],
     "title": "Appartement 3 pièces 52 m²",
     "url": "https://www.leboncoin.fr/ad/locations/3316184457"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316187703": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T11:50:19+00:00",
+   "last_seen": "2026-11-23T11:50:19+00:00",
+   "listing": {
+    "charges": 85.0,
+    "city": "lyon",
+    "description": "Appartement meublé de 35 m², situé au 4ème étage avec ascenseur, exposé à l'Ouest sur rue calme. Vous disposez d'une pièce à vivre avec un coin nuit en alcôve, un grand placard et tout le mobilier nécessaire. Vous avez une cuisine indépendante aménagée et équipée, notamment un lave linge. La salle d'eau est équipée d'une douche, vasque et toilettes. \nL'ensemble est en très bon état et libre de suite.",
+    "district": "Lyon 69007",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8a/6a/b6/8a6ab6fe926f066b04f4005990151621b1a177ba.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/47/5b/6a/475b6a26fe1461e7d7bfd2128350be5fb2e9aaa9.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/25/7e/27/257e27d4297d3415f9a67de9a84acc4773323245.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/df/59/43/df5943c814e787d28ee14550ae10c24aa002f542.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/87/41/7d/87417d8e0bab1d93b0cc377ef6b11ae4f535f5fb.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-23 12:41:38",
+    "rent_cc": 799.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3316187703",
+    "surface_m2": 35.0,
+    "tags": [],
+    "title": "A louer, appartement meublé de 35 m² à Lyon 7",
+    "url": "https://www.leboncoin.fr/ad/locations/3316187703"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316190577": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T11:50:19+00:00",
+   "last_seen": "2026-11-23T11:50:19+00:00",
+   "listing": {
+    "charges": 20.0,
+    "city": "lyon",
+    "description": "ÉCULLY CENTRE – Studio tout équipé – 630 € CC – Idéal étudiant ou jeune actif\n\nInstallez-vous au cœur d’Écully dans un studio fonctionnel, idéalement situé et disposant de tous les équipements nécessaires au quotidien.\n\nUn logement prêt à vivre, sans frais d’équipement supplémentaires !\n\nÉquipements laissés à disposition :\n\n* Réfrigérateur\n* Plaques de cuisson\n* Micro-ondes\n* Lave-linge\n* Couchage\n* Télévision\n* Table et chaises\n* Meubles de rangement\n* Vaisselle et ustensiles de cuisine\n\nUn emp",
+    "district": "Écully 69130",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "match": true,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/bc/5d/ab/bc5dabb60747a96cff60dcb3d6b7f495eeb0d6d8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8f/16/1e/8f161e1e99f14f978db5c548076ac8aa1b7d26c5.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/50/40/f6/5040f6884ca0953082ec2c730c9e6888bc96f8d8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/94/6b/20/946b207b6f4b61f8567c353e8bdef61ba67e2933.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/43/d7/5d/43d75dbbd2bdf7a5996c77c9f6fa17ee4376330c.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/5a/6f/c9/5a6fc9fd82e40fd91b23dde7883392b16bc3d191.jpg?rule=ad-large"
+    ],
+    "postal_code": "69130",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-23 12:46:34",
+    "rent_cc": 630.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3316190577",
+    "surface_m2": 17.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "ÉCULLY CENTRE – Studio à 630  CC – Emplacement idéal",
+    "url": "https://www.leboncoin.fr/ad/locations/3316190577"
    },
    "notified": false,
    "status": "active"
