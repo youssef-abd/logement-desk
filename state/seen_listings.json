@@ -29,7 +29,7 @@
    "last_success": "2026-11-23T16:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
+   "blocked_runs": 4,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-23T19:00:23+00:00",
    "last_error": "blocked",
@@ -29092,6 +29092,45 @@
     "tags": [],
     "title": "T2 place Rouville avec vue imprenable sur Fourvière",
     "url": "https://www.bienici.com/annonce/apimo-87624918"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:apimo-87625308": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T19:30:29+00:00",
+   "last_seen": "2026-11-23T19:30:29+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "590 euros / mois + 130 euros / mois de forfait consommations (Tout inclus Electricité/ eau chaude/ eau froide/chauffage/climisation /internet/services, etc). Proche métro D. \nVivez l’expérience Coliving !! Chambre climatisée, très AU CALME de 13,83 m2 privatifs + Terrasse privative (+ parties communes) avec Salle de bains et WC privatifs, entièrement rénovée, meublée (lit double, bureau, dressing, draps, serviettes) dans une maison haut de gamme de plus de 400m2 entièrement meublée rénovée et cl",
+    "district": "Lyon 8e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": null,
+    "kind": "room",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/apimo-87625308_media.apimo.pro_cache_4572a6c390a568d4268326c407e5b10e_cb7842fda7_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87625308_media.apimo.pro_cache_9c7b492519f3d3760a7a791bb523bae6_4af435a3e0_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87625308_media.apimo.pro_cache_c5853ef075ed039f7094d77d3c8e172e_1639251025_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87625308_media.apimo.pro_cache_5b56c76648599535c9c0d32e099a63f6_57902ce61a_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87625308_media.apimo.pro_cache_4c2cb7ae7e50dc5863d303e9afe1d370_6871dd4593_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87625308_media.apimo.pro_cache_6794219671160dfbd9055cdcc9c93f71_b1a41249c4_1920-original.jpg"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "7 EME RUE",
+    "published_at": "2026-11-23T19:11:20.502Z",
+    "rent_cc": 590,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "apimo-87625308",
+    "surface_m2": 24,
+    "tags": [],
+    "title": "Chambre avec Docuhe et WC dans maison",
+    "url": "https://www.bienici.com/annonce/apimo-87625308"
    },
    "notified": false,
    "status": "active"
@@ -73155,7 +73194,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/iec1j2"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:iitnai": {
    "also": [],
@@ -75280,7 +75319,7 @@
     "url": "https://www.lacartedescolocs.fr/locations/fr/auvergne-rhone-alpes/lyon/a/vjt37f"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:vzroq5": {
    "also": [],
@@ -75318,7 +75357,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/vzroq5"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:waldty": {
    "also": [],
@@ -92580,7 +92619,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297750542A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297755484": {
    "also": [
@@ -93245,7 +93284,7 @@
    "checked": "2026-11-23T11:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T10:20:20+00:00",
-   "last_seen": "2026-11-23T16:30:22+00:00",
+   "last_seen": "2026-11-23T19:30:29+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -93285,7 +93324,7 @@
    "checked": "2026-11-23T11:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T10:20:20+00:00",
-   "last_seen": "2026-11-23T16:30:22+00:00",
+   "last_seen": "2026-11-23T19:30:29+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
