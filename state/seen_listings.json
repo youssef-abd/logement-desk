@@ -29,8 +29,8 @@
    "last_success": "2026-11-23T13:50:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-23T14:30:19+00:00"
@@ -19858,7 +19858,7 @@
    "checked": "2026-11-23T04:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T04:00:34+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -19901,7 +19901,7 @@
    "checked": "2026-11-23T04:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T04:00:34+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -34673,6 +34673,48 @@
     "tags": [],
     "title": "3 pièce(s) 59.19 m² Lyon 8e",
     "url": "https://www.bienici.com/annonce/citya-immobilier-5045-GES04120042-173"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:citya-immobilier-5047-GES28790001-218": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T16:10:37+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
+   "listing": {
+    "charges": 50,
+    "city": "lyon",
+    "description": "À LOUER T1 LYON 3 -  LIBRE 19/12\n\nDécouvrez cet appartement T1 situé au cœur de Lyon, dans le quartier dynamique PART-DIEU. Avec une superficie de 30 m², cet espace de vie est idéal pour une personne seule ou un couple cherchant à s'installer dans un environnement urbain agréable. \n\nL'appartement est doté d'un chauffage individuel électrique, avec des radiateurs pour un confort optimal durant les mois plus frais. Bien que non meublé, il offre une toile vierge pour que vous puissiez personnaliser",
+    "district": "Lyon 3e",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/citya-immobilier-5047-GES28790001-218_box.ics.fr_cit_CITYA_BOURGENBRESSE_tic_location_photo_coupcoeur-filigrane-8--8926321492575670129.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5047-GES28790001-218_box.ics.fr_cit_CITYA_BOURGENBRESSE_tic_location_photo_filigrane-5--4238566394270523424.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5047-GES28790001-218_box.ics.fr_cit_CITYA_BOURGENBRESSE_tic_location_photo_filigrane-9--3596081659807765323.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5047-GES28790001-218_box.ics.fr_cit_CITYA_BOURGENBRESSE_tic_location_photo_filigrane-1--16840145173796215719.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5047-GES28790001-218_box.ics.fr_cit_CITYA_BOURGENBRESSE_tic_location_photo_filigrane-3--3844353565239760583.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5047-GES28790001-218_box.ics.fr_cit_CITYA_BOURGENBRESSE_tic_location_photo_filigrane-2--2167113605025868008.jpg"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "Citya Pays De L'ain",
+    "published_at": "2026-11-23T16:05:47.461Z",
+    "rent_cc": 600,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "citya-immobilier-5047-GES28790001-218",
+    "surface_m2": 30.69,
+    "tags": [],
+    "title": "1 pièce(s) 30.69 m² Lyon 3e",
+    "url": "https://www.bienici.com/annonce/citya-immobilier-5047-GES28790001-218"
    },
    "notified": false,
    "status": "active"
@@ -71687,7 +71729,7 @@
    "checked": "2026-11-23T04:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T13:10:20+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -73539,6 +73581,44 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:spzntb": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T16:10:37+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 105 m². Disponible dès 2026-12-21",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-3dbf3e5f8f7aef447bf6a0fd42d37556/6623878/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 610,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "spzntb",
+    "surface_m2": 105,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 105 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/spzntb"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:sru1rs": {
    "also": [],
    "checked": "2026-11-23T02:00:59+00:00",
@@ -74178,7 +74258,7 @@
    "checked": "2026-11-23T04:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T16:10:18+00:00",
-   "last_seen": "2026-11-22T22:20:30+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -74208,7 +74288,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/villeurbanne/a/wl835s"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:wq7jmp": {
    "also": [],
@@ -74478,7 +74558,7 @@
    "checked": "2026-11-23T04:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T13:10:20+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -84232,7 +84312,7 @@
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -84311,7 +84391,7 @@
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85402,7 +85482,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-56238865",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -85511,7 +85591,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-60603233",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -86800,7 +86880,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-58798199",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -86818,7 +86898,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-59373614",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -88768,7 +88848,7 @@
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -89285,7 +89365,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-60582711",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -89709,7 +89789,7 @@
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -91277,7 +91357,7 @@
    "checked": "2026-11-23T02:00:59+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T15:40:26+00:00",
-   "last_seen": "2026-11-23T13:10:21+00:00",
+   "last_seen": "2026-11-23T16:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
