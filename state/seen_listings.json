@@ -29,10 +29,10 @@
    "last_success": "2026-11-23T07:30:26+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 4,
-   "consecutive_failures": 4,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
+   "last_error": null,
    "last_success": "2026-11-23T07:40:20+00:00"
   },
   "logicimmo": {
@@ -18620,7 +18620,9 @@
    "status": "active"
   },
   "bienici:ag696596-551380436": {
-   "also": [],
+   "also": [
+    "leboncoin:3278135457"
+   ],
    "checked": "2026-11-22T19:01:02+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -36162,7 +36164,9 @@
    "status": "active"
   },
   "bienici:gedeon-34074425": {
-   "also": [],
+   "also": [
+    "leboncoin:3286997946"
+   ],
    "checked": "2026-11-22T21:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -51299,7 +51303,9 @@
    "status": "active"
   },
   "bienici:immo-facile-56047895": {
-   "also": [],
+   "also": [
+    "leboncoin:3301682762"
+   ],
    "checked": "2026-11-22T23:00:31+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -68317,7 +68323,7 @@
    "checked": "2026-11-23T04:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-23T05:20:21+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -68979,7 +68985,7 @@
    "checked": "2026-11-23T03:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T20:10:19+00:00",
-   "last_seen": "2026-11-23T05:20:21+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -72562,6 +72568,48 @@
    "notified": true,
    "status": "active"
   },
+  "leboncoin:3248314053": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T08:30:20+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
+   "listing": {
+    "charges": 50.0,
+    "city": "lyon",
+    "description": "Appartement T3 à louer\n\n3 Rue d'Aguesseau - 69007 Lyon.\nEn face de la piscine du Rhône, au rdc d'un immeuble ancien, appartement T3 composé d'un hall d'entrée avec placards, une cuisine équipée et aménagée (four, plaques de cuisson, hotte, placards de rangement), une première chambre avec évier et douche. A l'étage, un espace rangement avec placards, une seconde chambre en parquet avec salle d'eau attenante.\nDisponible rapidement.\n\nZone soumise à l'encadrement des loyers :\nLoyer de référence maj",
+    "district": "Lyon 69007",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/5f/ae/8c/5fae8c33380b0390ec7f1451805272a7b093832b.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/7d/59/7d/7d597dca3cef8306554195d8852ee6fe93f88328.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e4/b2/bf/e4b2bff54b81b9b0e06196211bf831948c1c9e7e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/5e/7c/6d/5e7c6d31d9065596bd1f4e114bea265649a17433.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f5/a4/af/f5a4af23b53883d4933586cefb678b01440ad4bd.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d4/71/cc/d471cc2c8d5af0bebebf9d0d8027c490a9c15bcb.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "ORPI 4F Gestion Immoparc",
+    "published_at": "2026-10-06 05:58:11",
+    "rent_cc": 890.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3248314053",
+    "surface_m2": 55.0,
+    "tags": [],
+    "title": "Appartement 2 pièces 55 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3248314053"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3262126712": {
    "also": [],
    "dup_of": null,
@@ -72786,6 +72834,15 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "leboncoin:3278135457": {
+   "also": [],
+   "dup_of": "bienici:ag696596-551380436",
+   "first_seen": "2026-11-23T08:30:20+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
   },
   "leboncoin:3278434398": {
    "also": [],
@@ -73165,6 +73222,15 @@
    "dup_of": "bienici:ics-imo_immosquare_4_loc-LAPP101561",
    "first_seen": "2026-11-22T19:20:19+00:00",
    "last_seen": "2026-11-22T19:20:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3286997946": {
+   "also": [],
+   "dup_of": "bienici:gedeon-34074425",
+   "first_seen": "2026-11-23T08:30:20+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -74334,6 +74400,15 @@
     "url": "https://www.leboncoin.fr/ad/locations/3301381516"
    },
    "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3301682762": {
+   "also": [],
+   "dup_of": "bienici:immo-facile-56047895",
+   "first_seen": "2026-11-23T08:30:20+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "leboncoin:3301721345": {
@@ -78267,7 +78342,7 @@
    "also": [],
    "dup_of": "bienici:ag696718-562064249",
    "first_seen": "2026-11-23T05:00:37+00:00",
-   "last_seen": "2026-11-23T05:00:37+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -78276,7 +78351,7 @@
    "also": [],
    "dup_of": "bienici:ag696718-562064234",
    "first_seen": "2026-11-23T05:00:37+00:00",
-   "last_seen": "2026-11-23T05:00:37+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -78642,6 +78717,95 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316022980"
    },
    "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316041540": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T08:30:20+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
+   "listing": {
+    "charges": 35.0,
+    "city": "lyon",
+    "description": "Idéalement situé pour un étudiant, à deux pas des facultés de médecine, d'infirmière, du métro Laennec, des commerces, au sein d'un petite copropriété arborée avec laverie, nous vous proposons ce  grand studio de 26.86 m² LOUE VIDE. Situé en rez de chaussée, il est au calme avec son entrée indépendante sur le jardin et sa grande terrasse privative de 35 m² . Il est composé d'une vaste pièce de vie, une kitchenette meublée et équipée (plaque et frigo top) et d'une salle d'eau avec WC. Pour facili",
+    "district": "Lyon 69008",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/81/d7/64/81d7642d8516e78b98ea25002625c50d545d6561.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e6/4e/8d/e64e8d8e216b49e0d46fdb80486e7935a3f4e3a6.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f2/db/47/f2db471975004352c3843903e0e8d9f03b84a547.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/45/10/62/4510629d10f048f29c571d445bb80ac436fcfd3e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/01/86/cb/0186cb3889dbcdec91822850fc04578b5da54338.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/18/32/7b/18327b494a44072e553d423ba3749198742cefad.jpg?rule=ad-large"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "Foncia Lyon Tête d'Or - Lumière",
+    "published_at": "2026-11-23 08:55:22",
+    "rent_cc": 515.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3316041540",
+    "surface_m2": 27.0,
+    "tags": [],
+    "title": "Apartment",
+    "url": "https://www.leboncoin.fr/ad/locations/3316041540"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316044095": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T08:30:20+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
+   "listing": {
+    "charges": 15.0,
+    "city": "lyon",
+    "description": "Appartement 2 pièces 38 m²\n\nA LOUER - LYON 9, 12 rue Sidoine Apollinaire à proximité de la piscine dans immeuble ancien.\nAppartement F2 de 38.48m2 au 1er étage, comprenant : une cuisine équipée d'une plaque de cuisson et frigo, un séjour, une chambre, une salle d'eau et wc. \nChauffage individuel électrique.\nZONE SOUMISE A ENCADREMENT DES LOYERS\nPrix de référence : 13.6€/m²\nPrix de référence majoré : 16.3€/m²\n« Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le s",
+    "district": "Lyon 69009",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": null,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/72/54/73/725473f6f1bd759b7ffeb6c603cb4889987d0ff2.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6b/6e/fc/6b6efca4cb184d3ffca661339e1b8757a76689f7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/48/1a/30/481a30c594a610ad40b7347596d57f3be2bf774b.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d5/69/ca/d569ca75c81de0c7dbeec05da2e56e58fe397550.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f5/fd/3b/f5fd3b3ee263908a7cb8ea9966ad0e194d0eaa00.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ac/ed/18/aced180f026f9bc9247143205fc59a37140d1628.jpg?rule=ad-large"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": "RÉGIE LESCUYER & ASSOCIÉS",
+    "published_at": "2026-11-23 09:01:24",
+    "rent_cc": 595.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3316044095",
+    "surface_m2": 38.0,
+    "tags": [
+     "furnished?"
+    ],
+    "title": "Appartement 2 pièces 38 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3316044095"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316047771": {
+   "also": [],
+   "dup_of": "paruvendu:1297758200",
+   "first_seen": "2026-11-23T08:30:20+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "paruvendu:1286858274": {
@@ -84765,7 +84929,7 @@
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T19:20:17+00:00",
-   "last_seen": "2026-11-23T05:20:21+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85318,7 +85482,9 @@
    "status": "active"
   },
   "paruvendu:1297758200": {
-   "also": [],
+   "also": [
+    "leboncoin:3316047771"
+   ],
    "checked": "2026-11-23T07:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T11:00:54+00:00",
@@ -85363,7 +85529,7 @@
    "checked": "2026-11-23T07:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T11:00:54+00:00",
-   "last_seen": "2026-11-23T05:20:21+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85493,7 +85659,7 @@
    "also": [],
    "dup_of": "bienici:ag690006-549039977",
    "first_seen": "2026-11-22T13:50:28+00:00",
-   "last_seen": "2026-11-23T05:20:21+00:00",
+   "last_seen": "2026-11-23T08:30:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
