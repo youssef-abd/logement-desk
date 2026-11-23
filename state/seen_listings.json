@@ -29,8 +29,8 @@
    "last_success": "2026-11-23T13:50:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-23T14:30:19+00:00"
@@ -69145,7 +69145,7 @@
    "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:40:32+00:00",
-   "last_seen": "2026-11-23T11:40:32+00:00",
+   "last_seen": "2026-11-23T14:50:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70295,7 +70295,7 @@
    "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:40:32+00:00",
-   "last_seen": "2026-11-23T11:40:32+00:00",
+   "last_seen": "2026-11-23T14:50:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70590,7 +70590,7 @@
    "checked": "2026-11-23T04:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-23T11:40:32+00:00",
+   "last_seen": "2026-11-23T14:50:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70780,7 +70780,7 @@
    "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:50:19+00:00",
-   "last_seen": "2026-11-23T11:50:19+00:00",
+   "last_seen": "2026-11-23T14:50:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -72523,7 +72523,7 @@
    "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:40:32+00:00",
-   "last_seen": "2026-11-23T11:40:32+00:00",
+   "last_seen": "2026-11-23T14:50:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -72630,7 +72630,7 @@
     "url": "https://www.lacartedescolocs.fr/sous-locations/fr/auvergne-rhone-alpes/lyon/a/ryr7c5"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:s7zpw9": {
    "also": [],
@@ -73667,7 +73667,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/zlj7fj"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:zpks4x": {
    "also": [],
@@ -73750,7 +73750,7 @@
    "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:40:32+00:00",
-   "last_seen": "2026-11-23T11:40:32+00:00",
+   "last_seen": "2026-11-23T14:50:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -90340,7 +90340,7 @@
     "charges": null,
     "city": "lyon",
     "description": "Nouveau Voir d'autres photos 6 1 000 € CC* Appartement 81 m 2 Vénissieux (69) 3 pièces Ascenseur DPE : B 110 kWh/m².an 6 kg CO 2 /m².an T3 bis lumineux de 81m2 moulin à vent proche lyon. appartement de 81 m2 à louer sur vénissieux t3 meublé de 81m², idéal couple avec enfants . dans le quartier moulin à vent à 100m de lyon 8eme . quartier résidentiel. résidence sécurisée et très... 123loger.com 500 annonces 23/11/2026 Voir Contacter * Loyer mensuel charges comprises. M'envoyer les prochaines anno",
-    "district": null,
+    "district": "Lyon 8e",
     "flags": [
      "charges_cc"
     ],
