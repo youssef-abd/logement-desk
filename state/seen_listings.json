@@ -29,7 +29,7 @@
    "last_success": "2026-11-23T19:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 10,
+   "blocked_runs": 11,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-23T19:00:23+00:00",
    "last_error": "blocked",
@@ -17681,6 +17681,46 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:ag695206-562251641": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T20:40:21+00:00",
+   "last_seen": "2026-11-23T20:40:21+00:00",
+   "listing": {
+    "charges": 16,
+    "city": "lyon",
+    "description": "Type 1 BIS DE 27.86m² au 2ème étage du 12 RUE ELIE PARIS, comprenant un séjour avec coin cuisine aménagée, une mezzanine ouverte avec salle d'eau. Proche toutes commodités, à 500m de l'arrêt Monplaisir, proche Montchat.\nZone soumise à encadrement des loyers\nLoyer de référence majoré (loyer de base à ne pas dépasser) » : 596.20 €\nLoyer de base  : 545.00 €\nloyer 561 E/mois dont 16 E de charges locatives (provision donnant lieu à régularisation annuelle) dépôt de garantie 545E honoraires charge loc",
+    "district": "Lyon 3e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag695206-562251641_photos.ubiflow.net_695206_562251641_photos_1.jpg_INSOON_EB_5512801818_20261123201306",
+     "https://file.bienici.com/photo/ag695206-562251641_photos.ubiflow.net_695206_562251641_photos_2.jpg_INSOON_EB_5512801818_20261123201306",
+     "https://file.bienici.com/photo/ag695206-562251641_photos.ubiflow.net_695206_562251641_photos_3.jpg_INSOON_EB_5512801818_20261123201306",
+     "https://file.bienici.com/photo/ag695206-562251641_photos.ubiflow.net_695206_562251641_photos_4.jpg_INSOON_EB_5512801818_20261123201306",
+     "https://file.bienici.com/photo/ag695206-562251641_photos.ubiflow.net_695206_562251641_photos_5.jpg_INSOON_EB_5512801818_20261123201306"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": "2026-11-23T19:41:17.515Z",
+    "rent_cc": 561,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag695206-562251641",
+    "surface_m2": 27,
+    "tags": [],
+    "title": "APPARTEMENT",
+    "url": "https://www.bienici.com/annonce/ag695206-562251641"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:ag696097-519442709": {
    "also": [],
    "dup_of": null,
@@ -22273,6 +22313,47 @@
     "tags": [],
     "title": "T4 non meublé - 5, Passage Léon Feix, 69200, Vénissieux, France",
     "url": "https://www.bienici.com/annonce/ag752345-560982740"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag752345-562253009": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T20:40:21+00:00",
+   "last_seen": "2026-11-23T20:40:21+00:00",
+   "listing": {
+    "charges": 35,
+    "city": "lyon",
+    "description": "Logement Manda ! Visitez et déposez votre dossier uniquement sur notre plateforme  ! Nous ne vous enverrons jamais le bail ou le RIB par mail - tout est sécurisé sur notre plateforme.\n\n A deux pas du Tram Liberté, Manda propose un T1 en location cours de la Liberté. Situé au premier étage sans ascenseur, ce studio non meublé a été refait à neuf. Vous serez en 10 minutes à pied à Bellecour, La Part Dieu, ou encore Cordeliers !\n\nL'entrée ouvre sur un dégagement et dispose de l'interphone.\n\nLa pièc",
+    "district": "Lyon 3e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag752345-562253009_photos.ubiflow.net_752345_562253009_photos_1.jpg_INSOON_EB_5512801818_20261123202511",
+     "https://file.bienici.com/photo/ag752345-562253009_photos.ubiflow.net_752345_562253009_photos_2.jpg_INSOON_EB_5512801818_20261123202511",
+     "https://file.bienici.com/photo/ag752345-562253009_photos.ubiflow.net_752345_562253009_photos_3.jpg_INSOON_EB_5512801818_20261123202511",
+     "https://file.bienici.com/photo/ag752345-562253009_photos.ubiflow.net_752345_562253009_photos_4.jpg_INSOON_EB_5512801818_20261123202511",
+     "https://file.bienici.com/photo/ag752345-562253009_photos.ubiflow.net_752345_562253009_photos_5.jpg_INSOON_EB_5512801818_20261123202511",
+     "https://file.bienici.com/photo/ag752345-562253009_photos.ubiflow.net_752345_562253009_photos_6.jpg_INSOON_EB_5512801818_20261123202511"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": "2026-11-23T19:40:09.946Z",
+    "rent_cc": 636.34,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag752345-562253009",
+    "surface_m2": 16,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Prefecture",
+    "url": "https://www.bienici.com/annonce/ag752345-562253009"
    },
    "notified": false,
    "status": "active"
@@ -72113,7 +72194,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T17:30:24+00:00",
-   "last_seen": "2026-11-23T17:30:24+00:00",
+   "last_seen": "2026-11-23T20:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
