@@ -29,9 +29,9 @@
    "last_success": "2026-11-23T19:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 11,
+   "blocked_runs": 0,
    "consecutive_failures": 4,
-   "cooldown_until": "2026-11-23T19:00:23+00:00",
+   "cooldown_until": "2026-11-23T21:10:19+00:00",
    "last_error": "blocked",
    "last_success": "2026-11-23T14:30:19+00:00"
   },
@@ -72907,6 +72907,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:epde60": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T20:50:19+00:00",
+   "last_seen": "2026-11-23T20:50:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 96 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-61b8b84e6fab4bbc66c7a464a25e3e14/6191063/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 600,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "epde60",
+    "surface_m2": 96,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 96 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/epde60"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:eu1j62": {
    "also": [],
    "checked": "2026-11-23T03:00:38+00:00",
@@ -76082,7 +76119,7 @@
    "checked": "2026-11-23T20:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-23T17:40:27+00:00",
+   "last_seen": "2026-11-23T20:50:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -92331,7 +92368,7 @@
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T19:20:17+00:00",
-   "last_seen": "2026-11-23T17:40:27+00:00",
+   "last_seen": "2026-11-23T20:50:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -92935,7 +92972,7 @@
    "checked": "2026-11-23T07:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T11:00:54+00:00",
-   "last_seen": "2026-11-23T17:40:27+00:00",
+   "last_seen": "2026-11-23T20:50:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
