@@ -29,7 +29,7 @@
    "last_success": "2026-11-23T19:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 7,
+   "blocked_runs": 8,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-23T19:00:23+00:00",
    "last_error": "blocked",
@@ -67576,7 +67576,7 @@
    "checked": "2026-11-23T11:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:00:41+00:00",
-   "last_seen": "2026-11-23T17:01:38+00:00",
+   "last_seen": "2026-11-23T20:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70624,7 +70624,7 @@
    "checked": "2026-11-23T20:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-23T08:30:20+00:00",
+   "last_seen": "2026-11-23T20:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -72972,6 +72972,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:giul50": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T20:10:21+00:00",
+   "last_seen": "2026-11-23T20:10:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 81 m². Disponible dès 2026-12-10",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-a581f725c3f6c14f48110fe88bbfebd4/6586651/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 530,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "giul50",
+    "surface_m2": 81,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 81 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/giul50"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:h741db": {
    "also": [],
@@ -93529,7 +93566,7 @@
    "checked": "2026-11-23T14:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T14:00:43+00:00",
-   "last_seen": "2026-11-23T17:01:38+00:00",
+   "last_seen": "2026-11-23T20:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -93568,7 +93605,7 @@
    "checked": "2026-11-23T14:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T14:00:43+00:00",
-   "last_seen": "2026-11-23T17:01:38+00:00",
+   "last_seen": "2026-11-23T20:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
