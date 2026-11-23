@@ -29,7 +29,7 @@
    "last_success": "2026-11-23T16:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 7,
+   "blocked_runs": 8,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -596,7 +596,7 @@
   },
   "bienici:ag210198-561250598": {
    "also": [],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -1975,7 +1975,7 @@
    "also": [
     "leboncoin:3306380915"
    ],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -9078,7 +9078,7 @@
   },
   "bienici:ag691942-560803850": {
    "also": [],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -9316,7 +9316,7 @@
   },
   "bienici:ag692371-561480791": {
    "also": [],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -18466,7 +18466,7 @@
    "also": [
     "paruvendu:1297764671"
    ],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T15:20:19+00:00",
    "last_seen": "2026-11-23T15:50:22+00:00",
@@ -21993,7 +21993,7 @@
   },
   "bienici:ag752345-559033751": {
    "also": [],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -22153,7 +22153,7 @@
   },
   "bienici:ag752345-559897559": {
    "also": [],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:00:25+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -24356,7 +24356,7 @@
    "also": [
     "immojeune:u1682143"
    ],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -24401,7 +24401,7 @@
     "immojeune:u1682144",
     "leboncoin:3308414551"
    ],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -24445,7 +24445,7 @@
     "leboncoin:3313643650",
     "immojeune:u1682183"
    ],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -24525,7 +24525,7 @@
    "also": [
     "immojeune:u1849307"
    ],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -24923,7 +24923,7 @@
     "leboncoin:3306667206",
     "studapart:residence_504"
    ],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -26792,6 +26792,49 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:apimo-5091753": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 105,
+    "city": "lyon",
+    "description": "Votre agence LES CLÉS D’ALEXIA vous propose à la location cet appartement T2 lumineux de 34.51m², situé Boulevard Irène Joliot Curie 69200 Vénissieux à proximité des commerces, des transports en commun et de toutes les commodités.\n\nSitué au 2ᵉ étage d'une copropriété avec ascenseur, il se compose d'un séjour avec kitchenette donnant accès à une agréable terrasse couverte de 12,13 m².\n\nL'espace nuit comprend une chambre ainsi qu'une salle d'eau avec douche et WC.\n\nUn box fermé en sous-sol complèt",
+    "district": "Vénissieux",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": null,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://file.bienici.com/photo/apimo-5091753_media.apimo.pro_cache_162e5596b64fbcd52b133465c538a1d8_05e45e8173_1024-original.jpg",
+     "https://file.bienici.com/photo/apimo-5091753_media.apimo.pro_cache_e0e49d163b982f2778a762474804801a_347044c2be_1024-original.jpg",
+     "https://file.bienici.com/photo/apimo-5091753_media.apimo.pro_cache_c865f5ff705fe84d342307517e15c7cd_e3469f0de3_1024-original.jpg",
+     "https://file.bienici.com/photo/apimo-5091753_media.apimo.pro_cache_02517d23e23c1004f52a1dd5ebd40481_a19e85a0dc_1024-original.jpg",
+     "https://file.bienici.com/photo/apimo-5091753_media.apimo.pro_cache_57b1bf287aaf2a4b1e0c22f31c00ebc3_038c297d64_1024-original.jpg",
+     "https://file.bienici.com/photo/apimo-5091753_media.apimo.pro_cache_01f815b667303a6f632e282eeab3c744_48a65202c9_1024-original.jpg"
+    ],
+    "postal_code": "69200",
+    "poster": "agence",
+    "poster_name": "LES CLÉS D'ALEXIA",
+    "published_at": null,
+    "rent_cc": 699.31,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "apimo-5091753",
+    "surface_m2": 34.51,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "A LOUER - T2 AVEC TERRASSE ET GARAGE – VÉNISSIEUX",
+    "url": "https://www.bienici.com/annonce/apimo-5091753"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:apimo-5457158": {
    "also": [],
    "dup_of": null,
@@ -26999,7 +27042,7 @@
   },
   "bienici:apimo-83521662": {
    "also": [],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -28972,6 +29015,7 @@
   },
   "bienici:apimo-87624918": {
    "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T17:20:20+00:00",
    "last_seen": "2026-11-23T17:20:20+00:00",
@@ -29166,7 +29210,7 @@
   },
   "bienici:century-21-202_2117_59914": {
    "also": [],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:00:25+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -31070,6 +31114,50 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:citya-immobilier-47750692700060-GES80300042-746": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 70,
+    "city": "lyon",
+    "description": "A LOUER // 4 PIECES AVEC GARAGE ET BALCON // 69005 LYON   \nVotre Cabinet Citya Gerimmo vous propose à la location ce joli T4 situé 55 Avenue du Point du Jour sur Lyon 5ème, au cœur du secteur du Point du Jour.\nDans une belle résidence de standing de 2019, venez découvrir ce joli 4 pièces coté jardin au calme dans une résidence calme et sécurisée. \nVous rentrez par un hall desservant un séjour lumineux avec sa cuisine aménagée, 3 chambres dont deux avec placards, une belle salle de bains spacieus",
+    "district": "Lyon 5e",
+    "flags": [
+     "agency_fees",
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/citya-immobilier-47750692700060-GES80300042-746_box.ics.fr_cit_CITYA_GERIMMO_tic_location_photo_filigrane-IMG_5264-6472448316610938582.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-47750692700060-GES80300042-746_box.ics.fr_cit_CITYA_GERIMMO_tic_location_photo_filigrane-IMG_5266-3918722532672489849.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-47750692700060-GES80300042-746_box.ics.fr_cit_CITYA_GERIMMO_tic_location_photo_filigrane-IMG_5268-8721342389407206207.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-47750692700060-GES80300042-746_box.ics.fr_cit_CITYA_GERIMMO_tic_location_photo_filigrane-IMG_5270-7833521947497175011.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-47750692700060-GES80300042-746_box.ics.fr_cit_CITYA_GERIMMO_tic_location_photo_filigrane-IMG_5271-1927564457374553499.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-47750692700060-GES80300042-746_box.ics.fr_cit_CITYA_GERIMMO_tic_location_photo_filigrane-IMG_5272-8905025072479035400.jpg"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "poster_name": "Citya Gerimmo",
+    "published_at": null,
+    "rent_cc": 1170,
+    "rooms": 4,
+    "source": "bienici",
+    "source_id": "citya-immobilier-47750692700060-GES80300042-746",
+    "surface_m2": 68.69,
+    "tags": [],
+    "title": "4 pièce(s) 68.69 m² Lyon 5e",
+    "url": "https://www.bienici.com/annonce/citya-immobilier-47750692700060-GES80300042-746"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:citya-immobilier-47750692700060-GES80420028-746": {
    "also": [],
    "dup_of": null,
@@ -31627,6 +31715,45 @@
    "notified": true,
    "status": "active"
   },
+  "bienici:citya-immobilier-5040-GES18050038-171": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 88,
+    "city": "lyon",
+    "description": "EXCLUSIVITÉ - APPARTEMENT 3 PIÈCES AVEC BALCON\n\nVotre cabinet Citya Barioz à le plaisir de vous proposer à la location cet appartement 3 pièces de 72m² situé au 10 rue Prosper Chappet à Lyon 7ème, à 5 minutes du métro \"Stade de Gerland\" et \"Debourg\" ligne B, proche de toutes commodités.\nCe bien situé au 2ème étage avec ascenseur se compose d'une entrée avec placard, d'un séjour de 29.70m² donnant accès à un balcon de 6m², d'un coin cuisine, de deux chambres (12.90m² et 12.50m²) chacune équipée d",
+    "district": "Lyon 7e",
+    "flags": [
+     "agency_fees",
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES18050038-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_filigrane-Capture_d_cran_2026-11-23_153537-15272476305230781875.jpg"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "Citya Barioz",
+    "published_at": null,
+    "rent_cc": 1135.96,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "citya-immobilier-5040-GES18050038-171",
+    "surface_m2": 72,
+    "tags": [],
+    "title": "3 pièce(s) 72 m² Lyon 7e",
+    "url": "https://www.bienici.com/annonce/citya-immobilier-5040-GES18050038-171"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:citya-immobilier-5040-GES20220004-171": {
    "also": [
     "paruvendu:1297023168"
@@ -31972,6 +32099,49 @@
     "tags": [],
     "title": "2 pièce(s) 47.92 m² Lyon 8e",
     "url": "https://www.bienici.com/annonce/citya-immobilier-5040-GES39940129-171"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:citya-immobilier-5040-GES42440050-171": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 79,
+    "city": "lyon",
+    "description": "EXCLUSIVITE - APPARTEMENT T3 - LYON 3 \n\nVotre Cabinet Citya Barioz vous propose à la location au 42 Avenue Lacassagne à Lyon 3ème, Cet appartement T3 se compose d'un hall d'entrée avec placard, d'un séjour donnant sur un balcon de 6 m² avec un coin cuisine équipée. Il dispose également de deux chambres donnant sur le balcon, dont l'une avec placard, d'une salle de bains et de WC séparés. Le chauffage et l'eau chaude sont individuels électriques.\nLe chauffage et eaux individuelles au gaz.\nApparte",
+    "district": "Lyon 3e",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES42440050-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_filigrane-IMG_8814-15461530659475697896.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES42440050-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_filigrane-IMG_8813-2666632132065978737.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES42440050-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_filigrane-IMG_8815-17352843001244335283.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES42440050-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_filigrane-IMG_8816-17847715964876156040.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES42440050-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_filigrane-IMG_8821-14817543895550488716.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES42440050-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_filigrane-IMG_8822-1255454673413414811.jpg"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "Citya Barioz",
+    "published_at": null,
+    "rent_cc": 945.56,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "citya-immobilier-5040-GES42440050-171",
+    "surface_m2": 59.04,
+    "tags": [],
+    "title": "3 pièce(s) 59.04 m² Lyon 3e",
+    "url": "https://www.bienici.com/annonce/citya-immobilier-5040-GES42440050-171"
    },
    "notified": false,
    "status": "active"
@@ -32586,6 +32756,49 @@
     "tags": [],
     "title": "1 pièce(s) 15.86 m² Lyon 8e",
     "url": "https://www.bienici.com/annonce/citya-immobilier-5040-GES87050015-171"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:citya-immobilier-5040-GES87070083-171": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 60,
+    "city": "lyon",
+    "description": "EXCLUSIVITÉ - APPARTEMENT MEUBLE 2 PIECES - QUARTIER SANS SOUCI\n\nCitya Barioz vous propose à la location, au 35 rue des Tulliers 69008 LYON d'une surface de 51.23 m2, à proximité du métro  SANS SOUCI, secteur animé par tous ses commerces, son marché, ses écoles.\nSitué au 2e étage avec ascenseur d'une résidence sécurisée, calme et bien entretenue, ce bel appartement T2 entièrement meublé, \n se compose d'une entrée avec placard, d'une cuisine fermée meublée et équipée (four, lave vaisselle, plaque",
+    "district": "Lyon 8e",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES87070083-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_IMG_20210202_142715-9206931671457651076.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES87070083-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_IMG_20210202_143038-3016601196534860972.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES87070083-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_IMG_20210202_142800-5582163580580085018.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES87070083-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_IMG_20210202_142810-7886612372492880510.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES87070083-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_IMG_20210202_142924-9142535784355564048.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5040-GES87070083-171_box.ics.fr_cit_CITYA_BARIOZ_tic_location_photo_IMG_20210202_142844-1173305557523987071.jpg"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "Citya Barioz",
+    "published_at": null,
+    "rent_cc": 953.68,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "citya-immobilier-5040-GES87070083-171",
+    "surface_m2": 51.23,
+    "tags": [],
+    "title": "2 pièce(s) 51.23 m² Lyon 8e",
+    "url": "https://www.bienici.com/annonce/citya-immobilier-5040-GES87070083-171"
    },
    "notified": false,
    "status": "active"
@@ -33507,6 +33720,48 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:citya-immobilier-5041-GES50320025-184": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 22,
+    "city": "lyon",
+    "description": "A LOUER // APPARTEMENT T2 // 110 GRANDE RUE DE LA GUILLOTIERE 69007 LYON\n\nCitya Vendôme Lumière vous propose à la location, entre le métro Saxe-Gambetta et Garibaldi, à deux pas de la place Saint Louis, en dernier étage, superbe T2 entièrement rénové, trés lumineux et calme. Il est composé d'une cuisine aménagée et équipée d'une plaque de cuisson, d'un séjour, d'un coin bureau, d'une chambre et d'une salle d'eau. Le chauffage est individuel électrique par fluide caloporteur.\n\nLe bien se trouve d",
+    "district": "Lyon 7e",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/citya-immobilier-5041-GES50320025-184_box.ics.fr_cit_CITYA_VENDOMELUMIERE_tic_location_photo_filigrane-6A41F85C-02FC-48B9-AAA6-7596145A0618-4318237908758693205.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5041-GES50320025-184_box.ics.fr_cit_CITYA_VENDOMELUMIERE_tic_location_photo_filigrane-89D821C8-B0E2-42F6-9839-EDC4934D4F0B-5422979468797905995.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5041-GES50320025-184_box.ics.fr_cit_CITYA_VENDOMELUMIERE_tic_location_photo_filigrane-0F37E14C-FA8D-43DB-84FD-D7C7AA9CD3A0-4089369775968539030.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5041-GES50320025-184_box.ics.fr_cit_CITYA_VENDOMELUMIERE_tic_location_photo_filigrane-EEA32B6A-FA8B-40F6-8101-F19FD69EC19B-9202836468616134099.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5041-GES50320025-184_box.ics.fr_cit_CITYA_VENDOMELUMIERE_tic_location_photo_filigrane-D1D1568E-A559-4A34-8AD1-38E963B6A0D3-8468638169560875464.jpg"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "Citya Vendôme Lumière",
+    "published_at": null,
+    "rent_cc": 893.44,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "citya-immobilier-5041-GES50320025-184",
+    "surface_m2": 47.4,
+    "tags": [],
+    "title": "2 pièce(s) 47.4 m² Lyon 7e",
+    "url": "https://www.bienici.com/annonce/citya-immobilier-5041-GES50320025-184"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:citya-immobilier-5041-GES51810021-184": {
    "also": [
     "paruvendu:1297268549"
@@ -33919,6 +34174,48 @@
     "tags": [],
     "title": "3 pièce(s) 67.8 m² Lyon 8e",
     "url": "https://www.bienici.com/annonce/citya-immobilier-5041-GES98670088-184"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:citya-immobilier-5041-GES99024032-184": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 40,
+    "city": "lyon",
+    "description": "À LOUER // 155 BIS GRANDE RUE DE SAINT CLAIR 69300 CALUIRE ET CUIRE. \n\nAppartement récent T1 situé à Caluire et Cuire. Ce bien immobilier offre une surface habitable de 20 m², idéal pour une personne seule.\n\nL'appartement se trouve au deuxième étage d'un immeuble avec ascenseur, garantissant ainsi une certaine tranquillité. Il dispose d'une pièce principale lumineuse, parfaite pour aménager un coin salon et un espace nuit. La salle d'eau est équipée d'une douche. Le chauffage est individuel, ave",
+    "district": "Caluire-et-Cuire",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/citya-immobilier-5041-GES99024032-184_box.ics.fr_cit_CITYA_VENDOMELUMIERE_tic_location_photo_filigrane-4--16955819855818042223.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5041-GES99024032-184_box.ics.fr_cit_CITYA_VENDOMELUMIERE_tic_location_photo_filigrane-3--13258954984747613805.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5041-GES99024032-184_box.ics.fr_cit_CITYA_VENDOMELUMIERE_tic_location_photo_filigrane-1--6582250397907083296.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5041-GES99024032-184_box.ics.fr_cit_CITYA_VENDOMELUMIERE_tic_location_photo_filigrane-2--3200840096553127917.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5041-GES99024032-184_box.ics.fr_cit_CITYA_VENDOMELUMIERE_tic_location_photo_filigrane-Capture_d_cran_2025-08-01_094204-10968150049375606212.jpg"
+    ],
+    "postal_code": "69300",
+    "poster": "agence",
+    "poster_name": "Citya Vendôme Lumière",
+    "published_at": null,
+    "rent_cc": 453.03,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "citya-immobilier-5041-GES99024032-184",
+    "surface_m2": 20.8,
+    "tags": [],
+    "title": "1 pièce(s) 20.8 m² Caluire-et-Cuire",
+    "url": "https://www.bienici.com/annonce/citya-immobilier-5041-GES99024032-184"
    },
    "notified": false,
    "status": "active"
@@ -34456,6 +34753,50 @@
     "tags": [],
     "title": "2 pièce(s) 54.9 m² Lyon 4e",
     "url": "https://www.bienici.com/annonce/citya-immobilier-5042-GES50020076-175"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:citya-immobilier-5042-GES57410006-175": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 10,
+    "city": "lyon",
+    "description": "À LOUER RUE MONTESQUIEU à Lyon 7ème, un appartement T2 d'une superficie de 26,46 m² au 2ème étage d'un immeuble sans ascenseur.\n\nL'appartement se compose d'une pièce de vie, d'une kitchenette, d'une mezzanine, d'une salle de bains. Bien que l'appartement soit loué non meublé, il dispose de tout l'équipement nécessaire à la vie dans le logement.\n\nLe chauffage est individuel électrique.\n\nDisponibilité : novembre 2026.  Le bien est soumis au statut de la copropriété. \n\n Loyer de 660,00 euros par mo",
+    "district": "Lyon 7e",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/citya-immobilier-5042-GES57410006-175_box.ics.fr_cit_CITYA_BOURGUIGNON_tic_location_photo_filigrane-IMG_2153-10888494431890998841.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5042-GES57410006-175_box.ics.fr_cit_CITYA_BOURGUIGNON_tic_location_photo_filigrane-IMG_2155-5876743405839545981.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5042-GES57410006-175_box.ics.fr_cit_CITYA_BOURGUIGNON_tic_location_photo_filigrane-IMG_2141-12085565879032871779.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5042-GES57410006-175_box.ics.fr_cit_CITYA_BOURGUIGNON_tic_location_photo_filigrane-IMG_2144-3479589546510896230.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-5042-GES57410006-175_box.ics.fr_cit_CITYA_BOURGUIGNON_tic_location_photo_filigrane-IMG_2145-2090217525235113423.jpg"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "Citya Bourguignon Palluat",
+    "published_at": null,
+    "rent_cc": 660,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "citya-immobilier-5042-GES57410006-175",
+    "surface_m2": 26.46,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "2 pièce(s) 26.46 m² Lyon 7e",
+    "url": "https://www.bienici.com/annonce/citya-immobilier-5042-GES57410006-175"
    },
    "notified": false,
    "status": "active"
@@ -35161,6 +35502,49 @@
     "tags": [],
     "title": "Appartement Lyon 7- 2 pièce(s) 51 m2",
     "url": "https://www.bienici.com/annonce/era-2-61725552"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:era-2-61783414": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 80,
+    "city": "lyon",
+    "description": "Secteur Sans-Souci. Au 9bis rue du Pr Sisley, face à l'entrée du parc, ERA Lacassagne vous propose à la location ce T3 traversant de 62m², rénové et meublé. Situé au 1er étage d'une belle copropriété arborée avec gardien, au calme, il se compose : d'une entrée avec placard, d'un séjour de 22m2 donnant sur un petit balcon, d'une jolie cuisine indépendante équipée, de 2 chambres avec lit double et rangements, d'une salle de bains rénovée, WC indépendants. Chauffage individuel électrique. Une cave ",
+    "district": "Lyon 3e",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/era-2-61783414_media.immo-facile.com_office8_eraimmobilier_lacassagne_catalog_images_pr_p_6_1_7_8_3_4_1_4_61783414a.jpg_DATEMAJ_23_11_2026-15_59_21",
+     "https://file.bienici.com/photo/era-2-61783414_media.immo-facile.com_office8_eraimmobilier_lacassagne_catalog_images_pr_p_6_1_7_8_3_4_1_4_61783414b.jpg_DATEMAJ_23_11_2026-15_59_22",
+     "https://file.bienici.com/photo/era-2-61783414_media.immo-facile.com_office8_eraimmobilier_lacassagne_catalog_images_pr_p_6_1_7_8_3_4_1_4_61783414c.jpg_DATEMAJ_23_11_2026-15_59_22",
+     "https://file.bienici.com/photo/era-2-61783414_media.immo-facile.com_office8_eraimmobilier_lacassagne_catalog_images_pr_p_6_1_7_8_3_4_1_4_61783414d.jpg_DATEMAJ_23_11_2026-15_59_22",
+     "https://file.bienici.com/photo/era-2-61783414_media.immo-facile.com_office8_eraimmobilier_lacassagne_catalog_images_pr_p_6_1_7_8_3_4_1_4_61783414e.jpg_DATEMAJ_23_11_2026-15_59_23",
+     "https://file.bienici.com/photo/era-2-61783414_media.immo-facile.com_office8_eraimmobilier_lacassagne_catalog_images_pr_p_6_1_7_8_3_4_1_4_61783414f.jpg_DATEMAJ_23_11_2026-15_59_23"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "Era Immobilier Lacassagne",
+    "published_at": "2026-11-23T17:36:15.969Z",
+    "rent_cc": 1150,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "era-2-61783414",
+    "surface_m2": 62,
+    "tags": [],
+    "title": "Location appartement meublé Lyon 3 pièce(s) 62 m2",
+    "url": "https://www.bienici.com/annonce/era-2-61783414"
    },
    "notified": false,
    "status": "active"
@@ -36951,7 +37335,7 @@
   },
   "bienici:gedeon-34130445": {
    "also": [],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -37036,7 +37420,7 @@
    "also": [
     "immojeune:u3116665"
    ],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -37117,7 +37501,7 @@
    "also": [
     "leboncoin:3313995998"
    ],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -37776,6 +38160,54 @@
     "tags": [],
     "title": "Colocation de 4 pièces de 71 m²",
     "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT0477-317"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:guy-hoquet-18-GT0477-5860": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 1321,
+    "city": "lyon",
+    "description": "L'agence GUY HOQUET VILLEURBANNE ZOLA a le plaisir de vous proposer un magnifique T1 meublé 24 m² avec balcon. <br>Ce T1 se compose d'une belle pièce de vie avec canapé lit ainsi que d'une cuisine et d'une salle d'eau.<br>Loyer est de 528€ HC. 90€ de charges comprenant eau chaude, eau froide et parties communes.<br>Pour un total de 618 euros par mois charges comprises.<br>Frais d'agence de 305€ dont 70€ d'état des lieux. La caution est de 2 mois de loyer hors charges soit 1 056€.<br>Deux garants",
+    "district": "Villeurbanne",
+    "flags": [
+     "agency_fees",
+     "charges_cc",
+     "charges_hc",
+     "garant",
+     "visale"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0477-5860_d2m2j20yzublln.cloudfront.net_333_525218_534ab93e-bf20-4c66-883a-70164596ecf4.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0477-5860_d2m2j20yzublln.cloudfront.net_333_525218_1aa7dbdc-0f3e-5c7c-a960-10c6b43eae15.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0477-5860_d2m2j20yzublln.cloudfront.net_333_525218_92b788a8-fa5b-5f4f-9c74-c0a68762b4ed.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0477-5860_d2m2j20yzublln.cloudfront.net_333_525218_697ec5d7-9f58-584c-8483-00fa889ebb54.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0477-5860_d2m2j20yzublln.cloudfront.net_333_525218_6d415530-5773-5f34-9e2d-317c5ed01e31.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0477-5860_d2m2j20yzublln.cloudfront.net_333_525218_84cdb759-f815-5cb9-8723-76fe3263fd45.jpg"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "Guy Hoquet VILLEURBANNE ZOLA",
+    "published_at": "2026-11-23T17:34:56.179Z",
+    "rent_cc": 618,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "guy-hoquet-18-GT0477-5860",
+    "surface_m2": 23.5,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "LOCATION : appartement T1 (24 m²) à VILLEURBANNE",
+    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT0477-5860"
    },
    "notified": false,
    "status": "active"
@@ -38854,7 +39286,7 @@
    "also": [
     "leboncoin:3312670732"
    ],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-20T22:51:18+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -41902,6 +42334,45 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:hektor-myhoreapartners69006-369": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 30,
+    "city": "lyon",
+    "description": "17 Rue Docteur Carrier 69008 LYON<br> Au premier étage d'un immeuble sans ascenseur, My Horea Partners vous propose un appartement type T2 entièrement rénové et meublé. <br> Le logement dispose d'une entrée, séjour avec cuisine ouverte, une chambre avec placard, sdb et wc. <br> Pour toute demande de visite, merci de contacter Simon Croutte au <span class=\"importDescriptionDecorator\" data-type=\"phone\">06.4034.91.33</span><br>  <br> ZONE SOUMISE A L'ENCADREMENT DES LOYERS: <br> Loyer de référence ",
+    "district": "Lyon 8e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/hektor-myhoreapartners69006-369_my-horea-partners.staticlbi.com_original_images_biens_1_b83d4634bebcc9e6db6c56c7954aff03_photo_2b80d7d68819b88119f312a181de07c9.jpg",
+     "https://file.bienici.com/photo/hektor-myhoreapartners69006-369_my-horea-partners.staticlbi.com_original_images_biens_1_b83d4634bebcc9e6db6c56c7954aff03_photo_3e38d074d3862626dd04cdc44c7ba0ad.jpg",
+     "https://file.bienici.com/photo/hektor-myhoreapartners69006-369_my-horea-partners.staticlbi.com_original_images_biens_1_b83d4634bebcc9e6db6c56c7954aff03_photo_f02520c53281b3c9bdc180d0b18fce30.jpg",
+     "https://file.bienici.com/photo/hektor-myhoreapartners69006-369_my-horea-partners.staticlbi.com_original_images_biens_1_b83d4634bebcc9e6db6c56c7954aff03_photo_dda97bd89958b6eb288fa919205d076f.jpg",
+     "https://file.bienici.com/photo/hektor-myhoreapartners69006-369_my-horea-partners.staticlbi.com_original_images_biens_1_b83d4634bebcc9e6db6c56c7954aff03_photo_cba7bb38abec7c15f71700ed9bb0e0ff.jpg"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "My Horea Partners",
+    "published_at": "2026-10-19T13:47:58.549Z",
+    "rent_cc": 850,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "hektor-myhoreapartners69006-369",
+    "surface_m2": 32,
+    "tags": [],
+    "title": "T2 meublé entièrement rénové",
+    "url": "https://www.bienici.com/annonce/hektor-myhoreapartners69006-369"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:hektor-myhoreapartners69006-371": {
    "also": [],
    "checked": "2026-11-23T13:00:40+00:00",
@@ -41944,11 +42415,13 @@
   },
   "bienici:hektor-myhoreapartners69006-372": {
    "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-21T11:13:43+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
    "listing": {
     "charges": 50,
+    "city": "lyon",
     "description": "11 Place Raspail 69007 LYON<br> Au premier étage avec ascenseur, My Horea Partners vous propose à la location un studio meublé en très bon état. <br> L'appartement dispose d'une entrée, une cuisine américaine ouverte sur le séjour, une sdb et wc séparé. La chambre avec placard se trouve en mezzanine. <br> Pour toute demande de visites, merci de contacter Simon Croutte au <span class=\"importDescriptionDecorator\" data-type=\"phone\">0640349133</span><br>  <br> ZONE SOUMISE A L'ENCADREMENT DES LOYERS",
     "district": "Lyon 7e",
     "flags": [],
@@ -41964,6 +42437,7 @@
     ],
     "postal_code": "69007",
     "poster": "agence",
+    "poster_name": "My Horea Partners",
     "published_at": "2026-11-02T15:51:12.688Z",
     "rent_cc": 600,
     "rooms": 1,
@@ -41975,7 +42449,7 @@
     "url": "https://www.bienici.com/annonce/hektor-myhoreapartners69006-372"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "bienici:hektor-onilimmo-2791": {
    "also": [],
@@ -53550,7 +54024,7 @@
   },
   "bienici:immo-facile-59078374": {
    "also": [],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -58009,7 +58483,7 @@
   },
   "bienici:immo-facile-61706207": {
    "also": [],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -59809,7 +60283,7 @@
   },
   "bienici:laforet-immo-facile-53010702": {
    "also": [],
-   "checked": "2026-11-23T03:00:38+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -60533,6 +61007,46 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:mgc-ancien-SNI_0000_345849": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 54.22,
+    "city": "lyon",
+    "description": "SANS HONORAIRES. Lyon 9, 60 avenue Sidoine Apollinaire. Devenez locataire de ce logement T2 de 45 m2 avec balcon au sein d'une résidence sécurisée. Ce logement se compose d'une entrée avec placard, d'un séjour/cuisine (évier, hotte, plaque, quelques meubles) de 23 m2, d’une chambre de 11,8 m2, d'une salle de bain et un WC séparé. Un balcon de 7,7 m2, une loggia de 3,4 m2 et un garage en sous-sol complètent ce bien. Chauffage électrique individuel. (les photos ne sont pas celles du logement mais ",
+    "district": "Lyon 9e",
+    "flags": [
+     "agency_fees_no"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/mgc-ancien-SNI_0000_345849_photos-35-aec-9-e-66-ddca-018-c-1258-a-7-d-00555-f-78-jpg",
+     "https://file.bienici.com/photo/mgc-ancien-SNI_0000_345849_photos-9-e-5445-d-68007-d-05-ac-1258-aa-6007031-e-1-jpg",
+     "https://file.bienici.com/photo/mgc-ancien-SNI_0000_345849_photos-ecb-1-eb-29-b-5-bcdea-0-c-1258-a-7-d-005733-cb-jpg",
+     "https://file.bienici.com/photo/mgc-ancien-SNI_0000_345849_photos-a-7-b-6-bdb-6-ce-77-d-1-cfc-1258-eb-8004-e-4-a-4-c-jpg"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": "2026-11-23T17:40:50.466Z",
+    "rent_cc": 704.6,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "mgc-ancien-SNI_0000_345849",
+    "surface_m2": 45,
+    "tags": [],
+    "title": "Appartement T2",
+    "url": "https://www.bienici.com/annonce/mgc-ancien-SNI_0000_345849"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:mgc-ancien-SNI_0000_347160": {
    "also": [
     "paruvendu:1297750344"
@@ -60572,6 +61086,49 @@
     "tags": [],
     "title": "Appartement T3",
     "url": "https://www.bienici.com/annonce/mgc-ancien-SNI_0000_347160"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:nestenn-1-99933089187": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 38,
+    "city": "lyon",
+    "description": "CONTACT PAR MAIL UNIQUEMENT <br>LYON 08 - Rue Paul Cazeneuve, dans résidence récente le 'CONTEMPORA', agréable T2 de 43,8m² comprenant cuisine US aménagée (meubles cuisine, hotte, plaque de cuisson), séjour ouvrant sur loggia, 1 chambre, dressing, salle d'eau avec WC, un garage en sous-sol.  Chauffage individuel gaz. Proche tous commerces et tram T2 et T4. Classe énergie : C. Disponible le 19 novembre<br> Loyer: 740,63 Euros HC + 38€ Charges (copropriété, entretien chaudière). Honoraires de visi",
+    "district": "Lyon 8e",
+    "flags": [
+     "agency_fees",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/nestenn-1-99933089187_media.immo-facile.com_office15_solvimo-lyon-8_catalog_images_pr_web_3_3_0_8_9_1_8_7_33089187a.jpg_DATEMAJ_23_11_2026-16_09_14",
+     "https://file.bienici.com/photo/nestenn-1-99933089187_media.immo-facile.com_office15_solvimo-lyon-8_catalog_images_pr_web_3_3_0_8_9_1_8_7_33089187b.jpg_DATEMAJ_23_11_2026-16_09_14",
+     "https://file.bienici.com/photo/nestenn-1-99933089187_media.immo-facile.com_office15_solvimo-lyon-8_catalog_images_pr_web_3_3_0_8_9_1_8_7_33089187c.jpg_DATEMAJ_23_11_2026-16_09_14",
+     "https://file.bienici.com/photo/nestenn-1-99933089187_media.immo-facile.com_office15_solvimo-lyon-8_catalog_images_pr_web_3_3_0_8_9_1_8_7_33089187d.jpg_DATEMAJ_23_11_2026-16_09_14",
+     "https://file.bienici.com/photo/nestenn-1-99933089187_media.immo-facile.com_office15_solvimo-lyon-8_catalog_images_pr_web_3_3_0_8_9_1_8_7_33089187e.jpg_DATEMAJ_23_11_2026-16_09_14",
+     "https://file.bienici.com/photo/nestenn-1-99933089187_media.immo-facile.com_office15_solvimo-lyon-8_catalog_images_pr_web_3_3_0_8_9_1_8_7_33089187f.jpg_DATEMAJ_23_11_2026-16_09_14"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "NESTENN LYON 08",
+    "published_at": "2026-11-16T09:29:42.294Z",
+    "rent_cc": 778,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "nestenn-1-99933089187",
+    "surface_m2": 43.8,
+    "tags": [],
+    "title": "Appartement T2 - stationnement - Bachut Lyon 8",
+    "url": "https://www.bienici.com/annonce/nestenn-1-99933089187"
    },
    "notified": false,
    "status": "active"
@@ -63198,8 +63755,7 @@
    "checked": "2026-11-23T16:03:28+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "gone": "2026-11-23T16:03:28+00:00",
-   "last_seen": "2026-11-23T13:00:40+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
    "listing": {
     "charges": 70,
     "city": "lyon",
@@ -63234,7 +63790,7 @@
     "url": "https://www.bienici.com/annonce/netty-company56058ckb-appt-5344"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "bienici:netty-company56058ckb-appt-5886": {
    "also": [],
@@ -63274,6 +63830,48 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "bienici:netty-company56058ckb-appt-6662": {
+   "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T18:00:37+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
+   "listing": {
+    "charges": 33,
+    "city": "lyon",
+    "description": "Lyon 6ème, Coeur des Brotteaux, à deux pas du Métro et des commerces, rue Fournet, appartement en SOUPLEX de 40m² entièrement rénové comprenant une belle pièce de vie, une kitchenette, une salle d'eau et sanitaires séparés. En souplex, une grande pièce avec un débarras.<br>Disponible dès maintenant<br>Provisions mensuelles des charges locatives soumises à régularisation annuelle.<br>SI VOUS SOUHAITEZ LE VISITER : afin que nous puissions vérifier votre solvabilité, nous vous remercions de nous tr",
+    "district": "Lyon 6e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/netty-company56058ckb-appt-6662_img.netty.immo_productw_company56058ckb_4_LA6662_1776237504_LA6662_8_original.jpg",
+     "https://file.bienici.com/photo/netty-company56058ckb-appt-6662_img.netty.immo_productw_company56058ckb_4_LA6662_1774265196_LA6662_2_original.jpg",
+     "https://file.bienici.com/photo/netty-company56058ckb-appt-6662_img.netty.immo_productw_company56058ckb_4_LA6662_1776237505_LA6662_9_original.jpg",
+     "https://file.bienici.com/photo/netty-company56058ckb-appt-6662_img.netty.immo_productw_company56058ckb_4_LA6662_1776237506_LA6662_10_original.jpg",
+     "https://file.bienici.com/photo/netty-company56058ckb-appt-6662_img.netty.immo_productw_company56058ckb_4_LA6662_1776237507_LA6662_12_original.jpg",
+     "https://file.bienici.com/photo/netty-company56058ckb-appt-6662_img.netty.immo_productw_company56058ckb_4_LA6662_1776237508_LA6662_13_original.jpg"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "poster_name": "AGENCE CONFLUENCE ROLIN BAINSON",
+    "published_at": "2026-11-23T17:20:50.576Z",
+    "rent_cc": 723,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "netty-company56058ckb-appt-6662",
+    "surface_m2": 40.02,
+    "tags": [],
+    "title": "4 BIS RUE FOURNET",
+    "url": "https://www.bienici.com/annonce/netty-company56058ckb-appt-6662"
+   },
+   "notified": false,
+   "status": "active"
   },
   "bienici:netty-company56058ckb-appt-8020": {
    "also": [],
@@ -63407,8 +64005,7 @@
    "checked": "2026-11-23T16:03:28+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "gone": "2026-11-23T16:03:28+00:00",
-   "last_seen": "2026-11-23T13:00:40+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
    "listing": {
     "charges": 70,
     "city": "lyon",
@@ -63443,7 +64040,7 @@
     "url": "https://www.bienici.com/annonce/netty-company56058ckb-appt-8280"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "bienici:netty-company56058ckb-appt-8315": {
    "also": [],
@@ -69634,7 +70231,7 @@
    "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:40:32+00:00",
-   "last_seen": "2026-11-23T14:50:23+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -71227,6 +71824,7 @@
   },
   "lacartedescolocs:afinnx": {
    "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T17:30:24+00:00",
    "last_seen": "2026-11-23T17:30:24+00:00",
@@ -71534,7 +72132,7 @@
    "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:50:19+00:00",
-   "last_seen": "2026-11-23T14:50:23+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -72835,6 +73433,7 @@
   },
   "lacartedescolocs:me84g5": {
    "also": [],
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T17:20:20+00:00",
    "last_seen": "2026-11-23T17:20:20+00:00",
@@ -73166,7 +73765,7 @@
   },
   "lacartedescolocs:oi7zhw": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T14:00:36+00:00",
    "last_seen": "2026-11-23T17:01:38+00:00",
@@ -73388,7 +73987,7 @@
    "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:40:32+00:00",
-   "last_seen": "2026-11-23T14:50:23+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -74922,7 +75521,7 @@
    "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:40:32+00:00",
-   "last_seen": "2026-11-23T14:50:23+00:00",
+   "last_seen": "2026-11-23T18:00:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -90765,7 +91364,7 @@
   },
   "paruvendu:1297686093": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:50:21+00:00",
@@ -91011,7 +91610,7 @@
   },
   "paruvendu:1297719095": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:50:21+00:00",
@@ -91098,7 +91697,7 @@
   },
   "paruvendu:1297719336": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:50:21+00:00",
@@ -91149,7 +91748,7 @@
   },
   "paruvendu:1297722928": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:50:21+00:00",
@@ -91388,7 +91987,7 @@
   },
   "paruvendu:1297750377": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T06:00:39+00:00",
@@ -91467,7 +92066,7 @@
   },
   "paruvendu:1297750542": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T07:30:26+00:00",
@@ -91751,7 +92350,7 @@
   },
   "paruvendu:1297759030": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:50:21+00:00",
@@ -91843,7 +92442,7 @@
   },
   "paruvendu:1297762547": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T14:00:36+00:00",
    "last_seen": "2026-11-23T10:03:03+00:00",
@@ -91922,7 +92521,7 @@
   },
   "paruvendu:1297762706": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T14:00:36+00:00",
    "last_seen": "2026-11-23T10:03:03+00:00",
@@ -91976,7 +92575,7 @@
    "also": [
     "leboncoin:3315516352"
    ],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T15:40:26+00:00",
    "last_seen": "2026-11-23T16:10:37+00:00",
@@ -92576,7 +93175,7 @@
   },
   "studapart:125bf84c-74ae-44f3-8a01-a11107d06487": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -92616,7 +93215,7 @@
   },
   "studapart:12ee9f36-6ee2-4f9d-b4af-eff37907e98f": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -92692,7 +93291,7 @@
   },
   "studapart:19d86fdd-4cf6-43b2-9e04-09e9f4c69171": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -92891,7 +93490,7 @@
   },
   "studapart:2c616d4d-a1d5-40f6-af89-09300bd0f550": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -92931,7 +93530,7 @@
   },
   "studapart:2cabd3ee-fd0c-4870-a2e7-f48cec369daf": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -92971,7 +93570,7 @@
   },
   "studapart:325e8877-e673-417d-9402-689b53dcdc99": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -93048,7 +93647,7 @@
   },
   "studapart:4fb0c9d5-6116-40b2-b6b0-ebadc9279e75": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -93088,7 +93687,7 @@
   },
   "studapart:50253a81-53c2-497e-b4a2-b37b368184f6": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -93189,7 +93788,7 @@
   },
   "studapart:640b58cd-a7bb-474f-81d2-ba0c8981bffc": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -93229,7 +93828,7 @@
   },
   "studapart:651618ac-3dcd-4948-a460-fa69282c0419": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -93269,7 +93868,7 @@
   },
   "studapart:65991cee-91f6-414a-a088-b79a809ae6fb": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -93432,7 +94031,7 @@
   },
   "studapart:734ac018-8128-4c7e-aae6-71c6dbe2c468": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -93511,7 +94110,7 @@
   },
   "studapart:78964a70-811f-4655-8cea-a902bd1dbe3b": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -93593,7 +94192,7 @@
   },
   "studapart:8202fd9d-2269-44f7-a70d-a9d21c54d0f6": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -93692,7 +94291,7 @@
   },
   "studapart:8742d968-c476-461d-8057-0e3812193384": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -93773,7 +94372,7 @@
    "also": [
     "leboncoin:3316017909"
    ],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -93855,7 +94454,7 @@
   },
   "studapart:a59f29c0-0777-4869-b899-5b4b7ea60239": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -94016,7 +94615,7 @@
   },
   "studapart:bad05138-2ae0-4b2c-8ac3-b6b40709aea3": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -94065,7 +94664,7 @@
   },
   "studapart:cb39d80e-b45b-4680-9c6e-118cbda1fb2e": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -94147,7 +94746,7 @@
   },
   "studapart:ce0725c7-780f-44d5-9138-329349063baa": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T13:00:40+00:00",
@@ -94187,7 +94786,7 @@
   },
   "studapart:e184b03e-591c-46fe-a356-2e0516abd671": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -94556,7 +95155,7 @@
   },
   "studapart:faf2bc33-3c5f-4458-948b-ddcc66ceb817": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -94680,7 +95279,7 @@
   },
   "studapart:residence_1664": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -94842,7 +95441,7 @@
   },
   "studapart:residence_1679": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -94886,7 +95485,7 @@
    "also": [
     "leboncoin:3316016419"
    ],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -94928,7 +95527,7 @@
   },
   "studapart:residence_2817": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -94973,7 +95572,7 @@
    "also": [
     "leboncoin:3316016464"
    ],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -95405,7 +96004,7 @@
    "also": [
     "leboncoin:3302977160"
    ],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -95447,7 +96046,7 @@
   },
   "studapart:residence_627": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
@@ -95489,7 +96088,7 @@
   },
   "studapart:residence_866": {
    "also": [],
-   "checked": "2026-11-23T02:00:59+00:00",
+   "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T16:03:28+00:00",
