@@ -29,8 +29,8 @@
    "last_success": "2026-11-23T19:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-23T21:10:33+00:00"
@@ -69683,7 +69683,7 @@
    "checked": "2026-11-23T19:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T00:00:51+00:00",
-   "last_seen": "2026-11-23T18:30:22+00:00",
+   "last_seen": "2026-11-23T21:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -69725,7 +69725,7 @@
    "checked": "2026-11-23T19:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T00:00:51+00:00",
-   "last_seen": "2026-11-23T18:30:22+00:00",
+   "last_seen": "2026-11-23T21:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -71153,7 +71153,7 @@
    "checked": "2026-11-23T19:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:20:21+00:00",
-   "last_seen": "2026-11-23T18:20:21+00:00",
+   "last_seen": "2026-11-23T21:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -71823,7 +71823,7 @@
    "checked": "2026-11-23T20:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T18:20:19+00:00",
-   "last_seen": "2026-11-23T18:20:21+00:00",
+   "last_seen": "2026-11-23T21:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -72383,7 +72383,7 @@
    "checked": "2026-11-23T16:03:28+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T15:20:24+00:00",
-   "last_seen": "2026-11-23T18:30:22+00:00",
+   "last_seen": "2026-11-23T21:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -72611,7 +72611,7 @@
    "checked": "2026-11-23T19:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:20:21+00:00",
-   "last_seen": "2026-11-23T18:20:21+00:00",
+   "last_seen": "2026-11-23T21:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -73435,7 +73435,7 @@
    "checked": "2026-11-23T19:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:20:21+00:00",
-   "last_seen": "2026-11-23T18:20:21+00:00",
+   "last_seen": "2026-11-23T21:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -73842,7 +73842,7 @@
    "checked": "2026-11-23T19:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:20:21+00:00",
-   "last_seen": "2026-11-23T18:20:21+00:00",
+   "last_seen": "2026-11-23T21:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -74554,7 +74554,7 @@
    "checked": "2026-11-23T19:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:20:21+00:00",
-   "last_seen": "2026-11-23T18:20:21+00:00",
+   "last_seen": "2026-11-23T21:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75743,7 +75743,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/waldty"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:wamrgy": {
    "also": [],
@@ -76160,7 +76160,7 @@
    "checked": "2026-11-23T19:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:20:21+00:00",
-   "last_seen": "2026-11-23T18:20:21+00:00",
+   "last_seen": "2026-11-23T21:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -94282,7 +94282,7 @@
    "checked": "2026-11-23T09:01:45+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
-   "last_seen": "2026-11-23T18:30:22+00:00",
+   "last_seen": "2026-11-23T21:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
