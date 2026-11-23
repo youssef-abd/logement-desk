@@ -29,7 +29,7 @@
    "last_success": "2026-11-23T13:50:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -69756,6 +69756,42 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:4bidrg": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T15:30:38+00:00",
+   "last_seen": "2026-11-23T15:30:38+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 6 pièces de 101 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-9d39c78ee8030ce7b39704925370b311/6014238/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 714,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "4bidrg",
+    "surface_m2": 101,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 6 pièces de 101 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/4bidrg"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:4nyese": {
    "also": [],
    "checked": "2026-11-23T02:00:59+00:00",
@@ -72913,6 +72949,44 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:s8tvwo": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T15:30:38+00:00",
+   "last_seen": "2026-11-23T15:30:38+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Duplex 5 pièces de 100 m². Disponible dès 2027-01-20",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-a327eebc83098c896642f15553f9847b/6623660/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 672,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "s8tvwo",
+    "surface_m2": 100,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Duplex 5 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/s8tvwo"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:s9icmn": {
    "also": [],
@@ -90230,7 +90304,7 @@
    "checked": "2026-11-23T13:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T12:30:20+00:00",
-   "last_seen": "2026-11-23T12:30:20+00:00",
+   "last_seen": "2026-11-23T15:30:38+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
