@@ -29,8 +29,8 @@
    "last_success": "2026-11-23T19:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-23T21:10:33+00:00"
@@ -71263,6 +71263,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:4cxdb5": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T21:40:21+00:00",
+   "last_seen": "2026-11-23T21:40:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 7 pièces de 111 m². Disponible dès 2026-12-18",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-3632c6859a7f0e4f85144b025ac1a88f/6586894/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 495,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "4cxdb5",
+    "surface_m2": 111,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 7 pièces de 111 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/4cxdb5"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:4nyese": {
    "also": [],
    "checked": "2026-11-23T02:00:59+00:00",
@@ -74103,7 +74140,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/m0x3l1"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:m8xqgt": {
    "also": [],
@@ -74511,7 +74548,7 @@
     "url": "https://www.lacartedescolocs.fr/chambres-chez-l-habitant/fr/auvergne-rhone-alpes/lyon/a/nwxm24"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:nzgvek": {
    "also": [],
@@ -76038,6 +76075,43 @@
     ],
     "title": "Appartement 1 pièce de 37 m²",
     "url": "https://www.lacartedescolocs.fr/locations/fr/auvergne-rhone-alpes/lyon/a/xplbiw"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:xrhtut": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T21:40:21+00:00",
+   "last_seen": "2026-11-23T21:40:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 78 m². Disponible dès 2026-12-22",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-7a1ddb41645fb541975e78b2645cdd79/6586824/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 539,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "xrhtut",
+    "surface_m2": 78,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 78 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/xrhtut"
    },
    "notified": false,
    "status": "active"
@@ -91523,7 +91597,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297551624A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297551640": {
    "also": [],
