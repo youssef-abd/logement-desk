@@ -29265,7 +29265,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T17:20:20+00:00",
-   "last_seen": "2026-11-23T20:30:22+00:00",
+   "last_seen": "2026-11-23T23:30:27+00:00",
    "listing": {
     "charges": 20,
     "city": "lyon",
@@ -62191,7 +62191,7 @@
    "also": [],
    "dup_of": "leboncoin:3316361402",
    "first_seen": "2026-11-23T17:20:20+00:00",
-   "last_seen": "2026-11-23T20:30:22+00:00",
+   "last_seen": "2026-11-23T23:30:27+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -74348,6 +74348,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:ly6h9n": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T23:30:27+00:00",
+   "last_seen": "2026-11-23T23:30:27+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 75 m². Disponible dès 2026-12-18",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-53ac77bef8ea669b09d4ca94044af5a9/6605509/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 583,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ly6h9n",
+    "surface_m2": 75,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 75 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ly6h9n"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:m0x3l1": {
    "also": [],
    "checked": "2026-11-23T19:01:04+00:00",
@@ -74503,7 +74540,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T17:20:20+00:00",
-   "last_seen": "2026-11-23T20:30:22+00:00",
+   "last_seen": "2026-11-23T23:30:27+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -94551,7 +94588,7 @@
    "also": [],
    "dup_of": "bienici:ag690006-549039977",
    "first_seen": "2026-11-23T08:00:44+00:00",
-   "last_seen": "2026-11-23T20:30:22+00:00",
+   "last_seen": "2026-11-23T23:30:27+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
