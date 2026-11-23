@@ -29,8 +29,8 @@
    "last_success": "2026-11-23T10:40:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-23T10:40:24+00:00"
@@ -25361,7 +25361,7 @@
    "checked": "2026-11-23T09:01:45+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
-   "last_seen": "2026-11-23T09:01:45+00:00",
+   "last_seen": "2026-11-23T12:10:27+00:00",
    "listing": {
     "charges": 120,
     "city": "lyon",
@@ -72585,6 +72585,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:uhoncy": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T12:10:27+00:00",
+   "last_seen": "2026-11-23T12:10:27+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 88 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-0423a73d8f59c3c2960e646d35a3b819/5510922/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 330,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "uhoncy",
+    "surface_m2": 88,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 88 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/uhoncy"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:uk5lc1": {
    "also": [],
    "checked": "2026-11-23T05:00:37+00:00",
@@ -88421,7 +88458,7 @@
    "checked": "2026-11-23T09:01:45+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
-   "last_seen": "2026-11-23T09:01:45+00:00",
+   "last_seen": "2026-11-23T12:10:27+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
