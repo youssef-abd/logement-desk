@@ -29,10 +29,10 @@
    "last_success": "2026-11-23T10:40:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
-   "consecutive_failures": 3,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
+   "last_error": null,
    "last_success": "2026-11-23T10:40:24+00:00"
   },
   "logicimmo": {
@@ -5847,7 +5847,9 @@
    "status": "active"
   },
   "bienici:ag690011-548238104": {
-   "also": [],
+   "also": [
+    "leboncoin:3262666228"
+   ],
    "checked": "2026-11-23T08:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -73901,6 +73903,15 @@
    "notified": false,
    "status": "stale"
   },
+  "leboncoin:3262666228": {
+   "also": [],
+   "dup_of": "bienici:ag690011-548238104",
+   "first_seen": "2026-11-23T13:40:18+00:00",
+   "last_seen": "2026-11-23T13:40:18+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3265186631": {
    "also": [],
    "dup_of": null,
@@ -74756,6 +74767,49 @@
    "notified": true,
    "status": "active"
   },
+  "leboncoin:3288258748": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T13:40:18+00:00",
+   "last_seen": "2026-11-23T13:40:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces à louer - Lyon 7 Jean Macé - 1100 € charges comprises\n\n3 pièces à louer à Lyon 7e secteur Jean Macé, 1100 €/mois charges comprises.\n\nDisponible dès maintenant  en location MEUBLÉE.\n\nCet appartement est situé au coeur du 7e arrondissement à 5 minutes à pieds de l'arrêt de métro Jean Macé .  \n\nL'appartement se situe au 6e étage avec ascenseur d'une copropriété calme et sécurisée.\n\nCe trois pièces de 50 m2 qui se compose d'une cuisine entierement équipée et aménagée, d'un séjou",
+    "district": "Lyon 69007",
+    "flags": [
+     "agency_fees",
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f7/a0/cf/f7a0cf26ba0ab97046cd94366a3e9e694ba7e30b.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/4b/d8/99/4bd89986e382a01634e75b51008c1e1e444aebe3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/72/ed/38/72ed38eb5a97b931c7cd20690b026f43ba157041.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/86/fd/3a/86fd3ac0a0abb0716c53b930c4d64c93a1e36c8b.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/65/19/a165198e1bec3119be3bbc84ed1fa92de41c8059.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b1/11/0a/b1110a05d2e8debb4b7d13691bacaacd2b43c7a0.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "PURPLE IMMOBILIER",
+    "published_at": "2026-10-14 15:15:44",
+    "rent_cc": 1100.0,
+    "rooms": 3,
+    "source": "leboncoin",
+    "source_id": "3288258748",
+    "surface_m2": 50.0,
+    "tags": [],
+    "title": "Appartement 3 pièces 50 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3288258748"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3288291577": {
    "also": [],
    "dup_of": "bienici:guy-hoquet-18-GT0208-gh2761",
@@ -75397,6 +75451,43 @@
    "last_seen": "2026-11-22T19:20:19+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3297689186": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T13:40:18+00:00",
+   "last_seen": "2026-11-23T13:40:18+00:00",
+   "listing": {
+    "charges": 90.0,
+    "city": "lyon",
+    "description": "Appartement 3 pièces 60 m²\n\nRue de la vieille, au sein d'un immeuble ancien, appartement T3 de 60.09m2 au calme comprenant une entrée, un séjour, une salle à manger, un coin nuit avec chambres, une salle d'eau avec wc. Lumineux, il est proche des commodités. Eau froide compris dans les charges\n Honoraires : 605.70EUR + 181.47EUR Frais état des lieux / Zone soumise à encadrement des loyers / Loyer de référence médian : 805EURHC / Loyer majoré : 967EURHC / Complément de loyer : 0EURHC\n La prise de",
+    "district": "Lyon 69001",
+    "flags": [
+     "agency_fees",
+     "garant"
+    ],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/96/97/41/9697411808a5b5c7cc766227820e34ceda51c617.jpg?rule=ad-large"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "poster_name": "IBT",
+    "published_at": "2026-10-29 16:11:24",
+    "rent_cc": 997.0,
+    "rooms": 3,
+    "source": "leboncoin",
+    "source_id": "3297689186",
+    "surface_m2": 60.0,
+    "tags": [],
+    "title": "Appartement 3 pièces 60 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3297689186"
+   },
+   "notified": false,
    "status": "active"
   },
   "leboncoin:3297763619": {
@@ -76575,6 +76666,47 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "leboncoin:3305764540": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T13:40:18+00:00",
+   "last_seen": "2026-11-23T13:40:18+00:00",
+   "listing": {
+    "charges": 70.0,
+    "city": "lyon",
+    "description": "Appartement 3 pièces 58 m²\n\nBRON - Rue Eugène Guillemin - Agréable T3 de 58.02 m² situé au 1er étage dans une résidence sécurisée de 2024 avec ascenseur.\nIl se compose d'une entrée avec placard - une pièce de vie avec cuisine meublée et équipée (plaque de cuisson + hotte), deux chambres avec placards, une salle de bains avec baignoire et un WC. Une loggia de 5.77 m².\nVous disposez également d'un garage en sous sol\n\nChauffage individuel au gaz.\n\nLoyer Appartement : 967€ charges incluses de 70€ (p",
+    "district": "Bron 69500",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": null,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e3/67/a9/e367a954619d355296c6eac621248541fb1234d5.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/7d/1c/60/7d1c60a8153196776b5ae3b5901b8e39b84f5119.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/10/d1/cb/10d1cbde034b18feb19b7bd98b067e9548f7b3e7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/56/42/08/564208f493306df23261cac6096dec708b39b8d0.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e7/a3/e4/e7a3e404a6e20cfe66a737cf458934a17a07fc22.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/de/f0/23/def023364b15cbde920e557490fa081f3156b10f.jpg?rule=ad-large"
+    ],
+    "postal_code": "69500",
+    "poster": "agence",
+    "poster_name": "REGIE GENERALE DE LYON",
+    "published_at": "2026-11-09 17:02:43",
+    "rent_cc": 967.0,
+    "rooms": 3,
+    "source": "leboncoin",
+    "source_id": "3305764540",
+    "surface_m2": 58.0,
+    "tags": [],
+    "title": "Appartement 3 pièces 58 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3305764540"
+   },
+   "notified": false,
+   "status": "active"
   },
   "leboncoin:3305910286": {
    "also": [],
@@ -81904,6 +82036,170 @@
     "tags": [],
     "title": "Studio mezzanine Lyon 7ė",
     "url": "https://www.leboncoin.fr/ad/locations/3316230350"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316237798": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T13:40:18+00:00",
+   "last_seen": "2026-11-23T13:40:18+00:00",
+   "listing": {
+    "charges": 35.0,
+    "city": "lyon",
+    "description": "Appartement 2 pièces 33 m²\n\nNÉOLOC vous propose à la location ce spacieux T2 meublé d'une surface de 33 m², situé rue de Gerland, dans le 7? arrondissement de Lyon, au sein d'un secteur dynamique et recherché, bénéficiant de la proximité des commerces, des transports en commun et de toutes les commodités du quotidien.\n\nEntièrement rénové et refait à neuf, cet appartement offre un cadre de vie moderne, chaleureux et particulièrement agréable. \nMeublé avec goût dans un style contemporain, il bénéf",
+    "district": "Lyon 69007",
+    "flags": [
+     "agency_fees",
+     "available_now",
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/da/87/58/da875877d3f71d14cced37044fb346edc74a3ec7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/22/21/50/2221504230d5abc4e1524442615e2f17428ca056.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a0/ae/8c/a0ae8caf308a8c632d8466acb4ac915afdae6ae5.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6c/1e/b7/6c1eb731808f064d33e5c095adbed08181a3e6e3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/d9/85/98d98576377b1da06ac1f4a2ed9529caf07291b7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b0/b9/56/b0b956e219f2dbccd369332c17d65ba43740b753.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "CATANEO NEOLOC",
+    "published_at": "2026-11-23 14:01:14",
+    "rent_cc": 915.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3316237798",
+    "surface_m2": 33.0,
+    "tags": [],
+    "title": "Appartement 2 pièces 33 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3316237798"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316257063": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T13:40:18+00:00",
+   "last_seen": "2026-11-23T13:40:18+00:00",
+   "listing": {
+    "charges": 52.0,
+    "city": "lyon",
+    "description": "2 pièces meublé 38 m², balcon, clim, parking sous-sol, Monplaisir\n\nEntièrement rénové et meublé avec balcon, climatisation et parking en sous-sol. À 3 minutes à pied de la place Ambroise Courtois, au calme d'une résidence avec jardin. Disponible au 15 décembre.\n\nL'appartement est au 1er étage avec ascenseur, à l'angle sud-est du bâtiment : lumineux toute la matinée.\n\nLes points forts:\n- Balcon-loggia de 3,4 m²\n- Climatisation réversible\n- Parking en sous-sol inclus dans le loyer, avec point d'an",
+    "district": "Lyon 69008",
+    "flags": [
+     "agency_fees_no",
+     "charges_cc",
+     "charges_hc",
+     "garant"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a0/2d/fc/a02dfcc0ac3c7eb12a5059bbfbd76d9b587dc2f7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8d/d2/e7/8dd2e711ca796668ae2f5c1e7bc449302e893a8a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8d/03/d6/8d03d6fb9213f5a9c85f6d80a396a37eab0a2044.jpg?rule=ad-large"
+    ],
+    "postal_code": "69008",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-23 14:29:18",
+    "rent_cc": 1052.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3316257063",
+    "surface_m2": 38.0,
+    "tags": [],
+    "title": "2 pièces meublé 38 m², balcon, clim, parking sous-sol, Monplaisir",
+    "url": "https://www.leboncoin.fr/ad/locations/3316257063"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316259533": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T13:40:18+00:00",
+   "last_seen": "2026-11-23T13:40:18+00:00",
+   "listing": {
+    "charges": 70.0,
+    "city": "lyon",
+    "description": "* Merci de lire l'annonce dans sa totalité\nUn premier contact par Le Bon Coin est demandé.* \n\nVilleurbanne Carrée de Soie.\n\nProche pôle multimodal (métro, tram, bus), école primaire et centre commercial avec cinéma, restaurants. 6 rue Charlotte Delbo.\n\nBel appartement T3 récent (fin 2017), situé au dernier étage (4ème) dans une résidence sécurisée avec espace vert et toiture terrasse végétalisée accessible. Orientation ouest sur parc avec jeux enfants.\n\n58,6 m² Séjour de 28,7 m² avec cuisine meu",
+    "district": "Villeurbanne 69100",
+    "flags": [
+     "visale"
+    ],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d4/4c/ab/d44cabeccd4f7dfb54803bece8d3f5dc78c96a4c.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fd/6d/4f/fd6d4f9df4575773ef1892f370231c2f04470483.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/bb/42/c6/bb42c6505c23b3f7256879647dd01cb99c1a4ae7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e3/c8/ab/e3c8ab9a0d2b2eb8b8ae3bd8a1dfe35bf7806afc.jpg?rule=ad-large"
+    ],
+    "postal_code": "69100",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-23 14:32:49",
+    "rent_cc": 969.0,
+    "rooms": 3,
+    "source": "leboncoin",
+    "source_id": "3316259533",
+    "surface_m2": 58.6,
+    "tags": [],
+    "title": "Appartement T3 - Carré de soie",
+    "url": "https://www.leboncoin.fr/ad/locations/3316259533"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316262478": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T13:40:18+00:00",
+   "last_seen": "2026-11-23T13:40:18+00:00",
+   "listing": {
+    "charges": 92.0,
+    "city": "lyon",
+    "description": "T3 58m² - rue de la villette Lyon 3ème\n\nRéférence : 5882 - Disponible le 10/12/2026\n\nAppartement de type 3 de 58m² situé au 5ème étage (avec ascenseur), rue de la villette Lyon 3ème.\nIl se compose d'un séjour, d'une cuisine séparée, deux chambres, une salle d'eau et un wc.\nChauffage et eau chaude individuels électriques, eau froide individuelle.\n\nZone soumise à encadrement des loyers\nLoyer de base : 611,73 €\nLoyer de référence majoré (loyer de base à ne pas dépasser) : 732,92 €\n\nLes informations",
+    "district": "Lyon 69003",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8f/9c/5d/8f9c5d6c234385e647f57759b404fed26511e444.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/59/c9/b8/59c9b8e526b6a753518b1dd07e6abd767b5d92ca.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/c4/94/2c/c4942c5dc3a353492c565da216706820661e03eb.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ba/64/cf/ba64cfd2db48038a924718ab22b88d8d58c8967a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/10/a5/aa/10a5aabdab75ce8d499bfcd94ea852c67de545ec.jpg?rule=ad-large"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "REGIE FRANCHET & CIE",
+    "published_at": "2026-11-23 14:36:51",
+    "rent_cc": 833.0,
+    "rooms": 3,
+    "source": "leboncoin",
+    "source_id": "3316262478",
+    "surface_m2": 57.0,
+    "tags": [],
+    "title": "Appartement 3 pièces 57 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3316262478"
    },
    "notified": false,
    "status": "active"
