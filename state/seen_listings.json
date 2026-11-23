@@ -29,10 +29,10 @@
    "last_success": "2026-11-23T10:40:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-23T10:40:24+00:00"
   },
   "logicimmo": {
@@ -58,9 +58,9 @@
   },
   "studapart": {
    "blocked_runs": 0,
-   "consecutive_failures": 1,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "TimeoutError",
+   "last_error": null,
    "last_success": "2026-11-23T09:01:45+00:00"
   }
  },
@@ -20150,7 +20150,7 @@
    "checked": "2026-11-23T10:03:03+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-23T08:00:44+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
    "listing": {
     "charges": 60,
     "city": "lyon",
@@ -25593,7 +25593,9 @@
    "status": "stale"
   },
   "bienici:ag754025-528632309": {
-   "also": [],
+   "also": [
+    "immojeune:3259354"
+   ],
    "checked": "2026-11-23T10:03:03+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -25723,7 +25725,9 @@
    "status": "stale"
   },
   "bienici:ag754025-553008323": {
-   "also": [],
+   "also": [
+    "immojeune:4027212"
+   ],
    "checked": "2026-11-23T10:03:03+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -25812,7 +25816,9 @@
    "status": "active"
   },
   "bienici:ag754025-557437889": {
-   "also": [],
+   "also": [
+    "immojeune:4065631"
+   ],
    "checked": "2026-11-23T10:03:03+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -26570,6 +26576,48 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:apimo-82837241": {
+   "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": {
+    "charges": 40,
+    "city": "lyon",
+    "description": "LYON 5 - VIEUX LYON. \nNous vous proposons à la location ce T1 meublé de 35m², situé au 2ᵉ étage d’un immeuble typique et inscrit du Vieux Lyon, sans ascenseur.\n\nL’appartement se compose d’une pièce de vie lumineuse, d’une cuisine aménagée séparée de l’espace principal, ainsi que d’une salle de bain avec toilettes. \nLa fibre optique est disponible dans le logement.\n\nIdéal pour un étudiant, cet appartement bénéficie d’un emplacement privilégié, à moins de 100 mètres du métro Vieux Lyon et à proxim",
+    "district": "Lyon 5e",
+    "flags": [
+     "available_now"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/apimo-82837241_media.apimo.pro_cache_5e088d267cc8fc627dcc9ff4f3ead104_5b3ca936a9_1154-original.jpg",
+     "https://file.bienici.com/photo/apimo-82837241_media.apimo.pro_cache_7a33307c394d2d98d492acb673dd052f_a436628920_1158-original.jpg",
+     "https://file.bienici.com/photo/apimo-82837241_media.apimo.pro_cache_53d5f8d48ba89392f72dab24609ff128_a2c4a536dd_1146-original.jpg",
+     "https://file.bienici.com/photo/apimo-82837241_media.apimo.pro_cache_a9b654592943e5dbbe3d79760dcbdd26_61f14cd59a_1128-original.jpg",
+     "https://file.bienici.com/photo/apimo-82837241_media.apimo.pro_cache_1aa4a9ae1ecdf0884d4b8a17fe9643c8_c5e258102d_1122-original.jpg",
+     "https://file.bienici.com/photo/apimo-82837241_media.apimo.pro_cache_4d988d51177011f95928fbcf054e00b8_4ec25719ca_1132-original.jpg"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "poster_name": "Régie BAYARD",
+    "published_at": null,
+    "rent_cc": 838,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "apimo-82837241",
+    "surface_m2": 35,
+    "tags": [],
+    "title": "Studio meublé de 35m² - Vieux Lyon",
+    "url": "https://www.bienici.com/annonce/apimo-82837241"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:apimo-83165425": {
    "also": [],
    "checked": "2026-11-23T10:03:03+00:00",
@@ -26890,6 +26938,49 @@
     "tags": [],
     "title": "APPARTEMENT T2 - MEUBLÉ",
     "url": "https://www.bienici.com/annonce/apimo-84880893"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:apimo-85030168": {
+   "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": {
+    "charges": 20,
+    "city": "lyon",
+    "description": "Venez découvrir ce charmant appartement refait à neuf au pied du métro d'Oullins d'une surface de 30m2, vous serez à proximité de tous les commerces. L'appartement au deuxième étage comprend une cuisine entièrement équipée : plaque induction, hotte, rangements. Le coin salon / nuit est ouvert. \n\nVous pourrez retrouver une salle d'eau ouverte avec douche à l'italienne, ainsi qu'un WC suspendu séparé. \n\nChauffage individuel, eau chaude individuelle\n\n- Loyer : 770 € charges comprises\n- Surface habi",
+    "district": "Oullins",
+    "flags": [
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": null,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/apimo-85030168_media.apimo.pro_cache_6ac790ebd5b42a4f3c4723706267d4d1_f520b5feef_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-85030168_media.apimo.pro_cache_e3962ed599ccabda221d241f73cd2a79_b8abcfb614_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-85030168_media.apimo.pro_cache_7912dc408d1c9c1e198cf7d7ca27985b_9558953447_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-85030168_media.apimo.pro_cache_2e9c979ec4aa04dd67559a958038a041_5531fc8607_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-85030168_media.apimo.pro_cache_ebbff2b133d3d9ebf619e9be12d08aac_5e883d4a1c_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-85030168_media.apimo.pro_cache_4caa194e7354d3119cdab20b6610f95b_b8ed792c5b_1920-original.jpg"
+    ],
+    "postal_code": "69600",
+    "poster": "agence",
+    "poster_name": "Hamac Investissements & Patrimoine",
+    "published_at": null,
+    "rent_cc": 770,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "apimo-85030168",
+    "surface_m2": 30,
+    "tags": [],
+    "title": "Location cœur d'Oullins  - Proximité métro - Appartement refait à neuf",
+    "url": "https://www.bienici.com/annonce/apimo-85030168"
    },
    "notified": false,
    "status": "active"
@@ -34037,7 +34128,7 @@
    "also": [
     "paruvendu:1297470468"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -34082,7 +34173,7 @@
    "also": [
     "paruvendu:1297596536"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -34127,7 +34218,7 @@
    "also": [
     "paruvendu:1295782650"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -34213,7 +34304,7 @@
    "also": [
     "paruvendu:1297632526"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -34308,7 +34399,7 @@
    "also": [
     "paruvendu:1296582891"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -34453,7 +34544,7 @@
     "leboncoin:3300018734",
     "leboncoin:3316171969"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -34571,7 +34662,7 @@
   },
   "bienici:era-2-56264816": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -34612,7 +34703,7 @@
   },
   "bienici:era-2-61725552": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -35513,7 +35604,7 @@
   },
   "bienici:gedeon-33468959": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -35860,7 +35951,7 @@
   },
   "bienici:gedeon-33672221": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36062,7 +36153,7 @@
   },
   "bienici:gedeon-34033212": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36102,7 +36193,7 @@
   },
   "bienici:gedeon-34042420": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36144,7 +36235,7 @@
   },
   "bienici:gedeon-34059121": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36190,7 +36281,7 @@
   },
   "bienici:gedeon-34070434": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36234,7 +36325,7 @@
    "also": [
     "leboncoin:3286997946"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36394,7 +36485,7 @@
   },
   "bienici:gedeon-34124850": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36481,7 +36572,7 @@
   },
   "bienici:gedeon-34156012": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36560,7 +36651,7 @@
   },
   "bienici:gedeon-34191764": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36649,7 +36740,7 @@
   },
   "bienici:gedeon-34218849": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36689,7 +36780,7 @@
   },
   "bienici:gedeon-34219868": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36732,7 +36823,7 @@
   },
   "bienici:gedeon-34236900": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36774,7 +36865,7 @@
   },
   "bienici:guy-hoquet-18-GT0208-9178": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36818,7 +36909,7 @@
    "also": [
     "leboncoin:3307909911"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36898,7 +36989,7 @@
    "also": [
     "leboncoin:3288291577"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -36940,7 +37031,7 @@
    "also": [
     "leboncoin:3302599723"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -37099,7 +37190,7 @@
   },
   "bienici:guy-hoquet-18-GT0236-5099": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -37183,7 +37274,7 @@
   },
   "bienici:guy-hoquet-18-GT0477-6366": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -37333,7 +37424,7 @@
   },
   "bienici:guy-hoquet-18-GT0648-5283": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -37685,7 +37776,7 @@
   },
   "bienici:guy-hoquet-immo-facile-7820351": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -37728,7 +37819,7 @@
   },
   "bienici:hektor-133_ericmey-110539": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -37882,7 +37973,7 @@
   },
   "bienici:hektor-1_virginie-france-immobilier-47": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -37999,7 +38090,7 @@
   },
   "bienici:hektor-2138_EXPERTIMO22-330402": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -38041,7 +38132,7 @@
   },
   "bienici:hektor-2_metropole69490-1166": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -38080,7 +38171,7 @@
   },
   "bienici:hektor-396932-110": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -38123,7 +38214,7 @@
   },
   "bienici:hektor-396932-119": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -38166,7 +38257,7 @@
   },
   "bienici:hektor-396932-120": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -38327,7 +38418,7 @@
   },
   "bienici:hektor-COGESTRIM-612": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -38367,7 +38458,7 @@
   },
   "bienici:hektor-EICARLA2020-2923": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -38408,7 +38499,7 @@
   },
   "bienici:hektor-EICARLA2020-6145": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -38563,7 +38654,7 @@
   },
   "bienici:hektor-MYCASA-32090": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -38603,7 +38694,7 @@
   },
   "bienici:hektor-MYCASA-37064": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -38766,7 +38857,7 @@
    "also": [
     "paruvendu:1296295462"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -38894,7 +38985,7 @@
    "also": [
     "paruvendu:1297526306"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -39172,7 +39263,7 @@
   },
   "bienici:hektor-archeconsultant-235": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -39217,7 +39308,7 @@
    "also": [
     "leboncoin:3307965881"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -39379,7 +39470,7 @@
   },
   "bienici:hektor-betemps-1681": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -39463,7 +39554,7 @@
   },
   "bienici:hektor-betemps-1939": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -39507,7 +39598,7 @@
   },
   "bienici:hektor-betemps-1974": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -39549,7 +39640,7 @@
   },
   "bienici:hektor-betemps-2013": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -39671,7 +39762,7 @@
   },
   "bienici:hektor-developpement69-681": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -39754,7 +39845,7 @@
   },
   "bienici:hektor-grim-686": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -39796,7 +39887,7 @@
   },
   "bienici:hektor-groupe-hapi_1-131": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -39949,7 +40040,7 @@
   },
   "bienici:hektor-groupe-hapi_1-227": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -40138,7 +40229,7 @@
   },
   "bienici:hektor-groupe-hapi_1-307": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -40178,7 +40269,7 @@
   },
   "bienici:hektor-groupe-hapi_1-354": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -40256,7 +40347,7 @@
   },
   "bienici:hektor-groupe-hapi_1-370": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -40296,7 +40387,7 @@
   },
   "bienici:hektor-groupe-hapi_1-372": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -40336,7 +40427,7 @@
   },
   "bienici:hektor-groupe-hapi_1-386": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -40380,7 +40471,7 @@
   },
   "bienici:hektor-immo7-transaction-672": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -40420,7 +40511,7 @@
   },
   "bienici:hektor-lesadresses_01-4112": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -40464,7 +40555,7 @@
   },
   "bienici:hektor-lesadresses_01-4123": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -40800,7 +40891,7 @@
    "also": [
     "leboncoin:3303886237"
    ],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -40844,7 +40935,7 @@
   },
   "bienici:hektor-lyon3-2573": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -40884,7 +40975,7 @@
   },
   "bienici:hektor-lyon3-2574": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -40924,7 +41015,7 @@
   },
   "bienici:hektor-myhoreapartners69006-222": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -41043,7 +41134,7 @@
   },
   "bienici:hektor-myhoreapartners69006-36": {
    "also": [],
-   "checked": "2026-11-22T21:00:46+00:00",
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-23T09:01:45+00:00",
@@ -43129,7 +43220,8 @@
   },
   "bienici:ics-anj_ANJALYS_loc-GES30750060-713": {
    "also": [
-    "paruvendu:1297509014"
+    "paruvendu:1297509014",
+    "immojeune:4058578"
    ],
    "checked": "2026-11-22T22:00:35+00:00",
    "dup_of": null,
@@ -55021,7 +55113,9 @@
    "status": "stale"
   },
   "bienici:immo-facile-60696633": {
-   "also": [],
+   "also": [
+    "immojeune:4053101"
+   ],
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
@@ -66049,6 +66143,47 @@
    "notified": false,
    "status": "active"
   },
+  "immojeune:3236726": {
+   "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "",
+    "district": "Lyon 3e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/2fa608472b7516701b01e6d5ece03560dc63e9b1-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/957f25de7ca470729555877d2ae6e42b3c42f31a-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/c4e8fbc542a6591d01cda8e60b0115b6555d4e9c-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/3fcdd71f0049ca812817d9e60ec876d57629a9b8-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/f4c25d0174ca6123e76831619c2dd39d381eca36-570x366.jpg"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 708.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "3236726",
+    "surface_m2": 124.0,
+    "tags": [
+     "colocation"
+    ],
+    "title": "Chambre dans une colocation de 124m² à ...",
+    "url": "https://www.immojeune.com/colocation/lyon-03-69/chambre-dans-une-colocation-de-124m-a-lyon-03_3236726.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "immojeune:3236733": {
    "also": [],
    "checked": "2026-11-23T06:00:39+00:00",
@@ -66089,6 +66224,15 @@
     "url": "https://www.immojeune.com/colocation/lyon-03-69/chambre-dans-une-colocation-de-112m-a-lyon-03_3236733.html"
    },
    "notified": false,
+   "status": "active"
+  },
+  "immojeune:3259354": {
+   "also": [],
+   "dup_of": "bienici:ag754025-528632309",
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "immojeune:3262972": {
@@ -66175,6 +66319,91 @@
    "notified": false,
    "status": "active"
   },
+  "immojeune:3490056": {
+   "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "",
+    "district": "Lyon 3e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/6ad56e260dcec9348a9327398298a41bc67890e3-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/e416446e7971bfb9afd2f8958fdc38ae7ab74f0a-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/0cd4c332e3444a0f492a36ccc34d85658d7033c6-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/bc3a1e8ecb4a60a2c02a5e4623658e82d7678b8c-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/ed80cd75d14ba9c76e543f6a65a62c23cdde0af9-570x366.jpg"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 690.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "3490056",
+    "surface_m2": 72.0,
+    "tags": [
+     "colocation",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Chambre dans une colocation de 72m² à L...",
+    "url": "https://www.immojeune.com/colocation/lyon-03-69/chambre-dans-une-colocation-de-72m-a-lyon-03_3490056.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:3707368": {
+   "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "",
+    "district": "Lyon 3e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/5919dc3bf12624d6a18be966d1aeca20a939eae3-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/26f5e74a9a400598024b2118da1f222a93700b71-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/98fc8256b19239c77ea764d859ca495b1c2afd68-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/8a7123f2346f0d14e9a802a1b01f558947c782b0-570x366.jpg"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 631.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "3707368",
+    "surface_m2": 124.0,
+    "tags": [
+     "colocation",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Chambre dans une colocation de 124m² à ...",
+    "url": "https://www.immojeune.com/colocation/lyon-03-69/chambre-dans-une-colocation-de-124m-a-lyon-03_3707368.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "immojeune:3858449": {
    "also": [],
    "checked": "2026-11-23T06:00:39+00:00",
@@ -66213,6 +66442,47 @@
     ],
     "title": "Chambre dans une colocation de 96m² à V...",
     "url": "https://www.immojeune.com/colocation/villeurbanne-69/chambre-dans-une-colocation-de-96m-a-villeurbanne_3858449.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:3954803": {
+   "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "",
+    "district": "Lyon 3e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/b880867a8d508e714e4bd8b630ddffd1dc213cd9-570x366.webp",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/561594cd53a0a9c5e56d0c665ffb3d25e7637b9e-570x366.webp",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/db1ad1edb16df3d19c092423a9455f0587a2cab7-570x366.webp",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/1bdae636ae81899982511e1b5c2ff5909fab625b-570x366.webp",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/2f2c11d3e46cd77dbd18e9041fe4982c45a84ca3-570x366.webp"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 740.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "3954803",
+    "surface_m2": 14.0,
+    "tags": [
+     "colocation"
+    ],
+    "title": "Chambre à louer en colocation - Lyon 69...",
+    "url": "https://www.immojeune.com/colocation/lyon-03-69/chambre-a-louer-en-colocation-lyon-69003_3954803.html"
    },
    "notified": false,
    "status": "active"
@@ -66385,6 +66655,98 @@
    "notified": false,
    "status": "stale"
   },
+  "immojeune:4000138": {
+   "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "",
+    "district": "Lyon 3e",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/1c1dfa29a455deea230b931717ae6845cfec77c5-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/ccde3d11e9cc0826393efd898815f347007d9110-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/1be0f270ef443dfa76e468d093518e8930dfe8a0-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/d53f056c0b6ecd3065019ee04ac389030dbafdb0-570x366.jpg",
+     "https://www.immojeunepro.com/bundles/boresidence/uploads/documents/570x366/51bd910e9e80e34b6025bd44c7306d880c2b0e66-570x366.jpg"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 770.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "4000138",
+    "surface_m2": 288.0,
+    "tags": [
+     "colocation"
+    ],
+    "title": "Chambre dans une colocation de 288m² à ...",
+    "url": "https://www.immojeune.com/colocation/lyon-03-69/chambre-dans-une-colocation-de-288m-a-lyon-03_4000138.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "immojeune:4027212": {
+   "also": [],
+   "dup_of": "bienici:ag754025-553008323",
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "immojeune:4032833": {
+   "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "",
+    "district": "Villeurbanne",
+    "flags": [],
+    "found_by": "immojeune",
+    "furnished": null,
+    "kind": "room",
+    "match": false,
+    "photos": [
+     "https://www.immojeune.com/uploads/housing/570x366/ca72ae6081e2944b64328aaaa8ce550d35d55adc-570x366.jpg",
+     "https://www.immojeune.com/uploads/housing/570x366/fe3865bce44c2c8b243877e84c581a4f72bb1dbe-570x366.jpg",
+     "https://www.immojeune.com/uploads/housing/570x366/1e7c3d971014cbf7580a58ee5c78c571521c753f-570x366.jpg",
+     "https://www.immojeune.com/uploads/housing/570x366/abcc38a5854062e0a8547272c462a975aec80358-570x366.jpg",
+     "https://www.immojeune.com/uploads/housing/570x366/2b19e8208f9a25891925b4e04b12d31af9e6dd7e-570x366.jpg"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 650.0,
+    "rooms": null,
+    "source": "immojeune",
+    "source_id": "4032833",
+    "surface_m2": 74.0,
+    "tags": [
+     "colocation",
+     "near-miss"
+    ],
+    "title": "CHAMBRE MEUBLEE ETUDIANT",
+    "url": "https://www.immojeune.com/colocation/villeurbanne-69/chambre-meublee-etudiant_4032833.html"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "immojeune:4043219": {
    "also": [],
    "checked": "2026-11-23T01:00:55+00:00",
@@ -66509,6 +66871,15 @@
    "notified": false,
    "status": "active"
   },
+  "immojeune:4053101": {
+   "also": [],
+   "dup_of": "bienici:immo-facile-60696633",
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "immojeune:4054694": {
    "also": [],
    "checked": "2026-11-23T01:00:55+00:00",
@@ -66590,6 +66961,15 @@
     "url": "https://www.immojeune.com/colocation/villeurbanne-69/charmante-chambre-de-12-m-a-louer-tout-equipee-pres-de-lyon-lyo36_4054696.html"
    },
    "notified": false,
+   "status": "active"
+  },
+  "immojeune:4058578": {
+   "also": [],
+   "dup_of": "bienici:ics-anj_ANJALYS_loc-GES30750060-713",
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "immojeune:4060417": {
@@ -66805,6 +67185,15 @@
     "url": "https://www.immojeune.com/colocation/villeurbanne-69/chambre-coloree-de-11-m-a-villeurbanne-lyo48_4063839.html"
    },
    "notified": false,
+   "status": "active"
+  },
+  "immojeune:4065631": {
+   "also": [],
+   "dup_of": "bienici:ag754025-557437889",
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "immojeune:4066867": {
@@ -68377,6 +68766,7 @@
   },
   "lacartedescolocs:1ijxhw": {
    "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:40:32+00:00",
    "last_seen": "2026-11-23T11:40:32+00:00",
@@ -69526,6 +69916,7 @@
   },
   "lacartedescolocs:8pasxb": {
    "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:40:32+00:00",
    "last_seen": "2026-11-23T11:40:32+00:00",
@@ -69971,6 +70362,7 @@
   },
   "lacartedescolocs:c7kbr8": {
    "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:50:19+00:00",
    "last_seen": "2026-11-23T11:50:19+00:00",
@@ -71713,6 +72105,7 @@
   },
   "lacartedescolocs:r601l5": {
    "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:40:32+00:00",
    "last_seen": "2026-11-23T11:40:32+00:00",
@@ -72864,6 +73257,7 @@
   },
   "lacartedescolocs:zy08o5": {
    "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:40:32+00:00",
    "last_seen": "2026-11-23T11:40:32+00:00",
@@ -86438,7 +86832,7 @@
    "checked": "2026-11-23T02:00:59+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-23T08:00:44+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -89500,6 +89894,48 @@
    "notified": false,
    "status": "active"
   },
+  "studapart:95c8d4be-4bef-4873-b20a-e3f2ecaf9bf7": {
+   "also": [],
+   "checked": "2026-11-23T12:00:43+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-23T12:00:43+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Stage, semestre d’échange ou mission à Lyon ? Ce studio de 18 m² entièrement rénové est prêt-à-vivre et disponible immédiatement : posez vos valises, même la couette et les draps sont fournis. Canapé-lit, cuisine équipée avec four et lave-linge, salle d’eau moderne avec douche à l’italienne. Location en bail mobilité, un vrai contrat de location qui vous sert de justificatif de domicile. Quartier calme de Lyon 9, métro D et gare de Gorge de Loup à proximité. Le logement : Entièrement rénové avec",
+    "district": "Lyon 9e",
+    "flags": [
+     "available_now"
+    ],
+    "found_by": "studapart",
+    "furnished": true,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://media.studapart.com/property_images_small/6b040ea7a7a58.jpg",
+     "https://media.studapart.com/property_images_small/6b040ea804bd5.jpg",
+     "https://media.studapart.com/property_images_small/6b040ea781214.jpg",
+     "https://media.studapart.com/property_images_small/6b040ea7acd99.jpg",
+     "https://media.studapart.com/property_images_small/6b040ea7b1d26.jpg",
+     "https://media.studapart.com/property_images_small/6b040ea7e7bfc.jpg"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": "Guillaume",
+    "published_at": "2026-11-23T09:56:20+00:00",
+    "rent_cc": 981.0,
+    "rooms": 1,
+    "source": "studapart",
+    "source_id": "95c8d4be-4bef-4873-b20a-e3f2ecaf9bf7",
+    "surface_m2": 18.0,
+    "tags": [],
+    "title": "Studio privé meublé et équipé",
+    "url": "https://www.studapart.com/fr/logement-Lyon/Studio-de-18m2/property/95c8d4be-4bef-4873-b20a-e3f2ecaf9bf7"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "studapart:a59f29c0-0777-4869-b899-5b4b7ea60239": {
    "also": [],
    "checked": "2026-11-23T02:00:59+00:00",
@@ -89755,7 +90191,7 @@
    "checked": "2026-11-23T05:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T05:00:37+00:00",
-   "last_seen": "2026-11-23T08:00:44+00:00",
+   "last_seen": "2026-11-23T12:00:43+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -89952,7 +90388,7 @@
     "url": "https://www.studapart.com/fr/logement-Lyon/Logement-en-colocation-pour-2-personnes-de-90m2/property/ea87f3ef-d340-4e0e-82d0-87f368c67718"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "studapart:f0506c8e-4d3d-4b0c-8b59-21b92c6b7b7a": {
    "also": [],
@@ -89994,7 +90430,7 @@
     "url": "https://www.studapart.com/fr/logement-Lyon/Logement-en-colocation-pour-3-personnes-de-70m2/property/f0506c8e-4d3d-4b0c-8b59-21b92c6b7b7a"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "studapart:f3179e16-2014-430e-bf15-58d541f83fd8": {
    "also": [],
@@ -90115,7 +90551,7 @@
     "url": "https://www.studapart.com/fr/logement-Lyon/Studio-de-15m2/property/f5b745d1-edf4-43eb-9854-9dae6cfb19fc"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "studapart:f5be464f-4622-499a-95d5-2c3bbd8c8fc8": {
    "also": [],
