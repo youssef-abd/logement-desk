@@ -29,10 +29,10 @@
    "last_success": "2026-11-23T10:40:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-23T10:40:24+00:00"
   },
   "logicimmo": {
@@ -51,9 +51,9 @@
   },
   "paruvendu": {
    "blocked_runs": 0,
-   "consecutive_failures": 1,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "HTTPError",
+   "last_error": null,
    "last_success": "2026-11-23T12:40:23+00:00"
   },
   "studapart": {
@@ -19707,7 +19707,7 @@
    "checked": "2026-11-23T04:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T04:00:34+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -19750,7 +19750,7 @@
    "checked": "2026-11-23T04:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T04:00:34+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70502,7 +70502,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/bn1erk"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:c7kbr8": {
    "also": [],
@@ -70808,7 +70808,7 @@
    "checked": "2026-11-23T04:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T13:10:20+00:00",
-   "last_seen": "2026-11-22T19:30:22+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70838,7 +70838,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/eicaxu"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:elg74o": {
    "also": [],
@@ -71769,7 +71769,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/mho5xl"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:mj9i2g": {
    "also": [],
@@ -72469,7 +72469,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/sru1rs"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:t186e0": {
    "also": [],
@@ -73219,7 +73219,7 @@
    "checked": "2026-11-23T07:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T06:50:26+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -73257,7 +73257,7 @@
    "checked": "2026-11-23T04:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T13:10:20+00:00",
-   "last_seen": "2026-11-22T19:30:22+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -73287,7 +73287,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ye33xa"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:ynqu1q": {
    "also": [],
@@ -81913,7 +81913,7 @@
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81992,7 +81992,7 @@
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -83083,7 +83083,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-56238865",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -83192,7 +83192,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-60603233",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -84481,7 +84481,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-58798199",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -84499,7 +84499,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-59373614",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -86447,7 +86447,7 @@
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -86964,7 +86964,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-60582711",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -87388,7 +87388,7 @@
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -88954,7 +88954,7 @@
    "checked": "2026-11-23T02:00:59+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T15:40:26+00:00",
-   "last_seen": "2026-11-23T10:03:03+00:00",
+   "last_seen": "2026-11-23T13:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
