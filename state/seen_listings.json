@@ -29,7 +29,7 @@
    "last_success": "2026-11-23T19:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 9,
+   "blocked_runs": 10,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-23T19:00:23+00:00",
    "last_error": "blocked",
@@ -29061,7 +29061,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T17:20:20+00:00",
-   "last_seen": "2026-11-23T17:20:20+00:00",
+   "last_seen": "2026-11-23T20:30:22+00:00",
    "listing": {
     "charges": 20,
     "city": "lyon",
@@ -61755,7 +61755,7 @@
    "also": [],
    "dup_of": "leboncoin:3316361402",
    "first_seen": "2026-11-23T17:20:20+00:00",
-   "last_seen": "2026-11-23T17:20:20+00:00",
+   "last_seen": "2026-11-23T20:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -71584,7 +71584,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/7sxkx9"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:7tbo6y": {
    "also": [],
@@ -73951,7 +73951,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T17:20:20+00:00",
-   "last_seen": "2026-11-23T17:20:20+00:00",
+   "last_seen": "2026-11-23T20:30:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -93270,7 +93270,7 @@
    "also": [],
    "dup_of": "bienici:ag690006-549039977",
    "first_seen": "2026-11-23T08:00:44+00:00",
-   "last_seen": "2026-11-23T17:20:20+00:00",
+   "last_seen": "2026-11-23T20:30:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
