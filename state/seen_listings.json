@@ -70495,6 +70495,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:kxfz6q": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T07:10:30+00:00",
+   "last_seen": "2026-11-23T07:10:30+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 7 pièces de 160 m². Disponible dès 2026-12-31",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-004d80e4a216ac73937b07479883d8e2/6543661/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 570,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "kxfz6q",
+    "surface_m2": 160,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 7 pièces de 160 m²",
+    "url": "https://www.lacartedescolocs.fr/sous-locations/fr/auvergne-rhone-alpes/lyon/a/kxfz6q"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:lbwiw1": {
    "also": [],
    "checked": "2026-11-23T04:00:34+00:00",
@@ -79692,7 +79729,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296358389A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1296441788": {
    "also": [],
