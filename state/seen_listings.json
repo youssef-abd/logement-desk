@@ -29,8 +29,8 @@
    "last_success": "2026-11-23T13:50:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
-   "consecutive_failures": 3,
+   "blocked_runs": 4,
+   "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-23T14:30:19+00:00"
@@ -69534,6 +69534,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:30lkgv": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T15:10:21+00:00",
+   "last_seen": "2026-11-23T15:10:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 7 pièces de 215 m². Disponible dès 2027-01-01",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-adb363806b0143156425fb67896f048d/6623210/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 537,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "30lkgv",
+    "surface_m2": 215,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 7 pièces de 215 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/30lkgv"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:30wjab": {
    "also": [],
    "checked": "2026-11-23T03:00:38+00:00",
@@ -71245,7 +71282,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/e8yxwn"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:eicaxu": {
    "also": [],
@@ -72765,7 +72802,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/rsoln3"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:ryr7c5": {
    "also": [],
@@ -73805,6 +73842,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:yphzik": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T15:10:21+00:00",
+   "last_seen": "2026-11-23T15:10:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Maison 5 pièces de 92 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-72c5beadd0bb8a8d9d9f8c619aed3ac1/6081309/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 580,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "yphzik",
+    "surface_m2": 92,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Maison 5 pièces de 92 m²",
+    "url": "https://www.lacartedescolocs.fr/colivings/fr/auvergne-rhone-alpes/lyon/a/yphzik"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:zlj7fj": {
    "also": [],
