@@ -29,8 +29,8 @@
    "last_success": "2026-11-23T07:30:26+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-23T07:40:20+00:00"
@@ -68831,6 +68831,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:685p2g": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T10:20:20+00:00",
+   "last_seen": "2026-11-23T10:20:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 72 m². Disponible dès 2026-12-19",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-8d1d2a04104147c9c40bda516dafaa0f/6602816/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 550,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "685p2g",
+    "surface_m2": 72,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 72 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/685p2g"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:6izc06": {
    "also": [],
    "dup_of": null,
@@ -70691,7 +70728,7 @@
    "checked": "2026-11-23T08:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T07:10:30+00:00",
-   "last_seen": "2026-11-23T07:10:30+00:00",
+   "last_seen": "2026-11-23T10:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70874,6 +70911,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:mbw9pm": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T10:20:20+00:00",
+   "last_seen": "2026-11-23T10:20:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 6 pièces de 97 m². Disponible dès 2026-12-22",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-141e78022fac067a65d404f0a9a3d6a8/6602728/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 576,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "mbw9pm",
+    "surface_m2": 97,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 6 pièces de 97 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/mbw9pm"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:mc9lph": {
    "also": [],
@@ -86611,6 +86685,82 @@
     ],
     "title": "Appartement - 2 pièce(s) - 32 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297789323A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297792192": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T10:20:20+00:00",
+   "last_seen": "2026-11-23T10:20:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 2 600 € CC* Appartement 20 m 2 Lyon 5 1 pièce DPE : F 495 kWh/m².an 19 kg CO 2 /m².an Bien situé à Lyon 5, studio meublé d'une pièce avec kitchenette équipée. Salle de douche, double vitrage, interphone, au 1er étage. Idéal pour un cadre de vie confortable. À visiter ! LOC'A 50 annonces 23/11/2026 Voir Contacter",
+    "district": "Lyon 5e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/58/7a/L2JpZW5zLzM0MjUzODY0LzZiMDQwNzU0MzdkNWY_MjAyNjExMjMxMTE2NDM_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/1f/0d/L2JpZW5zLzM0MjUzODY0LzZiMDQwNzU4ZTk4MGE_MjAyNjExMjMxMTE2NDM_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-23",
+    "rent_cc": 600,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297792192",
+    "surface_m2": 20.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 20 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297792192A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297792193": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T10:20:20+00:00",
+   "last_seen": "2026-11-23T10:20:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 4 599 € CC* Appartement 19 m 2 Lyon 3 1 pièce Ascenseur DPE : C 172 kWh/m².an 6 kg CO 2 /m².an Bien situé à Lyon 3, studio meublé de 19m² au 3ème étage. Il comprend un séjour, kitchenette équipée, salle de douche et WC. Immeuble avec digicode et ascenseur. Idéal pour un locataire à la recherche d'un bien fonctionnel. LOC'A 50 annonces 23/11/2026 Voir Contacter",
+    "district": "Lyon 3e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/54/90/L2JpZW5zLzM0MjUzODY3LzZiMDQwODI2ODUyNjU_MjAyNjExMjMxMTE2NDM_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/18/bb/L2JpZW5zLzM0MjUzODY3LzZiMDQwODI3MTM5YjE_MjAyNjExMjMxMTE2NDM_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/e9/de/L2JpZW5zLzM0MjUzODY3LzZiMDQwODI3YjU2YTM_MjAyNjExMjMxMTE2NDM_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/c8/21/L2JpZW5zLzM0MjUzODY3LzZiMDQwODI4Njk4OTQ_MjAyNjExMjMxMTE2NDM_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-23",
+    "rent_cc": 599,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297792193",
+    "surface_m2": 19.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 19 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297792193A1KILHAP000"
    },
    "notified": false,
    "status": "active"
