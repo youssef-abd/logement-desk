@@ -29,8 +29,8 @@
    "last_success": "2026-11-23T13:50:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-23T10:40:24+00:00"
@@ -72699,6 +72699,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:skg7pb": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-23T14:10:19+00:00",
+   "last_seen": "2026-11-23T14:10:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 57 m². Disponible dès 2026-12-12",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-a65f0fcf3cb412f6acfe3562568d9c48/6585475/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 520,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "skg7pb",
+    "surface_m2": 57,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 57 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/skg7pb"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:sru1rs": {
    "also": [],
