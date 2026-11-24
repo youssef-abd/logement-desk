@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T08:00:44+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
+   "blocked_runs": 1,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-24T09:10:19+00:00",
    "last_error": "blocked",
@@ -17814,7 +17814,7 @@
    "checked": "2026-11-23T21:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:40:21+00:00",
-   "last_seen": "2026-11-24T06:00:43+00:00",
+   "last_seen": "2026-11-24T09:10:20+00:00",
    "listing": {
     "charges": 16,
     "city": "lyon",
@@ -22453,7 +22453,7 @@
    "checked": "2026-11-23T21:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:40:21+00:00",
-   "last_seen": "2026-11-24T06:00:43+00:00",
+   "last_seen": "2026-11-24T09:10:20+00:00",
    "listing": {
     "charges": 35,
     "city": "lyon",
@@ -70143,7 +70143,7 @@
     "url": "https://www.immojeune.com/colocation/lyon-06-69/chambre-en-coloc-lyon-6_4072945.html"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "immojeune:4072963": {
    "also": [],
@@ -70270,7 +70270,7 @@
     "url": "https://www.immojeune.com/location-etudiant/lyon-06-69/studio-de-standing-carre-d-or-1ere-occupation_4073136.html"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "immojeune:4073144": {
    "also": [],
@@ -70404,7 +70404,7 @@
     "url": "https://www.immojeune.com/location-etudiant/lyon-03-69/appartement-lyon-3eme-25m2-650-euros-tcc_4073183.html"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "immojeune:4076733": {
    "also": [],
@@ -74675,7 +74675,7 @@
    "checked": "2026-11-23T21:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:50:19+00:00",
-   "last_seen": "2026-11-24T06:00:43+00:00",
+   "last_seen": "2026-11-24T09:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -74780,6 +74780,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:f2gpzl": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T09:10:20+00:00",
+   "last_seen": "2026-11-24T09:10:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 79 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-f3cdbbb1d1cae521445237af3d3c0178/5424927/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 480,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "f2gpzl",
+    "surface_m2": 79,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 79 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/f2gpzl"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:frcbcr": {
    "also": [],
@@ -95713,7 +95750,7 @@
    "checked": "2026-11-23T23:00:31+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T19:20:17+00:00",
-   "last_seen": "2026-11-24T06:00:43+00:00",
+   "last_seen": "2026-11-24T09:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -96317,7 +96354,7 @@
    "checked": "2026-11-23T23:00:31+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T11:00:54+00:00",
-   "last_seen": "2026-11-24T06:00:43+00:00",
+   "last_seen": "2026-11-24T09:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -97434,7 +97471,7 @@
    "also": [],
    "dup_of": "bienici:hektor-espacesetlieux-262",
    "first_seen": "2026-11-24T02:00:38+00:00",
-   "last_seen": "2026-11-24T06:00:43+00:00",
+   "last_seen": "2026-11-24T09:10:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -97494,7 +97531,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-61734050",
    "first_seen": "2026-11-24T06:00:43+00:00",
-   "last_seen": "2026-11-24T06:00:43+00:00",
+   "last_seen": "2026-11-24T09:10:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -97504,7 +97541,7 @@
    "checked": "2026-11-24T06:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T06:00:43+00:00",
-   "last_seen": "2026-11-24T06:00:43+00:00",
+   "last_seen": "2026-11-24T09:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
