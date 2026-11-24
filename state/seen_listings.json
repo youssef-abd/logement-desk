@@ -29,8 +29,8 @@
    "last_success": "2026-11-24T20:20:25+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-24T19:50:20+00:00"
@@ -13491,7 +13491,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T23:10:21+00:00",
    "listing": {
     "charges": 107,
     "city": "lyon",
@@ -16328,7 +16328,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T23:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -39583,7 +39583,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:50:21+00:00",
-   "last_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T23:10:21+00:00",
    "listing": {
     "charges": 75,
     "city": "lyon",
@@ -50721,7 +50721,7 @@
     "url": "https://www.bienici.com/annonce/immo-facile-30372192"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:immo-facile-30372469": {
    "also": [
@@ -60962,7 +60962,7 @@
     "url": "https://www.bienici.com/annonce/immo-facile-61724474"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:immo-facile-61725336": {
    "also": [],
@@ -61941,7 +61941,7 @@
     "url": "https://www.bienici.com/annonce/laforet-immo-facile-22523876"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:laforet-immo-facile-22543727": {
    "also": [],
@@ -62529,7 +62529,7 @@
     "url": "https://www.bienici.com/annonce/laforet-immo-facile-52973056"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:laforet-immo-facile-52973104": {
    "also": [],
@@ -63285,7 +63285,7 @@
     "url": "https://www.bienici.com/annonce/mgc-ancien-SNI_0000_248572"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:mgc-ancien-SNI_0000_314103": {
    "also": [
@@ -63410,7 +63410,7 @@
     "url": "https://www.bienici.com/annonce/mgc-ancien-SNI_0000_338344"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:mgc-ancien-SNI_0000_345271": {
    "also": [
@@ -64994,7 +64994,7 @@
     "url": "https://www.bienici.com/annonce/netty-company53336hnt-appt-2223"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:netty-company53336hnt-appt-2276": {
    "also": [],
@@ -65202,7 +65202,7 @@
     "url": "https://www.bienici.com/annonce/netty-company53336hnt-appt-2306"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:netty-company53336hnt-appt-2312": {
    "also": [],
@@ -69268,7 +69268,7 @@
    "also": [],
    "dup_of": "bienici:hektor-onilimmo-2895",
    "first_seen": "2026-11-24T14:00:49+00:00",
-   "last_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T23:10:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -75017,7 +75017,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T23:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -76363,7 +76363,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/9wb2aa"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:9ybqgw": {
    "also": [],
@@ -77012,7 +77012,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T20:10:20+00:00",
-   "last_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T23:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -77314,7 +77314,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T23:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -77917,7 +77917,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T20:10:20+00:00",
-   "last_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T23:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -80804,7 +80804,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T23:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81583,7 +81583,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/wus4kb"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:wv0heg": {
    "also": [],
@@ -82233,7 +82233,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T20:10:20+00:00",
-   "last_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T23:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -82573,7 +82573,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T23:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -99894,7 +99894,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES99024032-184",
    "first_seen": "2026-11-24T11:00:39+00:00",
-   "last_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T23:10:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -100340,7 +100340,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296539895A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1296582891": {
    "also": [],
@@ -106221,7 +106221,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297799453A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297799459": {
    "also": [],
@@ -106469,7 +106469,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297799538A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297799562": {
    "also": [],
