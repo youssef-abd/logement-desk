@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T01:50:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 9,
+   "blocked_runs": 10,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -72224,7 +72224,7 @@
    "checked": "2026-11-23T23:00:31+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T21:40:21+00:00",
-   "last_seen": "2026-11-24T00:50:18+00:00",
+   "last_seen": "2026-11-24T03:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -73751,7 +73751,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/c3bogv"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:c7kbr8": {
    "also": [],
@@ -74425,7 +74425,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/h741db"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:h96osp": {
    "also": [],
@@ -74462,7 +74462,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/caluire-et-cuire/a/h96osp"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:hc0llt": {
    "also": [],
@@ -76141,7 +76141,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/s4nwt3"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:s7zpw9": {
    "also": [],
@@ -77193,7 +77193,7 @@
    "checked": "2026-11-23T23:00:31+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T21:40:21+00:00",
-   "last_seen": "2026-11-24T00:50:18+00:00",
+   "last_seen": "2026-11-24T03:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
