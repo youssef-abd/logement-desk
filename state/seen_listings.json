@@ -29,10 +29,10 @@
    "last_success": "2026-11-24T23:30:22+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-24T23:40:29+00:00"
   },
   "logicimmo": {
@@ -2113,7 +2113,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T20:40:34+00:00",
-   "last_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T23:50:21+00:00",
    "listing": {
     "charges": 35,
     "city": "lyon",
@@ -9504,7 +9504,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T20:40:34+00:00",
-   "last_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T23:50:21+00:00",
    "listing": {
     "charges": 35,
     "city": "lyon",
@@ -18374,7 +18374,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T20:40:34+00:00",
-   "last_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T23:50:21+00:00",
    "listing": {
     "charges": 70,
     "city": "lyon",
@@ -19325,7 +19325,7 @@
    "also": [],
    "dup_of": "leboncoin:3317201661",
    "first_seen": "2026-11-24T20:40:34+00:00",
-   "last_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T23:50:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -23118,7 +23118,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T23:50:21+00:00",
    "listing": {
     "charges": 75,
     "city": "lyon",
@@ -36969,7 +36969,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T23:50:21+00:00",
    "listing": {
     "charges": 56,
     "city": "lyon",
@@ -64042,7 +64042,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T23:50:21+00:00",
    "listing": {
     "charges": 11,
     "city": "lyon",
@@ -76662,7 +76662,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/b424wz"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:batfqu": {
    "also": [],
@@ -77764,7 +77764,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T20:50:19+00:00",
-   "last_seen": "2026-11-24T20:50:19+00:00",
+   "last_seen": "2026-11-24T23:50:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -79797,7 +79797,7 @@
    "checked": "2026-11-24T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:40:32+00:00",
-   "last_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T23:50:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -80424,6 +80424,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:s20n5y": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T23:50:21+00:00",
+   "last_seen": "2026-11-24T23:50:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 6 pièces de 98 m². Disponible dès 2026-12-22",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-5926418f1f88cd66b2e6f060f09f4c39/6572304/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 588,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "s20n5y",
+    "surface_m2": 98,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 6 pièces de 98 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/s20n5y"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:s4nwt3": {
    "also": [],
@@ -81324,6 +81361,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:vh9dk8": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T23:50:21+00:00",
+   "last_seen": "2026-11-24T23:50:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 69 m². Disponible dès 2026-12-19",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-73fe896de647dd384f4fcac787b61906/6555428/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 529,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "vh9dk8",
+    "surface_m2": 69,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 69 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/vh9dk8"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:vimou1": {
    "also": [],
@@ -82452,7 +82526,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/z8isby"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:z9h0hj": {
    "also": [],
@@ -82534,7 +82608,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T23:50:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -82678,7 +82752,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/zuc6z5"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:zy08o5": {
    "also": [],
