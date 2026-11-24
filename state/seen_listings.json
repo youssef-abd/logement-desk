@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T17:20:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -74409,7 +74409,7 @@
    "checked": "2026-11-24T16:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T15:10:37+00:00",
-   "last_seen": "2026-11-24T15:10:37+00:00",
+   "last_seen": "2026-11-24T18:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -74966,7 +74966,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T18:20:19+00:00",
-   "last_seen": "2026-11-24T03:40:19+00:00",
+   "last_seen": "2026-11-24T18:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -74996,7 +74996,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/7tbo6y"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:7wnp8p": {
    "also": [],
@@ -79248,6 +79248,42 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:rn5p2a": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T18:20:20+00:00",
+   "last_seen": "2026-11-24T18:20:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Maison 11 pièces de 355 m². Disponible dès 2026-12-19",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-0bab46f0d9ceda6e3a8113b1dfcb0b98/6627415/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 724,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "rn5p2a",
+    "surface_m2": 355,
+    "tags": [
+     "area?"
+    ],
+    "title": "Maison 11 pièces de 355 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/rn5p2a"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:rsoln3": {
    "also": [],
    "checked": "2026-11-23T03:00:38+00:00",
@@ -79547,6 +79583,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:snisjt": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T18:20:20+00:00",
+   "last_seen": "2026-11-24T18:20:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 100 m². Disponible dès 2026-12-01",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-75f8be1ddae800ba89200c460e1ade77/6627491/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 520,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "snisjt",
+    "surface_m2": 100,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/snisjt"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:spzntb": {
    "also": [],
@@ -96101,7 +96174,7 @@
    "checked": "2026-11-24T09:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:00:39+00:00",
-   "last_seen": "2026-11-24T15:10:37+00:00",
+   "last_seen": "2026-11-24T18:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -102730,7 +102803,7 @@
    "checked": "2026-11-24T16:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T11:00:54+00:00",
-   "last_seen": "2026-11-24T15:10:37+00:00",
+   "last_seen": "2026-11-24T18:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -103849,7 +103922,7 @@
    "also": [],
    "dup_of": "bienici:hektor-espacesetlieux-262",
    "first_seen": "2026-11-24T02:00:38+00:00",
-   "last_seen": "2026-11-24T15:10:37+00:00",
+   "last_seen": "2026-11-24T18:20:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -103909,7 +103982,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-61734050",
    "first_seen": "2026-11-24T06:00:43+00:00",
-   "last_seen": "2026-11-24T15:10:37+00:00",
+   "last_seen": "2026-11-24T18:20:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -103919,7 +103992,7 @@
    "checked": "2026-11-24T06:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T06:00:43+00:00",
-   "last_seen": "2026-11-24T15:10:37+00:00",
+   "last_seen": "2026-11-24T18:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
