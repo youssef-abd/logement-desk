@@ -29,8 +29,8 @@
    "last_success": "2026-11-24T17:20:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-24T16:50:20+00:00"
@@ -22823,7 +22823,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T14:40:20+00:00",
+   "last_seen": "2026-11-24T17:40:32+00:00",
    "listing": {
     "charges": 75,
     "city": "lyon",
@@ -36656,7 +36656,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T14:40:20+00:00",
+   "last_seen": "2026-11-24T17:40:32+00:00",
    "listing": {
     "charges": 56,
     "city": "lyon",
@@ -63589,7 +63589,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T14:40:20+00:00",
+   "last_seen": "2026-11-24T17:40:32+00:00",
    "listing": {
     "charges": 11,
     "city": "lyon",
@@ -78760,6 +78760,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:npo7b0": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T17:40:32+00:00",
+   "last_seen": "2026-11-24T17:40:32+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 55 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-165cddc5ab8c951ff4e0fb1805293071/6608229/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 550,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "npo7b0",
+    "surface_m2": 55,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 55 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/npo7b0"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:nwxm24": {
    "also": [],
    "checked": "2026-11-23T19:01:04+00:00",
@@ -81165,7 +81202,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-24T02:50:29+00:00",
+   "last_seen": "2026-11-24T17:40:32+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81195,7 +81232,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/zlj7fj"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:zpks4x": {
    "also": [],
@@ -81427,7 +81464,7 @@
    "checked": "2026-11-24T15:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T14:40:20+00:00",
-   "last_seen": "2026-11-24T14:40:20+00:00",
+   "last_seen": "2026-11-24T17:40:32+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
