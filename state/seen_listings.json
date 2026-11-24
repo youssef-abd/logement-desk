@@ -9571,6 +9571,45 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:ag692371-562204652": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T10:30:35+00:00",
+   "last_seen": "2026-11-24T10:30:35+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement T2 traversant d'une surface de 73,21 m² situé au 2ème étage d'une petite copropriété calme avec ascenseur et piscine collective.\n\nIl se compose d'une entrée, d'un séjour avec cuisine américaine et balcon donnant sur piscine, d'une chambre, d'une salle de bain et de toilettes séparées. Une place de parking en sous-sol et une cave sont incluses dans le bail. La copropriété profite d'un espace vert avec piscine séparé de la rue.\n\nSitué dans une rue résidentielle du quartier de la Croix-",
+    "district": "Lyon 4e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag692371-562204652_photos.ubiflow.net_692371_562204652_photos_1.jpg_INSOON_EB_5512801818_20261123164514",
+     "https://file.bienici.com/photo/ag692371-562204652_photos.ubiflow.net_692371_562204652_photos_2.jpg_INSOON_EB_5512801818_20261123164514",
+     "https://file.bienici.com/photo/ag692371-562204652_photos.ubiflow.net_692371_562204652_photos_3.jpg_INSOON_EB_5512801818_20261123164514",
+     "https://file.bienici.com/photo/ag692371-562204652_photos.ubiflow.net_692371_562204652_photos_4.jpg_INSOON_EB_5512801818_20261123164514",
+     "https://file.bienici.com/photo/ag692371-562204652_photos.ubiflow.net_692371_562204652_photos_5.jpg_INSOON_EB_5512801818_20261123164514",
+     "https://file.bienici.com/photo/ag692371-562204652_photos.ubiflow.net_692371_562204652_photos_6.jpg_INSOON_EB_5512801818_20261123164514"
+    ],
+    "postal_code": "69004",
+    "poster": "agence",
+    "poster_name": "Regie Moliere",
+    "published_at": "2026-11-24T10:24:11.662Z",
+    "rent_cc": 1000,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag692371-562204652",
+    "surface_m2": 53,
+    "tags": [],
+    "title": "APPARTEMENT T2 - 1 000 €/MOIS - LYON 4ÈME",
+    "url": "https://www.bienici.com/annonce/ag692371-562204652"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:ag692481-504196481": {
    "also": [],
    "dup_of": null,
@@ -74285,7 +74324,7 @@
    "checked": "2026-11-24T05:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T04:20:24+00:00",
-   "last_seen": "2026-11-24T07:30:19+00:00",
+   "last_seen": "2026-11-24T10:30:35+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75223,7 +75262,7 @@
    "checked": "2026-11-24T05:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T04:20:24+00:00",
-   "last_seen": "2026-11-24T07:30:19+00:00",
+   "last_seen": "2026-11-24T10:30:35+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75261,7 +75300,7 @@
    "checked": "2026-11-24T05:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T04:20:24+00:00",
-   "last_seen": "2026-11-24T07:30:19+00:00",
+   "last_seen": "2026-11-24T10:30:35+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75630,7 +75669,7 @@
    "checked": "2026-11-24T05:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T04:20:24+00:00",
-   "last_seen": "2026-11-24T07:30:19+00:00",
+   "last_seen": "2026-11-24T10:30:35+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75895,7 +75934,7 @@
    "checked": "2026-11-24T05:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T04:20:24+00:00",
-   "last_seen": "2026-11-24T07:30:19+00:00",
+   "last_seen": "2026-11-24T10:30:35+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -76163,7 +76202,7 @@
    "checked": "2026-11-24T05:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T04:20:24+00:00",
-   "last_seen": "2026-11-24T07:30:19+00:00",
+   "last_seen": "2026-11-24T10:30:35+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -77804,7 +77843,7 @@
    "checked": "2026-11-24T05:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T04:20:24+00:00",
-   "last_seen": "2026-11-24T07:30:19+00:00",
+   "last_seen": "2026-11-24T10:30:35+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
