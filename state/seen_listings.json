@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T20:20:25+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 4,
+   "blocked_runs": 5,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -2104,6 +2104,48 @@
     "tags": [],
     "title": "A LOUER - CHARMANT T2 de 50.74m2 - RUE PIERRE ROBIN LYON 7",
     "url": "https://www.bienici.com/annonce/ag421262-562397000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag421262-562502774": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T20:40:34+00:00",
+   "listing": {
+    "charges": 35,
+    "city": "lyon",
+    "description": "A LOUER A LYON 6EME - RUE VENDOME  - T2 de 60.21 m² au 2ème étage avec ascenseur. Il se compose d'une entrée de 8.21 m² avec placard de rangement, un séjour de 23.64 m² avec un coin cuisine équipé de meubles hauts et bas et une plaque de cuisson 4 feux gaz. Une chambre de 15.05 m² avec son grand dressing de 5.67 m², une salle de bains de 2.68 m² équipée d'un meuble sous vasque et une baignoire. Les WC sont séparés et sont équipés d'un lave-mains.\n\nDPE : E\n\nChauffage individuel gaz\nEau chaude ind",
+    "district": "Lyon 6e",
+    "flags": [
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag421262-562502774_photos.ubiflow.net_421262_562502774_photos_1.jpg_INSOON_EB_5512801818_20261124201122",
+     "https://file.bienici.com/photo/ag421262-562502774_photos.ubiflow.net_421262_562502774_photos_2.jpg_INSOON_EB_5512801818_20261124201122",
+     "https://file.bienici.com/photo/ag421262-562502774_photos.ubiflow.net_421262_562502774_photos_3.jpg_INSOON_EB_5512801818_20261124201122",
+     "https://file.bienici.com/photo/ag421262-562502774_photos.ubiflow.net_421262_562502774_photos_4.jpg_INSOON_EB_5512801818_20261124201122",
+     "https://file.bienici.com/photo/ag421262-562502774_photos.ubiflow.net_421262_562502774_photos_5.jpg_INSOON_EB_5512801818_20261124201122",
+     "https://file.bienici.com/photo/ag421262-562502774_photos.ubiflow.net_421262_562502774_photos_6.jpg_INSOON_EB_5512801818_20261124201122"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "poster_name": "Ginet Immobilier",
+    "published_at": "2026-11-24T19:49:02.562Z",
+    "rent_cc": 925,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag421262-562502774",
+    "surface_m2": 60,
+    "tags": [],
+    "title": "A LOUER  - Quartier FOCH - RUE VENDÔME LYON 6 - JOLI T2 DE 60.21 m²",
+    "url": "https://www.bienici.com/annonce/ag421262-562502774"
    },
    "notified": false,
    "status": "active"
@@ -9452,6 +9494,48 @@
     "tags": [],
     "title": "A LOUER - CHARMANT T2 de 50.74m2 - RUE PIERRE ROBIN LYON 7",
     "url": "https://www.bienici.com/annonce/ag691942-562397054"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag691942-562502801": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T20:40:34+00:00",
+   "listing": {
+    "charges": 35,
+    "city": "lyon",
+    "description": "A LOUER A LYON 6EME - RUE VENDOME  - T2 de 60.21 m² au 2ème étage avec ascenseur. Il se compose d'une entrée de 8.21 m² avec placard de rangement, un séjour de 23.64 m² avec un coin cuisine équipé de meubles hauts et bas et une plaque de cuisson 4 feux gaz. Une chambre de 15.05 m² avec son grand dressing de 5.67 m², une salle de bains de 2.68 m² équipée d'un meuble sous vasque et une baignoire. Les WC sont séparés et sont équipés d'un lave-mains.\n\nDPE : E\n\nChauffage individuel gaz\nEau chaude ind",
+    "district": "Lyon 6e",
+    "flags": [
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag691942-562502801_photos.ubiflow.net_691942_562502801_photos_1.jpg_INSOON_EB_5512801818_20261124201131",
+     "https://file.bienici.com/photo/ag691942-562502801_photos.ubiflow.net_691942_562502801_photos_2.jpg_INSOON_EB_5512801818_20261124201131",
+     "https://file.bienici.com/photo/ag691942-562502801_photos.ubiflow.net_691942_562502801_photos_3.jpg_INSOON_EB_5512801818_20261124201131",
+     "https://file.bienici.com/photo/ag691942-562502801_photos.ubiflow.net_691942_562502801_photos_4.jpg_INSOON_EB_5512801818_20261124201131",
+     "https://file.bienici.com/photo/ag691942-562502801_photos.ubiflow.net_691942_562502801_photos_5.jpg_INSOON_EB_5512801818_20261124201131",
+     "https://file.bienici.com/photo/ag691942-562502801_photos.ubiflow.net_691942_562502801_photos_6.jpg_INSOON_EB_5512801818_20261124201131"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "poster_name": "Ginet Villeurbanne",
+    "published_at": "2026-11-24T19:48:28.132Z",
+    "rent_cc": 925,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag691942-562502801",
+    "surface_m2": 60,
+    "tags": [],
+    "title": "A LOUER  - Quartier FOCH - RUE VENDÔME LYON 6 - JOLI T2 DE 60.21 m²",
+    "url": "https://www.bienici.com/annonce/ag691942-562502801"
    },
    "notified": false,
    "status": "active"
@@ -18279,6 +18363,47 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:ag695206-562503173": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T20:40:34+00:00",
+   "listing": {
+    "charges": 70,
+    "city": "lyon",
+    "description": "TYPE DEUX AU POINT DU JOUR SITUE 32 RUE JOLIOT CURIE COMPOSE D'UNE CHAMBRE UN SEJOUR UNE CUISINE AMENAGEE ET EQUIPEE UNE SALLE DE BAINS EST LOUE AVEC UN PARKING\nZone soumise à encadrement des loyers\nLoyer de référence majoré (loyer de base à ne pas dépasser) » :747.55 €\nLoyer de base : 728 €\nLoyer 798 E/mois dont 70 E de charges locatives (provision donnant lieu à régularisation annuelle) dépôt de garantie 728E honoraires charge locataire 628.70 E dont 145.19E pour l'état des lieux\nLes informati",
+    "district": "Lyon 5e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag695206-562503173_photos.ubiflow.net_695206_562503173_photos_1.jpg_INSOON_EB_5512801818_20261124201444",
+     "https://file.bienici.com/photo/ag695206-562503173_photos.ubiflow.net_695206_562503173_photos_2.jpg_INSOON_EB_5512801818_20261124201444",
+     "https://file.bienici.com/photo/ag695206-562503173_photos.ubiflow.net_695206_562503173_photos_3.jpg_INSOON_EB_5512801818_20261124201444",
+     "https://file.bienici.com/photo/ag695206-562503173_photos.ubiflow.net_695206_562503173_photos_4.jpg_INSOON_EB_5512801818_20261124201444",
+     "https://file.bienici.com/photo/ag695206-562503173_photos.ubiflow.net_695206_562503173_photos_5.jpg_INSOON_EB_5512801818_20261124201444",
+     "https://file.bienici.com/photo/ag695206-562503173_photos.ubiflow.net_695206_562503173_photos_6.jpg_INSOON_EB_5512801818_20261124201444"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": "2026-11-24T19:48:27.453Z",
+    "rent_cc": 798,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag695206-562503173",
+    "surface_m2": 47,
+    "tags": [],
+    "title": "Appartement",
+    "url": "https://www.bienici.com/annonce/ag695206-562503173"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:ag696097-519442709": {
    "also": [],
    "dup_of": null,
@@ -19185,6 +19310,15 @@
     "url": "https://www.bienici.com/annonce/ag696581-561969314"
    },
    "notified": false,
+   "status": "active"
+  },
+  "bienici:ag696581-562502738": {
+   "also": [],
+   "dup_of": "leboncoin:3317201661",
+   "first_seen": "2026-11-24T20:40:34+00:00",
+   "last_seen": "2026-11-24T20:40:34+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "bienici:ag696593-549121178": {
@@ -22973,7 +23107,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T17:40:32+00:00",
+   "last_seen": "2026-11-24T20:40:34+00:00",
    "listing": {
     "charges": 75,
     "city": "lyon",
@@ -36817,7 +36951,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T17:40:32+00:00",
+   "last_seen": "2026-11-24T20:40:34+00:00",
    "listing": {
     "charges": 56,
     "city": "lyon",
@@ -63841,7 +63975,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T17:40:32+00:00",
+   "last_seen": "2026-11-24T20:40:34+00:00",
    "listing": {
     "charges": 11,
     "city": "lyon",
@@ -73747,7 +73881,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/2pmqsr"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:2tigrv": {
    "also": [],
@@ -77433,7 +77567,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/giul50"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:gm09qo": {
    "also": [],
@@ -78713,7 +78847,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ly6h9n"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:m0x3l1": {
    "also": [],
@@ -79244,7 +79378,7 @@
    "checked": "2026-11-24T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:40:32+00:00",
-   "last_seen": "2026-11-24T17:40:32+00:00",
+   "last_seen": "2026-11-24T20:40:34+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81832,7 +81966,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-24T17:40:32+00:00",
+   "last_seen": "2026-11-24T20:40:34+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -97104,7 +97238,9 @@
    "status": "active"
   },
   "leboncoin:3317201661": {
-   "also": [],
+   "also": [
+    "bienici:ag696581-562502738"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-24T19:50:20+00:00",
    "last_seen": "2026-11-24T19:50:20+00:00",
