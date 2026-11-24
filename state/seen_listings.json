@@ -29,10 +29,10 @@
    "last_success": "2026-11-24T14:20:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
+   "last_error": null,
    "last_success": "2026-11-24T13:30:24+00:00"
   },
   "logicimmo": {
@@ -1307,7 +1307,9 @@
    "status": "active"
   },
   "bienici:ag380516-546539066": {
-   "also": [],
+   "also": [
+    "leboncoin:3317065485"
+   ],
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -31267,6 +31269,48 @@
     "tags": [],
     "title": "2 pièce(s) 54.95 m² Lyon 2e",
     "url": "https://www.bienici.com/annonce/citya-immobilier-30578588300029-GES60390039-894"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:citya-immobilier-30578588300029-GES70270083-894": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:10:23+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
+   "listing": {
+    "charges": 164,
+    "city": "lyon",
+    "description": "À LOUER - T4 MEUBLE AVEC BALCON, PARKING ET CAVE - CALUIRE-ET-CUIRE\n\nCitya Les Célestins vous propose à la location un appartement T4 meublé de 75.19m², situé rue Pierre Bourgeois à CALUIRE-ET-CUIRE (69300).\nCe bien se compose d'une entrée, d'une cuisine séparée et équipée, d'un séjour avec salle à manger, de deux chambres, d'une salle d'eau et d'un WC séparé. L'appartement dispose également d'une loggia et d'un grand balcon.\n\nUne place de parking et une cave complètent ce bien.  Le bien est sou",
+    "district": "Caluire-et-Cuire",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/citya-immobilier-30578588300029-GES70270083-894_box.ics.fr_cit_CITYA_REGIECELESTINS2_tic_location_photo_filigrane-IMG_6470-15675905307128220398.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-30578588300029-GES70270083-894_box.ics.fr_cit_CITYA_REGIECELESTINS2_tic_location_photo_filigrane-IMG_6469-901603209658231989.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-30578588300029-GES70270083-894_box.ics.fr_cit_CITYA_REGIECELESTINS2_tic_location_photo_filigrane-IMG_6473-10763198589743046540.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-30578588300029-GES70270083-894_box.ics.fr_cit_CITYA_REGIECELESTINS2_tic_location_photo_filigrane-IMG_6466-11453174360658895492.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-30578588300029-GES70270083-894_box.ics.fr_cit_CITYA_REGIECELESTINS2_tic_location_photo_filigrane-IMG_6472-9712286220100688050.jpg",
+     "https://file.bienici.com/photo/citya-immobilier-30578588300029-GES70270083-894_box.ics.fr_cit_CITYA_REGIECELESTINS2_tic_location_photo_filigrane-IMG_6468-9338804217259040171.jpg"
+    ],
+    "postal_code": "69300",
+    "poster": "agence",
+    "poster_name": "Citya Les Célestins",
+    "published_at": "2026-11-24T16:05:47.507Z",
+    "rent_cc": 1134.79,
+    "rooms": 4,
+    "source": "bienici",
+    "source_id": "citya-immobilier-30578588300029-GES70270083-894",
+    "surface_m2": 75.19,
+    "tags": [],
+    "title": "4 pièce(s) 75.19 m² Caluire-et-Cuire",
+    "url": "https://www.bienici.com/annonce/citya-immobilier-30578588300029-GES70270083-894"
    },
    "notified": false,
    "status": "active"
@@ -77285,7 +77329,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -94438,6 +94482,54 @@
    "notified": true,
    "status": "active"
   },
+  "leboncoin:3317052071": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:10:23+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
+   "listing": {
+    "charges": 45.0,
+    "city": "lyon",
+    "description": "Je propose en location ce studio meublé de 28 m² situé au 3ème étage d'un immeuble de 4 étages à Lyon, quartier Moulin à Vent. Construite en 1930, cette petite surface offre un espace fonctionnel et bien aménagé.\nCe studio comprend une pièce principale avec 1 salle de bain. La cuisine est équipée. L'appartement bénéficie d'une belle exposition au sud, offrant une luminosité généreuse et une vue dégagée sur le quartier.\n- Meublé\n- Cuisine équipée\n- Belle luminosité\n- Exposition sud\n- Construction",
+    "district": "Lyon 69008",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "match": true,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/c5/6d/24/c56d246ce55b7eb4d5729e3e228237860ac02969.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/56/84/3f/56843f2dbc6699ae47ef411647100f3de8e752a4.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/03/9b/4f/039b4fde50f0f014d02edec3a0fb469708e8cf0d.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/cf/e2/41/cfe241239503b1172d3bbf60298b8ef069f56e94.jpg?rule=ad-large"
+    ],
+    "postal_code": "69008",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-24 16:48:53",
+    "rent_cc": 680.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3317052071",
+    "surface_m2": 28.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Studio meublé",
+    "url": "https://www.leboncoin.fr/ad/locations/3317052071"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3317065485": {
+   "also": [],
+   "dup_of": "bienici:ag380516-546539066",
+   "first_seen": "2026-11-24T16:10:23+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "paruvendu:1286858274": {
    "also": [],
    "checked": "2026-11-24T15:00:40+00:00",
@@ -99507,7 +99599,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:00:44+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -102562,7 +102654,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -102603,7 +102695,7 @@
    "also": [],
    "dup_of": "studapart:residence_559",
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -102613,7 +102705,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -102701,7 +102793,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T10:00:36+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -102820,7 +102912,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -102859,7 +102951,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -102903,7 +102995,7 @@
    "also": [],
    "dup_of": "bienici:ag690014-557653922",
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -102913,7 +103005,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -102954,7 +103046,7 @@
    "also": [],
    "dup_of": "bienici:ag696825-557544227",
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -103045,7 +103137,7 @@
    "also": [],
    "dup_of": "bienici:ics-sag_SAGITER_loc-GES03650073-144",
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -103094,7 +103186,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -103135,7 +103227,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -103194,7 +103286,7 @@
    "also": [],
    "dup_of": "bienici:ag696825-557544227",
    "first_seen": "2026-11-24T13:00:44+00:00",
-   "last_seen": "2026-11-24T13:00:44+00:00",
+   "last_seen": "2026-11-24T16:10:23+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
