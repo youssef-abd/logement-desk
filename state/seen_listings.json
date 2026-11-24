@@ -29,8 +29,8 @@
    "last_success": "2026-11-24T08:00:44+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-24T10:20:18+00:00"
@@ -98896,7 +98896,7 @@
     "charges": null,
     "city": "lyon",
     "description": "Nouveau 3 560 € CC* Appartement 18 m 2 Bron (69) 1 pièce Ascenseur DPE : D 250 kWh/m².an 10 kg CO 2 /m².an Beau studio étudiant bron centre proche université. appartement de 18 m2 à louer sur bron particulier loue appartement étudiant, 1 pièce, idéalement situé, dans le centre de bron (225 avenue franklin roosevelt), proche de toutes commodités : -... 123loger.com 500 annonces 24/11/2026 Voir Contacter Recevez les nouvelles annonces dès leur publication",
-    "district": null,
+    "district": "Lyon 2e",
     "flags": [
      "charges_cc"
     ],
