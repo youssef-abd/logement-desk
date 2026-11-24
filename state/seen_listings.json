@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T20:20:25+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -77560,6 +77560,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:fm5cdx": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T22:20:19+00:00",
+   "last_seen": "2026-11-24T22:20:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 65 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-940eb05719ea8fab6eb07503f258c125/1020749/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 500,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "fm5cdx",
+    "surface_m2": 65,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 65 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/fm5cdx"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:frcbcr": {
    "also": [],
    "checked": "2026-11-23T21:00:42+00:00",
@@ -77782,6 +77819,44 @@
     ],
     "title": "Appartement 3 pièces de 80 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/gm09qo"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:gtgsk1": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T22:20:19+00:00",
+   "last_seen": "2026-11-24T22:20:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 55 m². Disponible dès 2026-12-02",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-e65904e27ffba7e65ff3d1da852579c9/6555276/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 605,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "gtgsk1",
+    "surface_m2": 55,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 55 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/gtgsk1"
    },
    "notified": false,
    "status": "active"
@@ -96323,7 +96398,9 @@
    "status": "active"
   },
   "leboncoin:3316879780": {
-   "also": [],
+   "also": [
+    "paruvendu:1297856771"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-24T11:50:21+00:00",
    "last_seen": "2026-11-24T11:50:21+00:00",
@@ -107269,6 +107346,138 @@
     "tags": [],
     "title": "Appartement - 1 pièce(s)",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297854170A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297856771": {
+   "also": [],
+   "dup_of": "leboncoin:3316879780",
+   "first_seen": "2026-11-24T22:20:19+00:00",
+   "last_seen": "2026-11-24T22:20:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297856772": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T22:20:19+00:00",
+   "last_seen": "2026-11-24T22:20:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 8 1 200 € CC* Appartement 62 m 2 Lyon 3 2 pièces 1 chambre T2 bis - 62 m2 au pied du metro garibaldi. 85 cours gambetta - au pied du metro garibaldi et des commerces nous vous proposons à la location en meublé, ce magnifique appartement de type t2 bis d'une surface de 62 m2 carrez, sans vis-à-vis, situé... AGENCE DES PENTES 22 annonces 24/11/2026 Voir Contacter",
+    "district": "Lyon 3e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/bc/f6/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xL2Q3NmRjNzQ4OWM4NDU0MWI3Y2QwNmM4ZGJmM2JkMjI1L3Bob3RvXzA4ZmRkODFlZmU2NjcwMWRhN2E2MGNmNjVmOWZiY2ZkLmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/8a/c3/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xL2Q3NmRjNzQ4OWM4NDU0MWI3Y2QwNmM4ZGJmM2JkMjI1L3Bob3RvXzAyZTYzZGE4NjkyZTA5M2I5ZTVjOWY5NDRiZTZiOTY0LmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/72/04/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xL2Q3NmRjNzQ4OWM4NDU0MWI3Y2QwNmM4ZGJmM2JkMjI1L3Bob3RvX2IzZjMxNjExN2E1MDA0MDg0MGE4NmVhODAzYzZiNDAyLmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/23/76/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xL2Q3NmRjNzQ4OWM4NDU0MWI3Y2QwNmM4ZGJmM2JkMjI1L3Bob3RvX2Y5NTA3OGI4MDhkNmY3N2Q2ZWExMGQ3MTJkNDAxODc4LmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/4e/8f/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xL2Q3NmRjNzQ4OWM4NDU0MWI3Y2QwNmM4ZGJmM2JkMjI1L3Bob3RvXzA2YzNmOTY0MjEzNDk4MmU4ZjVmODUxYzdmYzI5MzVkLmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/a4/f0/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xL2Q3NmRjNzQ4OWM4NDU0MWI3Y2QwNmM4ZGJmM2JkMjI1L3Bob3RvX2JkNDE0NWVlMTZjZGU5ODg1MTUyZjRhNmRhNzY1ZTkyLmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "AGENCE DES PENTES",
+    "published_at": "2026-11-24",
+    "rent_cc": 1200,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297856772",
+    "surface_m2": 62.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 62 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297856772A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297856773": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T22:20:19+00:00",
+   "last_seen": "2026-11-24T22:20:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 8 920 € CC* Appartement 51 m 2 Lyon 2 2 pièces 2 chambres DPE : E 291 kWh/m².an 11 kg CO 2 /m².an T2 bis - secteur ampere - 52 m2. colocation possible 55 rue franklin venez découvrir ce bel appartement tout juste rénové de type t3, prestations exceptionnelles, d'une surface au sol de 52 m2 et situé au dernier étage avec ascenseur. cet... AGENCE DES PENTES 22 annonces 24/11/2026 Voir Contacter",
+    "district": "Lyon 2e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/92/04/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xLzZkODNlNzFlNDQ1YjcyYjFiMzJkMGI4ZGM2MmViZjYwL3Bob3RvX2I1YWE3N2IyZmI1OWU0OWUxMjQ3OTg5ZTdlYTQyOWQ3LmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/7b/0a/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xLzZkODNlNzFlNDQ1YjcyYjFiMzJkMGI4ZGM2MmViZjYwL3Bob3RvXzdjNmVjNjg4M2ZhOWIwM2Y4NjhkOWRlNmE5MDI3NjYxLmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/8e/df/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xLzZkODNlNzFlNDQ1YjcyYjFiMzJkMGI4ZGM2MmViZjYwL3Bob3RvX2M3ZmI0NTlhNzA5NzU4OGU0ODAwOTZlYTI2MjBiZmU3LmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/05/6e/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xLzZkODNlNzFlNDQ1YjcyYjFiMzJkMGI4ZGM2MmViZjYwL3Bob3RvXzNlZDc1NDdkMzgyZGViZWE4NWQ4Yjc0MGYxN2Q4NGU2LmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/3e/01/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xLzZkODNlNzFlNDQ1YjcyYjFiMzJkMGI4ZGM2MmViZjYwL3Bob3RvX2M1ZGIxOTBkNWIxZDlmNzJjY2U5ZjQ5NjExNTJiMmY1LmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/cc/1b/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xLzZkODNlNzFlNDQ1YjcyYjFiMzJkMGI4ZGM2MmViZjYwL3Bob3RvXzNlZTU3OWJkOTc0YjZlYTEyNzQwMTM3OGU1Y2MyNDU3LmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69002",
+    "poster": "agence",
+    "poster_name": "AGENCE DES PENTES",
+    "published_at": "2026-11-24",
+    "rent_cc": 920,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297856773",
+    "surface_m2": 51.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 51 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297856773A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297856774": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T22:20:19+00:00",
+   "last_seen": "2026-11-24T22:20:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 7 740 € CC* Appartement 29 m 2 Lyon 1 1 pièce 1 chambre DPE : E 286 kWh/m².an 9 kg CO 2 /m².an Rue du griffon - t1 bis - 29 m2. hypercentre, rue du griffon venez découvrir ce magnifique appartement de type 1 bis entièrement meublé, d'une surface de 29 m2 et situé au cinquième étage. cet appartement se compose d'un séjour avec coin cuisine,... AGENCE DES PENTES 22 annonces 24/11/2026 Voir Contacter",
+    "district": "Lyon 1er",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/79/e2/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xL2Y4MDI2NmZiNGE2YjRmNjU2ZjAzNTU3MTQyNjdmYzU3L3Bob3RvX2U2MWIzNTdjZmNmMDEzOGEzMzQ2MWM3YzhjYWEwMjBiLmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/43/bd/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xL2Y4MDI2NmZiNGE2YjRmNjU2ZjAzNTU3MTQyNjdmYzU3L3Bob3RvXzIxNDZjYTdmYjQxMDcyNzc1NWYwMDFmOGViMjg5NGJjLmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/b2/c3/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xL2Y4MDI2NmZiNGE2YjRmNjU2ZjAzNTU3MTQyNjdmYzU3L3Bob3RvX2QwZWQ2MGExOTllZjA4MmFhZWUzNzZjNWZiNTVkNTA1LmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/ba/a0/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xL2Y4MDI2NmZiNGE2YjRmNjU2ZjAzNTU3MTQyNjdmYzU3L3Bob3RvXzMxMTE0MGFkNmY2YjExYzIxYWRiNzY5MGNiZGQ4NDMxLmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/c9/6f/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xL2Y4MDI2NmZiNGE2YjRmNjU2ZjAzNTU3MTQyNjdmYzU3L3Bob3RvXzQ2NThlNTI4NDBlYWJhOWI2YTI4MDg2MjEyZDNkMTU0LmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/pentesimmo.staticlbi.com/57/a8/L29yaWdpbmFsL2ltYWdlcy9iaWVucy8xL2Y4MDI2NmZiNGE2YjRmNjU2ZjAzNTU3MTQyNjdmYzU3L3Bob3RvXzhjYmIzNmYxYjU0MDI1MzcyMTQzNTdjYzAzYzA4OTUyLmpwZz8yMDI2MTEyNDIzMTczNQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "poster_name": "AGENCE DES PENTES",
+    "published_at": "2026-11-24",
+    "rent_cc": 740,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297856774",
+    "surface_m2": 29.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 29 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297856774A1KILHAP000"
    },
    "notified": false,
    "status": "active"
