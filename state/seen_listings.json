@@ -29,9 +29,9 @@
    "last_success": "2026-11-24T05:00:36+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 11,
+   "blocked_runs": 0,
    "consecutive_failures": 4,
-   "cooldown_until": null,
+   "cooldown_until": "2026-11-24T07:00:20+00:00",
    "last_error": "blocked",
    "last_success": "2026-11-24T04:40:19+00:00"
   },
@@ -74711,7 +74711,7 @@
    "checked": "2026-11-23T19:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:20:21+00:00",
-   "last_seen": "2026-11-24T03:40:19+00:00",
+   "last_seen": "2026-11-24T06:40:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75456,6 +75456,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:lnn7jl": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T06:40:20+00:00",
+   "last_seen": "2026-11-24T06:40:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 100 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-0689060e3144ec1befc25cf63c1399b3/1229928/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 500,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "lnn7jl",
+    "surface_m2": 100,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/chambres-chez-l-habitant/fr/auvergne-rhone-alpes/lyon/a/lnn7jl"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:lxa4dq": {
    "also": [],
    "checked": "2026-11-23T19:01:04+00:00",
@@ -76059,7 +76096,7 @@
    "checked": "2026-11-23T19:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:20:21+00:00",
-   "last_seen": "2026-11-24T03:40:19+00:00",
+   "last_seen": "2026-11-24T06:40:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -96408,7 +96445,7 @@
    "checked": "2026-11-24T04:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
-   "last_seen": "2026-11-24T03:40:19+00:00",
+   "last_seen": "2026-11-24T06:40:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
