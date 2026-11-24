@@ -29,8 +29,8 @@
    "last_success": "2026-11-24T17:20:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-24T16:50:20+00:00"
@@ -8333,7 +8333,9 @@
    "status": "stale"
   },
   "bienici:ag690169-560591243": {
-   "also": [],
+   "also": [
+    "paruvendu:1297835341"
+   ],
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T19:01:04+00:00",
@@ -32734,7 +32736,9 @@
    "status": "active"
   },
   "bienici:citya-immobilier-5040-GES18050038-171": {
-   "also": [],
+   "also": [
+    "paruvendu:1297835337"
+   ],
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
@@ -35959,7 +35963,9 @@
    "status": "active"
   },
   "bienici:citya-immobilier-5042-GES57410006-175": {
-   "also": [],
+   "also": [
+    "paruvendu:1297835342"
+   ],
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
@@ -36267,7 +36273,9 @@
    "status": "active"
   },
   "bienici:citya-immobilier-5047-GES28790001-218": {
-   "also": [],
+   "also": [
+    "paruvendu:1297835287"
+   ],
    "checked": "2026-11-24T11:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T16:10:37+00:00",
@@ -36504,7 +36512,9 @@
    "status": "active"
   },
   "bienici:citya-immobilier-96150595500016-GES71270057-142": {
-   "also": [],
+   "also": [
+    "paruvendu:1297835124"
+   ],
    "checked": "2026-11-24T16:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T21:00:42+00:00",
@@ -39659,6 +39669,48 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "bienici:guy-hoquet-18-GT0648-448": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T19:30:26+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
+   "listing": {
+    "charges": 900.68,
+    "city": "lyon",
+    "description": "Pour candidater, remplissez le formulaire de contact. Vous serez ensuite invités à déposer votre dossier sur la plateforme U'PLACE. Une fois votre dossier validé, vous aurez la possibilité de choisir votre créneau de visite, dans la limite des créneaux disponibles.<br>Votre agence immobilière Guy Hoquet Lyon 9, vous propose à la location ce T1 bis de 35m², situé au coeur du Vieux Saint Rambert, a proximité de l'Ile Barbe, dans le 9ème arrondissement de Lyon. <br>L'appartement se situe dans une b",
+    "district": "Lyon 9e",
+    "flags": [
+     "agency_fees",
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0648-448_d2m2j20yzublln.cloudfront.net_75_269718_3307220a-816b-4ef9-8b83-f443b67764fc.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0648-448_d2m2j20yzublln.cloudfront.net_75_269718_17e6099f-d22d-4dcf-bd9e-336bf38c3516.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0648-448_d2m2j20yzublln.cloudfront.net_75_269718_79b8e33d-f7fa-4f9f-854c-765a96d1e43f.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0648-448_d2m2j20yzublln.cloudfront.net_75_269718_95da8e91-557a-4bf2-841b-0292bdb5a403.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0648-448_d2m2j20yzublln.cloudfront.net_75_269718_7d3944b1-fe5e-4724-bbef-baaca29e4711.jpg"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": "Guy Hoquet Lyon 9 2",
+    "published_at": "2026-11-24T19:02:19.599Z",
+    "rent_cc": 759,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "guy-hoquet-18-GT0648-448",
+    "surface_m2": 35.23,
+    "tags": [],
+    "title": "T1 bis vide - Quartier Ile Barbe - 35m²",
+    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT0648-448"
+   },
+   "notified": false,
+   "status": "active"
   },
   "bienici:guy-hoquet-18-GT0648-5234": {
    "also": [],
@@ -48754,7 +48806,7 @@
    "checked": "2026-11-24T19:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T01:04:34+00:00",
-   "last_seen": "2026-11-24T16:30:23+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
    "listing": {
     "charges": 40,
     "city": "lyon",
@@ -49137,7 +49189,7 @@
    "checked": "2026-11-24T19:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T01:04:34+00:00",
-   "last_seen": "2026-11-24T16:30:23+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
    "listing": {
     "charges": 140,
     "city": "lyon",
@@ -78047,7 +78099,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:30:23+00:00",
-   "last_seen": "2026-11-24T16:30:23+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -79967,7 +80019,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:30:23+00:00",
-   "last_seen": "2026-11-24T16:30:23+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81543,7 +81595,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:30:23+00:00",
-   "last_seen": "2026-11-24T16:30:23+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -103782,7 +103834,7 @@
    "checked": "2026-11-24T07:04:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T12:30:20+00:00",
-   "last_seen": "2026-11-24T16:30:23+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -104751,7 +104803,7 @@
    "checked": "2026-11-24T11:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T10:20:18+00:00",
-   "last_seen": "2026-11-24T16:30:23+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -105266,6 +105318,33 @@
    "notified": false,
    "status": "active"
   },
+  "paruvendu:1297835124": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-96150595500016-GES71270057-142",
+   "first_seen": "2026-11-24T19:30:26+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297835287": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-5047-GES28790001-218",
+   "first_seen": "2026-11-24T19:30:26+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297835337": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-5040-GES18050038-171",
+   "first_seen": "2026-11-24T19:30:26+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "paruvendu:1297835338": {
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES42220010-171",
@@ -105293,12 +105372,30 @@
    "notified": true,
    "status": "active"
   },
+  "paruvendu:1297835341": {
+   "also": [],
+   "dup_of": "bienici:ag690169-560591243",
+   "first_seen": "2026-11-24T19:30:26+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297835342": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-5042-GES57410006-175",
+   "first_seen": "2026-11-24T19:30:26+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "paruvendu:1297839787": {
    "also": [],
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:50:21+00:00",
-   "last_seen": "2026-11-24T13:50:21+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -105339,7 +105436,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:50:21+00:00",
-   "last_seen": "2026-11-24T13:50:21+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -105381,7 +105478,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:50:21+00:00",
-   "last_seen": "2026-11-24T13:50:21+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -105456,6 +105553,47 @@
     "tags": [],
     "title": "Atelier - 2 pièce(s) - 75 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/atelier/1297849364A1KILHAT000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297854170": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T19:30:26+00:00",
+   "last_seen": "2026-11-24T19:30:26+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 16 480 € CC* Appartement Lyon 2 Exclusivité 1 pièce DPE : E 417 kWh/m².an 13 kg CO 2 /m².an Studio entièrement rÉnovÉ, meublÉ et ÉquipÉ au 5 rue. location pour 6 mois du 1er janvier au 30 juin 2026 kerjolis-immo vous présente en exclusivitÉ ce beau studio, entièrement refait à neuf, au 5 rue confort. 5ème étage avec ascenseur. au... KERJOLIS IMMO 9 annonces 24/11/2026 Voir Contacter",
+    "district": "Lyon 2e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/administration.power-immo.fr/f5/ae/L2ltYWdlcy9pbWFnZXNfYW5ub25jZXMvNS8xMTU0LzU0MTFfMTc5MDkzMzYyMDgzNjUuanBnPzIwMjYxMTI0MjAyMjM0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/administration.power-immo.fr/d9/f9/L2ltYWdlcy9pbWFnZXNfYW5ub25jZXMvNS8xMTU0LzU0MTFfMTc5MDkzMzYyMTI1NDYuanBnPzIwMjYxMTI0MjAyMjM0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/administration.power-immo.fr/bc/8f/L2ltYWdlcy9pbWFnZXNfYW5ub25jZXMvNS8xMTU0LzU0MTFfMTc5MDkzMzYyMTY0Mi5qcGc_MjAyNjExMjQyMDIyMzQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/administration.power-immo.fr/34/04/L2ltYWdlcy9pbWFnZXNfYW5ub25jZXMvNS8xMTU0LzU0MTFfMTc5MDkzMzYyMTgzNjUuanBnPzIwMjYxMTI0MjAyMjM0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/administration.power-immo.fr/e5/33/L2ltYWdlcy9pbWFnZXNfYW5ub25jZXMvNS8xMTU0LzU0MTFfMTc5MDkzMzYyMjE1MzMuanBnPzIwMjYxMTI0MjAyMjM0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/administration.power-immo.fr/4d/04/L2ltYWdlcy9pbWFnZXNfYW5ub25jZXMvNS8xMTU0LzU0MTFfMTc5MDkzMzYyMjQ3NDEuanBnPzIwMjYxMTI0MjAyMjM0_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69002",
+    "poster": "agence",
+    "poster_name": "KERJOLIS IMMO",
+    "published_at": "2026-11-24",
+    "rent_cc": 480,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297854170",
+    "surface_m2": null,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s)",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297854170A1KILHAP000"
    },
    "notified": false,
    "status": "active"
