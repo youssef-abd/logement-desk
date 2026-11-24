@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T20:20:25+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 4,
+   "blocked_runs": 5,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -16373,7 +16373,7 @@
    "checked": "2026-11-24T19:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T19:00:42+00:00",
-   "last_seen": "2026-11-24T19:00:42+00:00",
+   "last_seen": "2026-11-24T22:10:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -18690,7 +18690,7 @@
    "checked": "2026-11-24T16:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:00:36+00:00",
-   "last_seen": "2026-11-24T19:00:42+00:00",
+   "last_seen": "2026-11-24T22:10:22+00:00",
    "listing": {
     "charges": 35,
     "city": "lyon",
@@ -62850,7 +62850,7 @@
    "checked": "2026-11-24T19:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T19:00:42+00:00",
-   "last_seen": "2026-11-24T19:00:42+00:00",
+   "last_seen": "2026-11-24T22:10:22+00:00",
    "listing": {
     "charges": 100,
     "city": "lyon",
@@ -74700,6 +74700,44 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:54t202": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T22:10:22+00:00",
+   "last_seen": "2026-11-24T22:10:22+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 75 m². Disponible dès 2026-12-15",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-05a1d2c10fffa39537fbcd0f6dbdbcda/6589858/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 643,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "54t202",
+    "surface_m2": 75,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 75 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/54t202"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:5arv0n": {
    "also": [],
    "checked": "2026-11-24T13:00:44+00:00",
@@ -75226,7 +75264,7 @@
    "checked": "2026-11-24T19:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T19:00:42+00:00",
-   "last_seen": "2026-11-24T19:00:42+00:00",
+   "last_seen": "2026-11-24T22:10:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -80943,7 +80981,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T19:01:02+00:00",
-   "last_seen": "2026-11-24T19:10:21+00:00",
+   "last_seen": "2026-11-24T22:10:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -99736,7 +99774,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296315083A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1296315692": {
    "also": [],
@@ -99796,7 +99834,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296358389A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1296441788": {
    "also": [],
