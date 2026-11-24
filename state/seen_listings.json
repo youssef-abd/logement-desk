@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T01:50:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 4,
+   "blocked_runs": 5,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -17812,7 +17812,7 @@
    "checked": "2026-11-23T21:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:40:21+00:00",
-   "last_seen": "2026-11-23T23:40:21+00:00",
+   "last_seen": "2026-11-24T02:50:29+00:00",
    "listing": {
     "charges": 16,
     "city": "lyon",
@@ -22451,7 +22451,7 @@
    "checked": "2026-11-23T21:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:40:21+00:00",
-   "last_seen": "2026-11-23T23:40:21+00:00",
+   "last_seen": "2026-11-24T02:50:29+00:00",
    "listing": {
     "charges": 35,
     "city": "lyon",
@@ -72999,7 +72999,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/81odhb"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:871qt7": {
    "also": [],
@@ -73113,7 +73113,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/villeurbanne/a/8pasxb"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:8rhxm7": {
    "also": [],
@@ -73377,7 +73377,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T17:30:24+00:00",
-   "last_seen": "2026-11-23T23:40:21+00:00",
+   "last_seen": "2026-11-24T02:50:29+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -73483,7 +73483,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/b402a0"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:b424wz": {
    "also": [],
@@ -74171,7 +74171,7 @@
    "checked": "2026-11-23T21:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:50:19+00:00",
-   "last_seen": "2026-11-23T23:50:20+00:00",
+   "last_seen": "2026-11-24T02:50:29+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -77494,7 +77494,7 @@
    "checked": "2026-11-23T20:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-23T23:50:20+00:00",
+   "last_seen": "2026-11-24T02:50:29+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -94730,7 +94730,7 @@
    "checked": "2026-11-23T23:00:31+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T19:20:17+00:00",
-   "last_seen": "2026-11-23T23:50:20+00:00",
+   "last_seen": "2026-11-24T02:50:29+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -95334,7 +95334,7 @@
    "checked": "2026-11-23T23:00:31+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T11:00:54+00:00",
-   "last_seen": "2026-11-23T23:50:20+00:00",
+   "last_seen": "2026-11-24T02:50:29+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
