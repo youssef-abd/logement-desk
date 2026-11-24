@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T14:20:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 6,
+   "blocked_runs": 7,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -22644,7 +22644,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T11:40:18+00:00",
+   "last_seen": "2026-11-24T14:40:20+00:00",
    "listing": {
     "charges": 75,
     "city": "lyon",
@@ -36260,7 +36260,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T11:40:18+00:00",
+   "last_seen": "2026-11-24T14:40:20+00:00",
    "listing": {
     "charges": 56,
     "city": "lyon",
@@ -63086,7 +63086,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T11:40:18+00:00",
+   "last_seen": "2026-11-24T14:40:20+00:00",
    "listing": {
     "charges": 11,
     "city": "lyon",
@@ -75316,7 +75316,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T11:40:18+00:00",
+   "last_seen": "2026-11-24T14:40:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -76143,7 +76143,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-24T11:40:18+00:00",
+   "last_seen": "2026-11-24T14:40:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -77567,7 +77567,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/me84g5"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:mho5xl": {
    "also": [],
@@ -79026,7 +79026,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:30:26+00:00",
-   "last_seen": "2026-11-24T11:30:26+00:00",
+   "last_seen": "2026-11-24T14:40:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -80258,6 +80258,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:zzopfr": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T14:40:20+00:00",
+   "last_seen": "2026-11-24T14:40:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 108 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-fda4c4e40f9af0196d31dd656642e07e/6508156/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 560,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "zzopfr",
+    "surface_m2": 108,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 108 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/zzopfr"
+   },
+   "notified": false,
+   "status": "active"
   },
   "leboncoin:2915295735": {
    "also": [],
