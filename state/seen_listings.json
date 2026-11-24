@@ -29,10 +29,10 @@
    "last_success": "2026-11-24T14:20:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-24T13:30:24+00:00"
   },
   "logicimmo": {
@@ -18002,7 +18002,7 @@
    "checked": "2026-11-24T15:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:40:21+00:00",
-   "last_seen": "2026-11-24T12:10:22+00:00",
+   "last_seen": "2026-11-24T15:10:37+00:00",
    "listing": {
     "charges": 16,
     "city": "lyon",
@@ -22646,7 +22646,7 @@
    "checked": "2026-11-24T15:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:40:21+00:00",
-   "last_seen": "2026-11-24T12:10:22+00:00",
+   "last_seen": "2026-11-24T15:10:37+00:00",
    "listing": {
     "charges": 35,
     "city": "lyon",
@@ -73603,7 +73603,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T12:10:22+00:00",
-   "last_seen": "2026-11-24T12:10:22+00:00",
+   "last_seen": "2026-11-24T15:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -73748,6 +73748,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:5y4n32": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T15:10:37+00:00",
+   "last_seen": "2026-11-24T15:10:37+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 91 m². Disponible dès 2026-12-06",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-de5d78c6d73d18f80bfd8e99f7eba6f2/6627010/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 525,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "5y4n32",
+    "surface_m2": 91,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 91 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/5y4n32"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:60fm63": {
    "also": [],
@@ -79680,7 +79717,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T12:10:22+00:00",
-   "last_seen": "2026-11-24T12:10:22+00:00",
+   "last_seen": "2026-11-24T15:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -94053,7 +94090,7 @@
    "checked": "2026-11-24T09:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:00:39+00:00",
-   "last_seen": "2026-11-24T12:10:22+00:00",
+   "last_seen": "2026-11-24T15:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -100682,7 +100719,7 @@
    "checked": "2026-11-23T23:00:31+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T11:00:54+00:00",
-   "last_seen": "2026-11-24T12:10:22+00:00",
+   "last_seen": "2026-11-24T15:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -101801,7 +101838,7 @@
    "also": [],
    "dup_of": "bienici:hektor-espacesetlieux-262",
    "first_seen": "2026-11-24T02:00:38+00:00",
-   "last_seen": "2026-11-24T12:10:22+00:00",
+   "last_seen": "2026-11-24T15:10:37+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -101861,7 +101898,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-61734050",
    "first_seen": "2026-11-24T06:00:43+00:00",
-   "last_seen": "2026-11-24T12:10:22+00:00",
+   "last_seen": "2026-11-24T15:10:37+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -101871,7 +101908,7 @@
    "checked": "2026-11-24T06:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T06:00:43+00:00",
-   "last_seen": "2026-11-24T12:10:22+00:00",
+   "last_seen": "2026-11-24T15:10:37+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
