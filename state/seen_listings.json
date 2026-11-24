@@ -29,11 +29,11 @@
    "last_success": "2026-11-23T22:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 11,
-   "consecutive_failures": 4,
-   "cooldown_until": "2026-11-23T23:40:21+00:00",
-   "last_error": "blocked",
-   "last_success": "2026-11-23T21:10:33+00:00"
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
+   "cooldown_until": null,
+   "last_error": null,
+   "last_success": "2026-11-24T01:30:18+00:00"
   },
   "logicimmo": {
    "blocked_runs": 1,
@@ -19123,7 +19123,9 @@
    "status": "active"
   },
   "bienici:ag696596-556500647": {
-   "also": [],
+   "also": [
+    "leboncoin:3316663978"
+   ],
    "checked": "2026-11-23T10:03:03+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -59750,7 +59752,8 @@
   },
   "bienici:immo-facile-61734050": {
    "also": [
-    "leboncoin:3308050249"
+    "leboncoin:3308050249",
+    "leboncoin:3316711436"
    ],
    "checked": "2026-11-23T15:01:01+00:00",
    "dup_of": null,
@@ -69006,8 +69009,7 @@
    "checked": "2026-11-23T06:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T22:01:56+00:00",
-   "gone": "2026-11-23T06:00:39+00:00",
-   "last_seen": "2026-11-22T23:00:31+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -69042,7 +69044,7 @@
     "url": "https://www.immojeune.com/colocation/lyon-03-69/chambre-dans-une-colocation-de-288m-a-lyon-03_3979740.html"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "immojeune:4000138": {
    "also": [],
@@ -72094,6 +72096,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:3zctml": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T01:30:18+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 90 m². Disponible dès 2026-12-15",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-3e8ed7679b3e498a2f8bda2ea64469d0/6589009/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 560,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "3zctml",
+    "surface_m2": 90,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/3zctml"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:4bidrg": {
    "also": [],
    "checked": "2026-11-23T16:03:28+00:00",
@@ -73854,6 +73893,44 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:dhu8pc": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T01:30:18+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 90 m². Disponible dès 2026-12-12",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-e92a4340719b185351c462698d3571b7/6588959/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 640,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "dhu8pc",
+    "surface_m2": 90,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/dhu8pc"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:e8gyve": {
    "also": [],
    "dup_of": null,
@@ -74856,7 +74933,7 @@
     "url": "https://www.lacartedescolocs.fr/sous-locations/fr/auvergne-rhone-alpes/lyon/a/kxfz6q"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:l83pef": {
    "also": [],
@@ -77555,7 +77632,7 @@
    "also": [],
    "dup_of": "bienici:ag261285-529910132",
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -77608,7 +77685,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3226042410"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3226201988": {
    "also": [],
@@ -77740,7 +77817,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3245616205"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3248314053": {
    "also": [
@@ -77843,7 +77920,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3262086449"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3262126712": {
    "also": [],
@@ -78096,7 +78173,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3269861414"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3269935973": {
    "also": [],
@@ -78111,7 +78188,7 @@
    "also": [],
    "dup_of": "bienici:hektor-lesadresses_01-4112",
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -78171,13 +78248,13 @@
     "url": "https://www.leboncoin.fr/ad/locations/3270862304"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3271303242": {
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 40.0,
     "city": "lyon",
@@ -78230,7 +78307,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 66.0,
     "city": "lyon",
@@ -78619,7 +78696,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3280798790"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3281097793": {
    "also": [],
@@ -78712,7 +78789,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 132.0,
     "city": "lyon",
@@ -79217,7 +79294,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 27.0,
     "city": "lyon",
@@ -79716,7 +79793,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3296173527"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3297254453": {
    "also": [],
@@ -79936,7 +80013,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3297763619"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3297763754": {
    "also": [],
@@ -80018,7 +80095,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3297830605"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3298050060": {
    "also": [],
@@ -80433,7 +80510,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3300856941"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3300995089": {
    "also": [],
@@ -80625,7 +80702,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3301608702"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3301682762": {
    "also": [],
@@ -80996,7 +81073,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3303874164"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3303886237": {
    "also": [],
@@ -81182,7 +81259,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3305656086"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3305723625": {
    "also": [],
@@ -81519,7 +81596,7 @@
    "also": [],
    "dup_of": "bienici:hektor-2138_EXPERTIMO22-330402",
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -81951,7 +82028,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3308281187"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3308414551": {
    "also": [],
@@ -82174,7 +82251,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 125.0,
     "city": "lyon",
@@ -82363,7 +82440,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 135.0,
     "city": "lyon",
@@ -82481,7 +82558,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3310683398"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3310745305": {
    "also": [],
@@ -82524,7 +82601,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3310745305"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3311014285": {
    "also": [],
@@ -82653,7 +82730,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3311750868"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3311769826": {
    "also": [],
@@ -82695,7 +82772,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3311769826"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3311865203": {
    "also": [],
@@ -82794,7 +82871,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3312412515"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3312649402": {
    "also": [],
@@ -83080,7 +83157,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3313264220"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3313264221": {
    "also": [],
@@ -85027,7 +85104,7 @@
    "also": [],
    "dup_of": "paruvendu:1296488548",
    "first_seen": "2026-11-22T19:20:19+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -86014,7 +86091,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316068100"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316088801": {
    "also": [],
@@ -86053,7 +86130,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316088801"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316090328": {
    "also": [],
@@ -86091,7 +86168,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316090328"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316090395": {
    "also": [],
@@ -86131,7 +86208,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316090395"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316091818": {
    "also": [],
@@ -86170,7 +86247,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316091818"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316093235": {
    "also": [],
@@ -86236,7 +86313,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316110815"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316112129": {
    "also": [],
@@ -86275,7 +86352,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316112129"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316117882": {
    "also": [],
@@ -86315,7 +86392,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316117882"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316125325": {
    "also": [],
@@ -86356,7 +86433,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316125325"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316131452": {
    "also": [],
@@ -86395,7 +86472,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316131452"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316137659": {
    "also": [],
@@ -86437,7 +86514,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316137659"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316138037": {
    "also": [],
@@ -86495,7 +86572,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316166120"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316168568": {
    "also": [],
@@ -86535,7 +86612,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316168568"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316171969": {
    "also": [],
@@ -86592,7 +86669,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316173455"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316174263": {
    "also": [],
@@ -86635,7 +86712,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316174263"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316184457": {
    "also": [
@@ -86678,7 +86755,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316184457"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316187703": {
    "also": [],
@@ -86716,7 +86793,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316187703"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316190577": {
    "also": [],
@@ -86759,7 +86836,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316190577"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316196819": {
    "also": [],
@@ -86801,7 +86878,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316196819"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316208729": {
    "also": [],
@@ -86862,7 +86939,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316221922"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316224135": {
    "also": [],
@@ -86898,7 +86975,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316224135"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316229464": {
    "also": [],
@@ -86943,7 +87020,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316230350"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316237798": {
    "also": [
@@ -87741,7 +87818,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 95.0,
     "city": "lyon",
@@ -87782,7 +87859,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 60.0,
     "city": "lyon",
@@ -87822,7 +87899,7 @@
    "also": [],
    "dup_of": "bienici:apimo-87625308",
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -87831,7 +87908,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 150.0,
     "city": "lyon",
@@ -87869,7 +87946,7 @@
    "also": [],
    "dup_of": "paruvendu:1296923082",
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -87878,7 +87955,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 50.0,
     "city": "lyon",
@@ -87917,7 +87994,7 @@
    "also": [],
    "dup_of": "bienici:ag752861-559329905",
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -87926,7 +88003,7 @@
    "also": [],
    "dup_of": "bienici:ag690014-550158899",
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -87935,7 +88012,7 @@
    "also": [],
    "dup_of": "bienici:netty-company53336hnt-appt-2353",
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -87944,7 +88021,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 40.0,
     "city": "lyon",
@@ -88022,7 +88099,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 35.0,
     "city": "lyon",
@@ -88061,7 +88138,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": {
     "charges": 40.0,
     "city": "lyon",
@@ -88097,7 +88174,266 @@
    "also": [],
    "dup_of": "bienici:immo-facile-61638483",
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-23T21:10:33+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3316632113": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T01:30:18+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
+   "listing": {
+    "charges": 0.0,
+    "city": "lyon",
+    "description": "Nous proposons à la location un appartement meublé de 22 m² + mezzanine, situé au 4ᵉ et dernier étage avec ascenseur d’un immeuble de standing, au cœur de l’un des quartiers les plus prisés de Lyon.\n\nCe logement, calme et sans vis-à-vis, offre un cadre de vie agréable et lumineux. Il se compose d’un espace de vie avec cuisine équipé, d’une salle d’eau avec WC, ainsi que d’un coin nuit en mezzanine. L’ensemble bénéficie d’une vue dégagée sur le Rhône et allie le cachet de l’ancien à des prestatio",
+    "district": "Lyon 69002",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/76/83/4b/76834b4af6b60f6e9cd8c9f85e8da24251e84cd8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e4/26/84/e42684fa909694c110716799f5ad2cf201681a44.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/db/b4/9c/dbb49ceee7f3f77d1361141c788e0d28d7935c70.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/21/03/ae/2103ae36b838e3ba2a7d3eef261b0c7839b00083.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8e/09/d8/8e09d8ba07b67334ba1cba646d9600b22ed73480.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b8/1f/cc/b81fccf172bec03653e5d38ce2b8aa8ee7d92e6c.jpg?rule=ad-large"
+    ],
+    "postal_code": "69002",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-23 22:10:33",
+    "rent_cc": 950.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3316632113",
+    "surface_m2": 22.0,
+    "tags": [],
+    "title": "Studio meublé 22m2 hypercentre",
+    "url": "https://www.leboncoin.fr/ad/locations/3316632113"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316636606": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T01:30:18+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
+   "listing": {
+    "charges": 30.0,
+    "city": "lyon",
+    "description": "LYON 7 10 minutes à pieds de Bellecour- A 5 minutes des facs Lyon 3 et Lyon 2 - Appartement en duplex avec cachet situé en cour intérieure, au calme. L'isolation a été entièrement refaite. Salle de bains équipée d'une douche et d'une vasque. Contactez nous pour venir le visiter",
+    "district": "Lyon 69007",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/d9/44/fbd944ab2ac2dcdc6d2995ac4482919126f8e1fd.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/3a/fc/54/3afc540d0098ea3f1a612f8d749bd4d973dd75fd.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/86/74/b2/8674b2e68b908da8939c127d08b1a268538f834e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/31/0b/ac/310bac4523da5cd491480520ce5b6b01602954c2.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/1d/7b/94/1d7b9480fa9e11852711ef2bd95d7b0255780600.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ba/a7/6b/baa76bc1b4a15753bda9b50a2132931c9ff3c169.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-23 22:14:01",
+    "rent_cc": 650.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3316636606",
+    "surface_m2": 36.29,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "T2 Rue Chalopin",
+    "url": "https://www.leboncoin.fr/ad/locations/3316636606"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316659638": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T01:30:18+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
+   "listing": {
+    "charges": 30.0,
+    "city": "lyon",
+    "description": "Situé au 2ᵉ et dernier étage d'une petite copropriété aux faibles charges, cet appartement meublé traversant développe 53 m² loi Carrez (72 m² au sol).  Vous serez séduit par sa belle pièce de vie de 25 m², baignée de lumière grâce à son exposition sud-est, offrant une agréable hauteur sous plafond et de jolies poutres apparentes.  \n\nL'appartement dispose également d'une cuisine indépendante aménagée et équipée, d'une chambre avec placard intégré ainsi que d'une salle d'eau avec WC.  Dans le pro",
+    "district": "Écully 69130",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/2e/91/b72e91cee283940f13c16fd45669d79450d223d8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e7/e6/5e/e7e65e94d79ba6e520575153de80b638de0c546d.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6e/b8/ed/6eb8edc2c1eac1fe465512007a52a105cd5671cf.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f7/2c/17/f72c1782ed8755d3c94abd6a7f82ac41b911a384.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/0d/99/b70d99b10ef84ace389c2c71f5ecad51b85b2cfe.jpg?rule=ad-large"
+    ],
+    "postal_code": "69130",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-23 23:03:41",
+    "rent_cc": 980.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3316659638",
+    "surface_m2": 53.0,
+    "tags": [],
+    "title": "Appartement meublé en location",
+    "url": "https://www.leboncoin.fr/ad/locations/3316659638"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316663978": {
+   "also": [],
+   "dup_of": "bienici:ag696596-556500647",
+   "first_seen": "2026-11-24T01:30:18+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3316677718": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T01:30:18+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
+   "listing": {
+    "charges": 50.0,
+    "city": "lyon",
+    "description": "Je propose en location ce charmant appartement meublé de 2 pièces de 56 m² situé au 3ème étage à Lyon, dans le quartier du Moulin à Vent.\nCet appartement comprend 1 chambre et 1 salle de bain. La cuisine est équipée et ouverte sur le séjour, offrant un espace de vie lumineux et agréable. L'appartement bénéficie d'une belle luminosité naturelle.\n- Balcon\n- Ascenseur\n- Cuisine équipée et ouverte\nLe quartier du Moulin à Vent offre un accès facile à de nombreuses commodités, idéal pour un séjour en ",
+    "district": "Lyon 69008",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/3e/8b/25/3e8b2511f2f0b0c98151363ea110583f34470f3a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/80/02/77/8002770ae82ba761b9c686b4e5ab08d8b2f01f3f.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ed/9c/29/ed9c29a5a15a5391dfccf3cc96e3721ef73966a9.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d9/45/db/d945dbfd8b192c3ce66eee69670420c28399a07f.jpg?rule=ad-large"
+    ],
+    "postal_code": "69008",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-23 23:48:18",
+    "rent_cc": 780.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3316677718",
+    "surface_m2": 56.0,
+    "tags": [],
+    "title": "2 P de 56m2 proche de nombreux commodités",
+    "url": "https://www.leboncoin.fr/ad/locations/3316677718"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316705024": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T01:30:18+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
+   "listing": {
+    "charges": 25.0,
+    "city": "lyon",
+    "description": "Appartement 2 pièces 32 m²\n\nPROX METRO ET GARE VAISE - 33 RUE DE ST CYR  LYON 69009- STUDIO (lot 9) 31.79 M²   2ème étage\nAppartement en bon état  Pièce principale donnant sur cuisine meublée\nune salle d'eau avec WC\nLibre :  (de suite). \n Loyer de 635,00 euros par mois charges comprises dont 25,00 euros par mois de provision pour charges (soumis à la régularisation annuelle). \n Les honoraires charge locataire sont de 417,08 euros ( soit 13,12 euros/m² ) dont 96,32 euros pour état des lieux ( soi",
+    "district": "Lyon 69009",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/bb/6d/dc/bb6ddc5fc8c36c9b925bec0dc2fa9ded6d330429.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/be/c0/dc/bec0dc5eadcd34fd45167e2ca17b3be956cb1a62.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/c6/08/85/c608855f0095a027700db4fc27a812d15f857b2c.jpg?rule=ad-large"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": "Savro Gestion",
+    "published_at": "2026-11-24 01:15:28",
+    "rent_cc": 635.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3316705024",
+    "surface_m2": 32.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement 2 pièces 32 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3316705024"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316708518": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T01:30:18+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
+   "listing": {
+    "charges": 30.0,
+    "city": "lyon",
+    "description": "Appartement 1 pièce 25 m²\n\nAppartement meublé de 26 m² avec mezzanine – Lyon 4ᵉ \n\nAu coeur du très recherché quartier de la Croix-Rousse, dans le 4ᵉ arrondissement de Lyon, découvrez ce charmant appartement meublé de 26 m² au total, idéal pour un étudiant ou un jeune actif souhaitant profiter d'un quartier vivant, convivial et particulièrement bien desservi.\n\nL'appartement dispose également d'une mezzanine aménagée en coin nuit, permettant d'optimiser l'espace et de distinguer agréablement l'esp",
+    "district": "Lyon 69004",
+    "flags": [
+     "agency_fees",
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f9/25/f4/f925f47781c99fde34f1cc72645c3e379bd7fb56.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/7b/f7/0a/7bf70a640c791848972bdb495444cb3c48780126.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/85/1a/f3/851af3c159a321c5d490e8d0019470301bb29516.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e5/4d/04/e54d0400ecd39f0a091e3e5a0f8cca0ad38eb573.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d4/59/18/d45918047402356977138ce996abfe9eb375a03d.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/09/02/f8/0902f8e9a5cacdab8e5dc9cb5d514964859577ff.jpg?rule=ad-large"
+    ],
+    "postal_code": "69004",
+    "poster": "agence",
+    "poster_name": "TRUST GESTION",
+    "published_at": "2026-11-24 01:41:59",
+    "rent_cc": 760.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3316708518",
+    "surface_m2": 25.0,
+    "tags": [],
+    "title": "Appartement 1 pièce 25 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3316708518"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3316711436": {
+   "also": [],
+   "dup_of": "bienici:immo-facile-61734050",
+   "first_seen": "2026-11-24T01:30:18+00:00",
+   "last_seen": "2026-11-24T01:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
