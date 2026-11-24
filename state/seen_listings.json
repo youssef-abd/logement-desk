@@ -9,9 +9,9 @@
   },
   "foncia": {
    "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "TimeoutError",
    "last_success": "2026-11-24T08:00:44+00:00"
   },
   "immojeune": {
@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T08:00:44+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 9,
+   "blocked_runs": 10,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-24T07:00:20+00:00",
    "last_error": "blocked",
@@ -71831,7 +71831,7 @@
    "checked": "2026-11-23T20:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-24T05:30:22+00:00",
+   "last_seen": "2026-11-24T08:30:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -74566,7 +74566,7 @@
    "checked": "2026-11-23T21:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:10:21+00:00",
-   "last_seen": "2026-11-24T05:30:22+00:00",
+   "last_seen": "2026-11-24T08:30:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -96930,7 +96930,7 @@
    "checked": "2026-11-24T08:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T14:00:43+00:00",
-   "last_seen": "2026-11-24T05:30:22+00:00",
+   "last_seen": "2026-11-24T08:30:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -96969,7 +96969,7 @@
    "checked": "2026-11-24T08:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T14:00:43+00:00",
-   "last_seen": "2026-11-24T05:30:22+00:00",
+   "last_seen": "2026-11-24T08:30:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
