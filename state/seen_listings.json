@@ -29,7 +29,7 @@
    "last_success": "2026-11-23T22:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
+   "blocked_runs": 4,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-23T23:40:21+00:00",
    "last_error": "blocked",
@@ -44001,6 +44001,48 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "bienici:ics-anj_ANJALYS_loc-GES02220001-713": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T00:10:24+00:00",
+   "last_seen": "2026-11-24T00:10:24+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "APPARTEMENT T3 AVEC BALCON - 69200 - APPARTEMENT T3 AVEC BALCON ET GARAGE - 69200 \n\nSitué au 4e étage, cet appartement de 4 pièces, en très bon état général, propose une surface habitable de 67,48 m². Profitez d'une distribution optimale offrant deux chambres lumineuses, une salle de bain, une cuisine aménagée et équipée et un séjour. L'appartement dispose également d'un garage privatif\n\nChauffage collectif ainsi que d'une eau chaude collectif et eau froide individuelle (DPE C). \n\nNe manquez pas",
+    "district": "Vénissieux",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ics-anj_ANJALYS_loc-GES02220001-713_box.ics.fr_anj_ANJALYS_lyo_location_photo_gepetto-desencombrer-20261123-74kxu-10435716801544117911.jpg",
+     "https://file.bienici.com/photo/ics-anj_ANJALYS_loc-GES02220001-713_box.ics.fr_anj_ANJALYS_lyo_location_photo_gepetto-desencombrer-20261123-vx5jj-5457481431157013998.jpg",
+     "https://file.bienici.com/photo/ics-anj_ANJALYS_loc-GES02220001-713_box.ics.fr_anj_ANJALYS_lyo_location_photo_gepetto-desencombrer-20261123-l7fub-6660764434997105566.jpg",
+     "https://file.bienici.com/photo/ics-anj_ANJALYS_loc-GES02220001-713_box.ics.fr_anj_ANJALYS_lyo_location_photo_gepetto-desencombrer-20261123-axqzz-8230733015420066802.jpg",
+     "https://file.bienici.com/photo/ics-anj_ANJALYS_loc-GES02220001-713_box.ics.fr_anj_ANJALYS_lyo_location_photo_gepetto-desencombrer-20261123-qdll2-1441592541673107845.jpg",
+     "https://file.bienici.com/photo/ics-anj_ANJALYS_loc-GES02220001-713_box.ics.fr_anj_ANJALYS_lyo_location_photo_gepetto-desencombrer-20261123-ra2e6-15955975893379100465.jpg"
+    ],
+    "postal_code": "69200",
+    "poster": "agence",
+    "poster_name": "ANJALYS",
+    "published_at": "2026-11-24T00:06:49.603Z",
+    "rent_cc": 1100,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "ics-anj_ANJALYS_loc-GES02220001-713",
+    "surface_m2": 67.48,
+    "tags": [],
+    "title": "3 pièce(s) 67.48 m² Vénissieux",
+    "url": "https://www.bienici.com/annonce/ics-anj_ANJALYS_loc-GES02220001-713"
+   },
+   "notified": false,
+   "status": "active"
   },
   "bienici:ics-anj_ANJALYS_loc-GES02410028-713": {
    "also": [],
