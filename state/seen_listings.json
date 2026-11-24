@@ -29,8 +29,8 @@
    "last_success": "2026-11-24T17:20:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
-   "consecutive_failures": 3,
+   "blocked_runs": 4,
+   "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-24T16:50:20+00:00"
@@ -75047,6 +75047,43 @@
     ],
     "title": "Appartement 5 pièces de 77 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/786wm5"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:7dhw4q": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T19:40:20+00:00",
+   "last_seen": "2026-11-24T19:40:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 90 m². Disponible dès 2027-01-01",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-ebbee6fe5758d0615581c61a2f6f48b0/2029354/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 400,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "7dhw4q",
+    "surface_m2": 90,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/7dhw4q"
    },
    "notified": false,
    "status": "active"
