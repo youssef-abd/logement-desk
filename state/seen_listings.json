@@ -29,10 +29,10 @@
    "last_success": "2026-11-24T17:20:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 6,
-   "consecutive_failures": 4,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
+   "last_error": null,
    "last_success": "2026-11-24T16:50:20+00:00"
   },
   "logicimmo": {
@@ -5960,7 +5960,9 @@
    "status": "stale"
   },
   "bienici:ag690011-545078264": {
-   "also": [],
+   "also": [
+    "leboncoin:3301972006"
+   ],
    "checked": "2026-11-24T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -6471,6 +6473,15 @@
    "dup_of": "leboncoin:3316221922",
    "first_seen": "2026-11-23T13:50:19+00:00",
    "last_seen": "2026-11-24T17:01:05+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "bienici:ag690011-562470167": {
+   "also": [],
+   "dup_of": "leboncoin:3317083097",
+   "first_seen": "2026-11-24T18:30:20+00:00",
+   "last_seen": "2026-11-24T18:30:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -10366,6 +10377,84 @@
     "tags": [],
     "title": "Appartement à louer Lyon",
     "url": "https://www.bienici.com/annonce/ag692481-560743862"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag692481-562470140": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T18:30:20+00:00",
+   "last_seen": "2026-11-24T18:30:20+00:00",
+   "listing": {
+    "charges": 56,
+    "city": "lyon",
+    "description": "Situé dans le secteur recherché de Monplaisir, dans le 8? arrondissement de Lyon à proximité immédiate de la station de métro Monplaisir-Lumière, découvrez ce T2 au 3? étage d'un immeuble avec ascenseur. Le bien se compose d'un séjour lumineux avec cheminée décorative, placards intégrés et d'une cuisine ouverte meublée et équipée d'une plaque de cuisson. L'espace nuit se compose d'une chambre avec alcôve, d'une salle d'eau et d'un WC séparé.\nChauffage et Eau Chaude individuel Electrique. Eau Fro",
+    "district": "Lyon 8e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag692481-562470140_photos.ubiflow.net_692481_562470140_photos_1.jpg_INSOON_EB_5512801818_20261124172954",
+     "https://file.bienici.com/photo/ag692481-562470140_photos.ubiflow.net_692481_562470140_photos_2.jpg_INSOON_EB_5512801818_20261124172954",
+     "https://file.bienici.com/photo/ag692481-562470140_photos.ubiflow.net_692481_562470140_photos_3.jpg_INSOON_EB_5512801818_20261124172954",
+     "https://file.bienici.com/photo/ag692481-562470140_photos.ubiflow.net_692481_562470140_photos_4.jpg_INSOON_EB_5512801818_20261124172954",
+     "https://file.bienici.com/photo/ag692481-562470140_photos.ubiflow.net_692481_562470140_photos_5.jpg_INSOON_EB_5512801818_20261124172954",
+     "https://file.bienici.com/photo/ag692481-562470140_photos.ubiflow.net_692481_562470140_photos_6.jpg_INSOON_EB_5512801818_20261124172954"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "REGIE MOUTON",
+    "published_at": "2026-11-24T17:43:50.778Z",
+    "rent_cc": 1079,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag692481-562470140",
+    "surface_m2": 59,
+    "tags": [],
+    "title": "170 AVENUE DES FRERES LUMIERE",
+    "url": "https://www.bienici.com/annonce/ag692481-562470140"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag692481-562470149": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T18:30:20+00:00",
+   "last_seen": "2026-11-24T18:30:20+00:00",
+   "listing": {
+    "charges": 59,
+    "city": "lyon",
+    "description": "Situé dans le 3? arrondissement de Lyon, à proximité des stations de métro Place Guichard - Bourse du Travail, Saxe-Gambetta et Guillotière - Gabriel Péri, découvrez ce charmant T1 situé au 4? étage d'un immeuble avec ascenseur.\nLe bien se compose d'un vaste séjour lumineux avec alcôve et deux cheminées décoratives, ainsi qu'une cuisine ouverte, aménagée et équipée (hotte, four, plaque de cuisson et réfrigérateur).  Un espace nuit avec rangements intégrés, une buanderie, une salle de bains ainsi",
+    "district": "Lyon 3e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag692481-562470149_photos.ubiflow.net_692481_562470149_photos_1.jpg_INSOON_EB_5512801818_20261124172957",
+     "https://file.bienici.com/photo/ag692481-562470149_photos.ubiflow.net_692481_562470149_photos_2.jpg_INSOON_EB_5512801818_20261124172957",
+     "https://file.bienici.com/photo/ag692481-562470149_photos.ubiflow.net_692481_562470149_photos_3.jpg_INSOON_EB_5512801818_20261124172957",
+     "https://file.bienici.com/photo/ag692481-562470149_photos.ubiflow.net_692481_562470149_photos_4.jpg_INSOON_EB_5512801818_20261124172957",
+     "https://file.bienici.com/photo/ag692481-562470149_photos.ubiflow.net_692481_562470149_photos_5.jpg_INSOON_EB_5512801818_20261124172957",
+     "https://file.bienici.com/photo/ag692481-562470149_photos.ubiflow.net_692481_562470149_photos_6.jpg_INSOON_EB_5512801818_20261124172957"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "REGIE MOUTON",
+    "published_at": "2026-11-24T17:43:50.778Z",
+    "rent_cc": 782,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag692481-562470149",
+    "surface_m2": 45,
+    "tags": [],
+    "title": "7 RUE SAINT JACQUES",
+    "url": "https://www.bienici.com/annonce/ag692481-562470149"
    },
    "notified": false,
    "status": "active"
@@ -14368,7 +14457,9 @@
    "status": "stale"
   },
   "bienici:ag694137-552500813": {
-   "also": [],
+   "also": [
+    "leboncoin:3308551450"
+   ],
    "checked": "2026-11-24T02:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -49837,7 +49928,9 @@
    "status": "active"
   },
   "bienici:ics-tar_TARGE_loc-GES02260012-807": {
-   "also": [],
+   "also": [
+    "leboncoin:3317122436"
+   ],
    "checked": "2026-11-24T08:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -82681,6 +82774,45 @@
    "notified": false,
    "status": "stale"
   },
+  "leboncoin:3276837667": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T18:30:20+00:00",
+   "last_seen": "2026-11-24T18:30:20+00:00",
+   "listing": {
+    "charges": 90.0,
+    "city": "lyon",
+    "description": "DISPONIBLE LE 1er NOVEMBRE - 180 AVENUE PAUL SANTY LYON 8 Appartement T3 de 56 m2, situé au 1er étage avec ascenseur, il est composé d'une entrée, un séjour ouvrant sur une cuisine meublée et équipée (plaque, hotte, lave vaisselle, lave linge), 2 chambres avec placards, salle de bain et wc indépendant. Pour faciliter vos déplacements le logement est loué avec un garage et pour plus de rangements, une cave.Le chauffage et l'eau chaude sont individuels électriques, l'eau froide est collective (com",
+    "district": "Lyon 69008",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/c0/2e/4d/c02e4d5bc2edbcc8cda55d7c0f9fffd2826492a3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/18/89/8e/18898e0ee9880ef617053cb1c5a6dfbdfccc9690.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/5f/d9/3b/5fd93b4cb653b6ca46a22143f79c26252eaf00e1.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/5b/cf/7a/5bcf7a2388afddcd1b1c0a93a13d5e31d18a51d5.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/79/72/b1/7972b19833b5b1c3e7a68c4bc98f0f4dcc2cbc47.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/30/30/98/303098b35c4ebf69490b821f9a8d28a9fabec322.jpg?rule=ad-large"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "Foncia Lyon - Craponne",
+    "published_at": "2026-11-24 05:27:02",
+    "rent_cc": 770.0,
+    "rooms": 3,
+    "source": "leboncoin",
+    "source_id": "3276837667",
+    "surface_m2": 56.0,
+    "tags": [],
+    "title": "Apartment",
+    "url": "https://www.leboncoin.fr/ad/locations/3276837667"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3278135457": {
    "also": [],
    "dup_of": "bienici:ag696596-551380436",
@@ -85388,6 +85520,45 @@
    "notified": true,
    "status": "active"
   },
+  "leboncoin:3301698165": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T18:30:20+00:00",
+   "last_seen": "2026-11-24T18:30:20+00:00",
+   "listing": {
+    "charges": 210.0,
+    "city": "lyon",
+    "description": "Appartement 2 pièces 36 m²\n\nImmobilier.notaires® et l’office notarial BAZAILLE & Associés vous proposent :\nAppartement à louer - VENISSIEUX (69200)\n- - - - - - - - - - - - - - - - - - - - - -\nT2 au 3ème étage, composé d’une entrée une salle de bains, un WC indépendant, un séjour/cuisine, avec une cuisine équipée.  Une chambre.\nUn balcon.\nUn garage complète le bien.\nadresse : Résidence \"LE VIENNA\", 263 route de Vienne à VÉNISSIEUX\n\nL'eau et le chauffage sont inclus dans les charges, soumis à régu",
+    "district": "Vénissieux 69200",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/33/b2/3d/33b23d3fcd2f35f31a6231b2c0abe797162d31b5.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/23/0b/a5/230ba5ddde9538eddb0aed4ab9ba03770eea5004.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/25/68/9f/25689f293a059dc920d8d668396aaaf4e4d441b8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/97/0f/d9/970fd9ada4490345e330a8a7b84ef016b6f77384.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/0a/fa/f7/0afaf70e734f756d28b8a4ce1b5791db9ed67bed.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8d/e1/41/8de14195aaa4beb3372fca7ea09950410217e5e1.jpg?rule=ad-large"
+    ],
+    "postal_code": "69200",
+    "poster": "agence",
+    "poster_name": "Etude BAZAILLE & Associés - Notaires à GIVORS",
+    "published_at": "2026-11-03 17:09:32",
+    "rent_cc": 878.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3301698165",
+    "surface_m2": 36.0,
+    "tags": [],
+    "title": "Appartement 2 pièces 36 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3301698165"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3301721345": {
    "also": [],
    "dup_of": null,
@@ -85430,6 +85601,15 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "leboncoin:3301972006": {
+   "also": [],
+   "dup_of": "bienici:ag690011-545078264",
+   "first_seen": "2026-11-24T18:30:20+00:00",
+   "last_seen": "2026-11-24T18:30:20+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
   },
   "leboncoin:3302113162": {
    "also": [],
@@ -87256,6 +87436,15 @@
    "notified": true,
    "status": "active"
   },
+  "leboncoin:3308551450": {
+   "also": [],
+   "dup_of": "bienici:ag694137-552500813",
+   "first_seen": "2026-11-24T18:30:20+00:00",
+   "last_seen": "2026-11-24T18:30:20+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3308721929": {
    "also": [],
    "dup_of": null,
@@ -88278,6 +88467,48 @@
    "notified": false,
    "status": "active"
   },
+  "leboncoin:3312037846": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T18:30:20+00:00",
+   "last_seen": "2026-11-24T18:30:20+00:00",
+   "listing": {
+    "charges": 35.0,
+    "city": "lyon",
+    "description": "APPARTEMENT T1 Bis Meublé  Coeur Croix-Rousse - LYON 4 - 41.30m² - 941€ CC\n\nRUE DUVIARD - A 5 minutes à pieds du métro Croix-Rousse.\nAppartement T1 bis meublé de 41,30m², au 2ème étage sans ascenseur, composé d'une entrée avec placards, une cuisine aménagée et équipée, un séjour avec alcôve (espace nuit), une salle d'eau, un wc séparé, une mezzanine avec placards.\nChauffage individuel électrique.\n\nDisponible dès le 9 décembre.\nRéférence annonce : IJYY-LEJ-E3X\nDate de réalisation du diagnostic : ",
+    "district": "Lyon 69004",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a6/4e/2e/a64e2e9d35e168f24231894e256be67916d632d5.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/89/1b/07/891b07fc42815a6178fb9bc456526e8dc637fd13.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d1/ea/74/d1ea7467aac9f59f3bfbbfc2e4cfef29f75f509e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b9/b3/37/b9b337b207c44b941fb727a0e4c91d1fcc11e9c1.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ef/40/6f/ef406fde8931ab26fe42047cd287da71e40b1480.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ed/26/d3/ed26d3e538eaef6e235f6920ac102dbe33187146.jpg?rule=ad-large"
+    ],
+    "postal_code": "69004",
+    "poster": "agence",
+    "poster_name": "ORPI VERNAY IMMOBILIER",
+    "published_at": "2026-11-18 12:14:24",
+    "rent_cc": 941.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3312037846",
+    "surface_m2": 41.0,
+    "tags": [],
+    "title": "Appartement 1 pièce 41 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3312037846"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3312056394": {
    "also": [],
    "dup_of": "bienici:immo-facile-60122298",
@@ -88567,7 +88798,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T19:20:19+00:00",
-   "last_seen": "2026-11-22T19:20:19+00:00",
+   "last_seen": "2026-11-24T18:30:20+00:00",
    "listing": {
     "charges": 50.0,
     "city": "lyon",
@@ -88603,7 +88834,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3312665594"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "leboncoin:3312670732": {
    "also": [],
@@ -95711,7 +95942,9 @@
    "status": "active"
   },
   "leboncoin:3317083097": {
-   "also": [],
+   "also": [
+    "bienici:ag690011-562470167"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-24T16:50:20+00:00",
    "last_seen": "2026-11-24T16:50:20+00:00",
@@ -95906,6 +96139,95 @@
     ],
     "title": "Studio",
     "url": "https://www.leboncoin.fr/ad/locations/3317119545"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3317122436": {
+   "also": [],
+   "dup_of": "bienici:ics-tar_TARGE_loc-GES02260012-807",
+   "first_seen": "2026-11-24T18:30:20+00:00",
+   "last_seen": "2026-11-24T18:30:20+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3317151701": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T18:30:20+00:00",
+   "last_seen": "2026-11-24T18:30:20+00:00",
+   "listing": {
+    "charges": 60.0,
+    "city": "lyon",
+    "description": "Idéal étudiant secteur Lyon 7e et Confluence, appartement 2 pièces meublé de standing parfaitement équipé.\nDisponible fin novembre. Réservation dès maintenant au premier dossier complet (voir en bas de l’annonce).\nA proximité immédiate la ligne B du métro et les nombreuses lignes de Bus TCL (C10, C7,15, 63, 88…) desservant Bellecour, Part-Dieu, Perrache, Garibaldi, Gambetta, Confluence, Jean Jaurès, Jean Macé, Gerland…), vous rejoignez facilement en quelques minutes les principaux pôles lyonnais",
+    "district": "Lyon 69007",
+    "flags": [
+     "agency_fees_no",
+     "garant"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/2b/b9/5f/2bb95f4b4cee74d474effad2f02b4b4ac721e2ac.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/80/2c/d9/802cd9259154d5dc0fc7bc9a19f9a7f26dde0e75.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a9/24/45/a924450c78144b5b03bf30eb4fb8c7c01664138e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8a/e4/fb/8ae4fb346f1170aead9c329becfe933ff45dc3f6.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f7/fc/40/f7fc408c7e6238b08179083f4a8a35591a286863.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/9b/d2/e7/9bd2e7535ae1b4b491899d060c5384ac7c833910.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-24 18:54:18",
+    "rent_cc": 900.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3317151701",
+    "surface_m2": 28.0,
+    "tags": [],
+    "title": "2 pièces Meublé - Métro B - secteur Lyon 7e Confluence",
+    "url": "https://www.leboncoin.fr/ad/locations/3317151701"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3317165886": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T18:30:20+00:00",
+   "last_seen": "2026-11-24T18:30:20+00:00",
+   "listing": {
+    "charges": 55.0,
+    "city": "lyon",
+    "description": "Situation: \nLyon presqu'ile, 50m de la place des Terreaux\nTrès proche des lycées: Arts de la coiffure, Ampère et La Martinière\nMétro: station Hôtel de Ville à300m\nStation vélov à 20 et 100m\nBus à 20m\nParking souterrain public à 200m\nImmeuble sécurisé: digicode et interphone\nDescription:\n4ème étage sur 4\nPetit duplex avec balcon (expo sud) avec table et chaises\nHall d'entrée avec placard penderie\nPièce principale avec coin cuisine (plaque vitrocéramique, lave linge, réfrigérateur/congélateur, mic",
+    "district": "Lyon 69001",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a4/2f/4d/a42f4d67199b20b53b1057dc3c0db64152cf802c.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a2/08/b1/a208b1142f1b96f1726b88f3592e77d6f5a1360f.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/9d/79/b5/9d79b5895d2117dbb70abefbc54db0a3dab1856d.jpg?rule=ad-large"
+    ],
+    "postal_code": "69001",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-24 19:13:39",
+    "rent_cc": 710.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3317165886",
+    "surface_m2": 18.89,
+    "tags": [],
+    "title": "STUDIO DUPLEX MEUBLE ETUDIANT Ref. F",
+    "url": "https://www.leboncoin.fr/ad/locations/3317165886"
    },
    "notified": false,
    "status": "active"
