@@ -29,10 +29,10 @@
    "last_success": "2026-11-24T14:20:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-24T13:30:24+00:00"
   },
   "logicimmo": {
@@ -68387,6 +68387,40 @@
    "notified": false,
    "status": "stale"
   },
+  "foncia:331561866": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:20:21+00:00",
+   "last_seen": "2026-11-24T16:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "T3 meublé au cœur du secteur Moulin à Vent, dans une résidence récente et sécuriséeSitué au 80 rue …",
+    "district": "Lyon 8e",
+    "flags": [],
+    "found_by": "foncia",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/f7/32/1d/a8/50/75/55/ee/2b/6e/c6/d3/49/42/c7/f5/lg.jpeg"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 1095,
+    "rooms": 3,
+    "source": "foncia",
+    "source_id": "331561866",
+    "surface_m2": 59.46,
+    "tags": [],
+    "title": "Location Appartement meublé 3 pièces 59.46 m² - Lyon 69008",
+    "url": "https://fr.foncia.com/location/lyon-69008/appartement-meuble/331561866.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "foncia:331666749": {
    "also": [],
    "dup_of": "bienici:hektor-onilimmo-2895",
@@ -69218,6 +69252,44 @@
     "tags": [],
     "title": "Location Appartement meublé 2 pièces 45.52 m² - Lyon 69001",
     "url": "https://fr.foncia.com/location/lyon-69001/appartement-meuble/331729966.htm"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "foncia:331730679": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:20:21+00:00",
+   "last_seen": "2026-11-24T16:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "PAS DE FRAIS D'AGENCE, RESIDENCE LES THEOREMES, RESERVES AUX ETUDIANTS, 39bis rue Sergent Michel …",
+    "district": "Lyon 9e",
+    "flags": [
+     "agency_fees_no"
+    ],
+    "found_by": "foncia",
+    "furnished": true,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://d7b3sch6x3cpd.cloudfront.net/annonces/c3/60/e5/0e/69/68/5f/62/72/42/70/f5/99/e1/5d/32/lg.jpeg"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": "Foncia",
+    "published_at": null,
+    "rent_cc": 690,
+    "rooms": 2,
+    "source": "foncia",
+    "source_id": "331730679",
+    "surface_m2": 30.43,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Location Appartement meublé 2 pièces 30.43 m² - Lyon 69009",
+    "url": "https://fr.foncia.com/location/lyon-69009/appartement-meuble/331730679.htm"
    },
    "notified": false,
    "status": "active"
@@ -74620,7 +74692,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:10:29+00:00",
-   "last_seen": "2026-11-24T13:10:29+00:00",
+   "last_seen": "2026-11-24T16:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75064,6 +75136,44 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:9kp9ah": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:20:21+00:00",
+   "last_seen": "2026-11-24T16:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 8 pièces de 124 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-896edf936d87101089aca9beb047de2d/3305165/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 631,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "9kp9ah",
+    "surface_m2": 124,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 8 pièces de 124 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/9kp9ah"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:9to1ul": {
    "also": [],
@@ -79688,7 +79798,7 @@
    "checked": "2026-11-23T20:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T16:10:18+00:00",
-   "last_seen": "2026-11-24T01:20:25+00:00",
+   "last_seen": "2026-11-24T16:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -79718,7 +79828,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/villeurbanne/a/wl835s"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:wq7jmp": {
    "also": [],
@@ -80179,7 +80289,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T13:10:20+00:00",
-   "last_seen": "2026-11-24T13:10:29+00:00",
+   "last_seen": "2026-11-24T16:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -103268,7 +103378,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES42220010-171",
    "first_seen": "2026-11-24T13:10:29+00:00",
-   "last_seen": "2026-11-24T13:10:29+00:00",
+   "last_seen": "2026-11-24T16:20:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -103277,7 +103387,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES79000051-171",
    "first_seen": "2026-11-24T13:10:29+00:00",
-   "last_seen": "2026-11-24T13:10:29+00:00",
+   "last_seen": "2026-11-24T16:20:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
