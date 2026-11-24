@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T11:10:23+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 6,
+   "blocked_runs": 7,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -22540,6 +22540,47 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:ag752345-562383482": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T11:40:18+00:00",
+   "last_seen": "2026-11-24T11:40:18+00:00",
+   "listing": {
+    "charges": 75,
+    "city": "lyon",
+    "description": "Logement Manda ! Visitez et déposez votre dossier uniquement sur notre plateforme  ! Nous ne vous enverrons jamais le bail ou le RIB par mail - tout est sécurisé sur notre plateforme.\n\n L'agence Manda vous propose ce joli T2 meublé, situé à Vénissieux.\n\nCet appartement est composé du séjour avec canapé et table à manger, de la cuisine ouverte équipée, de la chambre avec lit double et de la salle d'eau avec douche.\nUn garage fermé est inclus avec le logement, offrant un stationnement sécurisé et ",
+    "district": "Vénissieux",
+    "flags": [
+     "available_now"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag752345-562383482_photos.ubiflow.net_752345_562383482_photos_1.jpg_INSOON_EB_5512801818_20261124112550",
+     "https://file.bienici.com/photo/ag752345-562383482_photos.ubiflow.net_752345_562383482_photos_2.jpg_INSOON_EB_5512801818_20261124112550",
+     "https://file.bienici.com/photo/ag752345-562383482_photos.ubiflow.net_752345_562383482_photos_3.jpg_INSOON_EB_5512801818_20261124112550",
+     "https://file.bienici.com/photo/ag752345-562383482_photos.ubiflow.net_752345_562383482_photos_4.jpg_INSOON_EB_5512801818_20261124112550",
+     "https://file.bienici.com/photo/ag752345-562383482_photos.ubiflow.net_752345_562383482_photos_5.jpg_INSOON_EB_5512801818_20261124112550",
+     "https://file.bienici.com/photo/ag752345-562383482_photos.ubiflow.net_752345_562383482_photos_6.jpg_INSOON_EB_5512801818_20261124112550"
+    ],
+    "postal_code": "69200",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": "2026-11-24T11:31:17.070Z",
+    "rent_cc": 800,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag752345-562383482",
+    "surface_m2": 37,
+    "tags": [],
+    "title": "Vénissieux",
+    "url": "https://www.bienici.com/annonce/ag752345-562383482"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:ag752861-426261598": {
    "also": [
     "immojeune:u1470872",
@@ -36093,6 +36134,45 @@
     "tags": [],
     "title": "Location appartement meublé Lyon 3 pièce(s) 62 m2",
     "url": "https://www.bienici.com/annonce/era-2-61783414"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:era-2-61788122": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T11:40:18+00:00",
+   "last_seen": "2026-11-24T11:40:18+00:00",
+   "listing": {
+    "charges": 56,
+    "city": "lyon",
+    "description": "VILLEURBANNE ? À proximité immédiate du quartier Gratte-Ciel<br>Dans un environnement pratique et recherché, à proximité des commerces et des transports en commun (métro et bus à 2 minutes, tramway à 5 minutes), découvrez cet appartement situé à quelques pas des écoles maternelle et élémentaire.<br>Dans une résidence récente de 4 étages, découvrez ce bel appartement 3 pièces de 62,01 m² situé au 2ème étage.<br>En bon état, il se compose d'une entrée, d'un séjour lumineux de 24,59 m² exposé Est a",
+    "district": "Villeurbanne",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": null,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/era-2-61788122_media.immo-facile.com_office8_era_lyon_lafayette_catalog_images_pr_p_6_1_7_8_8_1_2_2_61788122a.jpg_DATEMAJ_24_11_2026-10_53_18",
+     "https://file.bienici.com/photo/era-2-61788122_media.immo-facile.com_office8_era_lyon_lafayette_catalog_images_pr_p_6_1_7_8_8_1_2_2_61788122b.jpg_DATEMAJ_24_11_2026-10_53_18",
+     "https://file.bienici.com/photo/era-2-61788122_media.immo-facile.com_office8_era_lyon_lafayette_catalog_images_pr_p_6_1_7_8_8_1_2_2_61788122c.jpg_DATEMAJ_24_11_2026-10_53_18",
+     "https://file.bienici.com/photo/era-2-61788122_media.immo-facile.com_office8_era_lyon_lafayette_catalog_images_pr_p_6_1_7_8_8_1_2_2_61788122d.jpg_DATEMAJ_24_11_2026-10_53_18",
+     "https://file.bienici.com/photo/era-2-61788122_media.immo-facile.com_office8_era_lyon_lafayette_catalog_images_pr_p_6_1_7_8_8_1_2_2_61788122e.jpg_DATEMAJ_24_11_2026-10_53_18",
+     "https://file.bienici.com/photo/era-2-61788122_media.immo-facile.com_office8_era_lyon_lafayette_catalog_images_pr_p_6_1_7_8_8_1_2_2_61788122f.jpg_DATEMAJ_24_11_2026-10_53_18"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "Era Lafayette",
+    "published_at": "2026-11-24T11:31:15.990Z",
+    "rent_cc": 1066,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "era-2-61788122",
+    "surface_m2": 62.01,
+    "tags": [],
+    "title": "Appartement 3 pièces à louer à Villeurbanne, proche Gratte-Ciel",
+    "url": "https://www.bienici.com/annonce/era-2-61788122"
    },
    "notified": false,
    "status": "active"
@@ -62738,6 +62818,47 @@
    "notified": true,
    "status": "active"
   },
+  "bienici:nestenn-1-99939821239": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T11:40:18+00:00",
+   "last_seen": "2026-11-24T11:40:18+00:00",
+   "listing": {
+    "charges": 11,
+    "city": "lyon",
+    "description": "COEUR MONPLAISIR - AVENUE DES FRERES LUMIERES - PROCHE METRO D MONPLAISIR <br>Au coeur du quartier de Monplaisir, sur l'avenue des Frères Lumières, découvrez ce spacieux appartement de 40m2 au dernier étage d'une belle copropriété. <br>Au 5ème étage (sans ascenseur), l'appartement est composé d'une entrée qui dessert un coin cuisine neuf avec plaque 2 feux, rangement spacieux et évier ainsi qu'un cellier pour y mettre votre machine à laver, frigo et autres mobiliers; une salle d'eau avec WC et v",
+    "district": "Lyon 8e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/nestenn-1-99939821239_media.immo-facile.com_office15_solvimo-lyon-8_catalog_images_pr_p_3_9_8_2_1_2_3_9_39821239a.jpg_DATEMAJ_24_11_2026-09_53_58",
+     "https://file.bienici.com/photo/nestenn-1-99939821239_media.immo-facile.com_office15_solvimo-lyon-8_catalog_images_pr_p_3_9_8_2_1_2_3_9_39821239b.jpg_DATEMAJ_24_11_2026-09_53_58",
+     "https://file.bienici.com/photo/nestenn-1-99939821239_media.immo-facile.com_office15_solvimo-lyon-8_catalog_images_pr_p_3_9_8_2_1_2_3_9_39821239c.jpg_DATEMAJ_24_11_2026-09_53_58",
+     "https://file.bienici.com/photo/nestenn-1-99939821239_media.immo-facile.com_office15_solvimo-lyon-8_catalog_images_pr_p_3_9_8_2_1_2_3_9_39821239d.jpg_DATEMAJ_24_11_2026-09_53_58",
+     "https://file.bienici.com/photo/nestenn-1-99939821239_media.immo-facile.com_office15_solvimo-lyon-8_catalog_images_pr_p_3_9_8_2_1_2_3_9_39821239e.jpg_DATEMAJ_24_11_2026-09_53_58",
+     "https://file.bienici.com/photo/nestenn-1-99939821239_media.immo-facile.com_office15_solvimo-lyon-8_catalog_images_pr_p_3_9_8_2_1_2_3_9_39821239f.jpg_DATEMAJ_24_11_2026-09_53_58"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "NESTENN LYON 08",
+    "published_at": "2026-11-24T11:17:34.607Z",
+    "rent_cc": 821,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "nestenn-1-99939821239",
+    "surface_m2": 39.37,
+    "tags": [],
+    "title": "Appartement dernier étage - coeur Monplaisir - LYON 8",
+    "url": "https://www.bienici.com/annonce/nestenn-1-99939821239"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:netty-bumper-appt-2997": {
    "also": [],
    "checked": "2026-11-23T21:00:42+00:00",
@@ -74576,6 +74697,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:c2pkys": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T11:40:18+00:00",
+   "last_seen": "2026-11-24T11:40:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 100 m². Disponible dès 2026-11-27",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-7be361ea74db7b6ccb6abd3f50f37088/6555011/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 510,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "c2pkys",
+    "surface_m2": 100,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/c2pkys"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:c2rxc7": {
    "also": [],
    "checked": "2026-11-24T05:00:36+00:00",
@@ -75360,6 +75518,44 @@
     ],
     "title": "Appartement 5 pièces de 81 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/giul50"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:gm09qo": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T11:40:18+00:00",
+   "last_seen": "2026-11-24T11:40:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 80 m². Disponible dès 2026-12-19",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-e9e12e15b5559d1b868045891fde1ba3/6554966/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 685,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "gm09qo",
+    "surface_m2": 80,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 80 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/gm09qo"
    },
    "notified": false,
    "status": "active"
@@ -78277,6 +78473,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:wgvt78": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T11:40:18+00:00",
+   "last_seen": "2026-11-24T11:40:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 80 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-bb58168bb7d1657ae28a4cd07ae18011/6555055/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 545,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "wgvt78",
+    "surface_m2": 80,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 80 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/wgvt78"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:whu3f5": {
    "also": [],
