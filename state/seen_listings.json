@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T01:50:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -35941,7 +35941,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
-   "last_seen": "2026-11-24T00:02:35+00:00",
+   "last_seen": "2026-11-24T03:10:42+00:00",
    "listing": {
     "charges": 80,
     "city": "lyon",
@@ -38599,7 +38599,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
-   "last_seen": "2026-11-24T00:02:35+00:00",
+   "last_seen": "2026-11-24T03:10:42+00:00",
    "listing": {
     "charges": 1321,
     "city": "lyon",
@@ -40979,7 +40979,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T00:02:35+00:00",
+   "last_seen": "2026-11-24T03:10:42+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -41023,7 +41023,7 @@
    "also": [],
    "dup_of": "paruvendu:1297799538",
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T00:02:35+00:00",
+   "last_seen": "2026-11-24T03:10:42+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -44014,7 +44014,7 @@
    "checked": "2026-11-24T01:04:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:10:24+00:00",
-   "last_seen": "2026-11-24T00:10:24+00:00",
+   "last_seen": "2026-11-24T03:10:42+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -61946,7 +61946,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
-   "last_seen": "2026-11-24T00:02:35+00:00",
+   "last_seen": "2026-11-24T03:10:42+00:00",
    "listing": {
     "charges": 54.22,
     "city": "lyon",
@@ -64771,7 +64771,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
-   "last_seen": "2026-11-24T00:02:35+00:00",
+   "last_seen": "2026-11-24T03:10:42+00:00",
    "listing": {
     "charges": 33,
     "city": "lyon",
@@ -67997,7 +67997,7 @@
     "url": "https://fr.foncia.com/location/villeurbanne-69100/appartement-meuble/331720744.htm"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "foncia:331722070": {
    "also": [],
@@ -70399,7 +70399,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T00:02:35+00:00",
+   "last_seen": "2026-11-24T03:10:42+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70612,7 +70612,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T00:02:35+00:00",
+   "last_seen": "2026-11-24T03:10:42+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70654,7 +70654,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T00:02:35+00:00",
+   "last_seen": "2026-11-24T03:10:42+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -94257,7 +94257,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES60390039-894",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-24T00:02:35+00:00",
+   "last_seen": "2026-11-24T03:10:42+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
