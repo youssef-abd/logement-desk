@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T08:00:44+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
+   "blocked_runs": 3,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-24T09:10:19+00:00",
    "last_error": "blocked",
@@ -35947,7 +35947,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
-   "last_seen": "2026-11-24T06:20:28+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": {
     "charges": 80,
     "city": "lyon",
@@ -38605,7 +38605,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
-   "last_seen": "2026-11-24T06:20:28+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": {
     "charges": 1321,
     "city": "lyon",
@@ -40985,7 +40985,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T06:20:28+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -41029,7 +41029,7 @@
    "also": [],
    "dup_of": "paruvendu:1297799538",
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T06:20:28+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -44021,7 +44021,7 @@
    "checked": "2026-11-24T01:04:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:10:24+00:00",
-   "last_seen": "2026-11-24T06:20:28+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -61957,7 +61957,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
-   "last_seen": "2026-11-24T06:20:28+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": {
     "charges": 54.22,
     "city": "lyon",
@@ -64782,7 +64782,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
-   "last_seen": "2026-11-24T06:20:28+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": {
     "charges": 33,
     "city": "lyon",
@@ -70312,7 +70312,7 @@
     "url": "https://www.immojeune.com/colocation/lyon-09-69/colocation-renove-a-neuf-proximite-gare-de-vaise_4073144.html"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "immojeune:4073151": {
    "also": [],
@@ -70354,7 +70354,7 @@
     "url": "https://www.immojeune.com/colocation/lyon-06-69/chambre-en-coloc-lyon-6_4073151.html"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "immojeune:4073182": {
    "also": [],
@@ -70420,7 +70420,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T06:20:28+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70633,7 +70633,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T06:20:28+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70675,7 +70675,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T06:20:28+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -72195,6 +72195,44 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:2uqg6f": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 6 pièces de 114 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-4e8443e87f46f21de9f55ed701139a2b/5559434/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 608,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "2uqg6f",
+    "surface_m2": 114,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 6 pièces de 114 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/2uqg6f"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:30lkgv": {
    "also": [],
    "checked": "2026-11-23T16:03:28+00:00",
@@ -72688,7 +72726,7 @@
    "checked": "2026-11-24T07:04:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T06:20:28+00:00",
-   "last_seen": "2026-11-24T06:20:28+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -73911,7 +73949,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/villeurbanne/a/amiwk2"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:b402a0": {
    "also": [],
@@ -97481,7 +97519,7 @@
    "checked": "2026-11-24T04:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T03:30:19+00:00",
-   "last_seen": "2026-11-24T06:30:21+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -97522,7 +97560,7 @@
    "also": [],
    "dup_of": "leboncoin:3283389269",
    "first_seen": "2026-11-24T03:30:19+00:00",
-   "last_seen": "2026-11-24T06:30:21+00:00",
+   "last_seen": "2026-11-24T09:30:24+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
