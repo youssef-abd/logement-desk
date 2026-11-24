@@ -29,10 +29,10 @@
    "last_success": "2026-11-24T17:20:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-24T16:50:20+00:00"
   },
   "logicimmo": {
@@ -40132,7 +40132,7 @@
     "url": "https://www.bienici.com/annonce/guy-hoquet-immo-facile-7820351"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:hektor-133_ericmey-110539": {
    "also": [],
@@ -43866,7 +43866,7 @@
     "url": "https://www.bienici.com/annonce/hektor-myhoreapartners69006-366"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:hektor-myhoreapartners69006-369": {
    "also": [],
@@ -63479,7 +63479,7 @@
     "url": "https://www.bienici.com/annonce/nestenn-1-99939227065"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:nestenn-1-99939259673": {
    "also": [],
@@ -80418,7 +80418,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T19:01:02+00:00",
-   "last_seen": "2026-11-24T07:40:19+00:00",
+   "last_seen": "2026-11-24T19:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -101685,7 +101685,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297606502A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297619350": {
    "also": [],
@@ -101804,7 +101804,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297631079A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297632526": {
    "also": [],
