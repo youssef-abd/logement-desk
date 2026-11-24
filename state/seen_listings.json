@@ -29,8 +29,8 @@
    "last_success": "2026-11-24T01:50:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
-   "consecutive_failures": 3,
+   "blocked_runs": 4,
+   "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-24T01:30:18+00:00"
@@ -29273,7 +29273,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T17:20:20+00:00",
-   "last_seen": "2026-11-23T23:30:27+00:00",
+   "last_seen": "2026-11-24T02:40:18+00:00",
    "listing": {
     "charges": 20,
     "city": "lyon",
@@ -62518,7 +62518,7 @@
    "also": [],
    "dup_of": "leboncoin:3316361402",
    "first_seen": "2026-11-23T17:20:20+00:00",
-   "last_seen": "2026-11-23T23:30:27+00:00",
+   "last_seen": "2026-11-24T02:40:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -75180,7 +75180,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T23:30:27+00:00",
-   "last_seen": "2026-11-23T23:30:27+00:00",
+   "last_seen": "2026-11-24T02:40:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75368,7 +75368,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T17:20:20+00:00",
-   "last_seen": "2026-11-23T23:30:27+00:00",
+   "last_seen": "2026-11-24T02:40:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -95750,7 +95750,7 @@
    "also": [],
    "dup_of": "bienici:ag690006-549039977",
    "first_seen": "2026-11-23T08:00:44+00:00",
-   "last_seen": "2026-11-23T23:30:27+00:00",
+   "last_seen": "2026-11-24T02:40:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
