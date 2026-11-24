@@ -29,7 +29,7 @@
    "last_success": "2026-11-23T22:50:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 7,
+   "blocked_runs": 8,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-23T23:40:21+00:00",
    "last_error": "blocked",
@@ -7996,7 +7996,7 @@
     "url": "https://www.bienici.com/annonce/ag690049-562151765"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:ag690049-562151777": {
    "also": [],
@@ -71919,7 +71919,7 @@
    "checked": "2026-11-23T23:00:31+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T21:40:21+00:00",
-   "last_seen": "2026-11-23T21:40:21+00:00",
+   "last_seen": "2026-11-24T00:50:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -76812,7 +76812,7 @@
    "checked": "2026-11-23T23:00:31+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T21:40:21+00:00",
-   "last_seen": "2026-11-23T21:40:21+00:00",
+   "last_seen": "2026-11-24T00:50:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
