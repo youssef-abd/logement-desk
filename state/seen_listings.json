@@ -29,8 +29,8 @@
    "last_success": "2026-11-24T11:10:23+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-24T13:30:24+00:00"
@@ -38864,6 +38864,48 @@
     "tags": [],
     "title": "Appartement Villeurbanne 3 pièces - 68.5 m²",
     "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT0236-5099"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:guy-hoquet-18-GT0448-791": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T13:50:21+00:00",
+   "last_seen": "2026-11-24T13:50:21+00:00",
+   "listing": {
+    "charges": 75,
+    "city": "lyon",
+    "description": "Votre agence GUY HOQUET LYON 5 a le plaisir de vous proposer à la location ce très bel appartement meublé sur la commune de Lyon 5 situé à coté de l'avenue Commandant CHARCOT et l'hôpital Pierre GARRAUD<br>Cet appartement meublé de type T2 , d'une superficie de 54m²  est composé d'une belle cuisine équipée, un séjour, d'une chambre, d'une salle de bains, des rangements et un petit balcon.<br>Chauffage au électrique <br>Fenêtre double vitrage PVC avec volet roulant électrique<br>Un garage et une ",
+    "district": "Lyon 5e",
+    "flags": [
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0448-791_d2m2j20yzublln.cloudfront.net_739_1011451_b0de13fe-15d0-508d-aa1f-3100663dd029.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0448-791_d2m2j20yzublln.cloudfront.net_739_1011451_4f7008b3-aaf8-51d2-ad2e-e1673b7e4f5c.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0448-791_d2m2j20yzublln.cloudfront.net_739_1011451_b120c5dc-b880-5c8d-b8d9-cee36077aeaa.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0448-791_d2m2j20yzublln.cloudfront.net_739_1011451_6c0f5365-ecb8-516f-ba53-f5364eef32e2.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0448-791_d2m2j20yzublln.cloudfront.net_739_1011451_b6f80168-016a-591a-928d-585dc1fe4800.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0448-791_d2m2j20yzublln.cloudfront.net_739_1011451_b126f4de-a660-533f-b764-9d48e183ad3e.jpg"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "poster_name": "Guy Hoquet Lyon 5",
+    "published_at": "2026-11-24T13:23:58.861Z",
+    "rent_cc": 877,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "guy-hoquet-18-GT0448-791",
+    "surface_m2": 54,
+    "tags": [],
+    "title": "A louer  T2 pièces meublée de 54 m²  avec un garage à LYON 5",
+    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT0448-791"
    },
    "notified": false,
    "status": "active"
@@ -101578,6 +101620,129 @@
    "last_seen": "2026-11-24T13:00:44+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297839787": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T13:50:21+00:00",
+   "last_seen": "2026-11-24T13:50:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 5 790 € CC* Appartement 31 m 2 Lyon 7 1 pièce 1 chambre DPE : D 250 kWh/m².an 50 kg CO 2 /m².an Lyon 07, studio de 31 m² disponible à la location. Ce logement est réservé aux étudiants. Inscription sur LocService requise pour candidater directement auprès du propriétaire. LOCService 800 annonces 24/11/2026 Voir Contacter",
+    "district": "Lyon 7e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/87/06/LzU2MjA4Ni81NjIzMjEwNjcvcGhvdG9zLzEuanBnPzIwMjYxMTI0MTQ0ODQz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/dc/45/LzU2MjA4Ni81NjIzMjEwNjcvcGhvdG9zLzIuanBnPzIwMjYxMTI0MTQ0ODQz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/11/29/LzU2MjA4Ni81NjIzMjEwNjcvcGhvdG9zLzMuanBnPzIwMjYxMTI0MTQ0ODQz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/c6/a4/LzU2MjA4Ni81NjIzMjEwNjcvcGhvdG9zLzQuanBnPzIwMjYxMTI0MTQ0ODQz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/d7/3d/LzU2MjA4Ni81NjIzMjEwNjcvcGhvdG9zLzUuanBnPzIwMjYxMTI0MTQ0ODQz_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "LOCService",
+    "published_at": "2026-11-24",
+    "rent_cc": 790,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297839787",
+    "surface_m2": 31.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 31 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297839787A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297843872": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T13:50:21+00:00",
+   "last_seen": "2026-11-24T13:50:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 6 1 190 € CC* Appartement 43 m 2 Lyon 3 2 pièces DPE : E 330 kWh/m².an 30 kg CO 2 /m².an T2 meublé avec terrasse jardin garage box piscine. appartement de 43 m2 à louer sur lyon loue t2 entièrement meublé et refait à neuf avec terrasse couverte et jardin donnant dans l'intérieure de la résidence donc calme 1 chambre avec un lit... 123loger.com 500 annonces 24/11/2026 Voir Contacter",
+    "district": "Lyon 3e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/a8/96/L2MtNmIwNTgzYTU0MDg4OTRlMmI0MGFmZDc5LTRhZWYzNDEyYjg4M2JhMjJlYzQ2NmRiY2U0ODI2NDcxMGM1N2I2OTU2ODAwMThmMDFhNWZjN2RkZDk1NzQxYjkuanBnPzIwMjYxMTI0MTQ0ODAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/8e/12/L2MtNmIwNTgzYTU0MDg4OTRlMmI0MGFmZDc5LTk2NjUxYTAzY2JjMjlkYmM1ODBhNzc2ZGQyZWNlZTkzMDMwYWU0OTdiNGNhNTRmNjc1YjVjYTYzZmEzZjVkZjUuanBnPzIwMjYxMTI0MTQ0ODAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/b6/eb/L2MtNmIwNTgzYTU0MDg4OTRlMmI0MGFmZDc5LWM0NzMxY2NjOTNiZGEyN2ZhYmE5YWNhMWU0NDAwYjIxMTcwOGM2MjFkNzg5NzE5ZTVkODU3MzViOWFlZGNiMmMuanBnPzIwMjYxMTI0MTQ0ODAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/4a/27/L2MtNmIwNTgzYTU0MDg4OTRlMmI0MGFmZDc5LTM5OWIyYzkwZGIyNjhjZjAwNDJhNTg1NjYxOWYyNjBlZTM2ZWYyZjkxYWYwOTNkMWZiN2RiMjJiNmI2ZGM0MjguanBnPzIwMjYxMTI0MTQ0ODAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/96/94/L2MtNmIwNTgzYTU0MDg4OTRlMmI0MGFmZDc5LTU3ODBkMTUyNzExN2NhYjM4M2UxZDJjZGYyNzc4NzQ2Y2M3M2Q4ZTJiZjAzN2RhYzFjN2M3YjU3ODRjN2U5ZDQuanBnPzIwMjYxMTI0MTQ0ODAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/56/d3/L2MtNmIwNTgzYTU0MDg4OTRlMmI0MGFmZDc5LTBlY2FiOWE0M2EzYjg4Yjg1OGVlNDQ5Yzc1MjI5ZTk0ZjRiYWRhNDM1ZmVlYzNjYjZiMmQ3ODJlYWEzYmVkNGQuanBnPzIwMjYxMTI0MTQ0ODAz_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-24",
+    "rent_cc": 1190,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297843872",
+    "surface_m2": 43.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 43 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297843872A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297844008": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T13:50:21+00:00",
+   "last_seen": "2026-11-24T13:50:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 5 640 € CC* Appartement 23 m 2 Lyon 6 1 pièce DPE : E 330 kWh/m².an 50 kg CO 2 /m².an Appartement meublé lyon 6 - 23 m². appartement de 23 m2 à louer sur lyon situation parfaite : 2 min à pied du parc de la tête d'or, 2 min de l'auchan garibaldi et 2 min du métro masséna. les 90 € de charges qui comprennent : eau chaude et... 123loger.com 500 annonces 24/11/2026 Voir Contacter",
+    "district": "Lyon 6e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/f5/e9/L2MtNmIwNTg0MDI2M2ExNGVlODk3MGUwZjMxLTVhYmJmMWEzZTdjMWE1MTIwYTE5Yzc4ODhkZTkxNmQ4MjFlYWE5ZmE2NTU3NzZiZDllZDk1YjU5ZmVlNDk1NjcuanBnPzIwMjYxMTI0MTQ0ODAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/bf/79/L2MtNmIwNTg0MDI2M2ExNGVlODk3MGUwZjMxLTFmMDdmZjY4ZWQ5ODU2ODQxZWE2YTZhYTY2NmI4MTUzODJiNDllMDlkNjlkMzAwZTZiNDlmMmY1MmFkMDAwZGMuanBnPzIwMjYxMTI0MTQ0ODAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/c5/06/L2MtNmIwNTg0MDI2M2ExNGVlODk3MGUwZjMxLWIxNTFhNGQ1YjNhZTdiOGEzOGUxMTYyZmE1MzBhNGNjNTQ4ODMxOTRmZDhhZTQ5ZjFmNjYzODM5NzM5MWUyZjIuanBnPzIwMjYxMTI0MTQ0ODAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/83/43/L2MtNmIwNTg0MDI2M2ExNGVlODk3MGUwZjMxLWIwZDgxNjlkMDcyMWYxNDlmMzMzZGI5OGYwYjAyYTU5ZDJmMWRlMmVjZjk3YTc0NDQ4MDM0OTZhODcxYTc5N2IuanBnPzIwMjYxMTI0MTQ0ODAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/a8/37/L2MtNmIwNTg0MDI2M2ExNGVlODk3MGUwZjMxLTZjNDNiYTcyYTRkYmYxNTFlYTBmMjg5NTczNDVjNWE0YjM3M2U2NDAxZTQxZDdiZTAwYmY1YmYxMTRiMGU3NmUuanBnPzIwMjYxMTI0MTQ0ODAz_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-24",
+    "rent_cc": 640,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297844008",
+    "surface_m2": 23.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 1 pièce(s) - 23 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297844008A1KILHAP000"
+   },
+   "notified": false,
    "status": "active"
   },
   "studapart:08e20664-7672-4ba4-a8f9-e4fc4b6e0c38": {
