@@ -29,8 +29,8 @@
    "last_success": "2026-11-24T14:20:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-24T13:30:24+00:00"
@@ -43093,7 +43093,7 @@
    "checked": "2026-11-23T23:00:31+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T21:50:19+00:00",
-   "last_seen": "2026-11-24T13:20:30+00:00",
+   "last_seen": "2026-11-24T16:30:23+00:00",
    "listing": {
     "charges": 55,
     "city": "lyon",
@@ -47968,7 +47968,7 @@
    "checked": "2026-11-24T01:04:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T01:04:34+00:00",
-   "last_seen": "2026-11-24T13:20:30+00:00",
+   "last_seen": "2026-11-24T16:30:23+00:00",
    "listing": {
     "charges": 80,
     "city": "lyon",
@@ -48346,7 +48346,7 @@
    "checked": "2026-11-24T01:04:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T01:04:34+00:00",
-   "last_seen": "2026-11-24T13:20:30+00:00",
+   "last_seen": "2026-11-24T16:30:23+00:00",
    "listing": {
     "charges": 40,
     "city": "lyon",
@@ -48729,7 +48729,7 @@
    "checked": "2026-11-24T01:04:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T01:04:34+00:00",
-   "last_seen": "2026-11-24T13:20:30+00:00",
+   "last_seen": "2026-11-24T16:30:23+00:00",
    "listing": {
     "charges": 140,
     "city": "lyon",
@@ -77280,6 +77280,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:ktpgaa": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:30:23+00:00",
+   "last_seen": "2026-11-24T16:30:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 6 pièces de 100 m². Disponible dès 2026-12-18",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-4407cbbc87de40d8739bfff8180328a0/6607962/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 500,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ktpgaa",
+    "surface_m2": 100,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 6 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ktpgaa"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:kul70k": {
    "also": [],
    "checked": "2026-11-24T13:00:44+00:00",
@@ -79011,6 +79048,44 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:strt2v": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:30:23+00:00",
+   "last_seen": "2026-11-24T16:30:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 20 pièces de 337 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-576bf7e7c785bd9a8f1dd8a2c819028b/4977091/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 680,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "strt2v",
+    "surface_m2": 337,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 20 pièces de 337 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/strt2v"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:t186e0": {
    "also": [],
    "checked": "2026-11-22T13:40:08+00:00",
@@ -80506,6 +80581,44 @@
     ],
     "title": "Appartement 4 pièces de 130 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/z8isby"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:z9h0hj": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:30:23+00:00",
+   "last_seen": "2026-11-24T16:30:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 70 m². Disponible dès 2026-12-19",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-e54385cdeb6826b241819ea3177f357b/6627197/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 659,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "z9h0hj",
+    "surface_m2": 70,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 70 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/z9h0hj"
    },
    "notified": false,
    "status": "active"
@@ -101890,7 +102003,7 @@
    "checked": "2026-11-24T07:04:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T12:30:20+00:00",
-   "last_seen": "2026-11-24T13:20:30+00:00",
+   "last_seen": "2026-11-24T16:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -102859,7 +102972,7 @@
    "checked": "2026-11-24T11:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T10:20:18+00:00",
-   "last_seen": "2026-11-24T13:20:30+00:00",
+   "last_seen": "2026-11-24T16:30:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
