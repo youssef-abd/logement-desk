@@ -29,10 +29,10 @@
    "last_success": "2026-11-24T11:10:23+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-24T10:20:18+00:00"
   },
   "logicimmo": {
@@ -2015,6 +2015,48 @@
     "tags": [],
     "title": "A LOUER - STUDIO MEUBLE de 18,93 m² - COURS GAMBETTA - LYON 7",
     "url": "https://www.bienici.com/annonce/ag421262-560803733"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag421262-562397000": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T12:40:28+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
+   "listing": {
+    "charges": 100,
+    "city": "lyon",
+    "description": "Le Cabinet GINET vous propose à la location ce charmant T2 de 50.74m² avec une entrée, un séjour de 18.01m², une cuisine simple avec rangement haut, une chambre de 13.91m² avec placard aménagé, une salle de bains avec baignoire, lavabo et placard aménagé ainsi qu'un WC complet avec étagère.\n\nUne cave et un parking privatif sont inclus et complètent ce bien.\n\nEau froide, eau chaude et chauffage inclus dans les charges.\n\nAppartement soumis à l'encadrement des loyers.\nLe loyer demandé est 906.32 € ",
+    "district": "Lyon 7e",
+    "flags": [
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag421262-562397000_photos.ubiflow.net_421262_562397000_photos_1.jpg_INSOON_EB_5512801818_20261124121310",
+     "https://file.bienici.com/photo/ag421262-562397000_photos.ubiflow.net_421262_562397000_photos_2.jpg_INSOON_EB_5512801818_20261124121310",
+     "https://file.bienici.com/photo/ag421262-562397000_photos.ubiflow.net_421262_562397000_photos_3.jpg_INSOON_EB_5512801818_20261124121310",
+     "https://file.bienici.com/photo/ag421262-562397000_photos.ubiflow.net_421262_562397000_photos_4.jpg_INSOON_EB_5512801818_20261124121310",
+     "https://file.bienici.com/photo/ag421262-562397000_photos.ubiflow.net_421262_562397000_photos_5.jpg_INSOON_EB_5512801818_20261124121310",
+     "https://file.bienici.com/photo/ag421262-562397000_photos.ubiflow.net_421262_562397000_photos_6.jpg_INSOON_EB_5512801818_20261124121310"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "Ginet Immobilier",
+    "published_at": "2026-11-24T12:31:20.854Z",
+    "rent_cc": 907,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag421262-562397000",
+    "surface_m2": 50,
+    "tags": [],
+    "title": "A LOUER - CHARMANT T2 de 50.74m2 - RUE PIERRE ROBIN LYON 7",
+    "url": "https://www.bienici.com/annonce/ag421262-562397000"
    },
    "notified": false,
    "status": "active"
@@ -9297,6 +9339,48 @@
     "tags": [],
     "title": "A LOUER - STUDIO MEUBLE de 18,93 m² - COURS GAMBETTA - LYON 7",
     "url": "https://www.bienici.com/annonce/ag691942-560803850"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag691942-562397054": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T12:40:28+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
+   "listing": {
+    "charges": 100,
+    "city": "lyon",
+    "description": "Le Cabinet GINET vous propose à la location ce charmant T2 de 50.74m² avec une entrée, un séjour de 18.01m², une cuisine simple avec rangement haut, une chambre de 13.91m² avec placard aménagé, une salle de bains avec baignoire, lavabo et placard aménagé ainsi qu'un WC complet avec étagère.\n\nUne cave et un parking privatif sont inclus et complètent ce bien.\n\nEau froide, eau chaude et chauffage inclus dans les charges.\n\nAppartement soumis à l'encadrement des loyers.\nLe loyer demandé est 906.32 € ",
+    "district": "Lyon 7e",
+    "flags": [
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag691942-562397054_photos.ubiflow.net_691942_562397054_photos_1.jpg_INSOON_EB_5512801818_20261124121320",
+     "https://file.bienici.com/photo/ag691942-562397054_photos.ubiflow.net_691942_562397054_photos_2.jpg_INSOON_EB_5512801818_20261124121320",
+     "https://file.bienici.com/photo/ag691942-562397054_photos.ubiflow.net_691942_562397054_photos_3.jpg_INSOON_EB_5512801818_20261124121320",
+     "https://file.bienici.com/photo/ag691942-562397054_photos.ubiflow.net_691942_562397054_photos_4.jpg_INSOON_EB_5512801818_20261124121320",
+     "https://file.bienici.com/photo/ag691942-562397054_photos.ubiflow.net_691942_562397054_photos_5.jpg_INSOON_EB_5512801818_20261124121320",
+     "https://file.bienici.com/photo/ag691942-562397054_photos.ubiflow.net_691942_562397054_photos_6.jpg_INSOON_EB_5512801818_20261124121320"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "Ginet Villeurbanne",
+    "published_at": "2026-11-24T12:40:08.389Z",
+    "rent_cc": 907,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag691942-562397054",
+    "surface_m2": 50,
+    "tags": [],
+    "title": "A LOUER - CHARMANT T2 de 50.74m2 - RUE PIERRE ROBIN LYON 7",
+    "url": "https://www.bienici.com/annonce/ag691942-562397054"
    },
    "notified": false,
    "status": "active"
@@ -36111,7 +36195,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": 80,
     "city": "lyon",
@@ -38809,7 +38893,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": 1321,
     "city": "lyon",
@@ -41191,7 +41275,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -41235,7 +41319,7 @@
    "also": [],
    "dup_of": "paruvendu:1297799538",
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -44273,7 +44357,7 @@
    "checked": "2026-11-24T01:04:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:10:24+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -65132,7 +65216,7 @@
    "checked": "2026-11-23T18:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T18:00:37+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": 33,
     "city": "lyon",
@@ -70770,7 +70854,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70983,7 +71067,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -71025,7 +71109,7 @@
    "checked": "2026-11-24T00:02:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -72477,7 +72561,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:40:21+00:00",
-   "last_seen": "2026-11-24T09:40:21+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -72590,7 +72674,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:30:24+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -73155,7 +73239,7 @@
    "checked": "2026-11-24T07:04:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T06:20:28+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -76644,7 +76728,7 @@
    "checked": "2026-11-24T07:04:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T06:40:20+00:00",
-   "last_seen": "2026-11-24T09:40:21+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -99496,7 +99580,7 @@
    "checked": "2026-11-24T04:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
-   "last_seen": "2026-11-24T09:40:21+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -100078,7 +100162,7 @@
    "checked": "2026-11-24T04:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T03:30:19+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -100119,7 +100203,7 @@
    "also": [],
    "dup_of": "leboncoin:3283389269",
    "first_seen": "2026-11-24T03:30:19+00:00",
-   "last_seen": "2026-11-24T09:30:24+00:00",
+   "last_seen": "2026-11-24T12:40:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
