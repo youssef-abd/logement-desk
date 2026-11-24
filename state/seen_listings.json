@@ -5,7 +5,7 @@
    "consecutive_failures": 0,
    "cooldown_until": null,
    "last_error": null,
-   "last_success": "2026-11-24T13:40:30+00:00"
+   "last_success": "2026-11-24T16:50:20+00:00"
   },
   "foncia": {
    "blocked_runs": 0,
@@ -29,11 +29,11 @@
    "last_success": "2026-11-24T14:20:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
-   "consecutive_failures": 3,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
-   "last_success": "2026-11-24T13:30:24+00:00"
+   "last_error": null,
+   "last_success": "2026-11-24T16:50:20+00:00"
   },
   "logicimmo": {
    "blocked_runs": 1,
@@ -54,7 +54,7 @@
    "consecutive_failures": 0,
    "cooldown_until": null,
    "last_error": null,
-   "last_success": "2026-11-24T13:40:30+00:00"
+   "last_success": "2026-11-24T16:50:20+00:00"
   },
   "studapart": {
    "blocked_runs": 0,
@@ -9721,7 +9721,7 @@
    "checked": "2026-11-24T11:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T10:30:35+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -22987,7 +22987,8 @@
   },
   "bienici:ag752861-478302215": {
    "also": [
-    "immojeune:u2832939"
+    "immojeune:u2832939",
+    "leboncoin:3293137356"
    ],
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
@@ -27840,7 +27841,9 @@
    "status": "active"
   },
   "bienici:apimo-85126835": {
-   "also": [],
+   "also": [
+    "leboncoin:3229140761"
+   ],
    "checked": "2026-11-24T04:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -59570,7 +59573,9 @@
    "status": "active"
   },
   "bienici:immo-facile-61608853": {
-   "also": [],
+   "also": [
+    "leboncoin:3308320172"
+   ],
    "checked": "2026-11-24T09:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
@@ -80972,6 +80977,42 @@
    "notified": true,
    "status": "active"
   },
+  "leboncoin:3201189259": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:50:20+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
+   "listing": {
+    "charges": 75.0,
+    "city": "lyon",
+    "description": "A Lyon 4ème au coeur du quartier animé et commerçant de la Croix-Rousse, proche métro et bus, près de la Place des Tapis, appartement T2 de style canut entièrement rénové de 45,6 m² proposé en location meublée en bail court de quelques mois (idéal étudiant ou mission professionnelle). 3 pièces lumineuses : Séjour avec espace salon, grande table, meuble de rangement et TV. Chambre avec lit double 140 cm, armoire. Literie neuve. Cuisine bien équipée avec réfrigérateur, cuisinière induction, four, ",
+    "district": "Lyon 69004",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f7/99/9a/f7999a0cddc5265954c1e7f535879b334bef1b62.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/59/00/b3/5900b3366887c016f41d78816cd3a34fa4d73659.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ed/dd/87/eddd8719107490a0703078a4c68e0ad388b59dad.jpg?rule=ad-large"
+    ],
+    "postal_code": "69004",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-24 17:42:50",
+    "rent_cc": 1060.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3201189259",
+    "surface_m2": 45.6,
+    "tags": [],
+    "title": "Meublé 3 pièces 45 m² Lyon 4ème",
+    "url": "https://www.leboncoin.fr/ad/locations/3201189259"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3205156495": {
    "also": [],
    "dup_of": "bienici:immo-facile-58868151",
@@ -81060,6 +81101,15 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "leboncoin:3229140761": {
+   "also": [],
+   "dup_of": "bienici:apimo-85126835",
+   "first_seen": "2026-11-24T16:50:20+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
   },
   "leboncoin:3233601046": {
    "also": [],
@@ -81692,7 +81742,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3271303242"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3271358672": {
    "also": [],
@@ -81741,7 +81791,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3271441801"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3271546620": {
    "also": [],
@@ -81801,6 +81851,45 @@
    "last_seen": "2026-11-24T15:00:40+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3271865026": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:50:20+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
+   "listing": {
+    "charges": 50.0,
+    "city": "lyon",
+    "description": "Appartement 2 pièces 53 m²\n\nDans une belle résidence sécurisée à 2 minutes à pieds de l'hôpital de La Croix Rousse, venez découvrir ce spacieux T2 de 53 m² avec terrasse. Au 4éme étage avec ascenseur, il se compose d'un hall d'entrée, un séjour lumineux avec parquet.\nUne cuisine indépendante entièrement équipée, avec four, plaque, réfrigérateur, lave vaisselle et lave linge, une chambre en parquet. Salle de bains avec baignoire, WC séparé. Toutes les pièces de cet appartement ont accès à la terr",
+    "district": "Lyon 69004",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6a/31/57/6a315726f51ea8ac9ae7de3962b499545efab0ab.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/15/dc/8e/15dc8e0c773ce4798bbd6cd2b61e6d843aec7907.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/aa/4a/99/aa4a99e6f05a642091fa1461d3cf0df30520eb47.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/07/96/54/0796546d308ace56b0ee16b318f2844eacf83c12.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ae/64/bd/ae64bde27f5639f0495fc100cef168b8df65f1d7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/84/ac/c4/84acc4955fbc23a5bf4cebb35debe265916142a9.jpg?rule=ad-large"
+    ],
+    "postal_code": "69004",
+    "poster": "agence",
+    "poster_name": "Square Habitat - Location Grande Métropole de Lyon",
+    "published_at": "2026-11-13 05:10:15",
+    "rent_cc": 800.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3271865026",
+    "surface_m2": 53.0,
+    "tags": [],
+    "title": "Appartement 2 pièces 53 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3271865026"
+   },
+   "notified": false,
    "status": "active"
   },
   "leboncoin:3272345443": {
@@ -82248,9 +82337,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-21T06:00:18+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": 80.0,
+    "city": "lyon",
     "description": "COLOCATION / MONTCHAT - RUE TRARIEUX 69003 LYON\n\nEmplacement idéal pour cette colocation dans le 3ème arrondissement de Lyon, au cœur du quartier de Montchat, à proximité des commerces et à quelques minutes à pied du métro Grange-Blanche (ligne D).\n\nLa colocation est au 7ème étage et dispose d'un balcon.\n\nLa chambre avec salle d'eau est de 13,55 m² sur une surface totale de 80,24m²\n\nLoyer mensuel hors charges : 540,00 euros\nCharges forfaitaires : 80,00 euros (TOM et internet inclus)\nDépôt de gar",
     "district": "Lyon 69003",
     "flags": [
@@ -82268,6 +82358,7 @@
     ],
     "postal_code": "69003",
     "poster": "agence",
+    "poster_name": "CILEAD TRUCHE",
     "published_at": "2026-10-06 11:55:14",
     "rent_cc": 620.0,
     "rooms": 1,
@@ -82281,7 +82372,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3283236300"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "leboncoin:3283258464": {
    "also": [],
@@ -82360,7 +82451,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3283389269"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3283389287": {
    "also": [],
@@ -83020,7 +83111,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3288858117"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3289053300": {
    "also": [],
@@ -83409,6 +83500,15 @@
    "dup_of": "bienici:ag752861-478302200",
    "first_seen": "2026-11-22T12:50:21+00:00",
    "last_seen": "2026-11-22T12:50:21+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3293137356": {
+   "also": [],
+   "dup_of": "bienici:ag752861-478302215",
+   "first_seen": "2026-11-24T16:50:20+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -86201,6 +86301,15 @@
    "notified": false,
    "status": "stale"
   },
+  "leboncoin:3308320172": {
+   "also": [],
+   "dup_of": "bienici:immo-facile-61608853",
+   "first_seen": "2026-11-24T16:50:20+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3308346911": {
    "also": [],
    "dup_of": null,
@@ -86845,7 +86954,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3310597996"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3310641161": {
    "also": [],
@@ -87353,6 +87462,47 @@
    "notified": false,
    "status": "stale"
   },
+  "leboncoin:3311897226": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:50:20+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
+   "listing": {
+    "charges": 36.0,
+    "city": "lyon",
+    "description": "Appartement\n\nTRES BEAU MEUBLE SUPER BIEN PLACE Secteur Jean Macé ! A proximité du métro B, des commerces et autres transports, dans une belle résidence, ne manquez pas ce 2 pièces. Il est composé séjour avec une cuisine américaine, le tout donnant sur un agréable balcon, d'une chambre avec  placard, d'une salle de bain et d'un wc. Pour plus de confort, vous disposerez d'une place de parking privative !\nRéférence annonce : FL0914695\nDate de réalisation du diagnostic : 25/03/2022\nHonoraires à la c",
+    "district": "Lyon 69007",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a8/ab/7a/a8ab7ad273ae85e25e8a686ecfb67d3b475c6eb8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/64/b3/74/64b3745e5bade9cc664196469df2e862a81ab66e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/4c/c7/b1/4cc7b14ce30031c38e0a3aca67c73ce9467116e7.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6c/7a/12/6c7a120ac3b4d65f9c7381660a7e75f22f9d87ab.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/fc/63/fbfc63d599cf193d6c94799d12bd9d2c40f6193e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/83/4b/21/834b21956c32874c5accbee10fbe6f7553dc5ad1.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "Lamy Lyon Part-Dieu",
+    "published_at": "2026-11-18 08:24:34",
+    "rent_cc": 870.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3311897226",
+    "surface_m2": 44.0,
+    "tags": [],
+    "title": "Appartement 2 pièces 44 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3311897226"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3311945528": {
    "also": [],
    "dup_of": "bienici:immo-facile-44526238",
@@ -87360,6 +87510,48 @@
    "last_seen": "2026-11-23T16:40:23+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3311994659": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:50:20+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
+   "listing": {
+    "charges": 95.0,
+    "city": "lyon",
+    "description": "Studio meublé à louer\n\nMERCI DE PRENDRE RDV EN LIGNE VIA LE FORMULAIRE DE CONTACT AGENCE - Vous recevrez un lien par mail pour la prise de rendez-vous en ligne et le dépôt de dossier.\n\n62 Rue Philippe Fabia, 69008 Lyon\nStudio meublé situé au rdc au calme côté jardin, composé d'un hall d'entrée avec placards, une salle de bains, un séjour lumineux, une cuisine équipée et aménagée, wc séparés. Double vitrage.\nChauffage et eau inclus.\nDisponible rapidement.\n\nZone soumise à l'encadrement des loyers ",
+    "district": "Lyon 69008",
+    "flags": [
+     "agency_fees",
+     "charges_hc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a8/56/80/a85680510c00f18e2e1061f6944f0c49df23d0b2.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/cf/c9/26/cfc926fdaa4171ecb83553866d71425924317d58.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/7f/8d/d9/7f8dd9871746c2bd583988d90aecb0358731d027.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ba/53/4a/ba534a1353eb5ae4b11c1ee1cd4977766a073684.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/3a/5b/33/3a5b3325ba4418a9f6d7e3270ee72752d8efc4fa.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/3d/76/48/3d7648e852e17bdeb6d929c48c78bf1df99a52d5.jpg?rule=ad-large"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "ORPI 4F Gestion Immoparc",
+    "published_at": "2026-11-18 11:15:16",
+    "rent_cc": 745.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3311994659",
+    "surface_m2": 40.0,
+    "tags": [],
+    "title": "Studio 1 pièce 40 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3311994659"
+   },
+   "notified": false,
    "status": "active"
   },
   "leboncoin:3312056394": {
@@ -92725,7 +92917,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316562877"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316566953": {
    "also": [],
@@ -92773,7 +92965,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316567079"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316568649": {
    "also": [],
@@ -92836,7 +93028,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316603149"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316607475": {
    "also": [
@@ -92919,7 +93111,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316607877"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316615419": {
    "also": [],
@@ -92955,7 +93147,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316615419"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316620779": {
    "also": [],
@@ -93005,7 +93197,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316632113"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316636606": {
    "also": [],
@@ -93046,7 +93238,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316636606"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316659638": {
    "also": [],
@@ -93084,7 +93276,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316659638"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316663978": {
    "also": [],
@@ -93130,7 +93322,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316677718"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316705024": {
    "also": [],
@@ -93171,7 +93363,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316705024"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316708518": {
    "also": [],
@@ -93214,7 +93406,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316708518"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316711436": {
    "also": [],
@@ -93255,7 +93447,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316718085"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316719772": {
    "also": [],
@@ -93306,7 +93498,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316721971"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316721973": {
    "also": [],
@@ -93349,7 +93541,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316721973"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316761542": {
    "also": [],
@@ -94753,12 +94945,96 @@
    "notified": true,
    "status": "active"
   },
+  "leboncoin:3317071314": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:50:20+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
+   "listing": {
+    "charges": 102.0,
+    "city": "lyon",
+    "description": "Vénissieux, rue Romain Rolland – T2 meublé de 53,6 m² au 2e étage d'une résidence récente (2014), avec garage fermé.\n\nLe logement :\n- Séjour lumineux exposé ouest, cuisine ouverte équipée (plaque, four, micro-ondes)\n- 1 chambre\n- Salle de bains avec baignoire et WC\n- Balcon\n- Double vitrage, volets roulants\n- Chauffage et eau chaude collectifs\n- Garage fermé\n\nBon à savoir :\n- 2e étage sans ascenseur\n- Loyer non négociable\n- Dépôt de garantie : 1 mois de loyer hors charges\n- Disponible le 1er déc",
+    "district": "Vénissieux 69200",
+    "flags": [
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/83/ac/02/83ac0208d96550fdbf219f2ec4d34a003e8825c0.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b2/00/31/b20031399bd6d08facc9ad52eac9214e49fcb736.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8d/b2/1b/8db21b70d2624da52304d43415317c8edfa67c96.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/68/1d/f6/681df6e2434b109da84eed1ac3fdf68dae3b1bf8.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/9e/b0/cf/9eb0cff25569ae0e3b4d50dc9c43da3988dd313a.jpg?rule=ad-large"
+    ],
+    "postal_code": "69200",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-24 17:17:28",
+    "rent_cc": 858.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3317071314",
+    "surface_m2": 53.6,
+    "tags": [],
+    "title": "T2 meublé 53,6 m² avec garage - 2e étage sans ascenseur - Vénissieux",
+    "url": "https://www.leboncoin.fr/ad/locations/3317071314"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3317083097": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T16:50:20+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
+   "listing": {
+    "charges": 50.0,
+    "city": "lyon",
+    "description": "JAURES 20\n\nRef 1355.1 -\nT2 rénové de 44m², situé au RDC d'un petit immeuble, au 20 rue Jean Jaurès, à BRON. Proche tram T2, arrêt 'Boutasse-Camille Rousset'\nIsolation refaite.\nChauffage individuel électrique.\nEau froide comprise dans les charges.\n\nBien loué en colocation.\nRéférence annonce : 1355.1-REGIECHOMETTE69\nDate de réalisation du diagnostic : 02/12/2025\nHonoraires à la charge du locataire : 571 € TTC dont 131 € pour l’état des lieux\nDépôt de garantie : 650 €\nMontant des charges : 50 € / m",
+    "district": "Bron 69500",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/75/05/94/750594f79af91913465b0024ea317baac2fb095d.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/41/6d/a6/416da6e93652e702e22d3c7dba5ea3e975c3659c.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d6/92/ce/d692ce9d192d9c24df9de66f3e23f2640468c86d.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f2/0b/b7/f20bb74d0f615efc776b34238cc775a2170a6a18.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b3/9e/02/b39e029c280c6920375c64261340049687d00eb2.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/2f/10/e1/2f10e1f99dc22f65e305707c819fb96c8cd21234.jpg?rule=ad-large"
+    ],
+    "postal_code": "69500",
+    "poster": "agence",
+    "poster_name": "REGIE CHOMETTE",
+    "published_at": "2026-11-24 17:34:13",
+    "rent_cc": 700.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3317083097",
+    "surface_m2": 44.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement 2 pièces 44 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3317083097"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "paruvendu:1286858274": {
    "also": [],
    "checked": "2026-11-24T15:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -94837,7 +95113,7 @@
    "checked": "2026-11-24T15:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -95101,7 +95377,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -95153,7 +95429,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -95193,7 +95469,7 @@
    "also": [],
    "dup_of": "bienici:ag261285-529910132",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -95244,7 +95520,7 @@
    "also": [],
    "dup_of": "bienici:ag697112-535198871",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -95265,7 +95541,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -95483,7 +95759,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-LAPP5116171",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -95708,7 +95984,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -95884,7 +96160,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -95972,7 +96248,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-56238865",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -96081,7 +96357,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-60603233",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -96470,7 +96746,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -96514,7 +96790,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -96741,7 +97017,7 @@
    "also": [],
    "dup_of": "bienici:ag694538-556342760",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -96868,7 +97144,7 @@
    "also": [],
    "dup_of": "bienici:ag694498-539604626",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -96887,7 +97163,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -97012,7 +97288,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -97385,7 +97661,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-58798199",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -97403,7 +97679,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-59373614",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -97654,7 +97930,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES01894005-175",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -97771,7 +98047,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -98027,7 +98303,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -98104,7 +98380,7 @@
    "also": [],
    "dup_of": "bienici:ag690049-505846922",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -98669,7 +98945,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -98993,7 +99269,7 @@
    "also": [],
    "dup_of": "bienici:century-21-202_3571_20520",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -99058,7 +99334,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -99206,7 +99482,7 @@
    "also": [],
    "dup_of": "bienici:hektor-limmon-2703",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -99396,7 +99672,7 @@
    "checked": "2026-11-24T16:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -99957,7 +100233,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-60582711",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -99976,7 +100252,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -100346,7 +100622,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -100392,7 +100668,7 @@
    "checked": "2026-11-24T16:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -100435,7 +100711,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -100518,7 +100794,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -100887,7 +101163,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -101963,7 +102239,7 @@
    "checked": "2026-11-24T12:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T15:40:26+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -102044,7 +102320,7 @@
    "also": [],
    "dup_of": "bienici:ag696718-562064249",
    "first_seen": "2026-11-23T06:40:20+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -102053,7 +102329,7 @@
    "also": [],
    "dup_of": "bienici:ag696718-562064234",
    "first_seen": "2026-11-23T06:40:20+00:00",
-   "last_seen": "2026-11-24T13:40:30+00:00",
+   "last_seen": "2026-11-24T16:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
