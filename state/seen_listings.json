@@ -29,8 +29,8 @@
    "last_success": "2026-11-24T17:20:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-24T19:50:20+00:00"
@@ -13403,7 +13403,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T17:01:05+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
    "listing": {
     "charges": 107,
     "city": "lyon",
@@ -16238,7 +16238,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T17:01:05+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -39430,7 +39430,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:50:21+00:00",
-   "last_seen": "2026-11-24T17:01:05+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
    "listing": {
     "charges": 75,
     "city": "lyon",
@@ -45117,7 +45117,7 @@
    "checked": "2026-11-24T11:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:00:39+00:00",
-   "last_seen": "2026-11-24T17:01:05+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -69023,7 +69023,7 @@
    "also": [],
    "dup_of": "bienici:hektor-onilimmo-2895",
    "first_seen": "2026-11-24T14:00:49+00:00",
-   "last_seen": "2026-11-24T17:01:05+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -69133,7 +69133,7 @@
     "url": "https://fr.foncia.com/location/lyon-69003/appartement-meuble/331697380.htm"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "foncia:331701041": {
    "also": [],
@@ -74733,7 +74733,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T17:01:05+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -76386,7 +76386,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T17:01:05+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -76685,6 +76685,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:cb6t4e": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 7 pièces de 105 m². Disponible dès 2026-12-26",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-a3a610177d241302f059abfe76445d3a/508130/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 539,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "cb6t4e",
+    "surface_m2": 105,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 7 pièces de 105 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/cb6t4e"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:cgtqwr": {
    "also": [],
    "checked": "2026-11-22T13:40:08+00:00",
@@ -76954,7 +76991,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T17:01:05+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -77433,6 +77470,42 @@
     ],
     "title": "Appartement 3 pièces de 80 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/gm09qo"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:guhi0u": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Studio de 33 m². Disponible dès 2026-12-18",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-8e76bd9f0666ffe087342ccf583245fd/6627699/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 750,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "guhi0u",
+    "surface_m2": 33,
+    "tags": [
+     "area?"
+    ],
+    "title": "Studio de 33 m²",
+    "url": "https://www.lacartedescolocs.fr/sous-locations/fr/auvergne-rhone-alpes/lyon/a/guhi0u"
    },
    "notified": false,
    "status": "active"
@@ -78295,7 +78368,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/l83pef"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:l93ovu": {
    "also": [],
@@ -80253,7 +80326,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T17:01:05+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81639,6 +81712,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:z4lehb": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-24T20:10:20+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 67 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-ad91a7cebcbc98ba81032ea8c81c52b2/6399380/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 582,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "z4lehb",
+    "surface_m2": 67,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 67 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/z4lehb"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:z8isby": {
    "also": [],
    "checked": "2026-11-24T04:00:38+00:00",
@@ -81946,7 +82056,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T17:01:05+00:00",
-   "last_seen": "2026-11-24T17:01:05+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -98504,7 +98614,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES99024032-184",
    "first_seen": "2026-11-24T11:00:39+00:00",
-   "last_seen": "2026-11-24T17:01:05+00:00",
+   "last_seen": "2026-11-24T20:10:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -102611,7 +102721,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297641156A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297643234": {
    "also": [
@@ -104082,7 +104192,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297758202A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297759006": {
    "also": [],
