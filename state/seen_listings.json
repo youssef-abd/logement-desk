@@ -29,8 +29,8 @@
    "last_success": "2026-11-24T17:20:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-24T16:50:20+00:00"
@@ -2070,7 +2070,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T12:40:28+00:00",
-   "last_seen": "2026-11-24T15:50:19+00:00",
+   "last_seen": "2026-11-24T18:50:28+00:00",
    "listing": {
     "charges": 100,
     "city": "lyon",
@@ -9415,7 +9415,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T12:40:28+00:00",
-   "last_seen": "2026-11-24T15:50:19+00:00",
+   "last_seen": "2026-11-24T18:50:28+00:00",
    "listing": {
     "charges": 100,
     "city": "lyon",
@@ -41875,7 +41875,7 @@
    "also": [],
    "dup_of": "paruvendu:1297799538",
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T15:50:19+00:00",
+   "last_seen": "2026-11-24T18:50:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -44959,7 +44959,7 @@
    "checked": "2026-11-24T01:04:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:10:24+00:00",
-   "last_seen": "2026-11-24T15:50:19+00:00",
+   "last_seen": "2026-11-24T18:50:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -71775,7 +71775,7 @@
    "checked": "2026-11-24T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T15:50:19+00:00",
+   "last_seen": "2026-11-24T18:50:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -71988,7 +71988,7 @@
    "checked": "2026-11-24T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T15:50:19+00:00",
+   "last_seen": "2026-11-24T18:50:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -72030,7 +72030,7 @@
    "checked": "2026-11-24T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T00:02:35+00:00",
-   "last_seen": "2026-11-24T15:50:19+00:00",
+   "last_seen": "2026-11-24T18:50:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75096,7 +75096,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-24T07:10:22+00:00",
+   "last_seen": "2026-11-24T18:50:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -77352,7 +77352,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/hdjpsw"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:hx7rxd": {
    "also": [],
@@ -79044,7 +79044,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/oa5oi0"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:oi7zhw": {
    "also": [],
@@ -103672,7 +103672,7 @@
    "checked": "2026-11-24T04:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
-   "last_seen": "2026-11-24T15:50:19+00:00",
+   "last_seen": "2026-11-24T18:50:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -104254,7 +104254,7 @@
    "checked": "2026-11-24T04:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T03:30:19+00:00",
-   "last_seen": "2026-11-24T15:50:19+00:00",
+   "last_seen": "2026-11-24T18:50:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -104295,7 +104295,7 @@
    "also": [],
    "dup_of": "leboncoin:3283389269",
    "first_seen": "2026-11-24T03:30:19+00:00",
-   "last_seen": "2026-11-24T15:50:19+00:00",
+   "last_seen": "2026-11-24T18:50:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
