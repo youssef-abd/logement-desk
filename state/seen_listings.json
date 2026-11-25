@@ -29,10 +29,10 @@
    "last_success": "2026-11-24T23:30:22+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-24T23:40:29+00:00"
   },
   "logicimmo": {
@@ -32372,7 +32372,7 @@
     "url": "https://www.bienici.com/annonce/citya-immobilier-47750692700060-GES80300042-746"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:citya-immobilier-47750692700060-GES80420028-746": {
    "also": [],
@@ -56478,7 +56478,7 @@
     "url": "https://www.bienici.com/annonce/immo-facile-59078374"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:immo-facile-59109896": {
    "also": [],
@@ -58763,7 +58763,7 @@
     "url": "https://www.bienici.com/annonce/immo-facile-60696633"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:immo-facile-60724777": {
    "also": [],
@@ -74503,7 +74503,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/1wau84"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:1x7929": {
    "also": [],
@@ -76722,7 +76722,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/villeurbanne/a/8dqv2n"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:8n1d5g": {
    "also": [],
@@ -76945,7 +76945,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/9apg5j"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:9edpy7": {
    "also": [],
