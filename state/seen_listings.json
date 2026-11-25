@@ -29,8 +29,8 @@
    "last_success": "2026-11-25T14:50:31+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-25T12:50:21+00:00"
@@ -28128,6 +28128,50 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:apimo-3889768": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T15:40:21+00:00",
+   "last_seen": "2026-11-25T15:40:21+00:00",
+   "listing": {
+    "charges": 60,
+    "city": "lyon",
+    "description": "SVP PREMIER CONTACT PAR SMS AVEC VOS COORDONNEES (NOM, PRENOM, ADRESSE MAIL) ET REFERENCE DE L’ANNONCE (RE029), UN DOSSIER VOUS SERA ENVOYE ET DES RECEPTION DE VOTRE CANDIDATURE VOUS SEREZ RECONTACTES. \nMERCI DE VOTRE COMPREHENSION.\n\n13, Rue des Balançoires 69007 LYON.\n\nDans une résidence de 2017.\n\nDécouvrez cet agréable appartement 2 pièces de 36,6 m², au 4e étage d’une résidence récente, comprenant 8 étages.\nL’appartement dispose d’un balcon de 4,1 m², offrant un espace extérieur appréciable.\n",
+    "district": "Lyon 7e",
+    "flags": [
+     "agency_fees",
+     "charges_hc",
+     "visale"
+    ],
+    "found_by": "bienici",
+    "furnished": null,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://file.bienici.com/photo/apimo-3889768_media.apimo.pro_cache_1b8872004cd81b5fdd982e653e3c584f_85bb53595e_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-3889768_media.apimo.pro_cache_52ded301470f51112f16d1af3dda7dc2_2a46a6a6ae_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-3889768_media.apimo.pro_cache_c4c6fce049de7b3afac355af6be077ff_e0181fec45_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-3889768_media.apimo.pro_cache_b0137513ff8214623272ac45077d1c30_de80435458_1920-original.jpg"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "L’Immobilière Franco-Suisse Rhône",
+    "published_at": "2026-11-25T15:19:25.822Z",
+    "rent_cc": 680,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "apimo-3889768",
+    "surface_m2": 36.6,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "À louer – T2 de 36,6 m² avec balcon – Lyon 7e",
+    "url": "https://www.bienici.com/annonce/apimo-3889768"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:apimo-4099178": {
    "also": [],
    "dup_of": null,
@@ -53406,6 +53450,47 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:immo-facile-49701266": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T15:40:21+00:00",
+   "last_seen": "2026-11-25T15:40:21+00:00",
+   "listing": {
+    "charges": 100,
+    "city": "lyon",
+    "description": "A LOUER!! Studio de 17.06m² au 2éme étage d'une résidence étudiante meublé disposant de nombreux rangements, placards aménagés, étagères et penderies.<br>Cet appartement est entièrement autonome grâce à sa kitchenette équipée d'un four à micro-onde, de plaques électriques et d'un réfrigérateur mais également de sa salle d'eau avec WC privatif, lavabo avec meuble vasque et cabine de douche. <br>Prestation de services: internet WIFI illimité et gratuit, accueil, digicode, salle fitness, nettoyage ",
+    "district": "Lyon 7e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "studio",
+    "match": true,
+    "photos": [
+     "https://file.bienici.com/photo/immo-facile-49701266_media.immo-facile.com_office8_gedira_lyon_catalog_images_pr_p_4_9_7_0_1_2_6_6_49701266a.jpg_DATEMAJ_16_03_2025-00_35_41",
+     "https://file.bienici.com/photo/immo-facile-49701266_media.immo-facile.com_office8_gedira_lyon_catalog_images_pr_p_4_9_7_0_1_2_6_6_49701266b.jpg_DATEMAJ_16_03_2025-00_35_42",
+     "https://file.bienici.com/photo/immo-facile-49701266_media.immo-facile.com_office8_gedira_lyon_catalog_images_pr_p_4_9_7_0_1_2_6_6_49701266c.jpg_DATEMAJ_16_03_2025-00_35_42",
+     "https://file.bienici.com/photo/immo-facile-49701266_media.immo-facile.com_office8_gedira_lyon_catalog_images_pr_p_4_9_7_0_1_2_6_6_49701266d.jpg_DATEMAJ_16_03_2025-00_35_43",
+     "https://file.bienici.com/photo/immo-facile-49701266_media.immo-facile.com_office8_gedira_lyon_catalog_images_pr_p_4_9_7_0_1_2_6_6_49701266e.jpg_DATEMAJ_16_03_2025-00_35_43",
+     "https://file.bienici.com/photo/immo-facile-49701266_media.immo-facile.com_office8_gedira_lyon_catalog_images_pr_p_4_9_7_0_1_2_6_6_49701266f.jpg_DATEMAJ_16_03_2025-00_35_44"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "Agence Gedimmo Par Gedira",
+    "published_at": "2026-11-25T15:18:33.441Z",
+    "rent_cc": 690,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "immo-facile-49701266",
+    "surface_m2": 17.06,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "A LOUER, Studio meublé dans une résidence étudiante (LYON 7ème)",
+    "url": "https://www.bienici.com/annonce/immo-facile-49701266"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:immo-facile-49701353": {
    "also": [
     "leboncoin:3316016368"
@@ -71135,7 +71220,7 @@
    "checked": "2026-11-24T23:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:00:41+00:00",
-   "last_seen": "2026-11-25T12:40:19+00:00",
+   "last_seen": "2026-11-25T15:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108427,7 +108512,7 @@
    "also": [],
    "dup_of": "bienici:nestenn-1-99938981961",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-25T12:40:19+00:00",
+   "last_seen": "2026-11-25T15:40:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
