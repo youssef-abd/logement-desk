@@ -9,9 +9,9 @@
   },
   "foncia": {
    "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "TimeoutError",
    "last_success": "2026-11-25T08:30:26+00:00"
   },
   "immojeune": {
@@ -29,10 +29,10 @@
    "last_success": "2026-11-25T08:30:26+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
+   "last_error": null,
    "last_success": "2026-11-25T08:50:31+00:00"
   },
   "logicimmo": {
@@ -20993,7 +20993,7 @@
    "checked": "2026-11-25T01:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T01:00:39+00:00",
-   "last_seen": "2026-11-25T07:10:25+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
    "listing": {
     "charges": 50,
     "city": "lyon",
@@ -49960,7 +49960,8 @@
   "bienici:ics-sag_SAGITER_loc-GES14271000-144": {
    "also": [
     "paruvendu:1297685526",
-    "paruvendu:1297726281"
+    "paruvendu:1297726281",
+    "leboncoin:3303394779"
    ],
    "checked": "2026-11-25T05:00:44+00:00",
    "dup_of": null,
@@ -88779,6 +88780,48 @@
    "notified": false,
    "status": "stale"
   },
+  "leboncoin:3298061178": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:20:22+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
+   "listing": {
+    "charges": 55.0,
+    "city": "lyon",
+    "description": "PARC TETE D'OR / COEUR BROTTEAUX - BD ANATOLE FRANCE\n\nPARC DE LA TÊTE D'OR / CŒUR BROTTEAUX – Boulevard Anatole France - T2 de 43,92 m²\n\nÀ deux pas du parc de la Tête d'Or, au cœur du quartier des Brotteaux, appartement de type 2 de 43,92 m² situé au 2e étage, boulevard Anatole France.\n\nIl comprend : un séjour avec coin cuisine, une chambre, une salle de bains et un W.C. séparé.\n\nChauffage individuel gaz, eau froide individuelle et eau chaude individuelle gaz.\n\nDisponible le 27 Novembre 2026.\n\nL",
+    "district": "Lyon 69006",
+    "flags": [
+     "agency_fees",
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/02/70/a4/0270a4ec9cada5861cbc494993870de69af7f352.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/2f/b6/e2/2fb6e22098ccfe46fca3b6a2c0a2f00cd5435129.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ed/46/a1/ed46a1353dbc6cb48b8c457f492f4028c189ffb2.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/70/38/c2/7038c2161f0806eabd0829b6cde5bdebe112c23b.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/84/fd/69/84fd695771d2e6ab99288fade455d096fcd2c5ff.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ec/4d/00/ec4d000b54a03592fc70b4bc23c3b99623b04861.jpg?rule=ad-large"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "poster_name": "CILEAD TRUCHE",
+    "published_at": "2026-10-30 10:32:48",
+    "rent_cc": 845.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3298061178",
+    "surface_m2": 42.0,
+    "tags": [],
+    "title": "Appartement 2 pièces 42 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3298061178"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3298061814": {
    "also": [],
    "dup_of": null,
@@ -89823,6 +89866,90 @@
    "notified": false,
    "status": "stale"
   },
+  "leboncoin:3302680692": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:20:22+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
+   "listing": {
+    "charges": 75.0,
+    "city": "lyon",
+    "description": "Studio, Lyon 7e - 450 €\n\nBonjour\nDisponible immédiatement.\nPetit studio au centre-ville de Lyon, route de Vienne.\nProche Gare, cinéma, centre commercial et tous commerces.\nPas de\n430+40€\n\nHonoraires locataire : 450 €\nDont :\n - Visite, constitution du dossier, rédaction de bail : 360 €\n - Établissement état des lieux : 90 €\n\nDépôt de garantie : 470 €\n\nLocation Vide, Loyer 545 €/mois C.C,\ndont charges mensuelles : 75 €\nRéférence annonce : 72703646bce84153bbad\nMontant des charges : 75 € / mois",
+    "district": "Lyon 69007",
+    "flags": [
+     "agency_fees",
+     "available_now"
+    ],
+    "found_by": "leboncoin",
+    "furnished": null,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d7/8b/41/d78b412be4e855792bbfd93554d5ba33121adf79.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/52/f8/1e/52f81e6064b3bcd8f7c8ffd17871308bc9982636.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e7/05/21/e705217489490ac87cb80ade200e8f4d8607db4c.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/6e/7c/8e/6e7c8ef2d711258a5d4d71c03250133c7fe004b6.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/c4/f3/17/c4f317cfa60c31f959fe0a818ef9fc44b2464db5.jpg?rule=ad-large"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "PROPRIZEN",
+    "published_at": "2026-11-05 12:15:23",
+    "rent_cc": 545.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3302680692",
+    "surface_m2": 30.0,
+    "tags": [
+     "furnished?"
+    ],
+    "title": "Appartement 1 pièce 30 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3302680692"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3302680746": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:20:22+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
+   "listing": {
+    "charges": 103.0,
+    "city": "lyon",
+    "description": "Appartement 2 pièces Balcon Cuisine équipée\n\nDécouvrez cet appartement charmant situé dans le quartier prisé des Brotteaux-Bellecombe-Masséna, au cœur du 6ème arrondissement de Lyon. Ce bien de 41 m² se compose de deux pièces spacieuses, idéal pour une personne seule ou un couple. Il comprend une salle de bain moderne, un WC séparé et une cuisine entièrement équipée. Profitez également d'un balcon de 7 m², parfait pour savourer votre café du matin en toute tranquillité. L'emplacement est idéal, ",
+    "district": "Lyon 69006",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": null,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/b9/b5/f3/b9b5f3f2a39e078d17bb97aa522c7b1d0c442a42.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/69/7f/67/697f67d982a1bbc7af7728169043fa689613a085.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f6/21/64/f62164fa5762155db685a752788ef095b1e09738.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d1/a5/00/d1a5002147bf9b9ad6fe36490a1b2774302e52bc.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/52/ce/5f/52ce5f1ee4a0f0d4214107a452c9860d4e2d01cf.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/01/04/b2/0104b2d46ad5772d6be6397ee91d783b2695c4e9.jpg?rule=ad-large"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "poster_name": "PROPRIZEN",
+    "published_at": "2026-11-05 12:15:22",
+    "rent_cc": 815.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3302680746",
+    "surface_m2": 41.0,
+    "tags": [],
+    "title": "Appartement 2 pièces 41 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3302680746"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3302680760": {
    "also": [],
    "dup_of": "bienici:immo-facile-38263312",
@@ -90013,6 +90140,15 @@
    "dup_of": "bienici:immo-facile-61715833",
    "first_seen": "2026-11-24T12:30:21+00:00",
    "last_seen": "2026-11-24T12:30:21+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3303394779": {
+   "also": [],
+   "dup_of": "bienici:ics-sag_SAGITER_loc-GES14271000-144",
+   "first_seen": "2026-11-25T10:20:22+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -92426,6 +92562,15 @@
    "notified": false,
    "status": "stale"
   },
+  "leboncoin:3311126403": {
+   "also": [],
+   "dup_of": "paruvendu:1297529373",
+   "first_seen": "2026-11-25T10:20:22+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "leboncoin:3311167460": {
    "also": [],
    "dup_of": "bienici:ics-reg_CRETIN_loc-GES90490052-264",
@@ -93334,9 +93479,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-20T22:52:17+00:00",
-   "last_seen": "2026-11-21T09:00:21+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
    "listing": {
     "charges": 68.0,
+    "city": "lyon",
     "description": "Studio 1 pièce 18 m²\n\nAvenue Berthelot, dans un immeuble ancien, très beau studio meublé de 18.18m2 entièrement rénové comprenant une belle pièce de vie avec cuisine ouverte équipée, une salle de douche avec des toilettes. Eau chaude, eau froide, chauffage et électricité inclus dans les charges.\n Honoraires 183.25EUR + 54.90EUR Frais d'état des lieux / Loyer de référence médian : 321EURHC / Loyer majoré : 385EURHC / Complément de loyer : 176EUR\n La prise de rendez-vous s'effectue en ligne, merci",
     "district": "Lyon 69008",
     "flags": [
@@ -93355,6 +93501,7 @@
     ],
     "postal_code": "69008",
     "poster": "agence",
+    "poster_name": "IBT",
     "published_at": "2026-11-20 08:11:44",
     "rent_cc": 629.0,
     "rooms": 1,
@@ -93368,7 +93515,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3313180839"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "leboncoin:3313264220": {
    "also": [],
@@ -100036,6 +100183,46 @@
    "notified": true,
    "status": "active"
   },
+  "leboncoin:3317027577": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:20:22+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
+   "listing": {
+    "charges": 60.0,
+    "city": "lyon",
+    "description": "Loue T3 en rez de jardin. Appartement composé d'un salon cuisine (equipe et neuf), de deux chambres (avec placard mural), une salle de bain avec baignoire, un toilette, un dressing, jardin avec terrasse, place de parking en sous sol. Appartement refait a neuf dans immeuble sécurisé. Disponible de suite. Appartement a loyer modéré, pour revenu faible a moyen, d'où le prix de la location. Assurance propriétaire, donc pas besoin de garant. Pas d'envoyer de photos supplémentaires, il y auras des vis",
+    "district": "Bron 69500",
+    "flags": [
+     "garant"
+    ],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/4a/13/984a134aa1812c3b5749810a67d7919a9a7f3caa.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8f/39/e6/8f39e60ff0b873e6beb6b9f9301e356d6dec5865.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d4/72/98/d472984aa8d558b51aed0c290cab40a8b8fbe871.jpg?rule=ad-large"
+    ],
+    "postal_code": "69500",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-25 10:55:51",
+    "rent_cc": 650.0,
+    "rooms": 3,
+    "source": "leboncoin",
+    "source_id": "3317027577",
+    "surface_m2": 57.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "T3 (rez de jardin)",
+    "url": "https://www.leboncoin.fr/ad/locations/3317027577"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "leboncoin:3317028459": {
    "also": [],
    "dup_of": null,
@@ -102514,6 +102701,120 @@
     "tags": [],
     "title": "Appartement 2 pièces 48 m²",
     "url": "https://www.leboncoin.fr/ad/locations/3317410601"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3317419680": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:20:22+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
+   "listing": {
+    "charges": 1.0,
+    "city": "lyon",
+    "description": "A louer STUDIO – 19 M2 hyper centre d’ECULLY.\nA 50 M de tous commerces, marché, Marie, Eglise,\nParking gratuit - Bus avec accès très facile à Lyon. (Bus 3-19)\nDans jolie maison ancienne – entièrement restaurée.\nImmeuble de 13 logements, très convoité par les étudiants de Lyfe – Osthéo – Centrale - ITEC\nStudio 19 M2 Meublé - refait à neuf, tout équipé. (Lave-linge).\n1er Etage – clair et calme., Coté Est Donne sur jardin\nAccès au Jardin privé – tous les locataires peuvent en bénéficier\nPossibilité",
+    "district": "Écully 69130",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "studio",
+    "match": true,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/ce/68/78/ce687897a4b3e37e2eb387c4432b5457cee8a62c.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/a2/dc/a1a2dcc10df8cbb2deda2c5a4fe3dc199776bf2b.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/05/05/a3/0505a3f7aff70c0b1fe6f71f5c597c9fe9e90ac6.jpg?rule=ad-large"
+    ],
+    "postal_code": "69130",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-25 10:58:55",
+    "rent_cc": 591.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3317419680",
+    "surface_m2": 19.0,
+    "tags": [],
+    "title": "STUDIO - Centre Ecully",
+    "url": "https://www.leboncoin.fr/ad/locations/3317419680"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3317423627": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:20:22+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
+   "listing": {
+    "charges": 51.0,
+    "city": "lyon",
+    "description": "Je propose en location ce charmant T2 meublé de 26 m² situé au 2ème étage d'un bel immeuble à proximité de point du jour.\nCet appartement comprend 1 chambre et 1 salle de bain. La cuisine est équipée et ouverte sur l'espace de vie, offrant une belle luminosité et une agréable sensation d'espace cocooning.\n- Meublé\n- Cuisine équipée et ouverte\n- Accès à un jardin\n- 1 place de parking\n- Chauffage électrique individuel\nL'appartement bénéficie d'un environnement verdoyant et calme, avec accès à un j",
+    "district": "Lyon 69005",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/43/c5/76/43c57616e027a9249c38039595291a699f2472f3.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/e8/79/bc/e879bcd929764307008af4c175b8b31cae5aca0e.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/67/41/49/67414978b5ff5685a57481b50abee9ef523862fa.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f2/e3/a8/f2e3a85d34b4b7a4d442f6fe6e8003e6740b6a9a.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/12/fd/f3/12fdf3aed2bba874cbee3c5dd88c4e0c296b139d.jpg?rule=ad-large"
+    ],
+    "postal_code": "69005",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-25 11:04:25",
+    "rent_cc": 700.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3317423627",
+    "surface_m2": 26.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Location appartement Lyon 5",
+    "url": "https://www.leboncoin.fr/ad/locations/3317423627"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3317430733": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:20:22+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
+   "listing": {
+    "charges": 40.0,
+    "city": "lyon",
+    "description": "Loue agréable appartement meublé de 40 m2, situé dans le 6ème arrondissement de Lyon\nEn excellente condition,  rénové entièrement,  cet appartement se compose de :\n- une chambre indépendante \n- un salon chaleureux \n- une cuisine équipée ouverte ( machine à laver)\n- une salle d'eau avec douche\n- WC séparés \nAppartement entièrement meublé,  soigné et prêt à vivre. \nSitué au 5ème étage sans ascenseur, vue sur cour.\nChauffage électrique \nLogement équipé pour la fibre \n\nLoyer  : 850 €\nCharges mensuel",
+    "district": "Lyon 69006",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/29/f7/00/29f70039dfec1214ba25c15328a3b630288746b4.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/c4/16/81/c416811b6b5f1ab08e361f00cd670618ab9ca653.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fc/1b/88/fc1b88a9a2d7a7a60bdabec3dd0540fa76fd49ab.jpg?rule=ad-large"
+    ],
+    "postal_code": "69006",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-25 11:14:19",
+    "rent_cc": 890.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3317430733",
+    "surface_m2": 40.0,
+    "tags": [],
+    "title": "A louer - Bel appartement Meublé de 40 m2 Lyon 6ème",
+    "url": "https://www.leboncoin.fr/ad/locations/3317430733"
    },
    "notified": false,
    "status": "active"
@@ -106785,7 +107086,8 @@
   },
   "paruvendu:1297529373": {
    "also": [
-    "bienici:ag440414-560567540"
+    "bienici:ag440414-560567540",
+    "leboncoin:3311126403"
    ],
    "checked": "2026-11-25T06:00:41+00:00",
    "dup_of": null,
@@ -109973,7 +110275,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
-   "last_seen": "2026-11-25T07:10:25+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -112132,6 +112434,85 @@
     "tags": [],
     "title": "Appartement - 3 pièce(s) - 50 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297876913A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297879560": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:20:22+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 8 735 € CC* Appartement 30 m 2 Lyon 1 2 pièces 1 chambre DPE : E 347 kWh/m².an 13 kg CO 2 /m².an À Lyon 1ER, F1bis meublé de 30 m² au 3ème étage. Il comprend un séjour avec kitchenette, une chambre, placards, salle de douche et wc. Immeuble sécurisé avec digicode et double vitrage. Zone soumise à l'encadrement des loyers. LOC'A 47 annonces 25/11/2026 Voir Contacter",
+    "district": "Lyon 1er",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/83/47/L2JpZW5zLzM0MjY1Mjg0LzZiMDZhMWNmZGNiNjA_MjAyNjExMjUxMTE3MzU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/de/68/L2JpZW5zLzM0MjY1Mjg0LzZiMDZhMWNkMzgyMDM_MjAyNjExMjUxMTE3MzU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/56/e3/L2JpZW5zLzM0MjY1Mjg0LzZiMDZhMWNjNTE2ODU_MjAyNjExMjUxMTE3MzU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/0e/d3/L2JpZW5zLzM0MjY1Mjg0LzZiMDZhMWNlM2RiODU_MjAyNjExMjUxMTE3MzU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/87/a7/L2JpZW5zLzM0MjY1Mjg0LzZiMDZhMWNlZTA3Zjg_MjAyNjExMjUxMTE3MzU_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/12/44/L2JpZW5zLzM0MjY1Mjg0LzZiMDZhMWQxYTlkNjI_MjAyNjExMjUxMTE3MzU_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-25",
+    "rent_cc": 735,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297879560",
+    "surface_m2": 30.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 30 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297879560A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297879561": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:20:22+00:00",
+   "last_seen": "2026-11-25T10:20:22+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 1 610 € CC* Appartement 18 m 2 Lyon 1 1 pièce DPE : E 349 kWh/m².an 11 kg CO 2 /m².an À Lyon 1er, studio meublé de 18m² au 1er étage. Composé d'un séjour, kitchenette équipée, salle de douche, wc. Double vitrage, immeuble sécurisé avec digicode. Proche commodités. LOC'A 47 annonces 25/11/2026 Voir Contacter",
+    "district": "Lyon 1er",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/8d/11/L2JpZW5zLzM0MjY1MjgwLzZiMDY5ZmU2YTA2MmI_MjAyNjExMjUxMTE3MzU_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-25",
+    "rent_cc": 610,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297879561",
+    "surface_m2": 18.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 1 pièce(s) - 18 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297879561A1KILHAP000"
    },
    "notified": false,
    "status": "active"
