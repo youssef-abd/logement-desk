@@ -29,8 +29,8 @@
    "last_success": "2026-11-25T18:00:47+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
-   "consecutive_failures": 3,
+   "blocked_runs": 4,
+   "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-25T16:20:29+00:00"
@@ -30794,7 +30794,7 @@
    "checked": "2026-11-25T10:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T09:50:21+00:00",
-   "last_seen": "2026-11-25T16:00:43+00:00",
+   "last_seen": "2026-11-25T19:10:19+00:00",
    "listing": {
     "charges": 100,
     "city": "lyon",
@@ -53844,7 +53844,7 @@
    "checked": "2026-11-25T10:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T09:50:21+00:00",
-   "last_seen": "2026-11-25T16:00:43+00:00",
+   "last_seen": "2026-11-25T19:10:19+00:00",
    "listing": {
     "charges": 100,
     "city": "lyon",
@@ -77416,6 +77416,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:52znn2": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T19:10:19+00:00",
+   "last_seen": "2026-11-25T19:10:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Loft/atelier 5 pièces de 127 m². Disponible dès 2026-12-15",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-105ab1d08d075a4e8da671b36b1e6eea/6630615/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 590,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "52znn2",
+    "surface_m2": 127,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Loft/atelier 5 pièces de 127 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/52znn2"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:54t202": {
    "also": [],
    "checked": "2026-11-25T16:00:43+00:00",
@@ -80247,6 +80284,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:c9pwx5": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T19:10:19+00:00",
+   "last_seen": "2026-11-25T19:10:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 6 pièces de 94 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-f098d5fcfa2a5345c7c94c6c52c40c40/6504911/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 600,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "c9pwx5",
+    "surface_m2": 94,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 6 pièces de 94 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/c9pwx5"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:cb6t4e": {
    "also": [],
    "checked": "2026-11-25T14:00:41+00:00",
@@ -80855,6 +80929,44 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:ej0u10": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T19:10:19+00:00",
+   "last_seen": "2026-11-25T19:10:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 90 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-47aa267e4772ca14d94a09870e571ef0/3226385/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 700,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ej0u10",
+    "surface_m2": 90,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ej0u10"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:elg74o": {
    "also": [],
    "checked": "2026-11-23T19:01:04+00:00",
@@ -81047,7 +81159,7 @@
    "checked": "2026-11-25T16:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:00:43+00:00",
-   "last_seen": "2026-11-25T16:00:43+00:00",
+   "last_seen": "2026-11-25T19:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81877,7 +81989,7 @@
    "checked": "2026-11-25T16:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:00:43+00:00",
-   "last_seen": "2026-11-25T16:00:43+00:00",
+   "last_seen": "2026-11-25T19:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -86415,7 +86527,7 @@
    "checked": "2026-11-25T05:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T19:01:02+00:00",
-   "last_seen": "2026-11-25T01:20:21+00:00",
+   "last_seen": "2026-11-25T19:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -86445,7 +86557,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/uxqpiw"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:uyi3ye": {
    "also": [],
@@ -118367,7 +118479,7 @@
    "checked": "2026-11-25T13:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T12:50:21+00:00",
-   "last_seen": "2026-11-25T16:00:43+00:00",
+   "last_seen": "2026-11-25T19:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
