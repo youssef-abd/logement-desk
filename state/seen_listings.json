@@ -29,7 +29,7 @@
    "last_success": "2026-11-25T18:00:47+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
+   "blocked_runs": 1,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-25T20:50:23+00:00",
    "last_error": "blocked",
@@ -78102,6 +78102,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:6hgde7": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T20:50:23+00:00",
+   "last_seen": "2026-11-25T20:50:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 100 m². Disponible dès 2027-02-20",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-b95bd63bc5c551b212e0a04d6218ba82/5774942/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 590,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "6hgde7",
+    "surface_m2": 100,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/6hgde7"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:6izc06": {
    "also": [],
    "dup_of": null,
@@ -80639,7 +80676,7 @@
    "checked": "2026-11-25T18:00:47+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T17:40:21+00:00",
-   "last_seen": "2026-11-25T17:40:21+00:00",
+   "last_seen": "2026-11-25T20:50:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -88232,7 +88269,7 @@
    "checked": "2026-11-25T06:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-25T17:40:21+00:00",
+   "last_seen": "2026-11-25T20:50:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -118156,7 +118193,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297873466A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297873468": {
    "also": [],
@@ -118255,7 +118292,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297873561A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297873616": {
    "also": [],
@@ -118294,7 +118331,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297873616A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297873668": {
    "also": [],
@@ -118333,7 +118370,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297873668A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297876912": {
    "also": [],
