@@ -29,8 +29,8 @@
    "last_success": "2026-11-25T21:01:01+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-25T21:30:20+00:00"
@@ -5775,6 +5775,83 @@
     ],
     "title": "T1 GRANDE RUE OULLINS",
     "url": "https://www.bienici.com/annonce/ag690006-562264316"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag690006-562763018": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T22:20:20+00:00",
+   "last_seen": "2026-11-25T22:20:20+00:00",
+   "listing": {
+    "charges": 20,
+    "city": "lyon",
+    "description": "RUE SIMONE DE BEAUVOIR 69007 LYON\nProche de toutes les commodités, commerces et transports en commun\n\nAppartement de type F2, Meublé, d'une superficie de 46.50 m² avec ascenseur. Il se compose d'une entrée avec placard, d'une cuisine équipée et aménagée (meubles hauts et bas, plaque de cuisson, hotte, réfrigérateur, micro-ondes et four) ouverte sur le séjour, d'une chambre avec placard et d'une salle d'eau avec machine à laver et d'un wc.\n\nL'appartement se situe à 5 minutes à pieds du métro B - ",
+    "district": "Lyon 7e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag690006-562763018_photos.ubiflow.net_690006_562763018_photos_1.jpg_INSOON_EB_5512801818_20261125214820",
+     "https://file.bienici.com/photo/ag690006-562763018_photos.ubiflow.net_690006_562763018_photos_2.jpg_INSOON_EB_5512801818_20261125214820",
+     "https://file.bienici.com/photo/ag690006-562763018_photos.ubiflow.net_690006_562763018_photos_3.jpg_INSOON_EB_5512801818_20261125214820",
+     "https://file.bienici.com/photo/ag690006-562763018_photos.ubiflow.net_690006_562763018_photos_4.jpg_INSOON_EB_5512801818_20261125214820",
+     "https://file.bienici.com/photo/ag690006-562763018_photos.ubiflow.net_690006_562763018_photos_5.jpg_INSOON_EB_5512801818_20261125214820",
+     "https://file.bienici.com/photo/ag690006-562763018_photos.ubiflow.net_690006_562763018_photos_6.jpg_INSOON_EB_5512801818_20261125214820"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "Galyo",
+    "published_at": "2026-11-25T21:11:16.025Z",
+    "rent_cc": 940,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag690006-562763018",
+    "surface_m2": 46,
+    "tags": [],
+    "title": "T2 RUE SIMONE DE BEAUVOIR LYON 7EME",
+    "url": "https://www.bienici.com/annonce/ag690006-562763018"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag690006-562763024": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T22:20:20+00:00",
+   "last_seen": "2026-11-25T22:20:20+00:00",
+   "listing": {
+    "charges": 90,
+    "city": "lyon",
+    "description": "COURS RICHARD-VITTON LYON 3EME - QUARTIER MONTCHAT\nProche de toutes les commodités, commerces et transports en commun\n\nAppartement T3, traversant, au calme et très lumineux, composé d'un hall d'entrée, d'une cuisine aménagée et équipée (meubles hauts et bas, plaque de cuisson), d'un séjour donnant sur un balcon, de deux chambres dont une avec balcon, d'un dressing, d'une salle de bains et de WC indépendants.\n\nUne place de stationnement est compris dans le loyer.\n\nLogement soumis à l'encadrement ",
+    "district": "Lyon 3e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag690006-562763024_photos.ubiflow.net_690006_562763024_photos_1.jpg_INSOON_EB_5512801818_20261125214824",
+     "https://file.bienici.com/photo/ag690006-562763024_photos.ubiflow.net_690006_562763024_photos_2.jpg_INSOON_EB_5512801818_20261125214824",
+     "https://file.bienici.com/photo/ag690006-562763024_photos.ubiflow.net_690006_562763024_photos_3.jpg_INSOON_EB_5512801818_20261125214824",
+     "https://file.bienici.com/photo/ag690006-562763024_photos.ubiflow.net_690006_562763024_photos_4.jpg_INSOON_EB_5512801818_20261125214824",
+     "https://file.bienici.com/photo/ag690006-562763024_photos.ubiflow.net_690006_562763024_photos_5.jpg_INSOON_EB_5512801818_20261125214824"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "Galyo",
+    "published_at": "2026-11-25T21:11:16.025Z",
+    "rent_cc": 1044.5,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "ag690006-562763024",
+    "surface_m2": 68,
+    "tags": [],
+    "title": "Appartement T3 - 14 COURS RICHARD VITTON 69003 LYON",
+    "url": "https://www.bienici.com/annonce/ag690006-562763024"
    },
    "notified": false,
    "status": "active"
@@ -77093,6 +77170,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:4cr8sm": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T22:20:20+00:00",
+   "last_seen": "2026-11-25T22:20:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 6 pièces de 96 m². Disponible dès 2026-12-13",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-e219341f8e89db48d0d0f8cc27966845/6592544/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 590,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "4cr8sm",
+    "surface_m2": 96,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 6 pièces de 96 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/4cr8sm"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:4cxdb5": {
    "also": [],
    "checked": "2026-11-24T16:00:36+00:00",
@@ -84164,7 +84278,7 @@
    "checked": "2026-11-25T20:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T19:20:20+00:00",
-   "last_seen": "2026-11-25T19:20:20+00:00",
+   "last_seen": "2026-11-25T22:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -87185,7 +87299,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T16:10:18+00:00",
-   "last_seen": "2026-11-25T19:20:20+00:00",
+   "last_seen": "2026-11-25T22:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -109921,7 +110035,7 @@
    "checked": "2026-11-25T19:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:00:39+00:00",
-   "last_seen": "2026-11-25T19:20:20+00:00",
+   "last_seen": "2026-11-25T22:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -116583,7 +116697,7 @@
    "checked": "2026-11-25T08:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T11:00:54+00:00",
-   "last_seen": "2026-11-25T19:20:20+00:00",
+   "last_seen": "2026-11-25T22:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -117741,7 +117855,7 @@
    "also": [],
    "dup_of": "bienici:hektor-espacesetlieux-262",
    "first_seen": "2026-11-24T02:00:38+00:00",
-   "last_seen": "2026-11-25T19:20:20+00:00",
+   "last_seen": "2026-11-25T22:20:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -117801,7 +117915,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-61734050",
    "first_seen": "2026-11-24T06:00:43+00:00",
-   "last_seen": "2026-11-25T19:20:20+00:00",
+   "last_seen": "2026-11-25T22:20:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -117811,7 +117925,7 @@
    "checked": "2026-11-25T16:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T06:00:43+00:00",
-   "last_seen": "2026-11-25T19:20:20+00:00",
+   "last_seen": "2026-11-25T22:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -119476,7 +119590,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES41100010-171",
    "first_seen": "2026-11-25T19:20:20+00:00",
-   "last_seen": "2026-11-25T19:20:20+00:00",
+   "last_seen": "2026-11-25T22:20:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -119527,7 +119641,7 @@
    "checked": "2026-11-25T13:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T13:00:46+00:00",
-   "last_seen": "2026-11-25T19:20:20+00:00",
+   "last_seen": "2026-11-25T22:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
