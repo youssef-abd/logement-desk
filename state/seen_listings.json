@@ -29,7 +29,7 @@
    "last_success": "2026-11-25T05:30:22+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
+   "blocked_runs": 2,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-25T07:00:18+00:00",
    "last_error": "blocked",
@@ -2070,7 +2070,7 @@
    "checked": "2026-11-25T06:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T12:40:28+00:00",
-   "last_seen": "2026-11-25T04:01:02+00:00",
+   "last_seen": "2026-11-25T07:10:25+00:00",
    "listing": {
     "charges": 100,
     "city": "lyon",
@@ -9462,7 +9462,7 @@
    "checked": "2026-11-25T06:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T12:40:28+00:00",
-   "last_seen": "2026-11-25T04:01:02+00:00",
+   "last_seen": "2026-11-25T07:10:25+00:00",
    "listing": {
     "charges": 100,
     "city": "lyon",
@@ -20990,7 +20990,7 @@
    "checked": "2026-11-25T01:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T01:00:39+00:00",
-   "last_seen": "2026-11-25T04:01:02+00:00",
+   "last_seen": "2026-11-25T07:10:25+00:00",
    "listing": {
     "charges": 50,
     "city": "lyon",
@@ -80208,7 +80208,7 @@
     "url": "https://www.lacartedescolocs.fr/chambres-chez-l-habitant/fr/auvergne-rhone-alpes/lyon/a/ljsfcx"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:ln8qvv": {
    "also": [],
@@ -108015,7 +108015,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
-   "last_seen": "2026-11-25T04:01:02+00:00",
+   "last_seen": "2026-11-25T07:10:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108597,7 +108597,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T03:30:19+00:00",
-   "last_seen": "2026-11-25T04:01:02+00:00",
+   "last_seen": "2026-11-25T07:10:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108638,7 +108638,7 @@
    "also": [],
    "dup_of": "leboncoin:3283389269",
    "first_seen": "2026-11-24T03:30:19+00:00",
-   "last_seen": "2026-11-25T04:01:02+00:00",
+   "last_seen": "2026-11-25T07:10:25+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
