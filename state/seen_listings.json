@@ -29,10 +29,10 @@
    "last_success": "2026-11-25T11:40:31+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-25T12:50:21+00:00"
   },
   "logicimmo": {
@@ -75494,6 +75494,44 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:36k86h": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T13:50:22+00:00",
+   "last_seen": "2026-11-25T13:50:22+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 130 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-20260290c708ad15a0da32d5d8629c13/6509593/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 700,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "36k86h",
+    "surface_m2": 130,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 130 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/36k86h"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:37abyw": {
    "also": [],
    "dup_of": null,
@@ -79345,6 +79383,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:e2gshn": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T13:50:22+00:00",
+   "last_seen": "2026-11-25T13:50:22+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 60 m². Disponible dès 2026-12-25",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-0cf67c61e47ddc664090bcdbb4e18835/6590993/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 540,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "e2gshn",
+    "surface_m2": 60,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 60 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/e2gshn"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:e2r79z": {
    "also": [],
@@ -114783,7 +114858,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES70270083-894",
    "first_seen": "2026-11-25T10:50:19+00:00",
-   "last_seen": "2026-11-25T10:50:19+00:00",
+   "last_seen": "2026-11-25T13:50:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
