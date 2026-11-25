@@ -29,7 +29,7 @@
    "last_success": "2026-11-25T18:00:47+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -8259,7 +8259,7 @@
    "checked": "2026-11-25T14:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T13:20:18+00:00",
-   "last_seen": "2026-11-25T16:20:29+00:00",
+   "last_seen": "2026-11-25T19:30:20+00:00",
    "listing": {
     "charges": 77,
     "city": "lyon",
@@ -67887,7 +67887,7 @@
    "checked": "2026-11-25T14:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T13:20:18+00:00",
-   "last_seen": "2026-11-25T16:20:29+00:00",
+   "last_seen": "2026-11-25T19:30:20+00:00",
    "listing": {
     "charges": 20,
     "city": "lyon",
@@ -68469,7 +68469,7 @@
    "checked": "2026-11-25T14:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T13:20:18+00:00",
-   "last_seen": "2026-11-25T16:20:29+00:00",
+   "last_seen": "2026-11-25T19:30:20+00:00",
    "listing": {
     "charges": 30,
     "city": "lyon",
@@ -76969,7 +76969,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:30:20+00:00",
-   "last_seen": "2026-11-25T16:30:20+00:00",
+   "last_seen": "2026-11-25T19:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81235,7 +81235,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:30:20+00:00",
-   "last_seen": "2026-11-25T16:30:20+00:00",
+   "last_seen": "2026-11-25T19:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -82518,7 +82518,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:30:20+00:00",
-   "last_seen": "2026-11-25T16:30:20+00:00",
+   "last_seen": "2026-11-25T19:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -84030,7 +84030,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:20:29+00:00",
-   "last_seen": "2026-11-25T16:20:29+00:00",
+   "last_seen": "2026-11-25T19:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -84449,7 +84449,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:30:20+00:00",
-   "last_seen": "2026-11-25T16:30:20+00:00",
+   "last_seen": "2026-11-25T19:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -84478,6 +84478,42 @@
     ],
     "title": "Appartement 4 pièces de 60 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/oae72d"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:oh4hgu": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T19:30:20+00:00",
+   "last_seen": "2026-11-25T19:30:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 90 m². Disponible dès 2026-12-20",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-e87d48fa63fbad0d46393ce6981d816f/5862211/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 780,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "oh4hgu",
+    "surface_m2": 90,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 4 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/oh4hgu"
    },
    "notified": false,
    "status": "active"
@@ -84934,7 +84970,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/villeurbanne/a/qocqkh"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:qsh6uy": {
    "also": [],
@@ -85696,7 +85732,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:30:20+00:00",
-   "last_seen": "2026-11-25T16:30:20+00:00",
+   "last_seen": "2026-11-25T19:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
