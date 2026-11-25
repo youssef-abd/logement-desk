@@ -29,8 +29,8 @@
    "last_success": "2026-11-25T11:40:31+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 2,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-25T08:50:31+00:00"
@@ -16419,8 +16419,7 @@
    "checked": "2026-11-25T12:01:14+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T19:00:42+00:00",
-   "gone": "2026-11-25T12:01:14+00:00",
-   "last_seen": "2026-11-25T10:30:21+00:00",
+   "last_seen": "2026-11-25T12:10:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -16455,7 +16454,7 @@
     "url": "https://www.bienici.com/annonce/ag694498-562486343"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "bienici:ag694498-562634090": {
    "also": [],
@@ -111536,6 +111535,44 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "paruvendu:1297799016": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T12:10:23+00:00",
+   "last_seen": "2026-11-25T12:10:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 3 840 € CC* Appartement 41 m 2 Lyon 8 2 pièces 1 chambre Lyon 8e monplaisir, t2 41 m2 meublé. lyon 8e au c?ur du quartier monplaisir, sur la place ambroise courtois, face au château lumière, agréable f2 41 m2 entièrement meuble, composé belle pièce à vivre avec cuisine séparée, d'une salle d'eau avec... Particulier 25/11/2026 Voir Contacter",
+    "district": "Lyon 8e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/8c/dd/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjIxNjcxXzEuanBlZz8yMDI2MTEyNTEzMDIzMQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/a7/92/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjIxNjcxXzIuanBlZz8yMDI2MTEyNTEzMDIzMQ_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/34/4b/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjIxNjcxXzMuanBlZz8yMDI2MTEyNTEzMDIzMQ_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69008",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-25",
+    "rent_cc": 840,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297799016",
+    "surface_m2": 41.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 41 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297799016A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
   },
   "paruvendu:1297799444": {
    "also": [],
