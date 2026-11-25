@@ -29,8 +29,8 @@
    "last_success": "2026-11-25T11:40:31+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-25T12:50:21+00:00"
@@ -8206,6 +8206,47 @@
     "tags": [],
     "title": "GRAND F1 BIS - 44 RUE JABOULAY LYON 7",
     "url": "https://www.bienici.com/annonce/ag690049-562151777"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag690049-562649942": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T13:20:18+00:00",
+   "last_seen": "2026-11-25T13:20:18+00:00",
+   "listing": {
+    "charges": 77,
+    "city": "lyon",
+    "description": "Bel appartement de type F2 de 66.05 m², traversant, exposition Est / Ouest, au 3e étage avec ascenseur sur demi palier.\nIl se compose d'un grand séjour avec rangement, d'une cuisine  équipée avec une table et deux tabourets hauts, Piano induction (cuisinière), hotte, four à vapeur et lave vaisselle sauf réfrigérateur, d'une chambre sur cour avec un placard, un dressing/bureau, une buanderie, une salle de bains, un wc et une cave.\n Le chauffage est assuré par des convecteurs électriques avec des ",
+    "district": "Lyon 6e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag690049-562649942_photos.ubiflow.net_690049_562649942_photos_1.jpg_INSOON_EB_5512801818_20261125123127",
+     "https://file.bienici.com/photo/ag690049-562649942_photos.ubiflow.net_690049_562649942_photos_2.jpg_INSOON_EB_5512801818_20261125123127",
+     "https://file.bienici.com/photo/ag690049-562649942_photos.ubiflow.net_690049_562649942_photos_3.jpg_INSOON_EB_5512801818_20261125123127",
+     "https://file.bienici.com/photo/ag690049-562649942_photos.ubiflow.net_690049_562649942_photos_4.jpg_INSOON_EB_5512801818_20261125123127",
+     "https://file.bienici.com/photo/ag690049-562649942_photos.ubiflow.net_690049_562649942_photos_5.jpg_INSOON_EB_5512801818_20261125123127",
+     "https://file.bienici.com/photo/ag690049-562649942_photos.ubiflow.net_690049_562649942_photos_6.jpg_INSOON_EB_5512801818_20261125123127"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "poster_name": "Regie Janin",
+    "published_at": "2026-11-25T12:39:36.017Z",
+    "rent_cc": 1142,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag690049-562649942",
+    "surface_m2": 66,
+    "tags": [],
+    "title": "F2 - 79 RUE DUGUESCLIN LYON 6",
+    "url": "https://www.bienici.com/annonce/ag690049-562649942"
    },
    "notified": false,
    "status": "active"
@@ -66940,6 +66981,47 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:netty-company56058ckb-appt-8231": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T13:20:18+00:00",
+   "last_seen": "2026-11-25T13:20:18+00:00",
+   "listing": {
+    "charges": 20,
+    "city": "lyon",
+    "description": "Villeurbanne, Secteur Gratte Ciel, à proximité des transports et commerces, Rue Docteur Rollet, Studio de 42m² au rez-de-chaussé, composé d'une entrée, un séjour avec alcôve, un coin cuisine, une salle d'eau et sanitaire séparé.<br>Eau froide collective.<br>Disponible à partir du 27/09/2026.<br>Provision mensuelle des charges locatives soumise à régularisation annuelle.<br>SI VOUS SOUHAITEZ LE VISITER : afin que nous puissions vérifier votre solvabilité, nous vous remercions de nous transmettre ",
+    "district": "Villeurbanne",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/netty-company56058ckb-appt-8231_img.netty.immo_productw_company56058ckb_4_LA8231_1790606229_LA8231_4_original.jpg",
+     "https://file.bienici.com/photo/netty-company56058ckb-appt-8231_img.netty.immo_productw_company56058ckb_4_LA8231_1790606379_LA8231_7_original.jpg",
+     "https://file.bienici.com/photo/netty-company56058ckb-appt-8231_img.netty.immo_productw_company56058ckb_4_LA8231_1790606225_LA8231_1_original.jpg",
+     "https://file.bienici.com/photo/netty-company56058ckb-appt-8231_img.netty.immo_productw_company56058ckb_4_LA8231_1790606228_LA8231_3_original.jpg",
+     "https://file.bienici.com/photo/netty-company56058ckb-appt-8231_img.netty.immo_productw_company56058ckb_4_LA8231_1790606230_LA8231_5_original.jpg",
+     "https://file.bienici.com/photo/netty-company56058ckb-appt-8231_img.netty.immo_productw_company56058ckb_4_LA8231_1790606226_LA8231_2_original.jpg"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "AGENCE CONFLUENCE ROLIN BAINSON",
+    "published_at": "2026-11-25T12:39:41.428Z",
+    "rent_cc": 516,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "netty-company56058ckb-appt-8231",
+    "surface_m2": 41.25,
+    "tags": [],
+    "title": "Appartement à louer Villeurbanne",
+    "url": "https://www.bienici.com/annonce/netty-company56058ckb-appt-8231"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:netty-company56058ckb-appt-8250": {
    "also": [
     "leboncoin:3315864888"
@@ -67476,6 +67558,44 @@
     "tags": [],
     "title": "APPARTEMENT T2 - COURS TOLSTOI",
     "url": "https://www.bienici.com/annonce/netty-company56656msb-appt-2016"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:netty-company56656msb-appt-2120": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T13:20:18+00:00",
+   "last_seen": "2026-11-25T13:20:18+00:00",
+   "listing": {
+    "charges": 30,
+    "city": "lyon",
+    "description": "Avenue Lacassagne à proximité de toutes commodités. Dans une résidence sécurisée, studio entièrement meublé comprenant un coin cuisine équipée, un wc, une salle d'eau. Le tout pour une surface de 33.96 m².<br>Une cave et une place de parking au sous-sol viennent compléter ce bien<br>Disponible le 12/12/2026<br>NOUS APPELER POUR VISITER.<br>Honoraires de 445,55 € TTC  à la charge du locataire comprenant  102,89 € TTC  pour l'état des lieux. Zone soumise à encadrement des loyers. Loyer de référenc",
+    "district": "Lyon 3e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/netty-company56656msb-appt-2120_img.netty.immo_productcw_company56656msb_2_LA2120_17708016363_LA2120_1_original.jpg",
+     "https://file.bienici.com/photo/netty-company56656msb-appt-2120_img.netty.immo_productcw_company56656msb_2_LA2120_17708016363_LA2120_2_original.jpg",
+     "https://file.bienici.com/photo/netty-company56656msb-appt-2120_img.netty.immo_productcw_company56656msb_2_LA2120_17708016373_LA2120_3_original.jpg"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "REGIE DE VENDIN",
+    "published_at": "2026-11-25T12:39:01.997Z",
+    "rent_cc": 827.61,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "netty-company56656msb-appt-2120",
+    "surface_m2": 33.96,
+    "tags": [],
+    "title": "T1 MEUBLE Avenue LACASSAGNE",
+    "url": "https://www.bienici.com/annonce/netty-company56656msb-appt-2120"
    },
    "notified": false,
    "status": "active"
@@ -76045,6 +76165,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:4jnzhh": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T13:20:18+00:00",
+   "last_seen": "2026-11-25T13:20:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 74 m². Disponible dès 2026-12-23",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-7a385715d97ac150840ebe3b0741bf31/6629760/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 500,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "4jnzhh",
+    "surface_m2": 74,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 74 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/4jnzhh"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:4kcstz": {
    "also": [],
