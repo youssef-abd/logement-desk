@@ -29,8 +29,8 @@
    "last_success": "2026-11-24T23:30:22+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-24T23:40:29+00:00"
@@ -638,7 +638,7 @@
    "checked": "2026-11-24T15:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T14:50:22+00:00",
-   "last_seen": "2026-11-24T21:00:43+00:00",
+   "last_seen": "2026-11-25T00:10:18+00:00",
    "listing": {
     "charges": 90,
     "city": "lyon",
@@ -70071,7 +70071,7 @@
    "checked": "2026-11-24T23:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:00:41+00:00",
-   "last_seen": "2026-11-24T21:00:43+00:00",
+   "last_seen": "2026-11-25T00:10:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75893,7 +75893,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T21:00:43+00:00",
-   "last_seen": "2026-11-24T21:00:43+00:00",
+   "last_seen": "2026-11-25T00:10:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -77931,7 +77931,7 @@
    "checked": "2026-11-24T15:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:50:19+00:00",
-   "last_seen": "2026-11-24T21:00:43+00:00",
+   "last_seen": "2026-11-25T00:10:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -79127,7 +79127,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T21:00:43+00:00",
-   "last_seen": "2026-11-24T21:00:43+00:00",
+   "last_seen": "2026-11-25T00:10:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -80331,6 +80331,44 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:o1s5bw": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T00:10:18+00:00",
+   "last_seen": "2026-11-25T00:10:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 98 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-e173e774d29371a1fe150515a20db5f7/6609599/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 660,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "o1s5bw",
+    "surface_m2": 98,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 98 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/o1s5bw"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:oa5oi0": {
    "also": [],
@@ -81757,6 +81795,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:uyi3ye": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T00:10:18+00:00",
+   "last_seen": "2026-11-25T00:10:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 118 m². Disponible dès 2026-12-01",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-6d51fa986d43d30c7306eb4248773e07/6609590/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 600,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "uyi3ye",
+    "surface_m2": 118,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 118 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/uyi3ye"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:v870qr": {
    "also": [],
    "checked": "2026-11-23T02:00:59+00:00",
@@ -82813,7 +82888,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T21:00:43+00:00",
-   "last_seen": "2026-11-24T21:00:43+00:00",
+   "last_seen": "2026-11-25T00:10:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
