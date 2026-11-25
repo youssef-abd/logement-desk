@@ -29,7 +29,7 @@
    "last_success": "2026-11-24T23:30:22+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 6,
+   "blocked_runs": 7,
    "consecutive_failures": 4,
    "cooldown_until": null,
    "last_error": "blocked",
@@ -107833,7 +107833,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T09:50:26+00:00",
+   "last_seen": "2026-11-25T00:50:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -107868,14 +107868,14 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297834671A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297834702": {
    "also": [],
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-24T09:50:26+00:00",
+   "last_seen": "2026-11-25T00:50:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -107908,7 +107908,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297834702A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297834703": {
    "also": [],
@@ -107924,7 +107924,7 @@
    "checked": "2026-11-24T10:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T10:00:36+00:00",
-   "last_seen": "2026-11-24T21:00:43+00:00",
+   "last_seen": "2026-11-25T00:50:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108168,7 +108168,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:50:21+00:00",
-   "last_seen": "2026-11-24T19:30:26+00:00",
+   "last_seen": "2026-11-25T00:50:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108210,7 +108210,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:50:21+00:00",
-   "last_seen": "2026-11-24T19:30:26+00:00",
+   "last_seen": "2026-11-25T00:50:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
