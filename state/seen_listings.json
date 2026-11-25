@@ -29,10 +29,10 @@
    "last_success": "2026-11-25T02:30:22+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-25T04:40:22+00:00"
   },
   "logicimmo": {
@@ -75342,7 +75342,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/47lunw"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:4bidrg": {
    "also": [],
@@ -77144,7 +77144,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/9to1ul"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:9u89ok": {
    "also": [],
@@ -81477,6 +81477,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:s3xgyi": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T04:50:19+00:00",
+   "last_seen": "2026-11-25T04:50:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 70 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-06a08fa3ecb0c59caa512ea6d0650895/6527412/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 555,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "s3xgyi",
+    "surface_m2": 70,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 70 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/s3xgyi"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:s4nwt3": {
    "also": [],
    "checked": "2026-11-23T16:03:28+00:00",
@@ -82115,7 +82152,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ti4pos"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:toly6u": {
    "also": [],
@@ -82342,6 +82379,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:ukfdws": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T04:50:19+00:00",
+   "last_seen": "2026-11-25T04:50:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 80 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-11fa1d65f564a86ccf468d38620c54eb/6527470/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 445,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ukfdws",
+    "surface_m2": 80,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 80 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ukfdws"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:uxqpiw": {
    "also": [],
@@ -83431,7 +83505,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ygyz4s"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:yi2ppn": {
    "also": [],
