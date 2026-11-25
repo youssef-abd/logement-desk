@@ -84122,7 +84122,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/o1s5bw"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:o8xdod": {
    "also": [],
@@ -86392,7 +86392,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/uyi3ye"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:v870qr": {
    "also": [],
@@ -118215,7 +118215,7 @@
    "checked": "2026-11-25T10:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T09:20:21+00:00",
-   "last_seen": "2026-11-25T15:30:21+00:00",
+   "last_seen": "2026-11-25T18:30:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
