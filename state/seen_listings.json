@@ -23,14 +23,14 @@
   },
   "lacartedescolocs": {
    "blocked_runs": 0,
-   "consecutive_failures": 1,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "HTTPError",
+   "last_error": null,
    "last_success": "2026-11-25T11:40:31+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-25T12:50:21+00:00"
@@ -32159,7 +32159,7 @@
    "checked": "2026-11-25T09:00:53+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:10:23+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": 164,
     "city": "lyon",
@@ -40247,7 +40247,7 @@
    "checked": "2026-11-25T13:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": 900.68,
     "city": "lyon",
@@ -70160,7 +70160,7 @@
    "checked": "2026-11-25T09:00:53+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:20:21+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70379,7 +70379,7 @@
    "checked": "2026-11-25T11:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T11:00:44+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70894,7 +70894,7 @@
    "also": [],
    "dup_of": "bienici:ics-rci_RCI_loc-GES70870028-375",
    "first_seen": "2026-11-25T11:00:44+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -71082,7 +71082,7 @@
    "checked": "2026-11-25T09:00:53+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:20:21+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -71769,7 +71769,7 @@
    "checked": "2026-11-25T02:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T22:01:56+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -77528,6 +77528,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:79wg3l": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T14:10:28+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 82 m². Disponible dès 2026-12-07",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-02599c94c3f4d53387937242925e48b3/6629813/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 442,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "79wg3l",
+    "surface_m2": 82,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 82 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/79wg3l"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:7dhw4q": {
    "also": [],
    "checked": "2026-11-24T20:00:38+00:00",
@@ -82964,6 +83001,44 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:o8xdod": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T14:10:28+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 65 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-21b959bde9dfae6a31cc033fd8a6cf60/6542247/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 624,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "o8xdod",
+    "surface_m2": 65,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 65 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/o8xdod"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:oa5oi0": {
    "also": [],
    "checked": "2026-11-24T13:00:44+00:00",
@@ -83046,7 +83121,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T14:00:36+00:00",
-   "last_seen": "2026-11-24T17:01:05+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -83076,14 +83151,14 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/oi7zhw"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:ojy1c0": {
    "also": [],
    "checked": "2026-11-25T11:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T11:00:44+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -83678,6 +83753,44 @@
     ],
     "title": "Appartement 6 pièces de 93 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/rkw9aq"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:rlr5i9": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T14:10:28+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 58 m². Disponible dès 2026-12-19",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-bd875ca7d5fba186464f2a2241ffb370/6610104/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 681,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "rlr5i9",
+    "surface_m2": 58,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 58 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/rlr5i9"
    },
    "notified": false,
    "status": "active"
@@ -84292,7 +84405,7 @@
    "checked": "2026-11-25T11:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T11:00:44+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85191,6 +85304,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:vt07nm": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T14:10:28+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 80 m². Disponible dès 2026-12-22",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-4f8edc9a936e9526bde7218a213d3684/6629821/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 580,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "vt07nm",
+    "surface_m2": 80,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 80 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/vt07nm"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:vzroq5": {
    "also": [],
    "checked": "2026-11-23T19:01:04+00:00",
@@ -85793,7 +85943,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/xl6q9j"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:xlzc7a": {
    "also": [],
@@ -107727,7 +107877,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES20220004-171",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -107874,7 +108024,7 @@
    "checked": "2026-11-25T03:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -110372,7 +110522,7 @@
    "checked": "2026-11-25T06:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:00:44+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -112560,7 +112710,7 @@
    "checked": "2026-11-25T00:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T12:30:20+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -113473,7 +113623,7 @@
    "checked": "2026-11-25T03:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -113514,7 +113664,7 @@
    "also": [],
    "dup_of": "studapart:residence_559",
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -113524,7 +113674,7 @@
    "checked": "2026-11-25T03:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -113568,7 +113718,7 @@
    "checked": "2026-11-25T04:01:02+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T10:20:18+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -113612,7 +113762,7 @@
    "checked": "2026-11-25T03:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T10:00:36+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -114096,7 +114246,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-96150595500016-GES71270057-142",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -114105,7 +114255,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5047-GES28790001-218",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -114114,7 +114264,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES18050038-171",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -114123,7 +114273,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES42220010-171",
    "first_seen": "2026-11-24T13:10:29+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -114132,7 +114282,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES79000051-171",
    "first_seen": "2026-11-24T13:10:29+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -114141,7 +114291,7 @@
    "also": [],
    "dup_of": "bienici:ag696825-557544227",
    "first_seen": "2026-11-24T13:00:44+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -114150,7 +114300,7 @@
    "also": [],
    "dup_of": "bienici:ag690169-560591243",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -114159,7 +114309,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES57410006-175",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -114169,7 +114319,7 @@
    "checked": "2026-11-25T07:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:50:21+00:00",
-   "last_seen": "2026-11-25T11:00:44+00:00",
+   "last_seen": "2026-11-25T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
