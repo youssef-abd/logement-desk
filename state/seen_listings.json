@@ -29,8 +29,8 @@
    "last_success": "2026-11-25T02:30:22+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-25T04:40:22+00:00"
@@ -1102,7 +1102,7 @@
     "url": "https://www.bienici.com/annonce/ag340369-560787770"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:ag380516-520550744": {
    "also": [],
@@ -1481,7 +1481,7 @@
     "url": "https://www.bienici.com/annonce/ag380516-558987578"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:ag380516-559809590": {
    "also": [],
@@ -26428,7 +26428,7 @@
     "url": "https://www.bienici.com/annonce/ag753199-532436714"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:ag753199-538709993": {
    "also": [],
@@ -79861,7 +79861,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/l93ovu"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:lagdrq": {
    "also": [],
@@ -80954,7 +80954,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/oi7zhw"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:p251lp": {
    "also": [],
@@ -102018,7 +102018,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296630316A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1296630317": {
    "also": [],
