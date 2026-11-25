@@ -29,8 +29,8 @@
    "last_success": "2026-11-25T11:40:31+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 2,
+   "blocked_runs": 3,
+   "consecutive_failures": 3,
    "cooldown_until": null,
    "last_error": "blocked",
    "last_success": "2026-11-25T08:50:31+00:00"
@@ -76456,6 +76456,43 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:5ov8b8": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T12:20:24+00:00",
+   "last_seen": "2026-11-25T12:20:24+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 110 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-7e09c79df6ce34279994a95a7c42eda6/6629266/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 505,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "5ov8b8",
+    "surface_m2": 110,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 110 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/5ov8b8"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:5y4n32": {
    "also": [],
    "checked": "2026-11-24T16:00:36+00:00",
@@ -79930,7 +79967,7 @@
    "checked": "2026-11-25T10:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T09:20:21+00:00",
-   "last_seen": "2026-11-25T09:20:21+00:00",
+   "last_seen": "2026-11-25T12:20:24+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -80718,7 +80755,7 @@
    "checked": "2026-11-25T10:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T09:20:21+00:00",
-   "last_seen": "2026-11-25T09:20:21+00:00",
+   "last_seen": "2026-11-25T12:20:24+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -83093,6 +83130,44 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:rwmzvm": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T12:20:24+00:00",
+   "last_seen": "2026-11-25T12:20:24+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 80 m². Disponible dès 2026-12-23",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-b77ee7db750689b30c76faac601940f8/6629211/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 675,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "rwmzvm",
+    "surface_m2": 80,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 80 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/rwmzvm"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:ryr7c5": {
    "also": [],
@@ -113623,7 +113698,7 @@
    "checked": "2026-11-25T10:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T09:20:21+00:00",
-   "last_seen": "2026-11-25T09:20:21+00:00",
+   "last_seen": "2026-11-25T12:20:24+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
