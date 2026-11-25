@@ -29,11 +29,11 @@
    "last_success": "2026-11-25T02:30:22+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
-   "consecutive_failures": 4,
-   "cooldown_until": "2026-11-25T04:21:02+00:00",
-   "last_error": "blocked",
-   "last_success": "2026-11-24T23:40:29+00:00"
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
+   "cooldown_until": null,
+   "last_error": null,
+   "last_success": "2026-11-25T04:40:22+00:00"
   },
   "logicimmo": {
    "blocked_runs": 1,
@@ -25088,7 +25088,8 @@
     "leboncoin:3298720305",
     "immojeune:u3116704",
     "immojeune:u3116696",
-    "immojeune:u3116681"
+    "immojeune:u3116681",
+    "leboncoin:3317306880"
    ],
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
@@ -31874,7 +31875,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:10:23+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 164,
     "city": "lyon",
@@ -39958,7 +39959,7 @@
    "checked": "2026-11-24T20:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T01:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 900.68,
     "city": "lyon",
@@ -62475,7 +62476,9 @@
    "status": "stale"
   },
   "bienici:laforet-immo-facile-52805008": {
-   "also": [],
+   "also": [
+    "leboncoin:3317305933"
+   ],
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T19:01:04+00:00",
@@ -69502,7 +69505,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:20:21+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -70372,7 +70375,7 @@
    "checked": "2026-11-24T17:01:05+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:20:21+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -71058,7 +71061,7 @@
    "checked": "2026-11-25T02:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T22:01:56+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -74212,7 +74215,7 @@
    "checked": "2026-11-25T02:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T01:30:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75116,7 +75119,7 @@
    "checked": "2026-11-25T02:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T01:30:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -77943,7 +77946,7 @@
    "checked": "2026-11-25T02:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T01:30:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -78135,7 +78138,7 @@
    "checked": "2026-11-25T02:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T01:30:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -78284,7 +78287,7 @@
    "checked": "2026-11-25T02:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T01:30:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -80655,7 +80658,7 @@
    "checked": "2026-11-25T02:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T01:30:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81552,7 +81555,7 @@
    "checked": "2026-11-25T02:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T01:30:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -83322,7 +83325,7 @@
    "checked": "2026-11-25T02:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T01:30:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -84109,7 +84112,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3123750094"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3198376215": {
    "also": [],
@@ -84169,7 +84172,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 50.0,
     "city": "lyon",
@@ -84401,7 +84404,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 90.0,
     "city": "lyon",
@@ -85485,7 +85488,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3280047111"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3280446630": {
    "also": [],
@@ -86298,7 +86301,7 @@
    "also": [],
    "dup_of": "bienici:ag752345-552786752",
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -86618,7 +86621,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3292029408"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3292283012": {
    "also": [],
@@ -86932,7 +86935,7 @@
    "also": [],
    "dup_of": "bienici:ag692498-555660428",
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -87072,7 +87075,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3297258927"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3297398868": {
    "also": [],
@@ -87453,7 +87456,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3298096776"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3298097145": {
    "also": [],
@@ -87500,7 +87503,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3298097488"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3298097870": {
    "also": [
@@ -87540,7 +87543,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3298097870"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3298098270": {
    "also": [
@@ -87585,13 +87588,13 @@
     "url": "https://www.leboncoin.fr/ad/locations/3298098270"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3298138253": {
    "also": [],
    "dup_of": "bienici:netty-bumper-appt-3813",
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -88166,7 +88169,7 @@
    "also": [],
    "dup_of": "bienici:ag693901-558041657",
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -88248,7 +88251,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3302680404"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3302680476": {
    "also": [],
@@ -88564,7 +88567,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3303614971"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3303707370": {
    "also": [],
@@ -89800,7 +89803,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3308346911"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3308409461": {
    "also": [],
@@ -89911,7 +89914,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3308497156"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3308503156": {
    "also": [],
@@ -89926,7 +89929,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 20.0,
     "city": "lyon",
@@ -90125,7 +90128,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 65.0,
     "city": "lyon",
@@ -90274,7 +90277,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3308904318"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3308912987": {
    "also": [],
@@ -90700,7 +90703,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3310683407"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3310692422": {
    "also": [],
@@ -91323,7 +91326,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3312498599"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3312524607": {
    "also": [],
@@ -91446,7 +91449,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3312525134"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3312526500": {
    "also": [],
@@ -95520,7 +95523,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316192386"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316196819": {
    "also": [],
@@ -97804,7 +97807,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3316868484"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3316878799": {
    "also": [],
@@ -98306,7 +98309,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317010645"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317013759": {
    "also": [],
@@ -98345,7 +98348,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317013759"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317018423": {
    "also": [],
@@ -98384,7 +98387,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317018423"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317024323": {
    "also": [],
@@ -98435,7 +98438,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317028459"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317033495": {
    "also": [],
@@ -98485,7 +98488,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317033946"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317035515": {
    "also": [],
@@ -98523,7 +98526,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317035515"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317042617": {
    "also": [],
@@ -98562,7 +98565,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317042617"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317044796": {
    "also": [],
@@ -98606,7 +98609,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317044796"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317046024": {
    "also": [],
@@ -98654,7 +98657,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317052071"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317065485": {
    "also": [],
@@ -99376,7 +99379,7 @@
    "also": [],
    "dup_of": "leboncoin:3317151701",
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -99385,7 +99388,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 90.0,
     "city": "lyon",
@@ -99428,7 +99431,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 20.0,
     "city": "lyon",
@@ -99464,7 +99467,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 100.0,
     "city": "lyon",
@@ -99500,7 +99503,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 75.0,
     "city": "lyon",
@@ -99540,7 +99543,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 60.0,
     "city": "lyon",
@@ -99581,7 +99584,7 @@
    "also": [],
    "dup_of": "bienici:apimo-87492035",
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -99590,7 +99593,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 0.0,
     "city": "lyon",
@@ -99631,7 +99634,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 50.0,
     "city": "lyon",
@@ -99672,7 +99675,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 30.0,
     "city": "lyon",
@@ -99716,7 +99719,7 @@
    "also": [],
    "dup_of": "bienici:seiitra-elyade_bi-19624",
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -99725,7 +99728,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 50.0,
     "city": "lyon",
@@ -99770,7 +99773,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T21:20:19+00:00",
-   "last_seen": "2026-11-25T01:10:19+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 80.0,
     "city": "lyon",
@@ -99896,7 +99899,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T23:40:29+00:00",
-   "last_seen": "2026-11-24T23:40:29+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": 100.0,
     "city": "lyon",
@@ -99924,6 +99927,99 @@
     "tags": [],
     "title": "✨ T2 PREMIUM 45 m² – RÉNOVÉ 2025 – CLIMATISÉ – MÉTRO SANS SOUCI",
     "url": "https://www.leboncoin.fr/ad/locations/3317282487"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3317305882": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T04:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
+   "listing": {
+    "charges": 50.0,
+    "city": "lyon",
+    "description": "F2 - 47.62 m² - Rue Edouard Herriot - 69002 LYON\n\nDans un immeuble situé en plein centre de la Presqu'île, à proximité immédiate de la place des Cordeliers et des Jacobins, proche de toutes commodités (transports et commerces).\n\nVenez découvrir cet appartement comprenant une entrée, un séjour avec une grande alcôve, une cuisine indépendante, une chambre et une salle de bains avec WC.\nChauffage individuel au gaz.\n\nVisite virtuelle disponible sur le site de la régie Juron & Tripier.\n\nZone soumise ",
+    "district": "Lyon 69002",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": null,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/53/96/3f/53963f64e979365ce09b492606fe310f6d6611e2.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/da/ee/2e/daee2e47a98b35175696fa70747444214e3f3514.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/34/28/f0/3428f0c4304f9bbb88e62060c914bd3e500917e4.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/74/2d/35/742d35beae3a77f5afc7e11cbf54dd9f88546291.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/21/37/f4/2137f486bf35180f94b93875fc50012aef00aa3e.jpg?rule=ad-large"
+    ],
+    "postal_code": "69002",
+    "poster": "agence",
+    "poster_name": "REGIE JURON ET TRIPIER",
+    "published_at": "2026-11-25 04:02:47",
+    "rent_cc": 747.0,
+    "rooms": 2,
+    "source": "leboncoin",
+    "source_id": "3317305882",
+    "surface_m2": 47.0,
+    "tags": [],
+    "title": "Appartement 2 pièces 47 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3317305882"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3317305933": {
+   "also": [],
+   "dup_of": "bienici:laforet-immo-facile-52805008",
+   "first_seen": "2026-11-25T04:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3317306880": {
+   "also": [],
+   "dup_of": "bienici:ag752861-552130850",
+   "first_seen": "2026-11-25T04:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "leboncoin:3317309567": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T04:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
+   "listing": {
+    "charges": 51.0,
+    "city": "lyon",
+    "description": "Appartement T1\n\nA Lyon 9ème, dans un environnement vert, aux portes de la ville, dans la résidence neuve \"OH ST RAMBERT\" nous vous proposons un appartement de type T1 bis n° E33A (lot 98) de 31.15 m². Situé au 3ème étage avec ascenseur, il comprend : une entrée avec placard, un séjour avec coin cuisine(hotte), un coin nuit, une salle d'eau avec WC.  A l'extérieur, une place de parking. Eau chaude et chauffage individuel gaz. Entretien parties communes, entretien ascenseur et espaces verts commun",
+    "district": "Lyon 69009",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "leboncoin",
+    "furnished": false,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/38/b1/45/38b145ee952d97b0999c00b7181aea95977a3bbc.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/fd/39/7f/fd397f1edd3dce1cef87178c1f9d8d6b1451a7d3.jpg?rule=ad-large"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": "AFEDIM Gestion",
+    "published_at": "2026-11-25 05:16:40",
+    "rent_cc": 481.0,
+    "rooms": 1,
+    "source": "leboncoin",
+    "source_id": "3317309567",
+    "surface_m2": 31.0,
+    "tags": [],
+    "title": "Appartement 1 pièce 31 m²",
+    "url": "https://www.leboncoin.fr/ad/locations/3317309567"
    },
    "notified": false,
    "status": "active"
@@ -105006,7 +105102,7 @@
    "checked": "2026-11-24T13:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:00:44+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -107187,7 +107283,7 @@
    "checked": "2026-11-25T00:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T12:30:20+00:00",
-   "last_seen": "2026-11-25T01:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108061,7 +108157,7 @@
    "checked": "2026-11-25T03:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108102,7 +108198,7 @@
    "also": [],
    "dup_of": "studapart:residence_559",
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -108112,7 +108208,7 @@
    "checked": "2026-11-25T03:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108156,7 +108252,7 @@
    "checked": "2026-11-25T04:01:02+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T10:20:18+00:00",
-   "last_seen": "2026-11-25T01:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108200,7 +108296,7 @@
    "checked": "2026-11-25T03:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T10:00:36+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108319,7 +108415,7 @@
    "checked": "2026-11-25T03:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108593,7 +108689,7 @@
    "checked": "2026-11-25T03:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108684,7 +108780,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-96150595500016-GES71270057-142",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T01:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -108693,7 +108789,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5047-GES28790001-218",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T01:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -108702,7 +108798,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES18050038-171",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T01:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -108711,7 +108807,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES42220010-171",
    "first_seen": "2026-11-24T13:10:29+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -108720,7 +108816,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES79000051-171",
    "first_seen": "2026-11-24T13:10:29+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -108729,7 +108825,7 @@
    "also": [],
    "dup_of": "bienici:ag696825-557544227",
    "first_seen": "2026-11-24T13:00:44+00:00",
-   "last_seen": "2026-11-25T01:30:26+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -108738,7 +108834,7 @@
    "also": [],
    "dup_of": "bienici:ag690169-560591243",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T01:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -108747,7 +108843,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES57410006-175",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T01:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -108757,7 +108853,7 @@
    "checked": "2026-11-24T14:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:50:21+00:00",
-   "last_seen": "2026-11-25T01:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -108924,7 +109020,7 @@
    "checked": "2026-11-24T20:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-25T01:40:22+00:00",
+   "last_seen": "2026-11-25T04:40:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
