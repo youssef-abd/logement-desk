@@ -9,7 +9,7 @@
   },
   "foncia": {
    "blocked_runs": 0,
-   "consecutive_failures": 1,
+   "consecutive_failures": 2,
    "cooldown_until": null,
    "last_error": "TimeoutError",
    "last_success": "2026-11-25T08:30:26+00:00"
@@ -29,10 +29,10 @@
    "last_success": "2026-11-25T08:30:26+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "blocked_runs": 1,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "blocked",
    "last_success": "2026-11-25T08:50:31+00:00"
   },
   "logicimmo": {
@@ -16375,7 +16375,7 @@
    "checked": "2026-11-24T19:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T19:00:42+00:00",
-   "last_seen": "2026-11-25T07:30:20+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -18694,7 +18694,7 @@
    "checked": "2026-11-25T08:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:00:36+00:00",
-   "last_seen": "2026-11-25T07:30:20+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
    "listing": {
     "charges": 35,
     "city": "lyon",
@@ -21318,7 +21318,7 @@
    "checked": "2026-11-25T05:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T04:25:29+00:00",
-   "last_seen": "2026-11-25T07:30:20+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
    "listing": {
     "charges": 180,
     "city": "lyon",
@@ -25984,7 +25984,7 @@
    "checked": "2026-11-25T05:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T04:25:29+00:00",
-   "last_seen": "2026-11-25T07:30:20+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -63269,7 +63269,7 @@
    "checked": "2026-11-24T19:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T19:00:42+00:00",
-   "last_seen": "2026-11-25T07:30:20+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
    "listing": {
     "charges": 100,
     "city": "lyon",
@@ -74627,6 +74627,44 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:1m2q3r": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:30:21+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 47 m². Disponible dès 2026-12-15",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-e451255bbb64b4e79d8fee620ae72670/6628772/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 650,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "1m2q3r",
+    "surface_m2": 47,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 47 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/1m2q3r"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:1qlqpz": {
    "also": [],
    "checked": "2026-11-24T15:00:40+00:00",
@@ -79044,6 +79082,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:ewrfnx": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:30:21+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Maison 8 pièces de 148 m². Disponible dès 2027-01-01",
+    "district": "Saint-Cyr-au-Mont-d'Or",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-8bf9023c2002e7d68d1b7a301e371f17/6437409/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 530,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ewrfnx",
+    "surface_m2": 148,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Maison 8 pièces de 148 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/saint-cyr-au-mont-d-or/a/ewrfnx"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:ezhngl": {
    "also": [],
    "dup_of": null,
@@ -79154,6 +79229,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:ffadkm": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:30:21+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 90 m². Disponible dès 2027-08-02",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-9a83bf6d4b8b8c271b11009a0cc15556/6576137/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 525,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ffadkm",
+    "surface_m2": 90,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ffadkm"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:fm5cdx": {
    "also": [],
@@ -80246,6 +80358,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:ji5zwl": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-25T10:30:21+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 90 m². Disponible dès 2027-08-02",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-0da9c1900bcadbe605a22427851cf223/6576103/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 590,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ji5zwl",
+    "surface_m2": 90,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ji5zwl"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:jm16v2": {
    "also": [],
@@ -110857,7 +111006,7 @@
    "checked": "2026-11-24T21:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T03:30:19+00:00",
-   "last_seen": "2026-11-25T07:10:25+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -110898,7 +111047,7 @@
    "also": [],
    "dup_of": "leboncoin:3283389269",
    "first_seen": "2026-11-24T03:30:19+00:00",
-   "last_seen": "2026-11-25T07:10:25+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -111907,7 +112056,7 @@
    "also": [],
    "dup_of": "leboncoin:3316879780",
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-25T07:30:20+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -111917,7 +112066,7 @@
    "checked": "2026-11-24T23:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-25T07:30:20+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -111959,7 +112108,7 @@
    "checked": "2026-11-24T23:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-25T07:30:20+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -112001,7 +112150,7 @@
    "checked": "2026-11-24T23:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-25T07:30:20+00:00",
+   "last_seen": "2026-11-25T10:30:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
