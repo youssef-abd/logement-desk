@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T06:20:20+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T08:30:19+00:00",
    "last_error": "blocked",
@@ -81091,7 +81091,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/baurpv"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:bcgud2": {
    "also": [],
@@ -89605,6 +89605,42 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:xuxju7": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T09:20:18+00:00",
+   "last_seen": "2026-11-26T09:20:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 1 pièce de 18 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-695c4b0106212d750e6c914eab15a73b/6593136/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 730,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "xuxju7",
+    "surface_m2": 18,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 1 pièce de 18 m²",
+    "url": "https://www.lacartedescolocs.fr/locations/fr/auvergne-rhone-alpes/lyon/a/xuxju7"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:xx4bi3": {
    "also": [],
