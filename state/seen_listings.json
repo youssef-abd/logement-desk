@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T09:30:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 8,
+   "blocked_runs": 9,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T08:30:19+00:00",
    "last_error": "blocked",
@@ -89755,6 +89755,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:yf80dz": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T09:50:19+00:00",
+   "last_seen": "2026-11-26T09:50:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Immeuble 3 pièces de 87 m². Disponible dès 2027-01-01",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-7a5414012c71ea9b8578052b7127f715/5433671/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 451,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "yf80dz",
+    "surface_m2": 87,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Immeuble 3 pièces de 87 m²",
+    "url": "https://www.lacartedescolocs.fr/colivings/fr/auvergne-rhone-alpes/lyon/a/yf80dz"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:ygyz4s": {
    "also": [],
    "checked": "2026-11-24T14:00:49+00:00",
@@ -119392,7 +119429,7 @@
    "checked": "2026-11-26T05:02:53+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T12:10:23+00:00",
-   "last_seen": "2026-11-26T06:40:22+00:00",
+   "last_seen": "2026-11-26T09:50:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -120815,7 +120852,7 @@
    "checked": "2026-11-26T02:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T08:50:31+00:00",
-   "last_seen": "2026-11-26T06:40:22+00:00",
+   "last_seen": "2026-11-26T09:50:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -120993,7 +121030,7 @@
    "also": [],
    "dup_of": "bienici:ag440414-557669600",
    "first_seen": "2026-11-25T06:00:41+00:00",
-   "last_seen": "2026-11-26T06:40:22+00:00",
+   "last_seen": "2026-11-26T09:50:19+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121312,7 +121349,7 @@
    "checked": "2026-11-26T02:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T09:00:53+00:00",
-   "last_seen": "2026-11-26T06:40:22+00:00",
+   "last_seen": "2026-11-26T09:50:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121354,7 +121391,7 @@
    "checked": "2026-11-26T02:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T09:00:53+00:00",
-   "last_seen": "2026-11-26T06:40:22+00:00",
+   "last_seen": "2026-11-26T09:50:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121515,7 +121552,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES53430346-894",
    "first_seen": "2026-11-25T12:01:14+00:00",
-   "last_seen": "2026-11-26T06:40:22+00:00",
+   "last_seen": "2026-11-26T09:50:19+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
