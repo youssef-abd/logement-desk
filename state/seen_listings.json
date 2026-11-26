@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T12:30:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
+   "blocked_runs": 2,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T13:00:20+00:00",
    "last_error": "blocked",
@@ -1019,6 +1019,48 @@
     "tags": [],
     "title": "T2",
     "url": "https://www.bienici.com/annonce/ag313862-561152921"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag313862-562914860": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T13:10:18+00:00",
+   "last_seen": "2026-11-26T13:10:18+00:00",
+   "listing": {
+    "charges": 60,
+    "city": "lyon",
+    "description": "Crédit Agricole Immobilier vous propose, Cours Lafayette au coeur du 6ème arrondissement de Lyon, un appartement T2, situé au 5ème étage d'une résidence avec ascenseur, espaces verts et local vélos. ll comprend une cuisine non équipée et ouverte sur le séjour, une chambre avec placard aménagé, une salle d'eau et un wc séparé. Vous profiterez d'une terrasse de 12m². Votre logement est équipée d'une chaudière individuelle au gaz. Réseau fibre optique dans la résidence. Un emplacement de choix pour",
+    "district": "Lyon 6e",
+    "flags": [
+     "agency_fees",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag313862-562914860_photos.ubiflow.net_313862_562914860_photos_1.jpg_INSOON_EB_5512801818_20261126130757",
+     "https://file.bienici.com/photo/ag313862-562914860_photos.ubiflow.net_313862_562914860_photos_2.jpg_INSOON_EB_5512801818_20261126130757",
+     "https://file.bienici.com/photo/ag313862-562914860_photos.ubiflow.net_313862_562914860_photos_3.jpg_INSOON_EB_5512801818_20261126130758",
+     "https://file.bienici.com/photo/ag313862-562914860_photos.ubiflow.net_313862_562914860_photos_4.jpg_INSOON_EB_5512801818_20261126130758",
+     "https://file.bienici.com/photo/ag313862-562914860_photos.ubiflow.net_313862_562914860_photos_5.jpg_INSOON_EB_5512801818_20261126130758",
+     "https://file.bienici.com/photo/ag313862-562914860_photos.ubiflow.net_313862_562914860_photos_6.jpg_INSOON_EB_5512801818_20261126130758"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "poster_name": "CREDIT AGRICOLE IMMOBILIER SERVICES",
+    "published_at": "2026-11-26T12:19:40.973Z",
+    "rent_cc": 820,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag313862-562914860",
+    "surface_m2": 38,
+    "tags": [],
+    "title": "T2",
+    "url": "https://www.bienici.com/annonce/ag313862-562914860"
    },
    "notified": false,
    "status": "active"
@@ -16084,6 +16126,47 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:ag694422-562906169": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T13:10:18+00:00",
+   "last_seen": "2026-11-26T13:10:18+00:00",
+   "listing": {
+    "charges": 40,
+    "city": "lyon",
+    "description": "À louer au 1er étage sans ascenseur, au calme sur cour intérieure, rue d'Austerlitz dans le 4e arrondissement de Lyon, un appartement T2 de 42,75 m² offrant 2,70 m de hauteur sous plafond. Il comprend un séjour de 22,70 m², une chambre de 10,05 m², une cuisine et une salle de bains.\n\nLe logement dispose d'un chauffage individuel électrique avec programmation pièce par pièce, d'un ballon d'eau chaude et de fenêtres double vitrage PVC équipées de volets vénitiens extérieurs.\n\n Le loyer est fixé à ",
+    "district": "Lyon 4e",
+    "flags": [
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": null,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag694422-562906169_photos.ubiflow.net_694422_562906169_photos_1.jpg_INSOON_EB_5512801818_20261126123443",
+     "https://file.bienici.com/photo/ag694422-562906169_photos.ubiflow.net_694422_562906169_photos_2.jpg_INSOON_EB_5512801818_20261126123443",
+     "https://file.bienici.com/photo/ag694422-562906169_photos.ubiflow.net_694422_562906169_photos_3.jpg_INSOON_EB_5512801818_20261126123443",
+     "https://file.bienici.com/photo/ag694422-562906169_photos.ubiflow.net_694422_562906169_photos_4.jpg_INSOON_EB_5512801818_20261126123443",
+     "https://file.bienici.com/photo/ag694422-562906169_photos.ubiflow.net_694422_562906169_photos_5.jpg_INSOON_EB_5512801818_20261126123443"
+    ],
+    "postal_code": "69004",
+    "poster": "agence",
+    "poster_name": "Joseph Baur Immobilier Lyon",
+    "published_at": "2026-11-26T12:17:06.706Z",
+    "rent_cc": 810,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag694422-562906169",
+    "surface_m2": 42,
+    "tags": [],
+    "title": "T2 RUE AUSTERLITZ LYON 4",
+    "url": "https://www.bienici.com/annonce/ag694422-562906169"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:ag694498-503225273": {
    "also": [],
    "dup_of": null,
@@ -18994,6 +19077,49 @@
     "tags": [],
     "title": "Appartement",
     "url": "https://www.bienici.com/annonce/ag695206-562503173"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag695206-562901351": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T13:10:18+00:00",
+   "last_seen": "2026-11-26T13:10:18+00:00",
+   "listing": {
+    "charges": 60,
+    "city": "lyon",
+    "description": "Type 2, de 36.82m² au 3ème étage avec ascenseur sis 8 RUE CLOS PONCET, comprenant un séjour, avec un balcon de 11.52 m2 une chambre, une cuisine, une salle de bains avec WC séparé, une cave et 2 garages. Proche toutes commodités.\nZone soumise à encadrement des loyers\nLoyer de référence majoré (loyer de base à ne pas dépasser) » : 659.08 €\nLoyer de base  : 616 €\nloyer 676 E/mois dont 60 E de charges locatives (provision donnant lieu à régularisation annuelle) dépôt de garantie 616E honoraires cha",
+    "district": "Villeurbanne",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag695206-562901351_photos.ubiflow.net_695206_562901351_photos_1.jpg_INSOON_EB_5512801818_20261126121540",
+     "https://file.bienici.com/photo/ag695206-562901351_photos.ubiflow.net_695206_562901351_photos_2.jpg_INSOON_EB_5512801818_20261126121540",
+     "https://file.bienici.com/photo/ag695206-562901351_photos.ubiflow.net_695206_562901351_photos_3.jpg_INSOON_EB_5512801818_20261126121540",
+     "https://file.bienici.com/photo/ag695206-562901351_photos.ubiflow.net_695206_562901351_photos_4.jpg_INSOON_EB_5512801818_20261126121540",
+     "https://file.bienici.com/photo/ag695206-562901351_photos.ubiflow.net_695206_562901351_photos_5.jpg_INSOON_EB_5512801818_20261126121540",
+     "https://file.bienici.com/photo/ag695206-562901351_photos.ubiflow.net_695206_562901351_photos_6.jpg_INSOON_EB_5512801818_20261126121540"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": "2026-11-26T12:17:03.736Z",
+    "rent_cc": 676,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag695206-562901351",
+    "surface_m2": 36,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "APPARTEMENT",
+    "url": "https://www.bienici.com/annonce/ag695206-562901351"
    },
    "notified": false,
    "status": "active"
@@ -22884,6 +23010,47 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "bienici:ag697153-562905017": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T13:10:18+00:00",
+   "last_seen": "2026-11-26T13:10:18+00:00",
+   "listing": {
+    "charges": 17,
+    "city": "lyon",
+    "description": "Appartement T1  - Meublé\n\nPour organiser une visite, rendez-vous sur notre _site _internet _Tailorimmo.com/_ puis cliquez sur le lien ' Dossier de candidature '.\n\nSitué : 80 Rue Paul Bert 69003 Lyon\n\nAppartement entièrement rénové et décoré avec goût au 6ème étage sans ascenseur.\n\nCuisine meublée et équipée avec de nombreux espaces de rangement.\n\nUn coint nuit séparé.\n\nSalle d'eau équipée d'une douche.\n\nProvisions sur charges mensuelles avec régularisation annuelle de : 17 Euros par mois compren",
+    "district": "Lyon 3e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag697153-562905017_photos.ubiflow.net_697153_562905017_photos_1.jpg_INSOON_EB_5512801818_20261126123028",
+     "https://file.bienici.com/photo/ag697153-562905017_photos.ubiflow.net_697153_562905017_photos_2.jpg_INSOON_EB_5512801818_20261126123028",
+     "https://file.bienici.com/photo/ag697153-562905017_photos.ubiflow.net_697153_562905017_photos_3.jpg_INSOON_EB_5512801818_20261126123028",
+     "https://file.bienici.com/photo/ag697153-562905017_photos.ubiflow.net_697153_562905017_photos_4.jpg_INSOON_EB_5512801818_20261126123028",
+     "https://file.bienici.com/photo/ag697153-562905017_photos.ubiflow.net_697153_562905017_photos_5.jpg_INSOON_EB_5512801818_20261126123028",
+     "https://file.bienici.com/photo/ag697153-562905017_photos.ubiflow.net_697153_562905017_photos_6.jpg_INSOON_EB_5512801818_20261126123028"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "TAILOR IMMO",
+    "published_at": "2026-11-26T12:16:59.570Z",
+    "rent_cc": 817,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag697153-562905017",
+    "surface_m2": 22,
+    "tags": [],
+    "title": "Appartement T1  - Meublé",
+    "url": "https://www.bienici.com/annonce/ag697153-562905017"
+   },
+   "notified": false,
+   "status": "active"
   },
   "bienici:ag752345-503032205": {
    "also": [],
@@ -31164,7 +31331,7 @@
    "checked": "2026-11-26T04:01:02+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T03:50:21+00:00",
-   "last_seen": "2026-11-26T10:01:00+00:00",
+   "last_seen": "2026-11-26T13:10:18+00:00",
    "listing": {
     "charges": 60,
     "city": "lyon",
@@ -64913,6 +65080,45 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:laforet-immo-facile-53043188": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T13:10:18+00:00",
+   "last_seen": "2026-11-26T13:10:18+00:00",
+   "listing": {
+    "charges": 100,
+    "city": "lyon",
+    "description": "Au 40 quai Pierre Scize, très bel appartement MEUBLÉ de 51.12 m² au sol dont 42.40 m² Carrez, au 2ème étage sans ascenseur. Il se compose d'une pièce de vie avec un espace cuisine équipée / aménagée, de deux chambres en second jour avec bureau et dressing, d'une salle d'eau et d'un WC indépendant. Vous apprécierez sa rénovation de qualité,  l'optimisation de l'espace, son charme avec ses pierres et poutres apparentes, son mobilier contemporain, et son calme . Eau froide et WIFI comprises dans le",
+    "district": "Lyon 9e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/laforet-immo-facile-53043188_media.immo-facile.com_office9_laforet_lyon2_catalog_images_pr_p_5_3_0_4_3_1_8_8_53043188a.jpg_DATEMAJ_26_11_2026-10_09_51",
+     "https://file.bienici.com/photo/laforet-immo-facile-53043188_media.immo-facile.com_office9_laforet_lyon2_catalog_images_pr_p_5_3_0_4_3_1_8_8_53043188b.jpg_DATEMAJ_26_11_2026-10_09_51",
+     "https://file.bienici.com/photo/laforet-immo-facile-53043188_media.immo-facile.com_office9_laforet_lyon2_catalog_images_pr_p_5_3_0_4_3_1_8_8_53043188c.jpg_DATEMAJ_26_11_2026-10_09_52",
+     "https://file.bienici.com/photo/laforet-immo-facile-53043188_media.immo-facile.com_office9_laforet_lyon2_catalog_images_pr_p_5_3_0_4_3_1_8_8_53043188d.jpg_DATEMAJ_26_11_2026-10_09_52",
+     "https://file.bienici.com/photo/laforet-immo-facile-53043188_media.immo-facile.com_office9_laforet_lyon2_catalog_images_pr_p_5_3_0_4_3_1_8_8_53043188e.jpg_DATEMAJ_26_11_2026-10_09_52",
+     "https://file.bienici.com/photo/laforet-immo-facile-53043188_media.immo-facile.com_office9_laforet_lyon2_catalog_images_pr_p_5_3_0_4_3_1_8_8_53043188f.jpg_DATEMAJ_26_11_2026-10_09_52"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": "Laforêt LYON 2 BELLECOUR",
+    "published_at": "2026-11-26T12:44:18.444Z",
+    "rent_cc": 1108,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "laforet-immo-facile-53043188",
+    "surface_m2": 51.12,
+    "tags": [],
+    "title": "MEUBLE - 40 QUAI PIERRE SCIZE",
+    "url": "https://www.bienici.com/annonce/laforet-immo-facile-53043188"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:lamy-38-FL0849905": {
    "also": [],
    "dup_of": null,
@@ -76883,7 +77089,7 @@
    "checked": "2026-11-26T07:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T06:50:20+00:00",
-   "last_seen": "2026-11-26T10:01:00+00:00",
+   "last_seen": "2026-11-26T13:10:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -89252,7 +89458,7 @@
    "checked": "2026-11-26T10:01:00+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T10:01:00+00:00",
-   "last_seen": "2026-11-26T10:01:00+00:00",
+   "last_seen": "2026-11-26T13:10:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -90348,7 +90554,7 @@
    "checked": "2026-11-25T14:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T13:10:20+00:00",
-   "last_seen": "2026-11-25T16:10:25+00:00",
+   "last_seen": "2026-11-26T13:10:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -90378,7 +90584,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ye33xa"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:yf80dz": {
    "also": [],
