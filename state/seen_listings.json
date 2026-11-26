@@ -31701,6 +31701,84 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:apimo-87638171": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T17:30:18+00:00",
+   "last_seen": "2026-11-26T17:30:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "590 euros / mois + 130 euros / mois de forfait consommations (Tout inclus Electricité/ eau chaude/ eau froide/chauffage/climisation /internet/services, etc). Proche métro D. \nVivez l’expérience Coliving !! Chambre climatisée, très AU CALME de 13,83 m2 privatifs + Terrasse privative (+ parties communes) avec Salle de bains et WC privatifs, entièrement rénovée, meublée (lit double, bureau, dressing, draps, serviettes) dans une maison haut de gamme de plus de 400m2 entièrement meublée rénovée et cl",
+    "district": "Lyon 8e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://file.bienici.com/photo/apimo-87638171_media.apimo.pro_cache_9c7b492519f3d3760a7a791bb523bae6_4af435a3e0_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87638171_media.apimo.pro_cache_4572a6c390a568d4268326c407e5b10e_cb7842fda7_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87638171_media.apimo.pro_cache_c5853ef075ed039f7094d77d3c8e172e_1639251025_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87638171_media.apimo.pro_cache_5b56c76648599535c9c0d32e099a63f6_57902ce61a_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87638171_media.apimo.pro_cache_4c2cb7ae7e50dc5863d303e9afe1d370_6871dd4593_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87638171_media.apimo.pro_cache_6794219671160dfbd9055cdcc9c93f71_b1a41249c4_1920-original.jpg"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "7 EME RUE",
+    "published_at": "2026-11-26T17:14:57.121Z",
+    "rent_cc": 590,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "apimo-87638171",
+    "surface_m2": 23,
+    "tags": [],
+    "title": "Chambre proche métro avec Douche et WC dans maison",
+    "url": "https://www.bienici.com/annonce/apimo-87638171"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:apimo-87638182": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T17:30:18+00:00",
+   "last_seen": "2026-11-26T17:30:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "BRON CENTRE - 520 euros / mois + 130 euros de forfait consommations (Tout inclus Electricité/ eau chaude/ eau froide/chauffage/climatisation /internet/etc. CENTRE BRON ! Proche tram arret Boutasse !\nVivez l’expérience Coliving !! Chambre très AU CALME de 11,7 m2 carrez (18,5 au sol) (+ parties communes) avec Salle de bains privative entièrement rénovée, meublée (lit double, bureau, dressing, draps, serviettes) dans une maison haut de gamme de plus de 300m2 entièrement meublée et rénovée. \nTrès b",
+    "district": "Bron",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://file.bienici.com/photo/apimo-87638182_media.apimo.pro_cache_e0f03c25652e5a0378fbf8492c419d2d_449745c146_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87638182_media.apimo.pro_cache_523828189e0a2ef5e24afe85e62bc8ee_bd58f89c64_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87638182_media.apimo.pro_cache_52958085b4f339a0c020f57eeb5d04c4_d09ea7e624_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87638182_media.apimo.pro_cache_8fb950f569d5b3d0c32f4fae214aa50d_0c10029ddd_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87638182_media.apimo.pro_cache_e3303963cce2c6a022ada03114727490_55b1bf5d22_1920-original.jpg",
+     "https://file.bienici.com/photo/apimo-87638182_media.apimo.pro_cache_4125e876ddb36e108a59323b2d10ade4_7eec80b208_1920-original.jpg"
+    ],
+    "postal_code": "69500",
+    "poster": "agence",
+    "poster_name": "7 EME RUE",
+    "published_at": "2026-11-26T17:14:57.121Z",
+    "rent_cc": 520,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "apimo-87638182",
+    "surface_m2": 22,
+    "tags": [],
+    "title": "Chambre climatisée",
+    "url": "https://www.bienici.com/annonce/apimo-87638182"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:century-21-202_125_38814": {
    "also": [],
    "dup_of": null,
@@ -70780,6 +70858,47 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:netty-novea-appt-19693": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T17:30:18+00:00",
+   "last_seen": "2026-11-26T17:30:18+00:00",
+   "listing": {
+    "charges": 50,
+    "city": "lyon",
+    "description": "Au coeur du 3? arrondissement de Lyon, à quelques minutes de la gare Part-Dieu, venez découvrir ce bel appartement 3 pièces de 65 m², situé au 1er étage d'un immeuble bien entretenu.<br>Bénéficiant d'une double exposition Sud/Est, cet appartement séduit par sa belle luminosité, ses volumes agréables et son agencement fonctionnel.<br>Il se compose de :<br>- Une entrée desservant les différentes pièces ;<br>- Un spacieux séjour de 25 m², chaleureux et lumineux, avec parquet au sol ;<br>- Une cuisi",
+    "district": "Lyon 3e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/netty-novea-appt-19693_img.netty.immo_product_novea_LA19693_1795703778_LA19693_8_original.jpg",
+     "https://file.bienici.com/photo/netty-novea-appt-19693_img.netty.immo_product_novea_LA19693_1795703775_LA19693_3_original.jpg",
+     "https://file.bienici.com/photo/netty-novea-appt-19693_img.netty.immo_product_novea_LA19693_1795703776_LA19693_4_original.jpg",
+     "https://file.bienici.com/photo/netty-novea-appt-19693_img.netty.immo_product_novea_LA19693_1795703777_LA19693_6_original.jpg",
+     "https://file.bienici.com/photo/netty-novea-appt-19693_img.netty.immo_product_novea_LA19693_1795703776_LA19693_5_original.jpg",
+     "https://file.bienici.com/photo/netty-novea-appt-19693_img.netty.immo_product_novea_LA19693_1795703774_LA19693_2_original.jpg"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "NOVEA IMMOBILIER",
+    "published_at": "2026-11-26T17:22:27.598Z",
+    "rent_cc": 1045,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "netty-novea-appt-19693",
+    "surface_m2": 65.09,
+    "tags": [],
+    "title": "GABILLOT-05 - Appartement 3 pièces 65m² - LYON 03 SAINTE-ANNE",
+    "url": "https://www.bienici.com/annonce/netty-novea-appt-19693"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:netty-pietrapolis-appt-49376": {
    "also": [],
    "dup_of": null,
@@ -83402,6 +83521,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:ciwj32": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T17:30:18+00:00",
+   "last_seen": "2026-11-26T17:30:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 59 m². Disponible dès 2026-12-31",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-6a6902f3e8f3712dee4670e062816298/6632930/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 480,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ciwj32",
+    "surface_m2": 59,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 59 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ciwj32"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:ciybgm": {
    "also": [],
