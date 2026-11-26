@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T00:10:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 7,
+   "blocked_runs": 8,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T00:10:27+00:00",
    "last_error": "blocked",
@@ -8338,7 +8338,7 @@
    "checked": "2026-11-25T14:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T13:20:18+00:00",
-   "last_seen": "2026-11-25T22:30:20+00:00",
+   "last_seen": "2026-11-26T01:30:26+00:00",
    "listing": {
     "charges": 77,
     "city": "lyon",
@@ -68110,7 +68110,7 @@
    "checked": "2026-11-25T14:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T13:20:18+00:00",
-   "last_seen": "2026-11-25T22:30:20+00:00",
+   "last_seen": "2026-11-26T01:30:26+00:00",
    "listing": {
     "charges": 20,
     "city": "lyon",
@@ -68692,7 +68692,7 @@
    "checked": "2026-11-25T14:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T13:20:18+00:00",
-   "last_seen": "2026-11-25T22:30:20+00:00",
+   "last_seen": "2026-11-26T01:30:26+00:00",
    "listing": {
     "charges": 30,
     "city": "lyon",
@@ -72338,8 +72338,7 @@
    "checked": "2026-11-25T08:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T22:01:56+00:00",
-   "gone": "2026-11-25T08:00:43+00:00",
-   "last_seen": "2026-11-25T01:00:39+00:00",
+   "last_seen": "2026-11-26T01:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -72374,7 +72373,7 @@
     "url": "https://www.immojeune.com/colocation/lyon-03-69/chambre-dans-une-colocation-de-337m-a-lyon-03_3262972.html"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "immojeune:3332191": {
    "also": [],
@@ -76636,7 +76635,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/1m2q3r"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:1qlqpz": {
    "also": [],
@@ -77627,7 +77626,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:30:20+00:00",
-   "last_seen": "2026-11-25T22:30:20+00:00",
+   "last_seen": "2026-11-26T01:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81896,7 +81895,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/saint-cyr-au-mont-d-or/a/ewrfnx"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:ezhngl": {
    "also": [],
@@ -82012,7 +82011,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:30:20+00:00",
-   "last_seen": "2026-11-25T22:30:20+00:00",
+   "last_seen": "2026-11-26T01:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -82119,7 +82118,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ffadkm"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:fm5cdx": {
    "also": [],
@@ -83288,14 +83287,14 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ji5zwl"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:ji71tm": {
    "also": [],
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:30:20+00:00",
-   "last_seen": "2026-11-25T22:30:20+00:00",
+   "last_seen": "2026-11-26T01:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -84845,7 +84844,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:20:29+00:00",
-   "last_seen": "2026-11-25T22:30:20+00:00",
+   "last_seen": "2026-11-26T01:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85302,7 +85301,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:30:20+00:00",
-   "last_seen": "2026-11-25T22:30:20+00:00",
+   "last_seen": "2026-11-26T01:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85340,7 +85339,7 @@
    "checked": "2026-11-25T20:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T19:30:20+00:00",
-   "last_seen": "2026-11-25T22:30:20+00:00",
+   "last_seen": "2026-11-26T01:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -86661,7 +86660,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:30:20+00:00",
-   "last_seen": "2026-11-25T22:30:20+00:00",
+   "last_seen": "2026-11-26T01:30:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
