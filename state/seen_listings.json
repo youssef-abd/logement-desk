@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T03:10:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 4,
+   "blocked_runs": 5,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T04:00:20+00:00",
    "last_error": "blocked",
@@ -8338,7 +8338,7 @@
    "checked": "2026-11-25T14:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T13:20:18+00:00",
-   "last_seen": "2026-11-26T01:30:26+00:00",
+   "last_seen": "2026-11-26T04:40:17+00:00",
    "listing": {
     "charges": 77,
     "city": "lyon",
@@ -68240,7 +68240,7 @@
    "checked": "2026-11-25T14:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T13:20:18+00:00",
-   "last_seen": "2026-11-26T01:30:26+00:00",
+   "last_seen": "2026-11-26T04:40:17+00:00",
    "listing": {
     "charges": 20,
     "city": "lyon",
@@ -68822,7 +68822,7 @@
    "checked": "2026-11-25T14:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T13:20:18+00:00",
-   "last_seen": "2026-11-26T01:30:26+00:00",
+   "last_seen": "2026-11-26T04:40:17+00:00",
    "listing": {
     "charges": 30,
     "city": "lyon",
@@ -82031,6 +82031,42 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:em0rya": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T04:40:17+00:00",
+   "last_seen": "2026-11-26T04:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 7 pièces de 124 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-2fa3055d94e1a4b7579948dcd397dd66/6544054/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 708,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "em0rya",
+    "surface_m2": 124,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 7 pièces de 124 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/em0rya"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:epde60": {
    "also": [],
    "checked": "2026-11-26T00:00:35+00:00",
@@ -85701,7 +85737,7 @@
    "checked": "2026-11-25T20:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T19:30:20+00:00",
-   "last_seen": "2026-11-26T01:30:26+00:00",
+   "last_seen": "2026-11-26T04:40:17+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
