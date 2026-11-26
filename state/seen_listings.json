@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T21:50:17+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 7,
+   "blocked_runs": 8,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T22:00:18+00:00",
    "last_error": "blocked",
@@ -86000,7 +86000,7 @@
    "checked": "2026-11-26T21:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T20:10:18+00:00",
-   "last_seen": "2026-11-26T20:10:18+00:00",
+   "last_seen": "2026-11-26T23:10:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -119900,7 +119900,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297551640A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297555435": {
    "also": [],
@@ -120335,7 +120335,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/chambre/1297597408A1KILHCM000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297601110": {
    "also": [],
@@ -124614,7 +124614,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297873434A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297873447": {
    "also": [],
@@ -124665,7 +124665,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297873454A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297873466": {
    "also": [],
@@ -124743,7 +124743,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297873468A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297873476": {
    "also": [],
