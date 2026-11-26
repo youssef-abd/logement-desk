@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T21:50:17+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 10,
+   "blocked_runs": 11,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T22:00:18+00:00",
    "last_error": "blocked",
@@ -93868,7 +93868,7 @@
    "checked": "2026-11-26T14:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-26T20:40:21+00:00",
+   "last_seen": "2026-11-26T23:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -125840,7 +125840,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES59340254-171",
    "first_seen": "2026-11-26T11:20:20+00:00",
-   "last_seen": "2026-11-26T20:40:21+00:00",
+   "last_seen": "2026-11-26T23:40:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
