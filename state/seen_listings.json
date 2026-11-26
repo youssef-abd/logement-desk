@@ -80074,6 +80074,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:86f1a6": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:40:19+00:00",
+   "last_seen": "2026-11-26T10:40:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 50 m². Disponible dès 2026-12-15",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-de9bd6ef382ae7b49fa2f686f29da112/6631575/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 440,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "86f1a6",
+    "surface_m2": 50,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 50 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/86f1a6"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:86nb7d": {
    "also": [],
    "checked": "2026-11-24T14:00:49+00:00",
