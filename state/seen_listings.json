@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T09:30:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
+   "blocked_runs": 3,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T10:40:21+00:00",
    "last_error": "blocked",
@@ -7674,6 +7674,45 @@
    "last_seen": "2026-11-26T10:01:00+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "bienici:ag690014-562874132": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T11:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
+   "listing": {
+    "charges": 60,
+    "city": "lyon",
+    "description": "Référence 5935 - Disponible le 21/12/2026\n\nAppartement de type 2 de 39.9m² au 1er étage situé rue Rachais 69007 Lyon, situé dans une résidence de 2022.\n\nIl est composé d'une entrée avec placard, une belle pièce de vie avec un coin cuisine aménagé et semi-équipé (plaque et hotte) le tout donnant sur un balcon de 10.90m², une chambre avec placard, une salle d'eau avec wc.\n\nIl dispose également d'un garage en sous-sol. (119€ inclus dans le prix)\nChauffage et eau chaude collectifs urbain. Eau froide",
+    "district": "Lyon 7e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag690014-562874132_photos.ubiflow.net_690014_562874132_photos_1.jpg_INSOON_EB_5512801818_20261126102946",
+     "https://file.bienici.com/photo/ag690014-562874132_photos.ubiflow.net_690014_562874132_photos_2.jpg_INSOON_EB_5512801818_20261126102946",
+     "https://file.bienici.com/photo/ag690014-562874132_photos.ubiflow.net_690014_562874132_photos_3.jpg_INSOON_EB_5512801818_20261126102946",
+     "https://file.bienici.com/photo/ag690014-562874132_photos.ubiflow.net_690014_562874132_photos_4.jpg_INSOON_EB_5512801818_20261126102946",
+     "https://file.bienici.com/photo/ag690014-562874132_photos.ubiflow.net_690014_562874132_photos_5.jpg_INSOON_EB_5512801818_20261126102946",
+     "https://file.bienici.com/photo/ag690014-562874132_photos.ubiflow.net_690014_562874132_photos_6.jpg_INSOON_EB_5512801818_20261126102946"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "Regie Franchet",
+    "published_at": "2026-11-26T10:12:34.128Z",
+    "rent_cc": 860,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag690014-562874132",
+    "surface_m2": 39,
+    "tags": [],
+    "title": "Appartement T2 de 39.9m² - Rue Rachais 69007 LYON",
+    "url": "https://www.bienici.com/annonce/ag690014-562874132"
+   },
+   "notified": false,
    "status": "active"
   },
   "bienici:ag690049-504035792": {
@@ -22265,7 +22304,7 @@
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:40:19+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": {
     "charges": 15,
     "city": "lyon",
@@ -32480,7 +32519,7 @@
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:40:19+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": {
     "charges": 71,
     "city": "lyon",
@@ -32951,7 +32990,7 @@
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:40:19+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": {
     "charges": 44,
     "city": "lyon",
@@ -34631,7 +34670,7 @@
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:40:19+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": {
     "charges": 71,
     "city": "lyon",
@@ -42947,7 +42986,7 @@
    "also": [],
    "dup_of": "paruvendu:1296488548",
    "first_seen": "2026-11-25T16:40:19+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -45776,7 +45815,7 @@
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:40:19+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -58482,7 +58521,7 @@
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:40:19+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": {
     "charges": 40,
     "city": "lyon",
@@ -63412,7 +63451,7 @@
    "also": [],
    "dup_of": "leboncoin:3317651882",
    "first_seen": "2026-11-25T16:40:19+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -119493,7 +119532,7 @@
    "checked": "2026-11-26T05:02:53+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121164,7 +121203,7 @@
    "also": [],
    "dup_of": "leboncoin:3316879780",
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121174,7 +121213,7 @@
    "checked": "2026-11-26T08:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121216,7 +121255,7 @@
    "checked": "2026-11-26T08:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121258,7 +121297,7 @@
    "checked": "2026-11-26T08:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121700,7 +121739,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T10:20:22+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121742,7 +121781,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T10:20:22+00:00",
-   "last_seen": "2026-11-26T08:10:19+00:00",
+   "last_seen": "2026-11-26T11:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
