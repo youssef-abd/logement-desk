@@ -29,9 +29,9 @@
    "last_success": "2026-11-26T09:30:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 11,
+   "blocked_runs": 0,
    "consecutive_failures": 4,
-   "cooldown_until": "2026-11-26T08:30:19+00:00",
+   "cooldown_until": "2026-11-26T10:40:21+00:00",
    "last_error": "blocked",
    "last_success": "2026-11-26T01:40:21+00:00"
   },
@@ -76945,7 +76945,7 @@
    "checked": "2026-11-26T08:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T07:20:19+00:00",
-   "last_seen": "2026-11-26T07:20:19+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -79245,6 +79245,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:6t6khw": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 80 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-a76001d1514871269a494371d631a3b0/6543735/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 537,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "6t6khw",
+    "surface_m2": 80,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 80 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/6t6khw"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:6wgndt": {
    "also": [],
@@ -82509,7 +82546,7 @@
    "checked": "2026-11-25T11:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T10:30:21+00:00",
-   "last_seen": "2026-11-25T13:30:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -82540,7 +82577,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/saint-cyr-au-mont-d-or/a/ewrfnx"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:ezhngl": {
    "also": [],
@@ -121736,6 +121773,49 @@
    "notified": false,
    "status": "active"
   },
+  "paruvendu:1297921342": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 10 686 € CC* Appartement 30 m 2 Lyon 3 1 pièce DPE : D 256 kWh/m².an 9 kg CO 2 /m².an Lyon 69003, appartement F1 au 1er étage avec séjour, cuisine équipée et mezzanine. Salle de bain, WC, placards, double vitrage et volets roulants. Immeuble sécurisé avec digicode. Proche de toutes commodités. LOC'A 47 annonces 26/11/2026 Voir Contacter",
+    "district": "Lyon 3e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/fa/6e/L2JpZW5zLzM0MjcwMzM0LzZiMDdmM2M1NDY2NzU_MjAyNjExMjYxMTE3NDE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/7b/60/L2JpZW5zLzM0MjcwMzM0LzZiMDdmM2MyOTM5NmU_MjAyNjExMjYxMTE3NDE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/0c/e1/L2JpZW5zLzM0MjcwMzM0LzZiMDdmM2M2MzA0ZWQ_MjAyNjExMjYxMTE3NDE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/a0/ff/L2JpZW5zLzM0MjcwMzM0LzZiMDdmM2M3NWI0OTM_MjAyNjExMjYxMTE3NDE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/bd/90/L2JpZW5zLzM0MjcwMzM0LzZiMDdmM2M4NjczMWU_MjAyNjExMjYxMTE3NDE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/c9/e6/L2JpZW5zLzM0MjcwMzM0LzZiMDdmM2M5M2E1NmY_MjAyNjExMjYxMTE3NDE_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-26",
+    "rent_cc": 686,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297921342",
+    "surface_m2": 30.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 1 pièce(s) - 30 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921342A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "paruvendu:1297921343": {
    "also": [],
    "checked": "2026-11-26T10:01:00+00:00",
@@ -121778,6 +121858,45 @@
    "notified": false,
    "status": "active"
   },
+  "paruvendu:1297921344": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 4 1 200 € CC* Appartement 43 m 2 Lyon 2 3 pièces 2 chambres Ascenseur DPE : D 254 kWh/m².an 8 kg CO 2 /m².an À Lyon 2, appartement T3 de 43m² au 5ème étage. Comprend un séjour, kitchenette équipée, 2 chambres climatisées, salle de douche et wc. Immeuble avec ascenseur, double vitrage, proche commodités. LOC'A 47 annonces 26/11/2026 Voir Contacter",
+    "district": "Lyon 2e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/49/e3/L2JpZW5zLzM0MjcwMzMyLzZiMDdmMjlmZTZkOGU_MjAyNjExMjYxMTE3NDE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/b1/d7/L2JpZW5zLzM0MjcwMzMyLzZiMDdmMjk2YTNhNGQ_MjAyNjExMjYxMTE3NDE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/f3/8b/L2JpZW5zLzM0MjcwMzMyLzZiMDdmMjljYWI5OGU_MjAyNjExMjYxMTE3NDE_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/54/0d/L2JpZW5zLzM0MjcwMzMyLzZiMDdmMjk5NzRlNWM_MjAyNjExMjYxMTE3NDE_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69002",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-26",
+    "rent_cc": 1200,
+    "rooms": 3,
+    "source": "paruvendu",
+    "source_id": "1297921344",
+    "surface_m2": 43.0,
+    "tags": [],
+    "title": "Appartement - 3 pièce(s) - 43 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921344A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "paruvendu:1297921707": {
    "also": [],
    "dup_of": null,
@@ -121814,6 +121933,449 @@
     "tags": [],
     "title": "Appartement - 2 pièce(s) - 41 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921707A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297921717": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Voir d'autres photos 6 550 € CC* Appartement 54 m 2 Villeurbanne (69) 3 pièces DPE : D 250 kWh/m².an 50 kg CO 2 /m².an Appartement t3 meublé à neuf pour colocation. appartement de 54 m2 à louer sur villeurbanne deux chambres disponibles dans un appartement t3 de 54 m² entièrement rénové et meublé à neuf, situé à villeurbanne dans le quartier cusset, à seulement... 123loger.com 500 annonces 26/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/99/1b/L2MtNmIwN2NiMTY3OGU4ZDkwNzEyMDBhMTMzLWM4ZWNhMGMyNDIwYmMyMWQ0NGVlZmIyYTgwZGUxMGFkOGM1MmZiZmZkODIzZWFkMzM3MDYwZjBlNzQ1YmIwNjAuanBnPzIwMjYxMTI2MTExNzQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/04/a7/L2MtNmIwN2NiMTY3OGU4ZDkwNzEyMDBhMTMzLWQyNDM0ZTMwYjlkNzhhMWI5NzNlNWExYzgzYjAyMGVjMWM0ZmM1MjA5Y2U4MjBjOGEwY2U2NTIzOTc2ODM4MjYuanBnPzIwMjYxMTI2MTExNzQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/e3/e6/L2MtNmIwN2NiMTY3OGU4ZDkwNzEyMDBhMTMzLTVlYzgwN2I0ZTMzNmQwYzU1Y2M1ZGY1YzBlN2ZlZWU1MTlkODM4ZTliY2ZlNjIzOTIxY2IyNGZjM2RjOTIxMDIuanBnPzIwMjYxMTI2MTExNzQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/3d/3b/L2MtNmIwN2NiMTY3OGU4ZDkwNzEyMDBhMTMzLWVmNDI5MWFhNmU4Yjg4MmRmYTBlNmQ2MTk4MzE1YmQ0ZDJlOWM3Y2ZlNmIwNjg1OTFjMjMxZTlkNDBiZjM4ZGIuanBnPzIwMjYxMTI2MTExNzQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/9c/cf/L2MtNmIwN2NiMTY3OGU4ZDkwNzEyMDBhMTMzLTk1OGVhOGVjMGIyOWJhZDM1ODRmZTJiNTIyZmQ4MjQ3NjFkMDM2NTg1ZjNlYzUyNTBlZWNmNWZmMmIzZGE1OTMuanBnPzIwMjYxMTI2MTExNzQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/e9/8f/L2MtNmIwN2NiMTY3OGU4ZDkwNzEyMDBhMTMzLWM4YzZhODk2ZmQzOWUwMTI0ZjM1Mzg3OTcyNmFmZDgwMTU4NGI0ZWQ4N2M4NWU5YzI4ZTQyOTM3N2M5Y2FkNGQuanBnPzIwMjYxMTI2MTExNzQx_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-26",
+    "rent_cc": 550,
+    "rooms": 3,
+    "source": "paruvendu",
+    "source_id": "1297921717",
+    "surface_m2": 54.0,
+    "tags": [],
+    "title": "Appartement - 3 pièce(s) - 54 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921717A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297921723": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 3 715 € CC* Appartement 30 m 2 Lyon 7 1 pièce DPE : C 180 kWh/m².an 10 kg CO 2 /m².an F1 30m² m° saxe gambetta (b+d) proche facs, clim. appartement de 30 m2 à louer sur lyon f1 quartier étudiant métro saxe gambetta, à quelques minutes à pied des facs campus quais du rhone 2è étage sans ascenseur, climatisation (pompe à chaleur),... 123loger.com 500 annonces 26/11/2026 Voir Contacter",
+    "district": "Lyon 7e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/5a/cd/L2MtNmIwN2NiMTk3OGU4ZDkwNzEyMDBhMTM1LTczZDgzOGRmYjQ0ZTZhNjI1MzViOTBjNjBjNTNjYTJhYzM5ZmJhMjI1YzY2ZDU3ODE2YTgzZTczYTc1NmRhMjEuanBnPzIwMjYxMTI2MTExNzQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/e9/b0/L2MtNmIwN2NiMTk3OGU4ZDkwNzEyMDBhMTM1LTE5ZTBmZmE2N2ViMDliNzZlYjJkYWJiOGVlZDVmMDI4NDhlMDZkNGEwZjU5ODY3MDIwOTE3Y2IzZTM4ZTMxOWEuanBnPzIwMjYxMTI2MTExNzQx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/59/7d/L2MtNmIwN2NiMTk3OGU4ZDkwNzEyMDBhMTM1LTQ4ZWNiZjk3ZDZkZjkxY2YzNTA5ZjY0MTYxNmRlZTI2YmZkZDhmMDdhNzYxMjc5NGQzODgzM2Q3ZWQzYTJiYzQuanBnPzIwMjYxMTI2MTExNzQx_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-26",
+    "rent_cc": 715,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297921723",
+    "surface_m2": 30.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 30 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921723A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297921757": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 6 450 € CC* Appartement 27 m 2 Villeurbanne (69) 1 pièce DPE : E 330 kWh/m².an 30 kg CO 2 /m².an Location studio à villeurbanne. appartement de 27 m2 à louer sur villeurbanne joli studio meublé de 27m2 avec mezzanine avec place de parking souterrain situé cours Émile zola à villeurbanne. pièce de vie lumineuse (tranversante) avec canapé... 123loger.com 500 annonces 26/11/2026 Voir Contacter Recevez les nouvelles annonces dès leur publication",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/cc/d0/L2MtNmIwN2NiMmY0M2Q4NDdhNjU4MGQ0NmI3LTNlNzI4NTdiMTk0NDU2MjM0OWU3MWQyODk5NjgzNzJmM2UyNzhkZDIyNjc0NTBjZmQ1NjBlZDlkYmQ2ODc5MDcuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/fe/3f/L2MtNmIwN2NiMmY0M2Q4NDdhNjU4MGQ0NmI3LTFiZmUxZjQwNDFlMmFjYjUzZjVjYmY4NDdlOTExYTczNmNjMjZiYjI0YjFjYWQ1NDYwNWJjNDQxNGFmNWVhMzYuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/97/8d/L2MtNmIwN2NiMmY0M2Q4NDdhNjU4MGQ0NmI3LWIwMGJjOTJiOTk3ZjU4OTRhM2MxZWUxN2I5NTY0NWZkNDk2NGQzM2JmOWY2MjUwNmY2NTgzNWU5YTYyZTFiOTYuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/7e/d6/L2MtNmIwN2NiMmY0M2Q4NDdhNjU4MGQ0NmI3LWViNzM4OWIzM2IyMjViZGNlN2IwMzFkNjcyMjJkNWZhNTVhYTczYjMyZDAwMWM2YTdhOTM1ZjI1NDkwZjc2OGMuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/2a/a5/L2MtNmIwN2NiMmY0M2Q4NDdhNjU4MGQ0NmI3LWQ3MDVkNmNhMDcwZTAyZjgxODU0NTYzMWFjZTc5YWQxYjVmYmI2MzRjMTc2NGE3Mjg3MWEzODU2ZjhlZmJkZTUuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/83/9e/L2MtNmIwN2NiMmY0M2Q4NDdhNjU4MGQ0NmI3LTZlYTMxNjI1Yzc5MjQ1MWQ3NTdiZmFkNGQ0MjU5YjcyZWExZDA2YjQ1NmU2YWE1NGE1NTQ4MjE1MGQ5MTZjMmEuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-26",
+    "rent_cc": 450,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297921757",
+    "surface_m2": 27.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 27 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921757A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297921777": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 6 1 200 € CC* Appartement 67 m 2 Lyon 1 2 pièces DPE : D 250 kWh/m².an 30 kg CO 2 /m².an Bel appartement type canut. appartement de 67 m2 à louer sur lyon bel appartement type canut situé en bas des pentes entre la place des terreaux et quai de saône. un salon spacieux et lumineux avec grand écran, canapé, fauteuil et coin bureau.... 123loger.com 500 annonces 26/11/2026 Voir Contacter",
+    "district": "Lyon 1er",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/d9/ef/L2MtNmIwN2NiM2M3OGU4ZDkwNzEyMDBhMTRiLTI2ZjUwNjBiM2ZmZmJiZjFlMjk2NDkxMWExY2I5Y2RkM2ZkMWI3MzIxMWQ3NjIzODIxZWIxNTUzYTZmMTJmMzQuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/aa/58/L2MtNmIwN2NiM2M3OGU4ZDkwNzEyMDBhMTRiLTRlYTdmMDk2MWZiYjY0MDllOGU5YWE4NzlkOWI1YjI1OWNiMTRhNTA5ZjlmMmNlZTg3OGJkNTJmNzY2M2UwYzcuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/e5/54/L2MtNmIwN2NiM2M3OGU4ZDkwNzEyMDBhMTRiLWMzMmJiZTE3NzQ3ZTIyZDA1ODFmODBiYzNlNzI5YWNjZGZkMmNiY2RjNzZiM2E5MGFlMzJjNDhiNWYzZTI5NjIuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/bd/35/L2MtNmIwN2NiM2M3OGU4ZDkwNzEyMDBhMTRiLTdlZmNhNzAxNGMxODNiZjM4MDE0YzBlNjc1MTE4NWMzMDA5MWJhOGVhNjc3ZWNjMmYyM2E0ZDE2NGIzNzJkZTAuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/86/f5/L2MtNmIwN2NiM2M3OGU4ZDkwNzEyMDBhMTRiLTQ3ZjBlNjQxNzZkYTc0MDE5YjI2MjYzODEzNjhkYjBmNzQ0YzA4ZDQ1MzI5M2ZiZDJjY2Y3YmVmOTVmMmFiOWMuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/f6/d9/L2MtNmIwN2NiM2M3OGU4ZDkwNzEyMDBhMTRiLTliMjE2MWRlYWU1NTJiNzMwYWRhZmJjNzkzMTZmZTY1ZmVkNTQ5YjAwY2YzY2VmNjM1ZWQyMzUyMTg5ZDk5MGIuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-26",
+    "rent_cc": 1200,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297921777",
+    "surface_m2": 67.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 67 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921777A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297921796": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Voir d'autres photos 6 790 € CC* Appartement 21 m 2 Lyon 4 1 pièce DPE : C 180 kWh/m².an 30 kg CO 2 /m².an Beau studio meublé 21m². appartement de 21 m2 à louer sur lyon découvrez ce charmant appartement situé dans le quartier prisé de croix rousse gros caillou, au cœur du 4ème arrondissement de lyon. niché au 4ème étage d'un immeuble historique... 123loger.com 500 annonces 26/11/2026 Voir Contacter",
+    "district": "Lyon 4e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/82/0f/L2MtNmIwN2NiNDVjY2EzMDI4YjAxMDQ2NTYwLWFmMGViODFhYTVmMWE0NzEyNjk2MTUyYWIyYjljYTEyZGNiNDhjZGI5M2ZhZDI1ODA2MTNmMGRhOTQzNGE0NjIuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/6b/c0/L2MtNmIwN2NiNDVjY2EzMDI4YjAxMDQ2NTYwLTZlMGYyMGZlMzZkNzUyZDUwYzNlYTIzODMxNjc2NGNiOWFkZjRhYmJhYjQxMTE3ODNmOWM4YTRhNWYzZjcyMzMuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/ee/18/L2MtNmIwN2NiNDVjY2EzMDI4YjAxMDQ2NTYwLWNkYmM4YzhhOTE1ZGJmNmU4YWM1OGQ4NDc0YTViYmVkOGJkZDE5MGVlNTg1MTE2YjlhY2ZjMTBkZGZkN2M0MDUuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/a4/9b/L2MtNmIwN2NiNDVjY2EzMDI4YjAxMDQ2NTYwLTFmYjc0ZjI4MzA5MTk0MzhlZTk2NTg5YzJkM2I0OWZjMDExZDg3ZjgzMDE5MzNmZmZjYjBiMzNjYmQ3Y2M1ZDMuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/f9/2e/L2MtNmIwN2NiNDVjY2EzMDI4YjAxMDQ2NTYwLTA0ODkwZTkzMDk0MjRmNmViNzcyNjljM2Y3Y2E4MjY3YjM5OGNkNDNiY2Y0MzVjYmUwYmEyN2ZhNjFiMjk5OTcuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/83/47/L2MtNmIwN2NiNDVjY2EzMDI4YjAxMDQ2NTYwLWFhY2RiY2MwZjNjMzcxYmZkNDFkMWYyZDk2M2E3ODVlNmQ3YjM1NDE2Y2EyMjU5YjNjMzc0ZGE1MjJhNjE2MTUuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69004",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-26",
+    "rent_cc": 790,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297921796",
+    "surface_m2": 21.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 21 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921796A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297921832": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 5 1 061 € CC* Appartement 56 m 2 Lyon 8 3 pièces DPE : A 70 kWh/m².an 6 kg CO 2 /m².an Appart calme isolé de la rue sur jardin interieur. appartement de 56 m2 à louer sur lyon e vous propose un appartement t3 meublé de 56 m² à lyon 08 (69008), disponible immédiatement pour un loyer mensuel de 1 061 € / mois charges comprises.... 123loger.com 500 annonces 26/11/2026 Voir Contacter",
+    "district": "Lyon 8e",
+    "flags": [
+     "available_now",
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/00/14/L2MtNmIwN2NiNTk3OGU4ZDkwNzEyMDBhMTVmLWJiOTk2MTIzZmVjNzUwNWM4ZWJkZWU5ODMwNGQ4ZjAwZjcwMWRlYjI5ZGRlYWM4Y2Y0YTJhYzg4Mzg0YWU1MDEuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/8f/6d/L2MtNmIwN2NiNTk3OGU4ZDkwNzEyMDBhMTVmLWJkOWE0N2RjZTBmOGIwNzMyOWQxMWE2YWRhMjc5Y2Q5MTZmMTU0OTA4YmFmNmMxN2E5NGU2NGNhOTE2MGUyZWUuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/ee/79/L2MtNmIwN2NiNTk3OGU4ZDkwNzEyMDBhMTVmLWY2YmE1ZDcxNTIyNmNjZGVmMzA4ZGI3ZGVkNzAyOWNjNDU3ZDMwYTZhYjQ3OWE2NDI3ZTI4OGNlNDNiYzgzOGUuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/1a/71/L2MtNmIwN2NiNTk3OGU4ZDkwNzEyMDBhMTVmLTgxMjc3ZjVmN2Q5OGM1OWJkMjFmYWQwYjExYWY4NzRhYWI4OTRiODk2MTFjMjA5MGE2MjBiNTBiZTlmOTUzMzkuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/2f/09/L2MtNmIwN2NiNTk3OGU4ZDkwNzEyMDBhMTVmLWVhZTM0MTAzMDE2ZWJhYzhmNDU1NzFiOTcxODczMWU4Y2UzMmI1MWQ5Y2M5NmI2NjFlYzQyMThlYzExMDI1NDguanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-26",
+    "rent_cc": 1061,
+    "rooms": 3,
+    "source": "paruvendu",
+    "source_id": "1297921832",
+    "surface_m2": 56.0,
+    "tags": [],
+    "title": "Appartement - 3 pièce(s) - 56 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921832A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297921885": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 3 820 € CC* Appartement 46 m 2 Lyon 7 2 pièces DPE : D 250 kWh/m².an 50 kg CO 2 /m².an Logement en bon état lyon 7éme. appartement de 46 m2 à louer sur lyon loue appartement au 2ème étage d'un immeuble classé monument historique ; de 46 m2 en très bon état, un séjour ,une chambre, une grande cuisine, une salle de bain avec... 123loger.com 500 annonces 26/11/2026 Voir Contacter",
+    "district": "Lyon 7e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/73/08/L2MtNmIwN2NiNzg3OGU4ZDkwNzEyMDBhMTc5LWNmODU2OWExZmZlODY2Y2I3NDhlNTA3Yjc3MjRlN2ZmMzM1M2Q1NmFhOWFhY2ZlOTFjYzFhNTJhNTkzMjQ1NjQuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/95/77/L2MtNmIwN2NiNzg3OGU4ZDkwNzEyMDBhMTc5LTNlNWJiZmM2M2NhZDJmYTJhOWI3OThiMjczNWUzMTFhNzliMDBiOTMyYTBkOWNlZjI3YjUxZjlmZWMxNGIwOGEuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/da/93/L2MtNmIwN2NiNzg3OGU4ZDkwNzEyMDBhMTc5LWQ4ODRmNjZkN2EyMDMzYmMxZTNiZGYzMmJlZjY1NmFiOTgxYjIwZWZlNTQxOWY4Njg5ZTVkOTVlMWQ5MWQ4MzYuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-26",
+    "rent_cc": 820,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297921885",
+    "surface_m2": 46.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 46 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921885A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297921886": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 6 1 100 € CC* Appartement 42 m 2 Lyon 1 1 pièce DPE : D 250 kWh/m².an 50 kg CO 2 /m².an Superbe studio meublé 31m² (42m² au sol). appartement de 42 m2 à louer sur lyon superbe appartement meublé de 42m² (31m2 loi carrez) idéalement situé dans les pentes de la croix rousse , à seulement 5 minutes à pied de la place des terreaux ,... 123loger.com 500 annonces 26/11/2026 Voir Contacter",
+    "district": "Lyon 1er",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/63/7c/L2MtNmIwN2NiNzlkMTA1NjI3NGQ4MDcwMmUzLTY3Mjg1ZjZkYWY0MTMyMWQ5MzMwMWQyZGY4ZDhkZDhhMGRiZGVkNjk0MmM5NWZlZjE2YTY3NWUxNDgyNjU5YzYuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/01/4f/L2MtNmIwN2NiNzlkMTA1NjI3NGQ4MDcwMmUzLWEzMjliMTJlYTU3MzMwZGNiYjU4ZGMyN2Q5MDhjZTllN2U2ZDMyZmJlYmE0NDllNTNlZTNiNDYwMTRjNDIyN2YuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/e1/46/L2MtNmIwN2NiNzlkMTA1NjI3NGQ4MDcwMmUzLWUxNGU5Yzg1YmM2ZGQzMWM1MTQ2NTViMWUxNjg5OGQwZTEzOGQ4MGI0M2I3NWJiNDFhYjAyZDdhNjcxMjQ5NDkuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/d0/84/L2MtNmIwN2NiNzlkMTA1NjI3NGQ4MDcwMmUzLTEwZGJjZDUwMWZlMWE4MjBhMjFiYzg0Y2ZiOGE4ZTEzZDVmMDFlMGJmZGYyODU2NjRkMDgwNzg1MzFkNzc1Y2YuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/f4/fe/L2MtNmIwN2NiNzlkMTA1NjI3NGQ4MDcwMmUzLTY5OTVkYzI0OTQyNGJiMzdmMzRkZmU4ZjY1NWM3ZGU5MjJmYWRlOWRjOGQ4MmZhZmZiMDQwMmQ1NjY4MmE1YWQuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/49/39/L2MtNmIwN2NiNzlkMTA1NjI3NGQ4MDcwMmUzLTIwODA4MDk4Y2QzZjMxMDE2NmY3ZTNmNWJkOGRjZGYyNjFlYzMzMmYzODBkN2E5YjEyN2E3YTc2NjU0ZmVjY2YuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-26",
+    "rent_cc": 1100,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297921886",
+    "surface_m2": 42.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 42 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921886A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297921917": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Voir d'autres photos 6 1 200 € CC* Appartement 43 m 2 Lyon 6 2 pièces DPE : D 250 kWh/m².an 10 kg CO 2 /m².an T2 en plein coeur des brotteaux. appartement de 43 m2 à louer sur lyon 6ème arrondissement de lyon - secteur brotteaux (boulevard des brotteaux) - à 5mn du parc de la tête d'or et à environ 15mn de la gare de la part-dieu t2 meublé -... 123loger.com 500 annonces 26/11/2026 Voir Contacter",
+    "district": "Lyon 6e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/1f/84/L2MtNmIwN2NiODlkMTA1NjI3NGQ4MDcwMmVmLTgxOTg3NGM2NjU2OGE0MTkxYmZlMzY5ZmU2MzViOTJiMzFiN2M3ZmY3OTM5ZWZjMjM2NGZmNTllMTY3MjU2YmIuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/5b/ec/L2MtNmIwN2NiODlkMTA1NjI3NGQ4MDcwMmVmLWFiYTFmYjliY2JhNzY0Mjg4NjliYzFlN2QzNDBkNDdmYzU5Yzk2NmE1ZTUwOWE0ZjQ0NzYzMzdlYmY2NTQ0NTAuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/9f/7c/L2MtNmIwN2NiODlkMTA1NjI3NGQ4MDcwMmVmLTM1MzdkZjhjMzZkYzNmMGQ3ZDhlNzM0ODgwZDQyM2VjM2Q2MmUwZTQ5ZDJjMWY4MWNhZjY2NGZlZTI4MTQ1NTUuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/3a/d6/L2MtNmIwN2NiODlkMTA1NjI3NGQ4MDcwMmVmLTI2NjE1MzdlMTM2ZDJlNjY5OGVjZTA2NTVjMzZjZjdlOGFjYzI3NThlY2I5ZjQyMTEyNzVjNDA5NTY2NTM5ZWYuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/6c/a1/L2MtNmIwN2NiODlkMTA1NjI3NGQ4MDcwMmVmLTE2ZWM1N2QwNDYxNmZkYmYyMmE4NDczMDY5Yzk3ZDQ1NmQzNTg4ZTUzZmJkZGZmZjgxZjEyM2QwYThkNjBkZDkuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/64/8b/L2MtNmIwN2NiODlkMTA1NjI3NGQ4MDcwMmVmLTFkOWY4ZGZiOGJjM2I3MTE3NDg5M2UzMjgyN2U0Y2ViMDViNmMyNzQzYjcwYmIxNTY5M2VmNzllNTg2MmQ0ZjEuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69006",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-26",
+    "rent_cc": 1200,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297921917",
+    "surface_m2": 43.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 43 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921917A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297921978": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 3 500 € CC* Appartement 13 m 2 Lyon 2 1 pièce DPE : D 250 kWh/m².an 10 kg CO 2 /m².an Studio rue vaubecour proche bellecour et pérrache. appartement de 13 m2 à louer sur lyon vaubecour studio : c'est un studio meublé , située rue vaubecours à proximité de la place bellecour. située au 6ème étage avec ascenseur d'un bel... 123loger.com 500 annonces 26/11/2026 Voir Contacter",
+    "district": "Lyon 2e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/ed/34/L2MtNmIwN2NiYWU3NTBlNTU4YzQ0MGUwMzhkLTQ0ODQwMDZiM2RmMzViNjBiYmFiMWNkZWZiMDVjY2IyNDZmZDk2NDZiYzg0MDBjYjg1MDQ2OGU5NTQ2YTg1MzguanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/db/d8/L2MtNmIwN2NiYWU3NTBlNTU4YzQ0MGUwMzhkLWYyZDY2YThiYWZmM2UxODgxNjYwNjJhYWNlMzEzOWJkZGM1ZDNmYWE1N2Q2ODU0OGMyZGM5NjZmMTI0NDZiYzUuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/79/01/L2MtNmIwN2NiYWU3NTBlNTU4YzQ0MGUwMzhkLTM2NTVmNDUxODFhMjAzOWQ1NDQzY2EwZGUzNzVjYTRhOTZhNzg5ZmUyMTE4NmZiY2IyNDc1NjllYzU4ZTYzYjQuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69002",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-26",
+    "rent_cc": 500,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297921978",
+    "surface_m2": 13.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 13 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921978A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297921999": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:20:21+00:00",
+   "last_seen": "2026-11-26T10:20:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 5 650 € CC* Appartement 33 m 2 Lyon 8 1 pièce DPE : C 180 kWh/m².an 30 kg CO 2 /m².an T1 neuf avec balcon 33 m² - lyon 8e. appartement de 33 m2 à louer sur lyon bienvenue dans ce t1 moderne de 33 m² situé dans une résidence contemporaine récente du 8e arrondissement de lyon. l'immeuble, à l'architecture soignée mêlant blanc et... 123loger.com 500 annonces 26/11/2026 Voir Contacter",
+    "district": "Lyon 8e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/79/67/L2MtNmIwN2NiYzA5ZjY0MjJjMmExMDg4ZDBiLWYyODY4NTRlNjM5MDI4NWIxZDQ4ZmRlYzRlZTQyZjI1NGMyMmEyODVlNDYzYTJhYjMxMjZjNGVhOWU2MjAzNDUuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/dd/f8/L2MtNmIwN2NiYzA5ZjY0MjJjMmExMDg4ZDBiLWRhMTEyNTAwMzllMGU1ZGY4M2JhOGFjMWVjZjMxYzljZDc3MzYwNTA5NDBlMmNkOWRmMTg2NWQxYzRlYjI2MTAuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/ab/13/L2MtNmIwN2NiYzA5ZjY0MjJjMmExMDg4ZDBiLWRiMTgwZjZjNzU3NDI0NjI3NzViYmZkYzFiMDNjY2EzMDg0OGY0NzUyMGY0N2Y1ZmVmYWE4NDRmZmZjNzA3MjEuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/fb/96/L2MtNmIwN2NiYzA5ZjY0MjJjMmExMDg4ZDBiLTBkNjA2NjYxYWFkMmNkODI4MmI2NTNjMGQyNTg3ZGM1YmMwNDU3ZGU4Nzg1ODRiYzU0ZTQzZjdlY2M2ZTQyNjMuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/04/8d/L2MtNmIwN2NiYzA5ZjY0MjJjMmExMDg4ZDBiLTY2MjBhMTRlMzRiY2E1YjZiZmVjYTQ5YmUwMjllMmI4NjY1M2Q0M2FhZGMwMzJkYTE1MzE1ODQ4MDg0NDA2NjAuanBnPzIwMjYxMTI2MTExNzQy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-26",
+    "rent_cc": 650,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297921999",
+    "surface_m2": 33.0,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement - 1 pièce(s) - 33 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921999A1KILHAP000"
    },
    "notified": false,
    "status": "active"
