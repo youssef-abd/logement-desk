@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T06:20:20+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 4,
+   "blocked_runs": 5,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T08:30:19+00:00",
    "last_error": "blocked",
@@ -75395,7 +75395,7 @@
    "checked": "2026-11-26T00:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T00:00:35+00:00",
-   "last_seen": "2026-11-26T06:10:17+00:00",
+   "last_seen": "2026-11-26T09:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75437,7 +75437,7 @@
    "checked": "2026-11-26T00:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T00:00:35+00:00",
-   "last_seen": "2026-11-26T06:10:17+00:00",
+   "last_seen": "2026-11-26T09:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -78869,7 +78869,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/5qregk"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:5y4n32": {
    "also": [],
@@ -79694,6 +79694,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:7m51ku": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T09:10:19+00:00",
+   "last_seen": "2026-11-26T09:10:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 6 pièces de 100 m². Disponible dès 2026-12-03",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-f822e6025c6ed07726423f69fab4cfe7/3033284/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 438,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "7m51ku",
+    "surface_m2": 100,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 6 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/sous-locations/fr/auvergne-rhone-alpes/lyon/a/7m51ku"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:7mamqd": {
    "also": [],
@@ -86439,7 +86476,7 @@
    "checked": "2026-11-26T00:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T23:50:27+00:00",
-   "last_seen": "2026-11-26T06:10:17+00:00",
+   "last_seen": "2026-11-26T09:10:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
