@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T12:30:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T13:00:20+00:00",
    "last_error": "blocked",
@@ -81695,6 +81695,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:bcbk4x": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T13:50:18+00:00",
+   "last_seen": "2026-11-26T13:50:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 70 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-13318ac6dfa3c4977d283e724a07da77/226975/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 580,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "bcbk4x",
+    "surface_m2": 70,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 70 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/bcbk4x"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:bcgud2": {
    "also": [],
