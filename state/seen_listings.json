@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T06:20:20+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 6,
+   "blocked_runs": 7,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T06:10:21+00:00",
    "last_error": "blocked",
@@ -76890,6 +76890,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:1t456p": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T07:20:19+00:00",
+   "last_seen": "2026-11-26T07:20:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 6 pièces de 79 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-b7d14d1c78da6c719561d89f395afff4/5902479/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 580,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "1t456p",
+    "surface_m2": 79,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 6 pièces de 79 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/1t456p"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:1wau84": {
    "also": [],
