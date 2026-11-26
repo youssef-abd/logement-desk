@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T21:50:17+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
+   "blocked_runs": 4,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T22:00:18+00:00",
    "last_error": "blocked",
@@ -91662,7 +91662,7 @@
    "checked": "2026-11-26T20:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-26T19:20:18+00:00",
+   "last_seen": "2026-11-26T22:30:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -125394,7 +125394,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921723A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297921757": {
    "also": [],
@@ -125478,7 +125478,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921777A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297921796": {
    "also": [],
@@ -125520,7 +125520,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921796A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297921832": {
    "also": [],
@@ -125562,7 +125562,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921832A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297921885": {
    "also": [],
@@ -125601,7 +125601,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921885A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297921886": {
    "also": [],
@@ -125643,7 +125643,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921886A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297921917": {
    "also": [],
@@ -125685,7 +125685,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921917A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297921978": {
    "also": [],
@@ -125724,7 +125724,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921978A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297921999": {
    "also": [],
@@ -125767,13 +125767,13 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921999A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297926437": {
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES43100013-894",
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-26T19:20:18+00:00",
+   "last_seen": "2026-11-26T22:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125782,7 +125782,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES52490004-184",
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-26T19:20:18+00:00",
+   "last_seen": "2026-11-26T22:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125809,7 +125809,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-47750692700060-GES19890021-746",
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-26T19:20:18+00:00",
+   "last_seen": "2026-11-26T22:30:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125819,7 +125819,7 @@
    "checked": "2026-11-26T20:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-26T19:20:18+00:00",
+   "last_seen": "2026-11-26T22:30:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
