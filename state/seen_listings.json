@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T18:40:22+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 10,
+   "blocked_runs": 11,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T17:30:19+00:00",
    "last_error": "blocked",
@@ -33260,7 +33260,9 @@
    "status": "stale"
   },
   "bienici:citya-immobilier-30578588300029-GES43100013-894": {
-   "also": [],
+   "also": [
+    "paruvendu:1297926437"
+   ],
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:40:19+00:00",
@@ -33943,7 +33945,9 @@
    "status": "active"
   },
   "bienici:citya-immobilier-47750692700060-GES19890021-746": {
-   "also": [],
+   "also": [
+    "paruvendu:1297926610"
+   ],
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T17:01:04+00:00",
@@ -37167,7 +37171,9 @@
    "status": "active"
   },
   "bienici:citya-immobilier-5041-GES52490004-184": {
-   "also": [],
+   "also": [
+    "paruvendu:1297926574"
+   ],
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T17:01:04+00:00",
@@ -91043,6 +91049,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:v83so3": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T19:20:18+00:00",
+   "last_seen": "2026-11-26T19:20:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 60 m². Disponible dès 2026-11-29",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-8177851506d91b85e0f4c925ecceb161/6633052/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 580,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "v83so3",
+    "surface_m2": 60,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 60 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/v83so3"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:v870qr": {
    "also": [],
    "checked": "2026-11-23T02:00:59+00:00",
@@ -125077,6 +125120,24 @@
    "notified": false,
    "status": "active"
   },
+  "paruvendu:1297926437": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-30578588300029-GES43100013-894",
+   "first_seen": "2026-11-26T19:20:18+00:00",
+   "last_seen": "2026-11-26T19:20:18+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297926574": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-5041-GES52490004-184",
+   "first_seen": "2026-11-26T19:20:18+00:00",
+   "last_seen": "2026-11-26T19:20:18+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "paruvendu:1297926575": {
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES59340254-171",
@@ -125093,6 +125154,57 @@
    "last_seen": "2026-11-26T17:20:19+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297926610": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-47750692700060-GES19890021-746",
+   "first_seen": "2026-11-26T19:20:18+00:00",
+   "last_seen": "2026-11-26T19:20:18+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297927604": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T19:20:18+00:00",
+   "last_seen": "2026-11-26T19:20:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 4 650 € CC* Appartement 43 m 2 Lyon 7 2 pièces 1 chambre DPE : D 250 kWh/m².an 50 kg CO 2 /m².an Lyon 07, T2 de 43 m² à louer, idéal pour les étudiants. Appartement à louer directement de particulier, disponible le 01/01/2027. Sélection des locataires via LocService. LOCService 800 annonces 26/11/2026 Voir Contacter",
+    "district": "Lyon 7e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/b1/aa/LzU2MjA4Ni81NjI4MTg3NzYvcGhvdG9zLzEuanBnPzIwMjYxMTI2MjAxNjAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/00/51/LzU2MjA4Ni81NjI4MTg3NzYvcGhvdG9zLzIuanBnPzIwMjYxMTI2MjAxNjAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/2f/88/LzU2MjA4Ni81NjI4MTg3NzYvcGhvdG9zLzMuanBnPzIwMjYxMTI2MjAxNjAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/cb/61/LzU2MjA4Ni81NjI4MTg3NzYvcGhvdG9zLzQuanBnPzIwMjYxMTI2MjAxNjAz_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "LOCService",
+    "published_at": "2027-01-01",
+    "rent_cc": 650,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297927604",
+    "surface_m2": 43.0,
+    "tags": [
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement - 2 pièce(s) - 43 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297927604A1KILHAP000"
+   },
+   "notified": false,
    "status": "active"
   },
   "paruvendu:1297928161": {
