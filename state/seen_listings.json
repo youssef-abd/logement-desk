@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T03:10:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 8,
+   "blocked_runs": 9,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T04:00:20+00:00",
    "last_error": "blocked",
@@ -86227,7 +86227,7 @@
    "checked": "2026-11-26T00:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T23:10:19+00:00",
-   "last_seen": "2026-11-26T02:10:23+00:00",
+   "last_seen": "2026-11-26T05:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
