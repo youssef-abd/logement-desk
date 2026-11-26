@@ -22,14 +22,14 @@
    "last_success": "2026-11-26T15:30:22+00:00"
   },
   "lacartedescolocs": {
-   "blocked_runs": 1,
-   "consecutive_failures": 1,
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "blocked",
+   "last_error": null,
    "last_success": "2026-11-26T15:30:22+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
+   "blocked_runs": 4,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T15:10:22+00:00",
    "last_error": "blocked",
@@ -80985,7 +80985,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/7tbo6y"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:7wnp8p": {
    "also": [],
@@ -81704,6 +81704,44 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:9rrg47": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T15:50:22+00:00",
+   "last_seen": "2026-11-26T15:50:22+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Loft/atelier 6 pièces de 150 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-dec795a3aec43721c34debf75dc1fbcd/6613919/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 640,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "9rrg47",
+    "surface_m2": 150,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Loft/atelier 6 pièces de 150 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/9rrg47"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:9to1ul": {
    "also": [],
    "checked": "2026-11-24T14:00:49+00:00",
@@ -81855,6 +81893,80 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:9za7pg": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T15:50:22+00:00",
+   "last_seen": "2026-11-26T15:50:22+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 73 m²",
+    "district": "Tassin-la-Demi-Lune",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-4b13ef96af60fca1cbecf7acaf57d0f7/6544840/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 547,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "9za7pg",
+    "surface_m2": 73,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 73 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/tassin-la-demi-lune/a/9za7pg"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:a1ynlz": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T15:50:22+00:00",
+   "last_seen": "2026-11-26T15:50:22+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 72 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-80ec7474e0845a45c8277e73a958b48e/6632307/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 410,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "a1ynlz",
+    "surface_m2": 72,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 72 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/a1ynlz"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:a9748k": {
    "also": [],
@@ -88069,7 +88181,7 @@
    "checked": "2026-11-26T13:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T12:40:20+00:00",
-   "last_seen": "2026-11-26T12:40:20+00:00",
+   "last_seen": "2026-11-26T15:50:22+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -90143,6 +90255,80 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:ve339p": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T15:50:22+00:00",
+   "last_seen": "2026-11-26T15:50:22+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Maison 7 pièces de 102 m²",
+    "district": "Vénissieux",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-96752ee4c8d17eda7d6dd69bf1a4b451/6577088/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 450,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ve339p",
+    "surface_m2": 102,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Maison 7 pièces de 102 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/venissieux/a/ve339p"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:veovh9": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T15:50:22+00:00",
+   "last_seen": "2026-11-26T15:50:22+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 65 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-bee40ee55fc0292e30a41dfcbbfca10a/6544894/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 595,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "veovh9",
+    "surface_m2": 65,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 65 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/veovh9"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:vh9dk8": {
    "also": [],
    "checked": "2026-11-25T17:01:04+00:00",
@@ -91805,6 +91991,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:z88hwe": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T15:50:22+00:00",
+   "last_seen": "2026-11-26T15:50:22+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 68 m². Disponible dès 2026-11-30",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-98a53c641306658768f395da66ad21c1/6558887/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 549,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "z88hwe",
+    "surface_m2": 68,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 68 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/z88hwe"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:z8isby": {
    "also": [],
