@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T09:30:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 10,
+   "blocked_runs": 11,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T08:30:19+00:00",
    "last_error": "blocked",
@@ -51,9 +51,9 @@
   },
   "paruvendu": {
    "blocked_runs": 0,
-   "consecutive_failures": 1,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "HTTPError",
+   "last_error": null,
    "last_success": "2026-11-26T09:00:44+00:00"
   },
   "studapart": {
@@ -21304,7 +21304,7 @@
    "checked": "2026-11-26T04:01:02+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T04:01:02+00:00",
-   "last_seen": "2026-11-26T07:10:25+00:00",
+   "last_seen": "2026-11-26T10:10:27+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -21350,7 +21350,7 @@
    "checked": "2026-11-26T04:01:02+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T04:01:02+00:00",
-   "last_seen": "2026-11-26T07:10:25+00:00",
+   "last_seen": "2026-11-26T10:10:27+00:00",
    "listing": {
     "charges": 10,
     "city": "lyon",
@@ -54318,7 +54318,7 @@
    "checked": "2026-11-26T08:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T15:40:21+00:00",
-   "last_seen": "2026-11-26T07:10:25+00:00",
+   "last_seen": "2026-11-26T10:10:27+00:00",
    "listing": {
     "charges": 100,
     "city": "lyon",
@@ -72206,7 +72206,7 @@
    "checked": "2026-11-26T08:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:00:41+00:00",
-   "last_seen": "2026-11-26T07:10:25+00:00",
+   "last_seen": "2026-11-26T10:10:27+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -82611,7 +82611,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ezjxdp"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:f2gpzl": {
    "also": [],
@@ -83521,7 +83521,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/villeurbanne/a/hwb4ad"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:hx7rxd": {
    "also": [],
@@ -88134,6 +88134,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:tki026": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:10:27+00:00",
+   "last_seen": "2026-11-26T10:10:27+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 75 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-dec7eb66f8ac80f5a833953463b59c8c/6593094/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 490,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "tki026",
+    "surface_m2": 75,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 75 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/tki026"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:toly6u": {
    "also": [],
@@ -113792,7 +113829,7 @@
    "also": [],
    "dup_of": "bienici:nestenn-1-99938981961",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-26T07:10:25+00:00",
+   "last_seen": "2026-11-26T10:10:27+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -114213,7 +114250,7 @@
    "also": [],
    "dup_of": "bienici:ag694538-557609273",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-26T07:00:42+00:00",
+   "last_seen": "2026-11-26T10:10:27+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -114862,7 +114899,7 @@
    "also": [],
    "dup_of": "bienici:ag696101-556516265",
    "first_seen": "2026-11-25T02:50:20+00:00",
-   "last_seen": "2026-11-26T07:10:25+00:00",
+   "last_seen": "2026-11-26T10:10:27+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121553,7 +121590,7 @@
    "checked": "2026-11-26T02:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T09:20:21+00:00",
-   "last_seen": "2026-11-26T07:10:25+00:00",
+   "last_seen": "2026-11-26T10:10:27+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121737,6 +121774,46 @@
     "tags": [],
     "title": "Appartement - 1 pièce(s) - 17 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921343A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297921707": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:10:27+00:00",
+   "last_seen": "2026-11-26T10:10:27+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "5 980 € CC* Appartement 41 m 2 Caluire-et-Cuire (69) 2 pièces DPE : C 180 kWh/m².an 30 kg CO 2 /m².an T2 meublé caluire. appartement de 41 m2 à louer sur caluire-et-cuire charmant logement ( 2 pièces + cuisine), bien situé à caluire – centre, au troisième et dernier étage d'une résidence sécurisée par une conciergerie et un système vigik.... 123loger.com 500 annonces 26/11/2026 Voir Contacter * Loyer mensuel charges comprises. M'envoyer les prochaines annonces Recevoir les nouvelles annonces Le ",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/3f/06/L2MtNmIwN2NiMTE0M2Q4NDdhNjU4MGQ0NmEzLTczNTY2YzM0ZDI4NjNhNjdiMDBhZjhiMzk3MTU4YjMwMzIwMDk5YTQ4YTg3NDVjM2IzNWI4MjhkYTZhMjhmMDIuanBnPzIwMjYxMTI2MTA0ODIx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/29/f2/L2MtNmIwN2NiMTE0M2Q4NDdhNjU4MGQ0NmEzLTYwZWRmOWNhM2E3ZDQ4ZGYwYTYyNDI0YzM0MThhNzEyN2YyZjgzM2RiYWFlN2VkZjM4MzE4MjM1N2E5Nzk4MmMuanBnPzIwMjYxMTI2MTA0ODIx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/07/60/L2MtNmIwN2NiMTE0M2Q4NDdhNjU4MGQ0NmEzLTJlZjA5NTlhMTA4N2UzOTBlZmUwOGZjZTI1Zjg0YjU5YzNmZWRhOTk4YjcwNTEyYTliMTZhMjliZTMyNzlhMGEuanBnPzIwMjYxMTI2MTA0ODIx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/55/c2/L2MtNmIwN2NiMTE0M2Q4NDdhNjU4MGQ0NmEzLTFlMWE5YTkxMDgzOGM3NGQxZDU4YjhjZWU5YWU5MTc1ZjFmYTc5MmNkZGMzZGViZDExMjU0OGQxYTg1MDAwYjIuanBnPzIwMjYxMTI2MTA0ODIx_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/3c/92/L2MtNmIwN2NiMTE0M2Q4NDdhNjU4MGQ0NmEzLTdmMDkyNDk5M2JjMjIzMzY1NzcwMzMzMjljNGVmNWZmZDE1NzRlNWI1MmJhNmIwMzYxMGMxMjQ1N2ZhMTMxNTIuanBnPzIwMjYxMTI2MTA0ODIx_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69300",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-26",
+    "rent_cc": 980,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297921707",
+    "surface_m2": 41.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 41 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921707A1KILHAP000"
    },
    "notified": false,
    "status": "active"
