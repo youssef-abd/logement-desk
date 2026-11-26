@@ -84538,6 +84538,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:kyz364": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T10:30:20+00:00",
+   "last_seen": "2026-11-26T10:30:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 66 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-f5d29775a8f3bd92e82ef1afce2d6832/6466339/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 530,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "kyz364",
+    "surface_m2": 66,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 66 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/kyz364"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:l1rqz5": {
    "also": [],
    "checked": "2026-11-25T09:00:53+00:00",
