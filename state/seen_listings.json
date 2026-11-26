@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T06:20:20+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
+   "blocked_runs": 1,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T08:30:19+00:00",
    "last_error": "blocked",
@@ -80863,7 +80863,7 @@
    "checked": "2026-11-25T09:00:53+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-25T11:40:31+00:00",
+   "last_seen": "2026-11-26T08:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -80893,7 +80893,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/b402a0"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:b424wz": {
    "also": [],
@@ -86503,7 +86503,7 @@
    "checked": "2026-11-26T00:00:35+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T23:10:19+00:00",
-   "last_seen": "2026-11-26T05:20:20+00:00",
+   "last_seen": "2026-11-26T08:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
