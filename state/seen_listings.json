@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T12:30:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 4,
+   "blocked_runs": 5,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T13:00:20+00:00",
    "last_error": "blocked",
@@ -78370,7 +78370,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/46tija"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:47lunw": {
    "also": [],
@@ -79730,6 +79730,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:72i342": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T13:40:27+00:00",
+   "last_seen": "2026-11-26T13:40:27+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 82 m². Disponible dès 2026-12-23",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-a4f0ca4eeeb5a18f47dae344a11e7244/1809882/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 550,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "72i342",
+    "surface_m2": 82,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 82 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/72i342"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:72s4jg": {
    "also": [],
    "checked": "2026-11-23T02:00:59+00:00",
@@ -80530,7 +80567,7 @@
    "checked": "2026-11-26T11:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T10:40:19+00:00",
-   "last_seen": "2026-11-26T10:40:19+00:00",
+   "last_seen": "2026-11-26T13:40:27+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -83252,7 +83289,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/f99ekd"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:fb2vz8": {
    "also": [],
@@ -84688,7 +84725,7 @@
     "url": "https://www.lacartedescolocs.fr/colivings/fr/auvergne-rhone-alpes/lyon/a/ji71tm"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:jm16v2": {
    "also": [],
@@ -86276,7 +86313,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ndkwgy"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:ndprh3": {
    "also": [],
@@ -86771,7 +86808,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/oae72d"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:oh4hgu": {
    "also": [],
@@ -88244,7 +88281,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/sbtr4o"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:sc634u": {
    "also": [],
