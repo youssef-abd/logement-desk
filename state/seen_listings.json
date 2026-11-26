@@ -29,11 +29,11 @@
    "last_success": "2026-11-26T00:10:24+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 8,
-   "consecutive_failures": 4,
-   "cooldown_until": "2026-11-26T00:10:27+00:00",
-   "last_error": "blocked",
-   "last_success": "2026-11-25T21:30:20+00:00"
+   "blocked_runs": 0,
+   "consecutive_failures": 0,
+   "cooldown_until": null,
+   "last_error": null,
+   "last_success": "2026-11-26T01:40:21+00:00"
   },
   "logicimmo": {
    "blocked_runs": 1,
@@ -26250,7 +26250,8 @@
   "bienici:ag752861-556887473": {
    "also": [
     "immojeune:u3011445",
-    "leboncoin:3280446630"
+    "leboncoin:3280446630",
+    "leboncoin:3317910539"
    ],
    "checked": "2026-11-25T21:01:01+00:00",
    "dup_of": null,
@@ -90199,7 +90200,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 90.0,
     "city": "lyon",
@@ -91132,7 +91133,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-22T19:20:19+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 50.0,
     "city": "lyon",
@@ -92019,7 +92020,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3288858116"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3288858117": {
    "also": [],
@@ -92129,7 +92130,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3289668457"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3290579480": {
    "also": [],
@@ -92260,7 +92261,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3291425439"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3291674685": {
    "also": [],
@@ -92341,7 +92342,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3291711640"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3291877929": {
    "also": [],
@@ -92763,7 +92764,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 20.0,
     "city": "lyon",
@@ -92806,7 +92807,7 @@
    "also": [],
    "dup_of": "bienici:ag690049-560470706",
    "first_seen": "2026-11-23T21:10:33+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -92909,7 +92910,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3295934262"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3296173527": {
    "also": [],
@@ -93012,7 +93013,7 @@
    "also": [],
    "dup_of": "bienici:ag694538-556342760",
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -93140,7 +93141,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3297260354"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3297398868": {
    "also": [],
@@ -93542,7 +93543,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3298061178"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3298061814": {
    "also": [],
@@ -93589,7 +93590,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-15T11:55:33+00:00",
-   "last_seen": "2026-11-25T21:50:21+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -94008,7 +94009,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3300856941"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3300978373": {
    "also": [],
@@ -94046,7 +94047,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3300978373"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3300989393": {
    "also": [],
@@ -94264,7 +94265,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 20.0,
     "city": "lyon",
@@ -94744,7 +94745,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3302680692"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3302680746": {
    "also": [],
@@ -94785,7 +94786,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3302680746"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3302680760": {
    "also": [],
@@ -95152,7 +95153,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3303874164"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3303886237": {
    "also": [],
@@ -95427,7 +95428,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 30.0,
     "city": "lyon",
@@ -95598,7 +95599,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3306269011"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3306328631": {
    "also": [
@@ -96059,7 +96060,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3307797806"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3307909818": {
    "also": [],
@@ -97543,7 +97544,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 129.0,
     "city": "lyon",
@@ -97819,7 +97820,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3311555400"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3311690938": {
    "also": [],
@@ -98236,7 +98237,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3312524599"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3312524607": {
    "also": [],
@@ -98753,7 +98754,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3313180839"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3313183291": {
    "also": [],
@@ -98833,7 +98834,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3313264220"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3313264221": {
    "also": [],
@@ -98976,7 +98977,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-24T22:40:20+00:00",
-   "last_seen": "2026-11-25T21:50:21+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -100819,7 +100820,7 @@
    "also": [],
    "dup_of": "paruvendu:1296488548",
    "first_seen": "2026-11-22T19:20:19+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -105509,7 +105510,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317027577"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317028459": {
    "also": [],
@@ -107720,7 +107721,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317371840"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317373692": {
    "also": [],
@@ -108069,7 +108070,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317419680"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317423627": {
    "also": [],
@@ -108109,7 +108110,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317423627"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317424118": {
    "also": [],
@@ -108149,7 +108150,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317424118"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317430733": {
    "also": [],
@@ -108185,7 +108186,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317430733"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317467372": {
    "also": [],
@@ -108224,7 +108225,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317467372"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317468749": {
    "also": [],
@@ -108266,7 +108267,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317468749"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317471166": {
    "also": [],
@@ -108309,7 +108310,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317471166"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317474184": {
    "also": [],
@@ -108353,7 +108354,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317474184"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317474660": {
    "also": [],
@@ -108394,7 +108395,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317474660"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317476418": {
    "also": [],
@@ -108436,7 +108437,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317476418"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317488550": {
    "also": [],
@@ -108485,7 +108486,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317496214"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317502532": {
    "also": [],
@@ -108533,7 +108534,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317506443"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317514611": {
    "also": [
@@ -108574,7 +108575,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317514611"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317524474": {
    "also": [],
@@ -108611,7 +108612,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317524474"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317545159": {
    "also": [],
@@ -108650,7 +108651,7 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317545159"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "leboncoin:3317564261": {
    "also": [],
@@ -109895,7 +109896,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 30.0,
     "city": "lyon",
@@ -109932,7 +109933,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 50.0,
     "city": "lyon",
@@ -109975,7 +109976,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 125.0,
     "city": "lyon",
@@ -110017,7 +110018,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 100.0,
     "city": "lyon",
@@ -110058,7 +110059,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 120.0,
     "city": "lyon",
@@ -110100,7 +110101,7 @@
    "also": [],
    "dup_of": "studapart:bad05138-2ae0-4b2c-8ac3-b6b40709aea3",
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -110109,7 +110110,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 25.0,
     "city": "lyon",
@@ -110145,7 +110146,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 42.0,
     "city": "lyon",
@@ -110190,7 +110191,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 110.0,
     "city": "lyon",
@@ -110228,7 +110229,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 70.0,
     "city": "lyon",
@@ -110262,7 +110263,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 35.0,
     "city": "lyon",
@@ -110300,7 +110301,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 69.0,
     "city": "lyon",
@@ -110338,7 +110339,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 42.0,
     "city": "lyon",
@@ -110376,7 +110377,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 60.0,
     "city": "lyon",
@@ -110418,7 +110419,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
-   "last_seen": "2026-11-25T21:30:20+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 80.0,
     "city": "lyon",
@@ -110457,7 +110458,7 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-25T21:50:21+00:00",
-   "last_seen": "2026-11-25T21:50:21+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
    "listing": {
     "charges": 110.0,
     "city": "lyon",
@@ -110487,6 +110488,54 @@
     "url": "https://www.leboncoin.fr/ad/locations/3317886363"
    },
    "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3317896123": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T01:40:21+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
+   "listing": {
+    "charges": 0.0,
+    "city": "lyon",
+    "description": "Bienvenue dans ce charmant duplex situé en plein cœur de Lyon, dans le 2ᵉ arrondissement, rue de la Bourse.\n\nLe logement dispose de deux chambres confortables, d’un salon avec canapé convertible, d’une cuisine entièrement fonctionnelle ainsi que de deux salles de bain et d’un WC.\n\nIdéal pour un séjour en famille ou entre amis, vous profiterez d’un emplacement privilégié pour découvrir Lyon. Tous les commerces, restaurants et transports en commun sont accessibles à pied.\n\nUn véritable cocon lyonn",
+    "district": "Lyon 69002",
+    "flags": [],
+    "found_by": "leboncoin",
+    "furnished": true,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/f5/57/eb/f557eb86ef517714f0f37b0393495bf5269d1ea1.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/1d/17/64/1d1764c116897fb60b7d0018b33fbd4e39858ab2.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a6/4f/a6/a64fa6dfc5f637c3c35c8278c7ee655652cf4a84.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/d9/4a/1d/d94a1d1f068e6540dfadcd550a91d07316b80e98.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/8b/e6/95/8be6950ab676c987260d03ef64130b3a14af1a6f.jpg?rule=ad-large",
+     "https://img.leboncoin.fr/api/v1/lbcpb1/images/a0/ba/9d/a0ba9d98842db312f02c1add1607733c35a12485.jpg?rule=ad-large"
+    ],
+    "postal_code": "69002",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-25 23:16:15",
+    "rent_cc": 300.0,
+    "rooms": 3,
+    "source": "leboncoin",
+    "source_id": "3317896123",
+    "surface_m2": 55.0,
+    "tags": [],
+    "title": "Appartement pour la fête des lumières",
+    "url": "https://www.leboncoin.fr/ad/locations/3317896123"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "leboncoin:3317910539": {
+   "also": [],
+   "dup_of": "bienici:ag752861-556887473",
+   "first_seen": "2026-11-26T01:40:21+00:00",
+   "last_seen": "2026-11-26T01:40:21+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "paruvendu:1237979405": {
