@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T09:30:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
+   "blocked_runs": 4,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T10:40:21+00:00",
    "last_error": "blocked",
@@ -34666,7 +34666,9 @@
    "status": "active"
   },
   "bienici:citya-immobilier-5040-GES59340254-171": {
-   "also": [],
+   "also": [
+    "paruvendu:1297926575"
+   ],
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:40:19+00:00",
@@ -122585,6 +122587,15 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921999A1KILHAP000"
    },
    "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297926575": {
+   "also": [],
+   "dup_of": "bienici:citya-immobilier-5040-GES59340254-171",
+   "first_seen": "2026-11-26T11:20:20+00:00",
+   "last_seen": "2026-11-26T11:20:20+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "paruvendu:1297926608": {
