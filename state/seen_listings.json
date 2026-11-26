@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T09:30:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 6,
+   "blocked_runs": 7,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T10:40:21+00:00",
    "last_error": "blocked",
@@ -8419,7 +8419,7 @@
    "checked": "2026-11-26T06:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T14:00:41+00:00",
-   "last_seen": "2026-11-26T08:40:21+00:00",
+   "last_seen": "2026-11-26T11:50:21+00:00",
    "listing": {
     "charges": 40,
     "city": "lyon",
@@ -8461,7 +8461,7 @@
    "checked": "2026-11-26T06:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T14:00:41+00:00",
-   "last_seen": "2026-11-26T08:40:21+00:00",
+   "last_seen": "2026-11-26T11:50:21+00:00",
    "listing": {
     "charges": 30,
     "city": "lyon",
@@ -10932,7 +10932,7 @@
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T17:01:04+00:00",
-   "last_seen": "2026-11-26T08:40:21+00:00",
+   "last_seen": "2026-11-26T11:50:21+00:00",
    "listing": {
     "charges": 120,
     "city": "lyon",
@@ -22152,7 +22152,7 @@
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T08:40:21+00:00",
-   "last_seen": "2026-11-26T08:40:21+00:00",
+   "last_seen": "2026-11-26T11:50:21+00:00",
    "listing": {
     "charges": 30,
     "city": "lyon",
@@ -23959,6 +23959,47 @@
     "tags": [],
     "title": "Vénissieux",
     "url": "https://www.bienici.com/annonce/ag752345-562383482"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag752345-562886687": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T11:50:21+00:00",
+   "last_seen": "2026-11-26T11:50:21+00:00",
+   "listing": {
+    "charges": 60,
+    "city": "lyon",
+    "description": "Logement Manda ! Visitez et déposez votre dossier uniquement sur notre plateforme  ! Nous ne vous enverrons jamais le bail ou le RIB par mail - tout est sécurisé sur notre plateforme.\n\n Lyon- 4e étage • 36.6 m² • T2 • Non meublé • 1 chambre • 671 € • PINEL\n\nAu pied de la station Jean Jaurès, Flaltooker propose un T2 en location rue Michel Felizat. Situé au quatrième étage avec ascenseur, cet appartement non meublé est totalement neuf.\n\nL'entrée ouvre sur un dégagement.\n\nLa pièce de vie est large",
+    "district": "Lyon 7e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag752345-562886687_photos.ubiflow.net_752345_562886687_photos_1.jpg_INSOON_EB_5512801818_20261126112400",
+     "https://file.bienici.com/photo/ag752345-562886687_photos.ubiflow.net_752345_562886687_photos_2.jpg_INSOON_EB_5512801818_20261126112400",
+     "https://file.bienici.com/photo/ag752345-562886687_photos.ubiflow.net_752345_562886687_photos_3.jpg_INSOON_EB_5512801818_20261126112400",
+     "https://file.bienici.com/photo/ag752345-562886687_photos.ubiflow.net_752345_562886687_photos_4.jpg_INSOON_EB_5512801818_20261126112400",
+     "https://file.bienici.com/photo/ag752345-562886687_photos.ubiflow.net_752345_562886687_photos_5.jpg_INSOON_EB_5512801818_20261126112400",
+     "https://file.bienici.com/photo/ag752345-562886687_photos.ubiflow.net_752345_562886687_photos_6.jpg_INSOON_EB_5512801818_20261126112400"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": "2026-11-26T11:08:09.638Z",
+    "rent_cc": 670.63,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag752345-562886687",
+    "surface_m2": 36,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Place Jean Jaurès",
+    "url": "https://www.bienici.com/annonce/ag752345-562886687"
    },
    "notified": false,
    "status": "active"
@@ -80802,7 +80843,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T02:30:24+00:00",
-   "last_seen": "2026-11-26T08:40:21+00:00",
+   "last_seen": "2026-11-26T11:50:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81257,7 +81298,7 @@
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T08:50:20+00:00",
-   "last_seen": "2026-11-26T08:50:20+00:00",
+   "last_seen": "2026-11-26T11:50:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -82889,7 +82930,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T02:30:24+00:00",
-   "last_seen": "2026-11-26T08:40:21+00:00",
+   "last_seen": "2026-11-26T11:50:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -89050,7 +89091,7 @@
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T08:50:20+00:00",
-   "last_seen": "2026-11-26T08:50:20+00:00",
+   "last_seen": "2026-11-26T11:50:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -90411,7 +90452,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T02:30:24+00:00",
-   "last_seen": "2026-11-26T08:40:21+00:00",
+   "last_seen": "2026-11-26T11:50:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121871,7 +121912,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES70270083-894",
    "first_seen": "2026-11-25T10:50:19+00:00",
-   "last_seen": "2026-11-26T08:40:21+00:00",
+   "last_seen": "2026-11-26T11:50:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
