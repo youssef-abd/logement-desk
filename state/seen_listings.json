@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T12:30:21+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 7,
+   "blocked_runs": 8,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T13:00:20+00:00",
    "last_error": "blocked",
@@ -7803,7 +7803,7 @@
    "checked": "2026-11-26T12:00:58+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T11:10:19+00:00",
-   "last_seen": "2026-11-26T11:10:19+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": {
     "charges": 60,
     "city": "lyon",
@@ -41583,6 +41583,49 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:guy-hoquet-18-GT0648-5304": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T14:10:28+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
+   "listing": {
+    "charges": 274,
+    "city": "lyon",
+    "description": "Pour candidater, remplissez le formulaire de contact. Vous serez ensuite invité à déposer votre dossier sur la plateforme U’PLACE. Une fois votre dossier validé, vous pourrez choisir un créneau de visite parmi les disponibilités proposées.<br>Votre agence Guy Hoquet Lyon 9 vous propose à la location cet appartement T3 de 73,39 m², situé dans le quartier de Gorge de Loup / Valmy.<br>Au sein d’une copropriété fermée et sécurisée construite en 2004, cet appartement offre un cadre de vie agréable et",
+    "district": "Lyon 9e",
+    "flags": [
+     "agency_fees",
+     "charges_cc",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0648-5304_d2m2j20yzublln.cloudfront.net_75_1012311_a87af3c1-d1d3-4dc4-95e7-c365c2d08576.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0648-5304_d2m2j20yzublln.cloudfront.net_75_1012311_41052d91-842b-4501-a409-fc923c67c3fc.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0648-5304_d2m2j20yzublln.cloudfront.net_75_1012311_77105a55-a18d-4be7-a5b6-5bad7f1020fe.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0648-5304_d2m2j20yzublln.cloudfront.net_75_1012311_6ae33ef5-bd68-446e-9f91-6a56d628ab66.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0648-5304_d2m2j20yzublln.cloudfront.net_75_1012311_8dcec762-7564-4757-a23e-bcd0c379f14b.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0648-5304_d2m2j20yzublln.cloudfront.net_75_1012311_afedeef2-5565-40eb-8425-e734591f865e.jpg"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": "Guy Hoquet Lyon 9 2",
+    "published_at": "2026-11-26T14:04:25.743Z",
+    "rent_cc": 920,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "guy-hoquet-18-GT0648-5304",
+    "surface_m2": 73.39,
+    "tags": [],
+    "title": "Appartement loué vide de 3 pièces de 73.39 m²",
+    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT0648-5304"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:guy-hoquet-18-GT0648-984": {
    "also": [],
    "dup_of": null,
@@ -43364,7 +43407,7 @@
    "also": [],
    "dup_of": "paruvendu:1296488548",
    "first_seen": "2026-11-25T16:40:19+00:00",
-   "last_seen": "2026-11-26T11:10:19+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -46193,7 +46236,7 @@
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:40:19+00:00",
-   "last_seen": "2026-11-26T11:10:19+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -77690,7 +77733,7 @@
    "checked": "2026-11-26T08:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-26T11:00:49+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -77946,7 +77989,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/2ha5dj"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:2pmqsr": {
    "also": [],
@@ -78931,6 +78974,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:4i2dcx": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T14:10:28+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 72 m². Disponible dès 2026-12-21",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-b30208714e232ff98e7635de8dac9dc1/6576844/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 579,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "4i2dcx",
+    "surface_m2": 72,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 72 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/4i2dcx"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:4jmf61": {
    "also": [],
@@ -84801,7 +84881,7 @@
    "checked": "2026-11-26T11:00:49+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T11:00:49+00:00",
-   "last_seen": "2026-11-26T11:00:49+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -114330,7 +114410,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-47750692700060-GES21680013-746",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-26T11:00:49+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -120466,7 +120546,7 @@
    "checked": "2026-11-26T05:02:53+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
-   "last_seen": "2026-11-26T11:10:19+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122137,7 +122217,7 @@
    "also": [],
    "dup_of": "leboncoin:3316879780",
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-26T11:10:19+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122147,7 +122227,7 @@
    "checked": "2026-11-26T08:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-26T11:10:19+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122189,7 +122269,7 @@
    "checked": "2026-11-26T08:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-26T11:10:19+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122231,7 +122311,7 @@
    "checked": "2026-11-26T08:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-26T11:10:19+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122673,7 +122753,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T10:20:22+00:00",
-   "last_seen": "2026-11-26T11:10:19+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122715,7 +122795,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T10:20:22+00:00",
-   "last_seen": "2026-11-26T11:10:19+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -123534,7 +123614,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-47750692700060-GES07580029-746",
    "first_seen": "2026-11-26T11:00:49+00:00",
-   "last_seen": "2026-11-26T11:00:49+00:00",
+   "last_seen": "2026-11-26T14:10:28+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
