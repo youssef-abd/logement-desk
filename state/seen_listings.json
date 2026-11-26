@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T06:20:20+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 1,
+   "blocked_runs": 2,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-26T08:30:19+00:00",
    "last_error": "blocked",
@@ -8380,7 +8380,7 @@
    "checked": "2026-11-26T06:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T14:00:41+00:00",
-   "last_seen": "2026-11-26T05:30:26+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
    "listing": {
     "charges": 40,
     "city": "lyon",
@@ -8422,7 +8422,7 @@
    "checked": "2026-11-26T06:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T14:00:41+00:00",
-   "last_seen": "2026-11-26T05:30:26+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
    "listing": {
     "charges": 30,
     "city": "lyon",
@@ -10893,7 +10893,7 @@
    "checked": "2026-11-25T17:01:04+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T17:01:04+00:00",
-   "last_seen": "2026-11-26T05:30:26+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
    "listing": {
     "charges": 120,
     "city": "lyon",
@@ -22106,6 +22106,43 @@
    "last_seen": "2026-11-23T15:50:22+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "bienici:ag696893-562850387": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T08:40:21+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
+   "listing": {
+    "charges": 30,
+    "city": "lyon",
+    "description": "La Régie HORVATH & Associés vous présente ce studio d'environ 20 m2, situé boulevard Eugène Deruelle, à proximité immédiate des commerces et des transports.\n\nCe bien, non meublé, comprend une pièce de vie avec kitchenette et placards de rangement, ainsi qu'une salle d'eau avec douche et toilettes.\n\nIl est équipé de radiateurs électriques et la production d'eau chaude est assurée par un cumulus. L'eau froide est comprise dans les charges.\n\nIdéalement situé, l'appartement se trouve à deux pas des ",
+    "district": "Lyon 3e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag696893-562850387_photos.ubiflow.net_696893_562850387_photos_1.jpg_INSOON_EB_5512801818_20261126083917",
+     "https://file.bienici.com/photo/ag696893-562850387_photos.ubiflow.net_696893_562850387_photos_2.jpg_INSOON_EB_5512801818_20261126083917",
+     "https://file.bienici.com/photo/ag696893-562850387_photos.ubiflow.net_696893_562850387_photos_3.jpg_INSOON_EB_5512801818_20261126083917",
+     "https://file.bienici.com/photo/ag696893-562850387_photos.ubiflow.net_696893_562850387_photos_4.jpg_INSOON_EB_5512801818_20261126083917"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "Rlm",
+    "published_at": "2026-11-26T08:02:58.189Z",
+    "rent_cc": 479,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "ag696893-562850387",
+    "surface_m2": 20,
+    "tags": [],
+    "title": "Studio 20 m2 – Quartier Part-Dieu / Boulevard Eugène Deruelle",
+    "url": "https://www.bienici.com/annonce/ag696893-562850387"
+   },
+   "notified": false,
    "status": "active"
   },
   "bienici:ag696913-502853372": {
@@ -79459,7 +79496,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/79wg3l"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:7dhw4q": {
    "also": [],
@@ -80597,7 +80634,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T02:30:24+00:00",
-   "last_seen": "2026-11-26T05:30:26+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -80825,7 +80862,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T02:30:24+00:00",
-   "last_seen": "2026-11-26T05:30:26+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81052,7 +81089,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T02:30:24+00:00",
-   "last_seen": "2026-11-26T05:30:26+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -82647,7 +82684,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T02:30:24+00:00",
-   "last_seen": "2026-11-26T05:30:26+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -83703,7 +83740,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T02:30:24+00:00",
-   "last_seen": "2026-11-26T05:30:26+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85709,7 +85746,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T02:30:24+00:00",
-   "last_seen": "2026-11-26T05:30:26+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -86119,7 +86156,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/oi7zhw"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:ojy1c0": {
    "also": [],
@@ -88087,7 +88124,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/tsk5an"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:u0h94w": {
    "also": [],
@@ -88613,7 +88650,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/vt07nm"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:vzroq5": {
    "also": [],
@@ -89147,7 +89184,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T02:30:24+00:00",
-   "last_seen": "2026-11-26T05:30:26+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -89867,7 +89904,7 @@
    "checked": "2026-11-26T03:00:51+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T02:30:24+00:00",
-   "last_seen": "2026-11-26T05:30:26+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121327,7 +121364,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES70270083-894",
    "first_seen": "2026-11-25T10:50:19+00:00",
-   "last_seen": "2026-11-26T05:30:26+00:00",
+   "last_seen": "2026-11-26T08:40:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
