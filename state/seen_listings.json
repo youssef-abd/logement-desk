@@ -30874,6 +30874,48 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:apimo-87633144": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-26T03:50:21+00:00",
+   "last_seen": "2026-11-26T03:50:21+00:00",
+   "listing": {
+    "charges": 60,
+    "city": "lyon",
+    "description": "T3 de 62,66 m² avec Balcon en avant-dernier étage avec Ascenseur, Gare Part-Dieu, traversant, à proximité de toutes les commodités (Gare TGV, Métro, Tramway, Bus, Centre commercial Westfield...).\n\nSéjour ouvert sur Balcon, Cuisine meublée équipée (Plaque de cuisson, Hôte), 2 Chambres, Salle d' eau avec Douche, Toilettes, Cave.\n\nChauffage individuel électrique avec Radiateurs.\nDouble vitrage.\nDPE : E et C.\n\nLibre le 21/12/2026.\n\nZone soumise à l'encadrement des loyers :\nLoyer : 830 €/mois HC\nChar",
+    "district": "Lyon 3e",
+    "flags": [
+     "agency_fees",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": null,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/apimo-87633144_media.apimo.pro_cache_4c8e85c2ebb4d6796d138a70cdf24a91_519e5a8ed4_4032-original.jpg",
+     "https://file.bienici.com/photo/apimo-87633144_media.apimo.pro_cache_505addb1b2e6b72e2be0bb925d0f2c3e_0bc21b63fe_4032-original.jpg",
+     "https://file.bienici.com/photo/apimo-87633144_media.apimo.pro_cache_a77762900865370fcf27f2670f655083_fcdd1bbf37_4032-original.jpg",
+     "https://file.bienici.com/photo/apimo-87633144_media.apimo.pro_cache_22a14a0726774bd94c1c7bd11d04a803_d8ec8f7bfd_4032-original.jpg",
+     "https://file.bienici.com/photo/apimo-87633144_media.apimo.pro_cache_f1e83ed0a869c2a0a651ff1ad27c5d4d_9a04b4f38a_4032-original.jpg",
+     "https://file.bienici.com/photo/apimo-87633144_media.apimo.pro_cache_0859aff9f80be2da61b28caa6fa38c16_bd1144aba4_4032-original.jpg"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "CLCV Groupe Immobilier",
+    "published_at": "2026-11-26T02:58:28.106Z",
+    "rent_cc": 890,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "apimo-87633144",
+    "surface_m2": 62.66,
+    "tags": [],
+    "title": "T3 avec Balcon Gare Part-Dieu 69003 LYON",
+    "url": "https://www.bienici.com/annonce/apimo-87633144"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:apimo-87633573": {
    "also": [],
    "checked": "2026-11-26T02:00:38+00:00",
