@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T19:20:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 9,
+   "blocked_runs": 10,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T18:00:18+00:00",
    "last_error": "blocked",
@@ -54734,7 +54734,8 @@
   },
   "bienici:immo-facile-30372469": {
    "also": [
-    "leboncoin:3315645817"
+    "leboncoin:3315645817",
+    "paruvendu:1297967040"
    ],
    "checked": "2026-11-27T16:00:42+00:00",
    "dup_of": null,
@@ -66587,6 +66588,50 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:immo-facile-61802367": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T19:30:19+00:00",
+   "listing": {
+    "charges": 95.37,
+    "city": "lyon",
+    "description": "**Logement social PLS et soumis à des conditions de ressources.<br>Résidence , Avenue Berthelot à Lyon 8<br>T3  de 61 m² , dispose d'un séjour ouvert sur la cuisine non équipée donnant sur un balcon, de 2 chambres, un WC indépendant et d'une salle de bain.<br>Pas de stationnement disponible<br>Eau chaude Individuel , chauffage individuel  électrique.<br>Loyer CC : 654.59 €  dont 95.37 € de charges comprenant l'entretien des parties communes et l'eau froide.<br>Dépôt de garantie : 559 €<br>PAS DE",
+    "district": "Lyon 8e",
+    "flags": [
+     "agency_fees_no",
+     "charges_cc"
+    ],
+    "found_by": "bienici",
+    "furnished": null,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/immo-facile-61802367_media.immo-facile.com_office20_viahumanis_030723_catalog_images_pr_p_6_1_8_0_2_3_6_7_61802367a.jpg_DATEMAJ_27_11_2026-16_46_52",
+     "https://file.bienici.com/photo/immo-facile-61802367_media.immo-facile.com_office20_viahumanis_030723_catalog_images_pr_p_6_1_8_0_2_3_6_7_61802367b.jpg_DATEMAJ_27_11_2026-16_46_52",
+     "https://file.bienici.com/photo/immo-facile-61802367_media.immo-facile.com_office20_viahumanis_030723_catalog_images_pr_p_6_1_8_0_2_3_6_7_61802367c.jpg_DATEMAJ_27_11_2026-16_46_52",
+     "https://file.bienici.com/photo/immo-facile-61802367_media.immo-facile.com_office20_viahumanis_030723_catalog_images_pr_p_6_1_8_0_2_3_6_7_61802367d.jpg_DATEMAJ_27_11_2026-16_46_52",
+     "https://file.bienici.com/photo/immo-facile-61802367_media.immo-facile.com_office20_viahumanis_030723_catalog_images_pr_p_6_1_8_0_2_3_6_7_61802367e.jpg_DATEMAJ_27_11_2026-16_46_52",
+     "https://file.bienici.com/photo/immo-facile-61802367_media.immo-facile.com_office20_viahumanis_030723_catalog_images_pr_p_6_1_8_0_2_3_6_7_61802367f.jpg_DATEMAJ_27_11_2026-16_46_52"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "Via Humanis Immobilier Limonest",
+    "published_at": "2026-11-27T19:05:48.039Z",
+    "rent_cc": 654.59,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "immo-facile-61802367",
+    "surface_m2": 61,
+    "tags": [
+     "near-miss"
+    ],
+    "title": "Appartement 3 pièces de 61m2 à Lyon 8eme",
+    "url": "https://www.bienici.com/annonce/immo-facile-61802367"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:ladresse-1-adresse-14427644": {
    "also": [],
    "checked": "2026-11-26T09:00:44+00:00",
@@ -71827,7 +71872,8 @@
   },
   "bienici:netty-company56058ckb-appt-8327": {
    "also": [
-    "paruvendu:1297503654"
+    "paruvendu:1297503654",
+    "paruvendu:1297967027"
    ],
    "checked": "2026-11-27T19:00:40+00:00",
    "dup_of": null,
@@ -129514,7 +129560,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297921707A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297921717": {
    "also": [],
@@ -130704,7 +130750,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-47750692700060-GES19070020-746",
    "first_seen": "2026-11-27T10:40:19+00:00",
-   "last_seen": "2026-11-27T10:40:19+00:00",
+   "last_seen": "2026-11-27T19:30:19+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -130716,6 +130762,142 @@
    "last_seen": "2026-11-27T17:20:21+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297967027": {
+   "also": [],
+   "dup_of": "bienici:netty-company56058ckb-appt-8327",
+   "first_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T19:30:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297967029": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T19:30:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 4 599 € CC* Appartement 19 m 2 Lyon 3 1 pièce DPE : C 172 kWh/m².an 6 kg CO 2 /m².an Lyon 3, studio meublé de 19m², disponible de suite. Comprend une entrée, un séjour, kitchenette équipée, salle de douche, WC, double vitrage, dans un immeuble avec digicode. Proche de toutes commodités. LOC'A 48 annonces 27/11/2026 Voir Contacter",
+    "district": "Lyon 3e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/de/cb/L2JpZW5zLzM0Mjc2MDYyLzZiMDk0YjZmZDk2N2U_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/1d/92/L2JpZW5zLzM0Mjc2MDYyLzZiMDk0YjZkN2ZiZTE_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/ef/bb/L2JpZW5zLzM0Mjc2MDYyLzZiMDk0YjZlNjNkODg_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/a3/07/L2JpZW5zLzM0Mjc2MDYyLzZiMDk0YjZmMzgyNzk_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-27",
+    "rent_cc": 599,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297967029",
+    "surface_m2": 19.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 19 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297967029A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297967030": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T19:30:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 8 870 € CC* Appartement 59 m 2 Lyon 7 2 pièces 1 chambre DPE : D 190 kWh/m².an 31 kg CO 2 /m².an Lyon 7, F2 spacieux de 59 m² avec entrée, séjour, cuisine équipée, chambre, Sdb et WC. Double vitrage, chauffage individuel gaz, digicode. Proche de toutes commodités. Idéal pour un emménagement rapide. LOC'A 48 annonces 27/11/2026 Voir Contacter",
+    "district": "Lyon 7e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/0d/03/L2JpZW5zLzM0Mjc2MDU1LzZiMDk0N2JkOTBjMTk_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/4f/31/L2JpZW5zLzM0Mjc2MDU1LzZiMDk0N2JmZGEzZTk_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/b2/4c/L2JpZW5zLzM0Mjc2MDU1LzZiMDk0N2I5ZDNjY2M_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/49/70/L2JpZW5zLzM0Mjc2MDU1LzZiMDk0N2JiMTA0YmE_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/fc/ed/L2JpZW5zLzM0Mjc2MDU1LzZiMDk0N2JiYzZmN2Q_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/25/e7/L2JpZW5zLzM0Mjc2MDU1LzZiMDk0N2JjOGU0NGE_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-27",
+    "rent_cc": 870,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297967030",
+    "surface_m2": 59.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 59 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297967030A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297967040": {
+   "also": [],
+   "dup_of": "bienici:immo-facile-30372469",
+   "first_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T19:30:19+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297967041": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T19:30:19+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 3 955 € CC* Appartement 60 m 2 Lyon 5 3 pièces 2 chambres DPE : F 357 kWh/m².an 11 kg CO 2 /m².an Lyon 5, f3 à louer. Comprenant entrée, séjour, cuisine aménagée, 2 chambres, sdb, wc, interphone, double vitrage. Situé au 1er étage avec une surface habitable de 60 m². Idéal pour un cadre de vie confortable. LOC'A 48 annonces 27/11/2026 Voir Contacter",
+    "district": "Lyon 5e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": null,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/fe/9e/L2JpZW5zLzM0Mjc2MTEzLzZiMDk1NTczODcyZDM_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/7b/c9/L2JpZW5zLzM0Mjc2MTEzLzZiMDk1NTc0MmVlZjg_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/c2/22/L2JpZW5zLzM0Mjc2MTEzLzZiMDk1NTc1NTIxZDc_MjAyNjExMjcyMDE5NDc_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-27",
+    "rent_cc": 955,
+    "rooms": 3,
+    "source": "paruvendu",
+    "source_id": "1297967041",
+    "surface_m2": 60.0,
+    "tags": [],
+    "title": "Appartement - 3 pièce(s) - 60 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297967041A1KILHAP000"
+   },
+   "notified": false,
    "status": "active"
   },
   "paruvendu:1297969304": {
@@ -130731,7 +130913,7 @@
    "also": [],
    "dup_of": "bienici:ics-tar_TARGE_loc-GES03830248-807",
    "first_seen": "2026-11-27T13:50:24+00:00",
-   "last_seen": "2026-11-27T13:50:24+00:00",
+   "last_seen": "2026-11-27T19:30:19+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
