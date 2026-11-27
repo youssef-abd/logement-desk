@@ -5,7 +5,7 @@
    "consecutive_failures": 0,
    "cooldown_until": null,
    "last_error": null,
-   "last_success": "2026-11-27T19:00:40+00:00"
+   "last_success": "2026-11-27T22:10:20+00:00"
   },
   "foncia": {
    "blocked_runs": 0,
@@ -51,9 +51,9 @@
   },
   "paruvendu": {
    "blocked_runs": 0,
-   "consecutive_failures": 1,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "HTTPError",
+   "last_error": null,
    "last_success": "2026-11-27T19:10:21+00:00"
   },
   "studapart": {
@@ -42874,7 +42874,7 @@
    "also": [],
    "dup_of": "paruvendu:1297834552",
    "first_seen": "2026-11-27T15:50:24+00:00",
-   "last_seen": "2026-11-27T19:00:40+00:00",
+   "last_seen": "2026-11-27T22:10:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -43292,7 +43292,7 @@
    "checked": "2026-11-27T16:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T15:50:24+00:00",
-   "last_seen": "2026-11-27T19:00:40+00:00",
+   "last_seen": "2026-11-27T22:10:20+00:00",
    "listing": {
     "charges": 170,
     "city": "lyon",
@@ -66640,7 +66640,7 @@
    "checked": "2026-11-27T16:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T15:50:24+00:00",
-   "last_seen": "2026-11-27T19:00:40+00:00",
+   "last_seen": "2026-11-27T22:10:20+00:00",
    "listing": {
     "charges": 164,
     "city": "lyon",
@@ -74881,7 +74881,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:20:21+00:00",
-   "last_seen": "2026-11-27T19:00:40+00:00",
+   "last_seen": "2026-11-27T22:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75101,7 +75101,7 @@
    "checked": "2026-11-27T12:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T11:00:44+00:00",
-   "last_seen": "2026-11-27T19:00:40+00:00",
+   "last_seen": "2026-11-27T22:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75616,7 +75616,7 @@
    "also": [],
    "dup_of": "bienici:ics-rci_RCI_loc-GES70870028-375",
    "first_seen": "2026-11-25T11:00:44+00:00",
-   "last_seen": "2026-11-27T19:00:40+00:00",
+   "last_seen": "2026-11-27T22:10:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -75804,7 +75804,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T16:20:21+00:00",
-   "last_seen": "2026-11-27T19:00:40+00:00",
+   "last_seen": "2026-11-27T22:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
