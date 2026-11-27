@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T10:00:43+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 7,
+   "blocked_runs": 8,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T11:20:44+00:00",
    "last_error": "blocked",
@@ -8901,6 +8901,47 @@
     "tags": [],
     "title": "F3 - 14 AVENUE JEAN JAURES LYON 7",
     "url": "https://www.bienici.com/annonce/ag690049-562678397"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:ag690049-563135261": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T12:40:17+00:00",
+   "listing": {
+    "charges": 65,
+    "city": "lyon",
+    "description": "F2, au 2e étage sans ascenseur, entièrement refait à neuf en 2023, se composant d'un hall d'entrée, un séjour, une cuisine équipée de meubles, d'une plaque vitrocéramique et une hotte, une chambre avec placards et cheminée décorative, une salle d'eau, un espace rangement et un wc.\nLe sol est en parquets et lino.\nLe chauffage et l'eau chaude sont assurés par une chaudière au gaz avec thermostat et les fenêtres sont à double vitrage.\nL'eau est comprise dans les charges avec régularisations en fin ",
+    "district": "Lyon 3e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag690049-563135261_photos.ubiflow.net_690049_563135261_photos_1.jpg_INSOON_EB_5512801818_20261127113227",
+     "https://file.bienici.com/photo/ag690049-563135261_photos.ubiflow.net_690049_563135261_photos_2.jpg_INSOON_EB_5512801818_20261127113227",
+     "https://file.bienici.com/photo/ag690049-563135261_photos.ubiflow.net_690049_563135261_photos_3.jpg_INSOON_EB_5512801818_20261127113227",
+     "https://file.bienici.com/photo/ag690049-563135261_photos.ubiflow.net_690049_563135261_photos_4.jpg_INSOON_EB_5512801818_20261127113227",
+     "https://file.bienici.com/photo/ag690049-563135261_photos.ubiflow.net_690049_563135261_photos_5.jpg_INSOON_EB_5512801818_20261127113227",
+     "https://file.bienici.com/photo/ag690049-563135261_photos.ubiflow.net_690049_563135261_photos_6.jpg_INSOON_EB_5512801818_20261127113227"
+    ],
+    "postal_code": "69003",
+    "poster": "agence",
+    "poster_name": "Regie Janin",
+    "published_at": "2026-11-27T11:44:21.103Z",
+    "rent_cc": 978,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag690049-563135261",
+    "surface_m2": 54,
+    "tags": [],
+    "title": "F2-50 RUE PAUL BERT-LYON 3-BON ETAT",
+    "url": "https://www.bienici.com/annonce/ag690049-563135261"
    },
    "notified": false,
    "status": "active"
@@ -46076,6 +46117,45 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:hektor-immo7-transaction-1575": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T12:40:17+00:00",
+   "listing": {
+    "charges": 90,
+    "city": "lyon",
+    "description": "Secteur Jean-Macé,<br> Vous allez aimer :<br> - l'emplacement idéal à proximité des transports (lignes TCL 34, 60, TER, métro B, Tram T2)<br> - le séjour spacieux et lumineux - la grande chambre de 13.60 m2<br> - les belles hauteurs sous plafond<br> - la cuisine équipée (lave-vaisselle, lave-linge, four...)<br> - les nombreux rangements<br> - les charges all inclusives : tout compris<br> - louer en toute sérénité avec IMMO7, au service de votre immobilier depuis 25 ans<br> Loyer : 790EUR + 90EUR",
+    "district": "Lyon 7e",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/hektor-immo7-transaction-1575_immo-7-transactions.staticlbi.com_original_images_biens_1_86d06821d8efb215661e0f656f054b0a_c7376f9d05fcd69dd898ba42401d4769.jpg",
+     "https://file.bienici.com/photo/hektor-immo7-transaction-1575_immo-7-transactions.staticlbi.com_original_images_biens_1_86d06821d8efb215661e0f656f054b0a_ff32923392c0615213d678aa70de247b.jpg",
+     "https://file.bienici.com/photo/hektor-immo7-transaction-1575_immo-7-transactions.staticlbi.com_original_images_biens_1_86d06821d8efb215661e0f656f054b0a_5a961b9aaf7b5c478673185be2b7d75f.jpg",
+     "https://file.bienici.com/photo/hektor-immo7-transaction-1575_immo-7-transactions.staticlbi.com_original_images_biens_1_86d06821d8efb215661e0f656f054b0a_cfe0be49de022555771691fd1b40f5c6.jpg",
+     "https://file.bienici.com/photo/hektor-immo7-transaction-1575_immo-7-transactions.staticlbi.com_original_images_biens_1_86d06821d8efb215661e0f656f054b0a_a05c727882c1f4b8399b2ae13ede6769.jpg",
+     "https://file.bienici.com/photo/hektor-immo7-transaction-1575_immo-7-transactions.staticlbi.com_original_images_biens_1_86d06821d8efb215661e0f656f054b0a_6c7bd9711bbdb6607160d17573c7eef1.jpg"
+    ],
+    "postal_code": "69007",
+    "poster": "agence",
+    "poster_name": "Immo 7 Transactions Brignais",
+    "published_at": "2026-11-27T11:42:08.442Z",
+    "rent_cc": 880,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "hektor-immo7-transaction-1575",
+    "surface_m2": 49.55,
+    "tags": [],
+    "title": "T2 MEUBLE A LOUER ENTRE JEAN MACE ET GERLAND",
+    "url": "https://www.bienici.com/annonce/hektor-immo7-transaction-1575"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:hektor-immo7-transaction-672": {
    "also": [],
    "checked": "2026-11-26T06:00:46+00:00",
@@ -65786,6 +65866,48 @@
    "notified": true,
    "status": "active"
   },
+  "bienici:immo-facile-61800956": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T12:40:17+00:00",
+   "listing": {
+    "charges": 38,
+    "city": "lyon",
+    "description": "Au coeur du très prisé quartier Saint-Georges, dans le Vieux Lyon, ce grand studio de 35m² offre une adresse rare et recherchée, à quelques pas de la Presqu'île et de l'ensemble des commodités.<br>À l'abri de l'agitation, entièrement tourné sur cour, l'appartement bénéficie d'un calme particulièrement appréciable en plein coeur de la ville. Sa belle volumétrie permet une organisation fluide et fonctionnelle, avec un espace naturellement dédié au couchage, offrant ainsi une véritable sensation de",
+    "district": "Lyon 5e",
+    "flags": [
+     "agency_fees",
+     "charges_hc"
+    ],
+    "found_by": "bienici",
+    "furnished": null,
+    "kind": "studio",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/immo-facile-61800956_media.immo-facile.com_office24_espaces_atypiques-lyon_catalog_images_pr_web_6_1_8_0_0_9_5_6_61800956a.jpg_DATEMAJ_27_11_2026-11_53_09",
+     "https://file.bienici.com/photo/immo-facile-61800956_media.immo-facile.com_office24_espaces_atypiques-lyon_catalog_images_pr_web_6_1_8_0_0_9_5_6_61800956b.jpg_DATEMAJ_27_11_2026-11_53_09",
+     "https://file.bienici.com/photo/immo-facile-61800956_media.immo-facile.com_office24_espaces_atypiques-lyon_catalog_images_pr_web_6_1_8_0_0_9_5_6_61800956c.jpg_DATEMAJ_27_11_2026-11_53_09",
+     "https://file.bienici.com/photo/immo-facile-61800956_media.immo-facile.com_office24_espaces_atypiques-lyon_catalog_images_pr_web_6_1_8_0_0_9_5_6_61800956d.jpg_DATEMAJ_27_11_2026-11_53_09",
+     "https://file.bienici.com/photo/immo-facile-61800956_media.immo-facile.com_office24_espaces_atypiques-lyon_catalog_images_pr_web_6_1_8_0_0_9_5_6_61800956e.jpg_DATEMAJ_27_11_2026-11_53_09",
+     "https://file.bienici.com/photo/immo-facile-61800956_media.immo-facile.com_office24_espaces_atypiques-lyon_catalog_images_pr_web_6_1_8_0_0_9_5_6_61800956f.jpg_DATEMAJ_27_11_2026-11_53_09"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "poster_name": "ESPACES ATYPIQUES Lyon Sarrail",
+    "published_at": "2026-11-27T12:36:59.435Z",
+    "rent_cc": 850,
+    "rooms": 1,
+    "source": "bienici",
+    "source_id": "immo-facile-61800956",
+    "surface_m2": 35.38,
+    "tags": [],
+    "title": "Grand studio rénové au coeur de Saint-Georges",
+    "url": "https://www.bienici.com/annonce/immo-facile-61800956"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:ladresse-1-adresse-14427644": {
    "also": [],
    "checked": "2026-11-26T09:00:44+00:00",
@@ -68676,6 +68798,47 @@
     "tags": [],
     "title": "T2 avec terrasse et parking",
     "url": "https://www.bienici.com/annonce/netty-bumper-appt-3968"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:netty-bumper-appt-3976": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T12:40:17+00:00",
+   "listing": {
+    "charges": 145,
+    "city": "lyon",
+    "description": "Bumper vous propose un appartement T3 meublé bénéficiant de la climatisation situé sur les hauteur de Vaise quand un quartier résidentiel calme, relié à la gare de Vaise en 5mn via plusieurs lignes de bus. <br>L'appartement se compose d'un hall d'entrée desservant : <br>- une grande pièce de vie donnant sur un balcon avec une belle vue sur Lyon et comprenant un grand espace cuisine, <br>- deux chambres, <br>- une salle d'eau, <br>- un WC<br>Stationnement libre et sécurisé au sein de la résidence",
+    "district": "Lyon 9e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/netty-bumper-appt-3976_img.netty.immo_product_bumper_LA3976_1795764976_LA3976_3_original.jpg",
+     "https://file.bienici.com/photo/netty-bumper-appt-3976_img.netty.immo_product_bumper_LA3976_1795764975_LA3976_2_original.jpg",
+     "https://file.bienici.com/photo/netty-bumper-appt-3976_img.netty.immo_product_bumper_LA3976_1795764993_LA3976_5_original.jpg",
+     "https://file.bienici.com/photo/netty-bumper-appt-3976_img.netty.immo_product_bumper_LA3976_1795764995_LA3976_6_original.jpg",
+     "https://file.bienici.com/photo/netty-bumper-appt-3976_img.netty.immo_product_bumper_LA3976_1795764973_LA3976_1_original.jpg",
+     "https://file.bienici.com/photo/netty-bumper-appt-3976_img.netty.immo_product_bumper_LA3976_1795765006_LA3976_7_original.jpg"
+    ],
+    "postal_code": "69009",
+    "poster": "agence",
+    "poster_name": "Bumper Transactions",
+    "published_at": "2026-11-27T12:25:52.810Z",
+    "rent_cc": 1145,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "netty-bumper-appt-3976",
+    "surface_m2": 68.67,
+    "tags": [],
+    "title": "T3 meublé climatisé avec stationnement",
+    "url": "https://www.bienici.com/annonce/netty-bumper-appt-3976"
    },
    "notified": false,
    "status": "active"
@@ -79868,6 +80031,44 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:1izxxm": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T12:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 110 m². Disponible dès 2026-12-19",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-3fa63ece651216a1bb8f5f396ec41865/6562264/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 630,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "1izxxm",
+    "surface_m2": 110,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 110 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/1izxxm"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:1ke71y": {
    "also": [],
    "checked": "2026-11-25T17:01:04+00:00",
@@ -80397,6 +80598,42 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:2riwgw": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T12:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 130 m². Disponible dès 2026-12-19",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-52057fd6fb00dca09b30dd9df82a8939/6562074/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 895,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "2riwgw",
+    "surface_m2": 130,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 5 pièces de 130 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/2riwgw"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:2tigrv": {
    "also": [],
@@ -84599,6 +84836,42 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:aj8dpw": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T12:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 90 m². Disponible dès 2026-12-22",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-bb9fbf0ca732f4f1d7146903d582bbf0/6562089/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 790,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "aj8dpw",
+    "surface_m2": 90,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 4 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/aj8dpw"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:ajya3d": {
    "also": [],
    "checked": "2026-11-25T09:00:53+00:00",
@@ -84674,6 +84947,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:au14g4": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T12:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 70 m². Disponible dès 2026-12-19",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-909984b8f6952a2155e45e3770ce7b88/6562299/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 575,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "au14g4",
+    "surface_m2": 70,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 70 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/au14g4"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:b29a0y": {
    "also": [],
@@ -86165,6 +86475,42 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:dqzgmx": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T12:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 130 m². Disponible dès 2026-12-22",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-7023ba33eb5d263965450458ab87db5c/6562159/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 715,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "dqzgmx",
+    "surface_m2": 130,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 4 pièces de 130 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/dqzgmx"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:e0fmzl": {
    "also": [],
@@ -89072,6 +89418,42 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:l11j7v": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T12:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 7 pièces de 190 m². Disponible dès 2026-12-01",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-47fbf7dad311dea1152cc8efdd23fd13/6562058/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 935,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "l11j7v",
+    "surface_m2": 190,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 7 pièces de 190 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/l11j7v"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:l1rqz5": {
    "also": [],
    "checked": "2026-11-25T09:00:53+00:00",
@@ -91645,6 +92027,42 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:ri3f8w": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T12:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 130 m². Disponible dès 2026-12-18",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-8aa8af7cb0708ca39dca34f575a3ff49/6562030/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 950,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "ri3f8w",
+    "surface_m2": 130,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 5 pièces de 130 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ri3f8w"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:rj5gij": {
    "also": [],
    "checked": "2026-11-27T11:00:44+00:00",
@@ -93389,6 +93807,44 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:uxfe29": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T12:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 100 m². Disponible dès 2026-12-24",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-3b75a712920ceb3600ce2066d06d5d7b/6562275/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 625,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "uxfe29",
+    "surface_m2": 100,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/uxfe29"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:uxqpiw": {
    "also": [],
