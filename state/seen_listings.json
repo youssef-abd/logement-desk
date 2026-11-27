@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T00:50:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 7,
+   "blocked_runs": 8,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T00:10:16+00:00",
    "last_error": "blocked",
@@ -5990,7 +5990,7 @@
    "checked": "2026-11-26T23:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T22:20:17+00:00",
-   "last_seen": "2026-11-26T22:20:17+00:00",
+   "last_seen": "2026-11-27T01:20:20+00:00",
    "listing": {
     "charges": 36,
     "city": "lyon",
@@ -6030,7 +6030,7 @@
    "checked": "2026-11-26T23:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T22:20:17+00:00",
-   "last_seen": "2026-11-26T22:20:17+00:00",
+   "last_seen": "2026-11-27T01:20:20+00:00",
    "listing": {
     "charges": 50,
     "city": "lyon",
@@ -6070,7 +6070,7 @@
    "checked": "2026-11-26T23:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T22:20:17+00:00",
-   "last_seen": "2026-11-26T22:20:17+00:00",
+   "last_seen": "2026-11-27T01:20:20+00:00",
    "listing": {
     "charges": 12,
     "city": "lyon",
@@ -6107,7 +6107,7 @@
    "checked": "2026-11-26T23:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T22:20:17+00:00",
-   "last_seen": "2026-11-26T22:20:17+00:00",
+   "last_seen": "2026-11-27T01:20:20+00:00",
    "listing": {
     "charges": 110,
     "city": "lyon",
@@ -75521,8 +75521,7 @@
    "checked": "2026-11-26T02:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T01:20:21+00:00",
-   "gone": "2026-11-26T02:00:38+00:00",
-   "last_seen": "2026-11-26T01:20:29+00:00",
+   "last_seen": "2026-11-27T01:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75557,15 +75556,14 @@
     "url": "https://www.immojeune.com/colocation/lyon-07-69/chambre-dans-une-colocation-de-74m-a-lyon-07_4060418.html"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "immojeune:4060419": {
    "also": [],
    "checked": "2026-11-26T02:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T01:20:21+00:00",
-   "gone": "2026-11-26T02:00:38+00:00",
-   "last_seen": "2026-11-26T01:20:29+00:00",
+   "last_seen": "2026-11-27T01:20:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75600,7 +75598,7 @@
     "url": "https://www.immojeune.com/colocation/lyon-07-69/chambre-dans-une-colocation-de-91m-a-lyon-07_4060419.html"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "immojeune:4062211": {
    "also": [],
