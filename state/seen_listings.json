@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T22:20:20+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
+   "blocked_runs": 1,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T22:20:31+00:00",
    "last_error": "blocked",
@@ -66682,7 +66682,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T19:30:19+00:00",
-   "last_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T22:30:21+00:00",
    "listing": {
     "charges": 95.37,
     "city": "lyon",
@@ -93163,7 +93163,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/pmwwvd"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:q6dwn1": {
    "also": [],
@@ -97520,9 +97520,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-21T12:16:06+00:00",
+   "last_seen": "2026-11-27T22:30:21+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 5 pièces de 86 m². Disponible dès 2026-12-01",
     "district": "Lyon",
     "flags": [],
@@ -97549,7 +97550,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ynqu1q"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:ynwt7i": {
    "also": [],
@@ -122557,7 +122558,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297143268A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297143335": {
    "also": [],
@@ -130914,7 +130915,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-47750692700060-GES19070020-746",
    "first_seen": "2026-11-27T10:40:19+00:00",
-   "last_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T22:30:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -130932,7 +130933,7 @@
    "also": [],
    "dup_of": "bienici:netty-company56058ckb-appt-8327",
    "first_seen": "2026-11-27T19:30:19+00:00",
-   "last_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T22:30:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -130942,7 +130943,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T19:30:19+00:00",
-   "last_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T22:30:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -130982,7 +130983,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T19:30:19+00:00",
-   "last_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T22:30:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -131023,7 +131024,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-30372469",
    "first_seen": "2026-11-27T19:30:19+00:00",
-   "last_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T22:30:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -131033,7 +131034,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T19:30:19+00:00",
-   "last_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T22:30:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -131080,7 +131081,7 @@
    "also": [],
    "dup_of": "bienici:ics-tar_TARGE_loc-GES03830248-807",
    "first_seen": "2026-11-27T13:50:24+00:00",
-   "last_seen": "2026-11-27T19:30:19+00:00",
+   "last_seen": "2026-11-27T22:30:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
