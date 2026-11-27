@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T13:10:32+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 10,
+   "blocked_runs": 11,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T13:40:18+00:00",
    "last_error": "blocked",
@@ -86104,7 +86104,7 @@
    "checked": "2026-11-27T09:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T09:00:40+00:00",
-   "last_seen": "2026-11-27T12:10:24+00:00",
+   "last_seen": "2026-11-27T15:20:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -86713,7 +86713,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T09:10:26+00:00",
-   "last_seen": "2026-11-27T12:20:21+00:00",
+   "last_seen": "2026-11-27T15:20:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -86791,7 +86791,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T09:10:26+00:00",
-   "last_seen": "2026-11-27T12:20:21+00:00",
+   "last_seen": "2026-11-27T15:20:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -88344,7 +88344,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T09:10:26+00:00",
-   "last_seen": "2026-11-27T12:20:21+00:00",
+   "last_seen": "2026-11-27T15:20:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -120752,7 +120752,7 @@
    "also": [],
    "dup_of": "bienici:ag692481-550434092",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T12:10:24+00:00",
+   "last_seen": "2026-11-27T15:20:25+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -127578,7 +127578,7 @@
    "checked": "2026-11-27T01:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-27T12:10:24+00:00",
+   "last_seen": "2026-11-27T15:20:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -128020,7 +128020,7 @@
    "checked": "2026-11-27T12:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T10:20:22+00:00",
-   "last_seen": "2026-11-27T12:10:24+00:00",
+   "last_seen": "2026-11-27T15:20:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -128062,7 +128062,7 @@
    "checked": "2026-11-27T12:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T10:20:22+00:00",
-   "last_seen": "2026-11-27T12:10:24+00:00",
+   "last_seen": "2026-11-27T15:20:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -128150,7 +128150,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES70270083-894",
    "first_seen": "2026-11-25T10:50:19+00:00",
-   "last_seen": "2026-11-27T12:20:21+00:00",
+   "last_seen": "2026-11-27T15:20:25+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -128890,7 +128890,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES59340254-171",
    "first_seen": "2026-11-26T11:20:20+00:00",
-   "last_seen": "2026-11-27T12:10:24+00:00",
+   "last_seen": "2026-11-27T15:20:25+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -129592,6 +129592,46 @@
    "last_seen": "2026-11-27T13:50:24+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297978184": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T15:20:25+00:00",
+   "last_seen": "2026-11-27T15:20:25+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 5 980 € CC* Appartement 36 m 2 Lyon 5 2 pièces 1 chambre DPE : E 311 kWh/m².an 12 kg CO 2 /m².an Saint georges f2 meublé. 980€ cc / mois - a visiter rapidement !! situé dans le secteur saint georges dans lyon 5ème . cet appartement f2 meublé disponible de suite, est composé d'une entrée, un séjour, une cuisine équipée, une chambre,... LOC'A 48 annonces 27/11/2026 Voir Contacter",
+    "district": "Lyon 5e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/02/8c/L2JpZW5zLzM0Mjc3MzQyLzZiMDk5N2JkY2U0YzA_MjAyNjExMjcxNjA2MDY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/8b/ce/L2JpZW5zLzM0Mjc3MzQyLzZiMDk5N2JmMGM3M2U_MjAyNjExMjcxNjA2MDY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/54/6b/L2JpZW5zLzM0Mjc3MzQyLzZiMDk5N2MwMWY1YjA_MjAyNjExMjcxNjA2MDY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/65/0a/L2JpZW5zLzM0Mjc3MzQyLzZiMDk5N2MyMDViZjU_MjAyNjExMjcxNjA2MDY_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/8f/d4/L2JpZW5zLzM0Mjc3MzQyLzZiMDk5N2MxMjA2MzQ_MjAyNjExMjcxNjA2MDY_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "poster_name": "LOC'A",
+    "published_at": "2026-11-27",
+    "rent_cc": 980,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297978184",
+    "surface_m2": 36.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 36 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297978184A1KILHAP000"
+   },
+   "notified": false,
    "status": "active"
   },
   "studapart:08e20664-7672-4ba4-a8f9-e4fc4b6e0c38": {
