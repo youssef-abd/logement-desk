@@ -29,7 +29,7 @@
    "last_success": "2026-11-26T21:50:17+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
+   "blocked_runs": 4,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T00:10:16+00:00",
    "last_error": "blocked",
@@ -83890,7 +83890,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/a9r88x"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:afinnx": {
    "also": [],
@@ -85108,7 +85108,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/dbpqz0"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:dgnm13": {
    "also": [],
@@ -85223,7 +85223,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/dl5cll"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:dq41sz": {
    "also": [],
@@ -86243,7 +86243,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/fxgw67"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:g4yp4k": {
    "also": [],
@@ -90555,7 +90555,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/rjavw5"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:rkw9aq": {
    "also": [],
@@ -94149,7 +94149,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/ywko98"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:z126qw": {
    "also": [],
@@ -94677,7 +94677,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/zyz7ru"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:zzbrs6": {
    "also": [],
