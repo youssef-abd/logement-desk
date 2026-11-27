@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T16:20:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T15:50:19+00:00",
    "last_error": "blocked",
@@ -80133,6 +80133,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:0n89sm": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T16:40:18+00:00",
+   "last_seen": "2026-11-27T16:40:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 75 m². Disponible dès 2026-12-20",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-a481380009d69cd99a53e1e5fe413e87/6561250/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 539,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "0n89sm",
+    "surface_m2": 75,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 75 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/0n89sm"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:0oc1h0": {
    "also": [],
    "dup_of": null,
@@ -88469,7 +88506,7 @@
    "checked": "2026-11-27T09:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T11:40:18+00:00",
-   "last_seen": "2026-11-27T07:50:30+00:00",
+   "last_seen": "2026-11-27T16:40:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -94291,6 +94328,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:szgdhq": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T16:40:18+00:00",
+   "last_seen": "2026-11-27T16:40:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 70 m². Disponible dès 2026-12-01",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-c20dbc53aaf776df58e1c0a5720661d5/6561216/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 501,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "szgdhq",
+    "surface_m2": 70,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 70 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/szgdhq"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:t186e0": {
    "also": [],
@@ -130247,6 +130321,47 @@
     "tags": [],
     "title": "Appartement - 2 pièce(s) - 36 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297978184A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297978629": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T16:40:18+00:00",
+   "last_seen": "2026-11-27T16:40:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau Voir d'autres photos 7 920 € CC* Appartement 38 m 2 Lyon 1 2 pièces 1 chambre T2 sur les pentes croix rousse 69001 lyon. t3 entièrement meublé et équipé libre de suite. il comprend une entrée, salle de douche italienne, 1 grande chambre et un salon ouvert sur la cuisine équipée. canapé, écran plat, lit 140, beaucoup de... Particulier 27/11/2026 Voir Contacter",
+    "district": "Lyon 1er",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/c4/73/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjM4MTg5XzEuanBlZz8yMDI2MTEyNzE3MzIwOA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/49/3e/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjM4MTg5XzIuanBlZz8yMDI2MTEyNzE3MzIwOA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/30/4b/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjM4MTg5XzMuanBlZz8yMDI2MTEyNzE3MzIwOA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/6d/ed/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjM4MTg5XzQuanBlZz8yMDI2MTEyNzE3MzIwOA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/5f/f5/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjM4MTg5XzUuanBlZz8yMDI2MTEyNzE3MzIwOA_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/36/2f/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjM4MTg5XzYuanBlZz8yMDI2MTEyNzE3MzIwOA_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69001",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-27",
+    "rent_cc": 920,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297978629",
+    "surface_m2": 38.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 38 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297978629A1KILHAP000"
    },
    "notified": false,
    "status": "active"
