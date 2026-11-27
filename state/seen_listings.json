@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T16:20:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 10,
+   "blocked_runs": 11,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T15:50:19+00:00",
    "last_error": "blocked",
@@ -85097,6 +85097,44 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:9d4nbz": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T17:30:20+00:00",
+   "last_seen": "2026-11-27T17:30:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 85 m². Disponible dès 2026-12-18",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-82f8465bb9fcb5f6ecb7e914efaf537c/6635266/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 680,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "9d4nbz",
+    "surface_m2": 85,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 85 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/9d4nbz"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:9edpy7": {
    "also": [],
