@@ -88107,7 +88107,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/kyz364"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:l1rqz5": {
    "also": [],
@@ -124865,7 +124865,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES79000051-171",
    "first_seen": "2026-11-24T13:10:29+00:00",
-   "last_seen": "2026-11-27T01:00:38+00:00",
+   "last_seen": "2026-11-27T04:30:30+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
