@@ -16,9 +16,9 @@
   },
   "immojeune": {
    "blocked_runs": 0,
-   "consecutive_failures": 0,
+   "consecutive_failures": 1,
    "cooldown_until": null,
-   "last_error": null,
+   "last_error": "TimeoutError",
    "last_success": "2026-11-27T07:00:39+00:00"
   },
   "lacartedescolocs": {
@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T07:00:39+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 8,
+   "blocked_runs": 9,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T07:00:21+00:00",
    "last_error": "blocked",
@@ -80995,7 +80995,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/4i2dcx"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:4jmf61": {
    "also": [],
@@ -84937,6 +84937,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:c3fca9": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T08:20:25+00:00",
+   "last_seen": "2026-11-27T08:20:25+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 70 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-11d48b0a1c649fa39f4f56a7713e58b2/6489432/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 450,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "c3fca9",
+    "surface_m2": 70,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 70 m²",
+    "url": "https://www.lacartedescolocs.fr/sous-locations/fr/auvergne-rhone-alpes/lyon/a/c3fca9"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:c7kbr8": {
    "also": [],
@@ -90157,7 +90194,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/oi7zhw"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:ojy1c0": {
    "also": [],
