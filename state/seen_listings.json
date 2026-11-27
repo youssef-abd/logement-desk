@@ -8128,7 +8128,7 @@
    "checked": "2026-11-27T12:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T11:40:19+00:00",
-   "last_seen": "2026-11-27T14:40:27+00:00",
+   "last_seen": "2026-11-27T17:50:20+00:00",
    "listing": {
     "charges": 159,
     "city": "lyon",
@@ -8167,7 +8167,7 @@
    "checked": "2026-11-27T12:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T11:40:19+00:00",
-   "last_seen": "2026-11-27T14:40:27+00:00",
+   "last_seen": "2026-11-27T17:50:20+00:00",
    "listing": {
     "charges": 90,
     "city": "lyon",
@@ -82832,7 +82832,7 @@
     "url": "https://www.lacartedescolocs.fr/chambres-chez-l-habitant/fr/auvergne-rhone-alpes/lyon/a/59r13a"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:5arv0n": {
    "also": [],
@@ -96877,7 +96877,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/xu8f22"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:xuxju7": {
    "also": [],
@@ -119410,7 +119410,7 @@
    "checked": "2026-11-27T03:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:00:39+00:00",
-   "last_seen": "2026-11-27T14:50:20+00:00",
+   "last_seen": "2026-11-27T17:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -120615,7 +120615,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-47750692700060-GES21680013-746",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T14:50:20+00:00",
+   "last_seen": "2026-11-27T17:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -126204,7 +126204,7 @@
    "checked": "2026-11-27T08:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T11:00:54+00:00",
-   "last_seen": "2026-11-27T14:50:20+00:00",
+   "last_seen": "2026-11-27T17:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -126751,7 +126751,7 @@
    "checked": "2026-11-27T15:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
-   "last_seen": "2026-11-27T14:50:20+00:00",
+   "last_seen": "2026-11-27T17:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -127362,7 +127362,7 @@
    "also": [],
    "dup_of": "bienici:hektor-espacesetlieux-262",
    "first_seen": "2026-11-24T02:00:38+00:00",
-   "last_seen": "2026-11-27T14:50:20+00:00",
+   "last_seen": "2026-11-27T17:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -127422,7 +127422,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-61734050",
    "first_seen": "2026-11-24T06:00:43+00:00",
-   "last_seen": "2026-11-27T14:50:20+00:00",
+   "last_seen": "2026-11-27T17:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -127432,7 +127432,7 @@
    "checked": "2026-11-27T01:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T06:00:43+00:00",
-   "last_seen": "2026-11-27T14:50:20+00:00",
+   "last_seen": "2026-11-27T17:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -129099,7 +129099,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES41100010-171",
    "first_seen": "2026-11-25T19:20:20+00:00",
-   "last_seen": "2026-11-27T14:50:20+00:00",
+   "last_seen": "2026-11-27T17:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -129150,7 +129150,7 @@
    "checked": "2026-11-27T15:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T13:00:46+00:00",
-   "last_seen": "2026-11-27T14:50:20+00:00",
+   "last_seen": "2026-11-27T17:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
