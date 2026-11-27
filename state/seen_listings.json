@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T00:50:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 4,
+   "blocked_runs": 5,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T02:20:39+00:00",
    "last_error": "blocked",
@@ -51,9 +51,9 @@
   },
   "paruvendu": {
    "blocked_runs": 0,
-   "consecutive_failures": 1,
+   "consecutive_failures": 0,
    "cooldown_until": null,
-   "last_error": "HTTPError",
+   "last_error": null,
    "last_success": "2026-11-27T00:30:18+00:00"
   },
   "studapart": {
@@ -11300,7 +11300,7 @@
    "checked": "2026-11-26T18:00:45+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T18:00:45+00:00",
-   "last_seen": "2026-11-27T00:10:18+00:00",
+   "last_seen": "2026-11-27T03:10:20+00:00",
    "listing": {
     "charges": 92,
     "city": "lyon",
@@ -79818,7 +79818,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/23h7pc"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:2bhy5j": {
    "also": [],
@@ -83530,7 +83530,7 @@
    "checked": "2026-11-26T19:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T18:10:16+00:00",
-   "last_seen": "2026-11-27T00:10:18+00:00",
+   "last_seen": "2026-11-27T03:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -84290,7 +84290,7 @@
    "checked": "2026-11-26T22:00:32+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T15:00:21+00:00",
-   "last_seen": "2026-11-27T00:10:18+00:00",
+   "last_seen": "2026-11-27T03:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85737,7 +85737,7 @@
    "checked": "2026-11-26T17:00:30+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:50:19+00:00",
-   "last_seen": "2026-11-27T00:00:55+00:00",
+   "last_seen": "2026-11-27T03:10:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -125706,7 +125706,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES70270083-894",
    "first_seen": "2026-11-25T10:50:19+00:00",
-   "last_seen": "2026-11-27T00:10:18+00:00",
+   "last_seen": "2026-11-27T03:10:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
