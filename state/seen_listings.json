@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T10:00:43+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 10,
+   "blocked_runs": 11,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T09:10:19+00:00",
    "last_error": "blocked",
@@ -74924,7 +74924,7 @@
    "checked": "2026-11-27T02:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T22:01:56+00:00",
-   "last_seen": "2026-11-27T07:40:21+00:00",
+   "last_seen": "2026-11-27T10:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75302,7 +75302,7 @@
    "checked": "2026-11-27T02:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T22:01:56+00:00",
-   "last_seen": "2026-11-27T07:40:21+00:00",
+   "last_seen": "2026-11-27T10:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -88458,7 +88458,7 @@
    "checked": "2026-11-27T05:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T04:40:18+00:00",
-   "last_seen": "2026-11-27T07:40:21+00:00",
+   "last_seen": "2026-11-27T10:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -127578,7 +127578,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES43100013-894",
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-27T07:40:21+00:00",
+   "last_seen": "2026-11-27T10:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -127587,7 +127587,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES52490004-184",
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-27T07:40:21+00:00",
+   "last_seen": "2026-11-27T10:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -127614,7 +127614,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-47750692700060-GES19890021-746",
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-27T07:40:21+00:00",
+   "last_seen": "2026-11-27T10:50:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -127624,7 +127624,7 @@
    "checked": "2026-11-26T20:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-27T07:40:21+00:00",
+   "last_seen": "2026-11-27T10:50:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
