@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T03:50:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 9,
+   "blocked_runs": 10,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T04:40:22+00:00",
    "last_error": "blocked",
@@ -79177,6 +79177,42 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:0xfxs3": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T06:20:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 50 m². Disponible dès 2026-12-21",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-83afb095b738048b498afdc523657ab7/6615895/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 705,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "0xfxs3",
+    "surface_m2": 50,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 3 pièces de 50 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/0xfxs3"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:10qoyp": {
    "also": [],
    "checked": "2026-11-25T00:00:35+00:00",
@@ -79750,7 +79786,7 @@
    "checked": "2026-11-27T01:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T00:20:19+00:00",
-   "last_seen": "2026-11-27T03:20:21+00:00",
+   "last_seen": "2026-11-27T06:20:23+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -83334,6 +83370,43 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:99ogvk": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T06:20:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 77 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-925794943d0a6a5e64ddcfe221a4367a/6589844/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 355,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "99ogvk",
+    "surface_m2": 77,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 77 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/99ogvk"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:9apg5j": {
    "also": [],
    "checked": "2026-11-24T11:00:39+00:00",
@@ -86864,6 +86937,44 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:hm6o2b": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T06:20:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 90 m². Disponible dès 2026-12-22",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-ada278647b11fc1b4146b0b89f0ad5ea/6615880/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 645,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "hm6o2b",
+    "surface_m2": 90,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/hm6o2b"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:hnyfz6": {
    "also": [],
    "checked": "2026-11-27T04:00:40+00:00",
@@ -89700,6 +89811,42 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:o44avq": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T06:20:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 100 m². Disponible dès 2026-12-22",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-0cf9ac3bcea7a0acf10f30dbc4a63c8c/6615838/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 770,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "o44avq",
+    "surface_m2": 100,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 3 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/o44avq"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:o8xdod": {
    "also": [],
    "checked": "2026-11-25T15:00:58+00:00",
@@ -90835,6 +90982,44 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:rqw0xe": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T06:20:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 100 m². Disponible dès 2026-12-17",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-6a8106207f0b489b23cfc6bf10861dba/6615918/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 660,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "rqw0xe",
+    "surface_m2": 100,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 100 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/rqw0xe"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:rsoln3": {
    "also": [],
@@ -92839,6 +93024,44 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:vxs0k4": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T06:20:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 90 m². Disponible dès 2026-12-22",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-cae088108b6eb0a1e5ca13c1a45d92eb/6615927/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 645,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "vxs0k4",
+    "surface_m2": 90,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/vxs0k4"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:vz9lqj": {
    "also": [],
    "checked": "2026-11-27T02:00:39+00:00",
@@ -92988,6 +93211,42 @@
     ],
     "title": "Appartement 5 pièces de 108 m²",
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/w73weu"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "lacartedescolocs:w8tygp": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T06:20:23+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 90 m². Disponible dès 2026-12-02",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-f452ebd0e44188283c1cd122fd88d757/6615852/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 775,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "w8tygp",
+    "surface_m2": 90,
+    "tags": [
+     "area?"
+    ],
+    "title": "Appartement 4 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/w8tygp"
    },
    "notified": false,
    "status": "active"
