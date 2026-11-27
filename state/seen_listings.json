@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T07:00:39+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
+   "blocked_runs": 1,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T09:10:19+00:00",
    "last_error": "blocked",
@@ -11301,7 +11301,7 @@
    "checked": "2026-11-26T18:00:45+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T18:00:45+00:00",
-   "last_seen": "2026-11-27T06:10:20+00:00",
+   "last_seen": "2026-11-27T09:10:26+00:00",
    "listing": {
     "charges": 92,
     "city": "lyon",
@@ -85405,6 +85405,44 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:d0p9pv": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T09:10:26+00:00",
+   "last_seen": "2026-11-27T09:10:26+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 85 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-0e13782d5776bba1886f79e49e361237/3678042/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 636,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "d0p9pv",
+    "surface_m2": 85,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 85 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/d0p9pv"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:dbpqz0": {
    "also": [],
    "checked": "2026-11-27T00:00:55+00:00",
@@ -85443,6 +85481,44 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:dezr14": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T09:10:26+00:00",
+   "last_seen": "2026-11-27T09:10:26+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 70 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-e5050fe740e14b0fb55e856eeb2a5fc8/5037282/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 628,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "dezr14",
+    "surface_m2": 70,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 70 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/dezr14"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:dgnm13": {
    "also": [],
@@ -86020,7 +86096,7 @@
    "checked": "2026-11-27T09:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:50:19+00:00",
-   "last_seen": "2026-11-27T06:10:20+00:00",
+   "last_seen": "2026-11-27T09:10:26+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -86882,6 +86958,42 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:gzl9k6": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T09:10:26+00:00",
+   "last_seen": "2026-11-27T09:10:26+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Maison 9 pièces de 220 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-85174f669fda4eb30817be80c65463b5/3193827/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 795,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "gzl9k6",
+    "surface_m2": 220,
+    "tags": [
+     "area?"
+    ],
+    "title": "Maison 9 pièces de 220 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/gzl9k6"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:h2u9fq": {
    "also": [],
@@ -126340,7 +126452,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES70270083-894",
    "first_seen": "2026-11-25T10:50:19+00:00",
-   "last_seen": "2026-11-27T06:10:20+00:00",
+   "last_seen": "2026-11-27T09:10:26+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
