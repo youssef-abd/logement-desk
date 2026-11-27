@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T19:20:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
+   "blocked_runs": 3,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T20:10:20+00:00",
    "last_error": "blocked",
@@ -75679,7 +75679,7 @@
    "checked": "2026-11-27T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:00:41+00:00",
-   "last_seen": "2026-11-27T17:20:21+00:00",
+   "last_seen": "2026-11-27T20:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85273,7 +85273,7 @@
    "checked": "2026-11-27T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T17:30:20+00:00",
-   "last_seen": "2026-11-27T17:30:20+00:00",
+   "last_seen": "2026-11-27T20:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85802,6 +85802,41 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:a5hhr7": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T20:30:20+00:00",
+   "last_seen": "2026-11-27T20:30:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 4 pièces de 90 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 500,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "a5hhr7",
+    "surface_m2": 90,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 4 pièces de 90 m²",
+    "url": "https://www.lacartedescolocs.fr/chambres-chez-l-habitant/fr/auvergne-rhone-alpes/lyon/a/a5hhr7"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:a9748k": {
    "also": [],
    "checked": "2026-11-26T20:00:36+00:00",
@@ -86110,7 +86145,7 @@
    "checked": "2026-11-27T15:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T14:20:19+00:00",
-   "last_seen": "2026-11-27T17:20:21+00:00",
+   "last_seen": "2026-11-27T20:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -90545,7 +90580,7 @@
    "checked": "2026-11-27T15:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T14:10:30+00:00",
-   "last_seen": "2026-11-27T17:20:21+00:00",
+   "last_seen": "2026-11-27T20:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121909,7 +121944,7 @@
    "also": [],
    "dup_of": "bienici:ag694538-557609273",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T17:20:21+00:00",
+   "last_seen": "2026-11-27T20:30:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122558,7 +122593,7 @@
    "also": [],
    "dup_of": "bienici:ag696101-556516265",
    "first_seen": "2026-11-25T02:50:20+00:00",
-   "last_seen": "2026-11-27T17:20:21+00:00",
+   "last_seen": "2026-11-27T20:30:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -129251,7 +129286,7 @@
    "checked": "2026-11-27T12:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T09:20:21+00:00",
-   "last_seen": "2026-11-27T17:20:21+00:00",
+   "last_seen": "2026-11-27T20:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -129402,7 +129437,7 @@
    "checked": "2026-11-27T04:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T10:20:21+00:00",
-   "last_seen": "2026-11-27T17:20:21+00:00",
+   "last_seen": "2026-11-27T20:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -129488,7 +129523,7 @@
    "checked": "2026-11-27T04:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T10:20:21+00:00",
-   "last_seen": "2026-11-27T17:20:21+00:00",
+   "last_seen": "2026-11-27T20:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -130761,7 +130796,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES53320118-175",
    "first_seen": "2026-11-27T11:10:25+00:00",
-   "last_seen": "2026-11-27T17:20:21+00:00",
+   "last_seen": "2026-11-27T20:30:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
