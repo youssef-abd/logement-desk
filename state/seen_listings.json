@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T16:20:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 4,
+   "blocked_runs": 5,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T18:00:18+00:00",
    "last_error": "blocked",
@@ -8990,7 +8990,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": {
     "charges": 65,
     "city": "lyon",
@@ -21606,7 +21606,7 @@
    "also": [],
    "dup_of": "leboncoin:3317835129",
    "first_seen": "2026-11-27T09:30:20+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -42410,7 +42410,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T09:30:20+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": {
     "charges": 30,
     "city": "lyon",
@@ -46552,7 +46552,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": {
     "charges": 90,
     "city": "lyon",
@@ -66467,7 +66467,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": {
     "charges": 38,
     "city": "lyon",
@@ -69446,7 +69446,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": {
     "charges": 145,
     "city": "lyon",
@@ -73314,7 +73314,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T09:30:20+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": {
     "charges": 45,
     "city": "lyon",
@@ -80795,7 +80795,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85905,7 +85905,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -87276,7 +87276,7 @@
    "checked": "2026-11-27T16:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T15:40:17+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -87587,7 +87587,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -95264,7 +95264,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -130602,7 +130602,7 @@
    "also": [],
    "dup_of": "bienici:ag752345-557485331",
    "first_seen": "2026-11-27T12:30:20+00:00",
-   "last_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T18:40:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
