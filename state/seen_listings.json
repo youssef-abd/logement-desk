@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T00:50:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 8,
+   "blocked_runs": 9,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T00:10:16+00:00",
    "last_error": "blocked",
@@ -74696,8 +74696,7 @@
    "checked": "2026-11-26T02:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T22:01:56+00:00",
-   "gone": "2026-11-26T02:00:38+00:00",
-   "last_seen": "2026-11-26T01:30:26+00:00",
+   "last_seen": "2026-11-27T01:30:31+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -74732,7 +74731,7 @@
     "url": "https://www.immojeune.com/colocation/lyon-03-69/chambre-dans-une-colocation-de-337m-a-lyon-03_3262972.html"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "immojeune:3332191": {
    "also": [],
@@ -75075,8 +75074,7 @@
    "checked": "2026-11-26T09:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T22:01:56+00:00",
-   "gone": "2026-11-26T09:00:44+00:00",
-   "last_seen": "2026-11-25T23:40:22+00:00",
+   "last_seen": "2026-11-27T01:30:31+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -75111,7 +75109,7 @@
     "url": "https://www.immojeune.com/colocation/lyon-03-69/chambre-dans-une-colocation-de-288m-a-lyon-03_3979740.html"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "immojeune:4000138": {
    "also": [],
@@ -79547,7 +79545,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/1t456p"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:1wau84": {
    "also": [],
@@ -82005,7 +82003,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/6t6khw"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:6wgndt": {
    "also": [],
@@ -85798,7 +85796,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/saint-cyr-au-mont-d-or/a/ewrfnx"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:ezhngl": {
    "also": [],
@@ -91886,7 +91884,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/tki026"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:toly6u": {
    "also": [],
@@ -92271,7 +92269,7 @@
    "checked": "2026-11-26T20:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-26T22:30:18+00:00",
+   "last_seen": "2026-11-27T01:30:31+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -126382,7 +126380,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES43100013-894",
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-26T22:30:18+00:00",
+   "last_seen": "2026-11-27T01:30:31+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -126391,7 +126389,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES52490004-184",
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-26T22:30:18+00:00",
+   "last_seen": "2026-11-27T01:30:31+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -126418,7 +126416,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-47750692700060-GES19890021-746",
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-26T22:30:18+00:00",
+   "last_seen": "2026-11-27T01:30:31+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -126428,7 +126426,7 @@
    "checked": "2026-11-26T20:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T19:20:18+00:00",
-   "last_seen": "2026-11-26T22:30:18+00:00",
+   "last_seen": "2026-11-27T01:30:31+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
