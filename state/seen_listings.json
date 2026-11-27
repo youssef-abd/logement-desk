@@ -79629,7 +79629,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/1wau84"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:1x7929": {
    "also": [],
@@ -86604,7 +86604,7 @@
    "checked": "2026-11-26T21:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T20:10:18+00:00",
-   "last_seen": "2026-11-26T23:10:21+00:00",
+   "last_seen": "2026-11-27T02:20:19+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
