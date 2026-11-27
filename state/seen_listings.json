@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T07:00:39+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
+   "blocked_runs": 3,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T09:10:19+00:00",
    "last_error": "blocked",
@@ -21236,6 +21236,15 @@
    "notified": false,
    "status": "active"
   },
+  "bienici:ag696596-562987511": {
+   "also": [],
+   "dup_of": "leboncoin:3317835129",
+   "first_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T09:30:20+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
   "bienici:ag696680-505573553": {
    "also": [],
    "dup_of": null,
@@ -41934,6 +41943,44 @@
     "tags": [],
     "title": "LYON 4 - COMMANDANT ARNAUD - T3",
     "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT0208-gh2796"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "bienici:guy-hoquet-18-GT0208-gh2891": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T09:30:20+00:00",
+   "listing": {
+    "charges": 30,
+    "city": "lyon",
+    "description": "À voir rapidement ! Emplacement numéro 1, à deux pas des commerces, des bus et du métro Croix-Rousse. Charmant T2 meublé au dernier étage, en très bon état, comprenant une cuisine entièrement équipée, un séjour spacieux et lumineux, une chambre séparée, une salle de bains avec douche et baignoire, ainsi que des WC indépendants. Nombreux rangements. Chauffage individuel électrique. Calme, double vitrage. Disponible dès aujourd'hui !",
+    "district": "Lyon 1er",
+    "flags": [],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0208-gh2891_d2m2j20yzublln.cloudfront.net_338_522430_15eb847b-cd45-55fc-aac7-fd708864065e.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0208-gh2891_d2m2j20yzublln.cloudfront.net_338_522430_bb46f03f-798e-540f-91a5-2a0eb67dc374.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0208-gh2891_d2m2j20yzublln.cloudfront.net_338_522430_1a895089-6de0-5fb6-825f-81e15108faa3.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0208-gh2891_d2m2j20yzublln.cloudfront.net_338_522430_e07089f3-597e-5363-872e-ee999b0c1023.jpg",
+     "https://file.bienici.com/photo/guy-hoquet-18-GT0208-gh2891_d2m2j20yzublln.cloudfront.net_338_522430_288477d5-77eb-510f-9d7b-7a1b0d48628d.jpg"
+    ],
+    "postal_code": "69001",
+    "poster": "agence",
+    "poster_name": "Guy Hoquet Limmobilier Lyon",
+    "published_at": "2026-11-27T08:32:32.409Z",
+    "rent_cc": 790,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "guy-hoquet-18-GT0208-gh2891",
+    "surface_m2": 37.74,
+    "tags": [],
+    "title": "Appartement T2 Meublé - dernier étage - plateau croix rousse",
+    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT0208-gh2891"
    },
    "notified": false,
    "status": "active"
@@ -72202,6 +72249,45 @@
    "notified": false,
    "status": "stale"
   },
+  "bienici:netty-sereniteconseil-appt-2156": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T09:30:20+00:00",
+   "listing": {
+    "charges": 45,
+    "city": "lyon",
+    "description": "Appartement T3 Lumineux et Spacieux - Rénové en 2025<br>Proche parc de Parilly à voir appartement T3 de 70 m², récemment rénové en 2025, situé au 1er étage d'une maison de 2 étages en excellent état. Cet appartement non meublé allie modernité et confort, offrant une surface habitable généreuse et une distribution intelligente des espaces.<br>POUR OBTENIR LE DOSSIER MERCI D'ENVOYER UN MESSAGE VIA L'ANNONCE<br>Imaginez-vous dans ce havre de paix, où chaque pièce a été pensée pour votre bien-être. ",
+    "district": "Vénissieux",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": false,
+    "kind": "t3+",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/netty-sereniteconseil-appt-2156_img.netty.immo_productw_sereniteconseil_2_LA2156_1754300501_LA2156_1_original.jpg",
+     "https://file.bienici.com/photo/netty-sereniteconseil-appt-2156_img.netty.immo_productw_sereniteconseil_2_LA2156_1754300507_LA2156_2_original.jpg",
+     "https://file.bienici.com/photo/netty-sereniteconseil-appt-2156_img.netty.immo_productw_sereniteconseil_2_LA2156_1754300530_LA2156_3_original.jpg",
+     "https://file.bienici.com/photo/netty-sereniteconseil-appt-2156_img.netty.immo_productw_sereniteconseil_2_LA2156_1754300536_LA2156_4_original.jpg"
+    ],
+    "postal_code": "69200",
+    "poster": "agence",
+    "poster_name": "Sérénité Conseil Immobilier",
+    "published_at": "2026-11-27T09:19:36.880Z",
+    "rent_cc": 830,
+    "rooms": 3,
+    "source": "bienici",
+    "source_id": "netty-sereniteconseil-appt-2156",
+    "surface_m2": 70,
+    "tags": [],
+    "title": "T3 refait à neuf",
+    "url": "https://www.bienici.com/annonce/netty-sereniteconseil-appt-2156"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "bienici:netty-sereniteconseil-appt-2201": {
    "also": [],
    "dup_of": null,
@@ -77677,7 +77763,7 @@
     "url": "https://www.immojeune.com/colocation/lyon-06-69/chambre-en-coloc-lyon-6_4078128.html"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "immojeune:4078296": {
    "also": [],
@@ -79235,7 +79321,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T09:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -79840,7 +79926,7 @@
    "checked": "2026-11-27T01:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T00:20:19+00:00",
-   "last_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T09:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -83240,6 +83326,44 @@
    "notified": false,
    "status": "stale"
   },
+  "lacartedescolocs:8matsk": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T09:30:20+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Maison 7 pièces de 114 m². Disponible dès 2026-12-10",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-9141bd07a865e994a5894b2a9daf230c/5559452/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 638,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "8matsk",
+    "surface_m2": 114,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Maison 7 pièces de 114 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/8matsk"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:8n1d5g": {
    "also": [],
    "checked": "2026-11-23T04:00:34+00:00",
@@ -83429,7 +83553,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T09:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -87225,7 +87349,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T09:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -90100,7 +90224,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T09:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -91273,7 +91397,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T09:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -93315,7 +93439,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T09:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -93507,7 +93631,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T06:20:23+00:00",
+   "last_seen": "2026-11-27T09:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -116128,7 +116252,9 @@
    "status": "active"
   },
   "leboncoin:3317835129": {
-   "also": [],
+   "also": [
+    "bienici:ag696596-562987511"
+   ],
    "dup_of": null,
    "first_seen": "2026-11-25T21:30:20+00:00",
    "last_seen": "2026-11-26T01:40:21+00:00",
