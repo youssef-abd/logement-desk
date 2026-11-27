@@ -8990,7 +8990,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": 65,
     "city": "lyon",
@@ -21606,7 +21606,7 @@
    "also": [],
    "dup_of": "leboncoin:3317835129",
    "first_seen": "2026-11-27T09:30:20+00:00",
-   "last_seen": "2026-11-27T12:30:20+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -42324,7 +42324,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T09:30:20+00:00",
-   "last_seen": "2026-11-27T12:30:20+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": 30,
     "city": "lyon",
@@ -46375,7 +46375,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": 90,
     "city": "lyon",
@@ -66249,7 +66249,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": 38,
     "city": "lyon",
@@ -69186,7 +69186,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": 145,
     "city": "lyon",
@@ -73052,7 +73052,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T09:30:20+00:00",
-   "last_seen": "2026-11-27T12:30:20+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": 45,
     "city": "lyon",
@@ -80460,7 +80460,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -81029,7 +81029,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -84433,7 +84433,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T09:30:20+00:00",
-   "last_seen": "2026-11-27T12:30:20+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85342,7 +85342,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85455,7 +85455,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -86744,6 +86744,44 @@
    "notified": false,
    "status": "active"
   },
+  "lacartedescolocs:cxctwd": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T15:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 3 pièces de 70 m². Disponible dès 2026-12-18",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-a8b1741452fb887b523464de01c35eda/6634707/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 670,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "cxctwd",
+    "surface_m2": 70,
+    "tags": [
+     "area?",
+     "near-miss",
+     "furnished?"
+    ],
+    "title": "Appartement 3 pièces de 70 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/cxctwd"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "lacartedescolocs:d0p9pv": {
    "also": [],
    "checked": "2026-11-27T10:00:43+00:00",
@@ -87021,7 +87059,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -90003,7 +90041,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -92685,7 +92723,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -94467,7 +94505,7 @@
    "checked": "2026-11-27T13:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T12:40:17+00:00",
-   "last_seen": "2026-11-27T12:40:17+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122422,7 +122460,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297475297A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297503654": {
    "also": [],
@@ -129688,7 +129726,7 @@
    "also": [],
    "dup_of": "bienici:ag752345-557485331",
    "first_seen": "2026-11-27T12:30:20+00:00",
-   "last_seen": "2026-11-27T12:30:20+00:00",
+   "last_seen": "2026-11-27T15:40:17+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
