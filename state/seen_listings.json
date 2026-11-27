@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T16:20:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T18:00:18+00:00",
    "last_error": "blocked",
@@ -84426,7 +84426,7 @@
    "checked": "2026-11-27T06:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-27T07:10:20+00:00",
+   "last_seen": "2026-11-27T18:50:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -84877,6 +84877,43 @@
    },
    "notified": false,
    "status": "stale"
+  },
+  "lacartedescolocs:8nbjf4": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T18:50:21+00:00",
+   "last_seen": "2026-11-27T18:50:21+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Appartement 5 pièces de 71 m²",
+    "district": "Lyon",
+    "flags": [],
+    "found_by": "lacartedescolocs",
+    "furnished": null,
+    "kind": "coloc",
+    "match": true,
+    "photos": [
+     "https://images.lacartedescolocs.fr/tipis-listing-pictures/listing-2d37f4c74903296a26e1428beb66ce22/6635447/small.jpg"
+    ],
+    "postal_code": null,
+    "poster": null,
+    "poster_name": null,
+    "published_at": null,
+    "rent_cc": 440,
+    "rooms": null,
+    "source": "lacartedescolocs",
+    "source_id": "8nbjf4",
+    "surface_m2": 71,
+    "tags": [
+     "area?",
+     "furnished?"
+    ],
+    "title": "Appartement 5 pièces de 71 m²",
+    "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/8nbjf4"
+   },
+   "notified": false,
+   "status": "active"
   },
   "lacartedescolocs:8pasxb": {
    "also": [],
