@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T16:20:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
+   "blocked_runs": 3,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T18:00:18+00:00",
    "last_error": "blocked",
@@ -85328,7 +85328,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/9nx5q9"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:9rrg47": {
    "also": [],
@@ -86284,7 +86284,7 @@
    "checked": "2026-11-27T14:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T15:00:21+00:00",
-   "last_seen": "2026-11-27T15:10:21+00:00",
+   "last_seen": "2026-11-27T18:20:31+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -129003,7 +129003,7 @@
    "checked": "2026-11-27T12:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T10:20:22+00:00",
-   "last_seen": "2026-11-27T15:20:25+00:00",
+   "last_seen": "2026-11-27T18:20:31+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -129045,7 +129045,7 @@
    "checked": "2026-11-27T12:00:36+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T10:20:22+00:00",
-   "last_seen": "2026-11-27T15:20:25+00:00",
+   "last_seen": "2026-11-27T18:20:31+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -129133,7 +129133,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES70270083-894",
    "first_seen": "2026-11-25T10:50:19+00:00",
-   "last_seen": "2026-11-27T15:20:25+00:00",
+   "last_seen": "2026-11-27T18:20:31+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -129873,7 +129873,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES59340254-171",
    "first_seen": "2026-11-26T11:20:20+00:00",
-   "last_seen": "2026-11-27T15:20:25+00:00",
+   "last_seen": "2026-11-27T18:20:31+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -130140,6 +130140,45 @@
     "tags": [],
     "title": "Appartement - 2 pièce(s) - 39 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297931778A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297936760": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T18:20:31+00:00",
+   "last_seen": "2026-11-27T18:20:31+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 4 1 070 € CC* Appartement 45 m 2 Écully (69) 2 pièces 1 chambre Appartement 2 pièces meublé ecully au 2eme etages. bel appartement de 45m² est situé dans une grande maison entièrement rénovée, composée de seulement trois logements, offrant calme et intimité. charges mensuelles (électricité, eau) internet... Particulier 27/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/61/1c/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjM0ODcwXzEucG5nPzIwMjYxMTI3MTkxNzQ4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/eb/a6/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjM0ODcwXzIucG5nPzIwMjYxMTI3MTkxNzQ4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/e5/81/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjM0ODcwXzMucG5nPzIwMjYxMTI3MTkxNzQ4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/0b/35/L21lZGlhLXBhL1dJMTcvOC8yL1dJMTc4MjM0ODcwXzQucG5nPzIwMjYxMTI3MTkxNzQ4_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69130",
+    "poster": "particulier",
+    "poster_name": null,
+    "published_at": "2026-11-27",
+    "rent_cc": 1070,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1297936760",
+    "surface_m2": 45.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 45 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297936760A1KILHAP000"
    },
    "notified": false,
    "status": "active"
@@ -130582,7 +130621,7 @@
    "checked": "2026-11-27T16:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T15:20:25+00:00",
-   "last_seen": "2026-11-27T15:20:25+00:00",
+   "last_seen": "2026-11-27T18:20:31+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
