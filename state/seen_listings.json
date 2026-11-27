@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T19:20:18+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 3,
+   "blocked_runs": 4,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T20:10:20+00:00",
    "last_error": "blocked",
@@ -19960,6 +19960,47 @@
    "last_seen": "2026-11-27T18:00:44+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "bienici:ag695206-563256860": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-27T20:40:21+00:00",
+   "last_seen": "2026-11-27T20:40:21+00:00",
+   "listing": {
+    "charges": 20,
+    "city": "lyon",
+    "description": "TYPE DEUX MEUBLES DE 53.38 M2  IDEAL POUR UNE COLOCATION, SITUE 12 RUE MOURGUET PROCHE DU METRO ST JEAN IL EST COMPOSE D'UNE CHAMBRE, UN COIN NUIT DANS LE SEJOUR, UN SEJOUR, UNE CUISINE AMENAGEE ET EQUIPEE ET UNE SALLE DE BAINS\nZone soumise à encadrement des loyers\nLoyer de référence majoré (loyer de base à ne pas dépasser) » : 1046.25€\nLoyer de base  : 950 €\nloyer 970 E/mois dont 20 E de charges locatives (provision donnant lieu à régularisation annuelle) dépôt de garantie 950E honoraires charg",
+    "district": "Lyon 5e",
+    "flags": [
+     "agency_fees"
+    ],
+    "found_by": "bienici",
+    "furnished": true,
+    "kind": "coloc",
+    "match": false,
+    "photos": [
+     "https://file.bienici.com/photo/ag695206-563256860_photos.ubiflow.net_695206_563256860_photos_1.jpg_INSOON_EB_5512801818_20261127201331",
+     "https://file.bienici.com/photo/ag695206-563256860_photos.ubiflow.net_695206_563256860_photos_2.jpg_INSOON_EB_5512801818_20261127201332",
+     "https://file.bienici.com/photo/ag695206-563256860_photos.ubiflow.net_695206_563256860_photos_3.jpg_INSOON_EB_5512801818_20261127201332",
+     "https://file.bienici.com/photo/ag695206-563256860_photos.ubiflow.net_695206_563256860_photos_4.jpg_INSOON_EB_5512801818_20261127201332",
+     "https://file.bienici.com/photo/ag695206-563256860_photos.ubiflow.net_695206_563256860_photos_5.jpg_INSOON_EB_5512801818_20261127201332",
+     "https://file.bienici.com/photo/ag695206-563256860_photos.ubiflow.net_695206_563256860_photos_6.jpg_INSOON_EB_5512801818_20261127201332"
+    ],
+    "postal_code": "69005",
+    "poster": "agence",
+    "poster_name": null,
+    "published_at": "2026-11-27T19:58:55.213Z",
+    "rent_cc": 970,
+    "rooms": 2,
+    "source": "bienici",
+    "source_id": "ag695206-563256860",
+    "surface_m2": 53,
+    "tags": [],
+    "title": "Appartement meublé avec 1 CHAMBRE + COIN NUIT",
+    "url": "https://www.bienici.com/annonce/ag695206-563256860"
+   },
+   "notified": false,
    "status": "active"
   },
   "bienici:ag695925-464373593": {
@@ -97927,7 +97968,7 @@
    "checked": "2026-11-27T06:00:37+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T17:40:20+00:00",
-   "last_seen": "2026-11-27T17:40:18+00:00",
+   "last_seen": "2026-11-27T20:40:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
