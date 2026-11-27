@@ -29,7 +29,7 @@
    "last_success": "2026-11-27T10:00:43+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 6,
+   "blocked_runs": 7,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-27T11:20:44+00:00",
    "last_error": "blocked",
@@ -21360,7 +21360,7 @@
    "also": [],
    "dup_of": "leboncoin:3317835129",
    "first_seen": "2026-11-27T09:30:20+00:00",
-   "last_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -24532,7 +24532,8 @@
    "also": [
     "paruvendu:1297758199",
     "leboncoin:3316097768",
-    "leboncoin:3301658015"
+    "leboncoin:3301658015",
+    "paruvendu:1297969304"
    ],
    "checked": "2026-11-27T06:00:37+00:00",
    "dup_of": null,
@@ -42076,7 +42077,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T09:30:20+00:00",
-   "last_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": {
     "charges": 30,
     "city": "lyon",
@@ -72464,7 +72465,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T09:30:20+00:00",
-   "last_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": {
     "charges": 45,
     "city": "lyon",
@@ -79569,7 +79570,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -80213,7 +80214,7 @@
    "checked": "2026-11-27T01:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T00:20:19+00:00",
-   "last_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -83694,7 +83695,7 @@
    "checked": "2026-11-27T10:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T09:30:20+00:00",
-   "last_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -83917,7 +83918,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -87754,7 +87755,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -88839,7 +88840,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/kmba9u"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:ko0iw5": {
    "also": [],
@@ -90629,7 +90630,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -91840,7 +91841,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -92215,7 +92216,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/s6yx83"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "lacartedescolocs:s7zpw9": {
    "also": [],
@@ -93882,7 +93883,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -94074,7 +94075,7 @@
    "checked": "2026-11-27T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T06:20:23+00:00",
-   "last_seen": "2026-11-27T09:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -126175,7 +126176,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297839787A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297843872": {
    "also": [],
@@ -128481,6 +128482,15 @@
    "dup_of": "bienici:citya-immobilier-5042-GES53320118-175",
    "first_seen": "2026-11-27T11:10:25+00:00",
    "last_seen": "2026-11-27T11:10:25+00:00",
+   "listing": null,
+   "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297969304": {
+   "also": [],
+   "dup_of": "bienici:ag752345-557485331",
+   "first_seen": "2026-11-27T12:30:20+00:00",
+   "last_seen": "2026-11-27T12:30:20+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
