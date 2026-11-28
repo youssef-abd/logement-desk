@@ -29,7 +29,7 @@
    "last_success": "2026-11-28T04:30:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 10,
+   "blocked_runs": 11,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-28T05:10:26+00:00",
    "last_error": "blocked",
@@ -2200,7 +2200,7 @@
   },
   "bienici:ag421262-562502774": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T20:40:34+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -17510,7 +17510,7 @@
   },
   "bienici:ag694498-558930731": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T22:00:32+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -17866,7 +17866,7 @@
   },
   "bienici:ag694498-563182715": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T15:00:39+00:00",
    "last_seen": "2026-11-28T06:20:21+00:00",
@@ -28823,7 +28823,7 @@
    "also": [
     "leboncoin:3316062286"
    ],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -34891,7 +34891,7 @@
    "also": [
     "paruvendu:1296069071"
    ],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -42958,7 +42958,7 @@
   },
   "bienici:guy-hoquet-18-GT0648-448": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T19:30:26+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -48239,7 +48239,7 @@
   },
   "bienici:hektor-pericles-martin-immobilier-net-1743": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -48324,7 +48324,7 @@
   },
   "bienici:hektor-pericles-martin-immobilier-net-1987": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -48448,7 +48448,7 @@
   },
   "bienici:hektor-pericles-martin-immobilier-net-2139": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -48490,7 +48490,7 @@
   },
   "bienici:hektor-pericles-martin-immobilier-net-2212": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -48680,7 +48680,7 @@
    "also": [
     "paruvendu:1296968373"
    ],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -49256,7 +49256,7 @@
   },
   "bienici:ics-anj_ANJALYS_loc-GES04900002-713": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -49337,7 +49337,7 @@
   },
   "bienici:ics-anj_ANJALYS_loc-GES05860015-713": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -49379,7 +49379,7 @@
   },
   "bienici:ics-anj_ANJALYS_loc-GES06530034-713": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -49422,7 +49422,7 @@
   },
   "bienici:ics-anj_ANJALYS_loc-GES08060151-713": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -49712,7 +49712,7 @@
   },
   "bienici:ics-anj_ANJALYS_loc-GES20720010-713": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -49931,7 +49931,7 @@
   },
   "bienici:ics-anj_ANJALYS_loc-GES30070008-713": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -50016,7 +50016,7 @@
     "paruvendu:1297509014",
     "immojeune:4058578"
    ],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -50097,7 +50097,7 @@
    "also": [
     "leboncoin:3316229464"
    ],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -50227,7 +50227,7 @@
    "also": [
     "leboncoin:3285433058"
    ],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -50355,7 +50355,7 @@
   },
   "bienici:ics-poz_POZETTO_loc-GES00470007-279": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -50398,7 +50398,7 @@
   },
   "bienici:ics-poz_POZETTO_loc-GES00730009-279": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -50441,9 +50441,10 @@
   },
   "bienici:ics-poz_POZETTO_loc-GES00950096-279": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
+   "gone": "2026-11-28T07:00:39+00:00",
    "last_seen": "2026-11-27T22:00:31+00:00",
    "listing": {
     "charges": 200,
@@ -50480,11 +50481,11 @@
     "url": "https://www.bienici.com/annonce/ics-poz_POZETTO_loc-GES00950096-279"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:ics-poz_POZETTO_loc-GES02190023-279": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -50607,9 +50608,10 @@
   },
   "bienici:ics-poz_POZETTO_loc-GES30640003-279": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
+   "gone": "2026-11-28T07:00:39+00:00",
    "last_seen": "2026-11-27T22:00:31+00:00",
    "listing": {
     "charges": 85,
@@ -50646,11 +50648,11 @@
     "url": "https://www.bienici.com/annonce/ics-poz_POZETTO_loc-GES30640003-279"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:ics-poz_POZETTO_loc-GES61820010-279": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -50695,7 +50697,7 @@
   },
   "bienici:ics-poz_POZETTO_loc-GES79910001-279": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -50978,7 +50980,7 @@
   },
   "bienici:ics-poz_POZETTO_loc-LAPP100127": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -51058,7 +51060,7 @@
   },
   "bienici:ics-poz_POZETTO_loc-LAPP100135": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -51148,7 +51150,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES00440005-371": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -51317,7 +51319,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES30170005-787": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -51408,7 +51410,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES40140129-372": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -51485,7 +51487,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES40550271-787": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -51526,7 +51528,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES40960036-372": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -51570,7 +51572,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES41930302-374": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -51614,7 +51616,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES43350269-372": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -51782,7 +51784,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES50770004-787": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -51868,7 +51870,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES61520351-374": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -51997,9 +51999,10 @@
   },
   "bienici:ics-rci_RCI_loc-GES62720144-375": {
    "also": [],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
+   "gone": "2026-11-28T07:00:39+00:00",
    "last_seen": "2026-11-27T22:00:31+00:00",
    "listing": {
     "charges": 45,
@@ -52035,7 +52038,7 @@
     "url": "https://www.bienici.com/annonce/ics-rci_RCI_loc-GES62720144-375"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "bienici:ics-rci_RCI_loc-GES62730029-375": {
    "also": [
@@ -52081,7 +52084,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES62730051-375": {
    "also": [],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -52123,7 +52126,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES62740045-375": {
    "also": [],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -52166,7 +52169,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES62770001-371": {
    "also": [],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -52253,7 +52256,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES63200055-375": {
    "also": [],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -52296,7 +52299,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES65330086-787": {
    "also": [],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -52384,7 +52387,7 @@
     "leboncoin:3271358672",
     "leboncoin:3302113162"
    ],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -52428,7 +52431,7 @@
    "also": [
     "foncia:331728159"
    ],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -52514,7 +52517,7 @@
   },
   "bienici:ics-rci_RCI_loc-GES80410008-492": {
    "also": [],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -52601,7 +52604,7 @@
    "also": [
     "leboncoin:3316794510"
    ],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -52982,7 +52985,7 @@
    "also": [
     "leboncoin:3311167460"
    ],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -53070,7 +53073,7 @@
    "also": [
     "paruvendu:1297159399"
    ],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -53322,7 +53325,7 @@
   },
   "bienici:ics-sag_SAGITER_loc-GES10230001-144": {
    "also": [],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -53366,7 +53369,7 @@
   },
   "bienici:ics-sag_SAGITER_loc-GES10470025-144": {
    "also": [],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -62354,7 +62357,7 @@
   },
   "bienici:immo-facile-60184131": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T15:00:39+00:00",
    "last_seen": "2026-11-28T05:00:34+00:00",
@@ -82445,6 +82448,7 @@
   },
   "lacartedescolocs:37abyw": {
    "also": [],
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
    "last_seen": "2026-11-28T06:50:24+00:00",
@@ -84342,6 +84346,7 @@
   },
   "lacartedescolocs:6izc06": {
    "also": [],
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
    "last_seen": "2026-11-28T06:20:21+00:00",
@@ -86805,7 +86810,7 @@
   },
   "lacartedescolocs:aupit1": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T14:20:19+00:00",
    "last_seen": "2026-11-27T20:30:20+00:00",
@@ -90911,6 +90916,7 @@
   },
   "lacartedescolocs:jm16v2": {
    "also": [],
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
    "last_seen": "2026-11-28T06:20:21+00:00",
@@ -91251,7 +91257,7 @@
   },
   "lacartedescolocs:kq41cq": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T14:10:30+00:00",
    "last_seen": "2026-11-27T20:30:20+00:00",
@@ -94967,6 +94973,7 @@
   },
   "lacartedescolocs:s7zpw9": {
    "also": [],
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
    "last_seen": "2026-11-28T06:20:21+00:00",
@@ -97165,7 +97172,7 @@
   },
   "lacartedescolocs:wl835s": {
    "also": [],
-   "checked": "2026-11-27T16:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T16:10:18+00:00",
    "last_seen": "2026-11-28T01:20:20+00:00",
@@ -120080,10 +120087,10 @@
   },
   "paruvendu:1237979405": {
    "also": [],
-   "checked": "2026-11-27T12:00:36+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T11:00:44+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -120113,7 +120120,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/t1-place-grandclement-rc-sur-cour-calme-tbe-345-cc/particulier/1237979405A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1286858274": {
    "also": [],
@@ -120239,7 +120246,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-60158265",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -120294,7 +120301,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -120327,7 +120334,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1288423499A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1288493164": {
    "also": [
@@ -120337,7 +120344,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -120373,7 +120380,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1288493164A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1289071757": {
    "also": [],
@@ -120504,7 +120511,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES43760108-184",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -120616,7 +120623,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES70600051-171",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -120671,7 +120678,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES43460006-184",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -120776,7 +120783,7 @@
    "also": [],
    "dup_of": "bienici:ag694538-542777180",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -120823,7 +120830,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES86190265-171",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -120832,7 +120839,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-61667021",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -120943,7 +120950,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -120978,14 +120985,14 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1295136193A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1295190752": {
    "also": [],
    "checked": "2026-11-27T19:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121021,13 +121028,13 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1295190752A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1295336086": {
    "also": [],
    "dup_of": "bienici:ag694498-555076373",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121036,7 +121043,7 @@
    "also": [],
    "dup_of": "bienici:ag694498-561718664",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121046,7 +121053,7 @@
    "checked": "2026-11-27T19:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121080,7 +121087,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1295421112A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1295435666": {
    "also": [],
@@ -121095,7 +121102,7 @@
    "also": [],
    "dup_of": "bienici:ag603630-522427874",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121104,7 +121111,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-59554830",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121156,7 +121163,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES99260015-184",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121165,7 +121172,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES99260015-184",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121216,7 +121223,7 @@
    "also": [],
    "dup_of": "bienici:ag311656-551190590",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121264,7 +121271,7 @@
    "also": [],
    "dup_of": "bienici:ag694422-551069222",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121273,7 +121280,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-61554212",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121282,7 +121289,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES67270068-175",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121333,7 +121340,7 @@
    "also": [],
    "dup_of": "bienici:safti-1-1710874",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121430,7 +121437,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121461,7 +121468,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/chambre/1295880136A1KILHCM000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1295909639": {
    "also": [],
@@ -121486,7 +121493,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121518,7 +121525,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296002791A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1296003023": {
    "also": [
@@ -121527,7 +121534,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121561,7 +121568,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296003023A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1296024634": {
    "also": [],
@@ -121581,6 +121588,48 @@
    "notified": true,
    "status": "active"
   },
+  "paruvendu:1296040562": {
+   "also": [],
+   "checked": "2026-11-28T07:00:39+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-28T07:00:39+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "5 439 € CC* Appartement 10 m 2 Villeurbanne (69) 1 pièce 1 chambre Ascenseur DPE : D 250 kWh/m².an 50 kg CO 2 /m².an Bien situé à Villeurbanne, chambre meublée de 10 m² à louer. Logement réservé aux étudiants avec cuisine possible, internet inclus et ascenseur. Proximité des transports et commerces. Disponible immédiatement. LOCService 800 annonces 27/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "available_now",
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/56/d2/LzU2MjA4Ni81NTI5ODk0NzEvcGhvdG9zLzEuanBnPzIwMjYxMTI3MTQ0MjU4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/87/67/LzU2MjA4Ni81NTI5ODk0NzEvcGhvdG9zLzIuanBnPzIwMjYxMTI3MTQ0MjU4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/fc/72/LzU2MjA4Ni81NTI5ODk0NzEvcGhvdG9zLzMuanBnPzIwMjYxMTI3MTQ0MjU4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/fe/99/LzU2MjA4Ni81NTI5ODk0NzEvcGhvdG9zLzQuanBnPzIwMjYxMTI3MTQ0MjU4_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/ce/08/LzU2MjA4Ni81NTI5ODk0NzEvcGhvdG9zLzUuanBnPzIwMjYxMTI3MTQ0MjU4_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "LOCService",
+    "published_at": "2026-11-27",
+    "rent_cc": 439,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1296040562",
+    "surface_m2": 10.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 10 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296040562A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
   "paruvendu:1296069071": {
    "also": [],
    "dup_of": "bienici:citya-immobilier-47750692700060-GES21680013-746",
@@ -121594,7 +121643,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES45450109-745",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121612,7 +121661,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES43460054-184",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121621,7 +121670,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES43460067-184",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121648,7 +121697,7 @@
    "also": [],
    "dup_of": "bienici:hektor-accorimm69100-4015",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121839,7 +121888,7 @@
    "also": [],
    "dup_of": "bienici:safti-1-1728521",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121866,7 +121915,7 @@
    "also": [],
    "dup_of": "bienici:netty-company53836wbe-appt-3304",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -121880,7 +121929,7 @@
    "checked": "2026-11-27T19:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121915,14 +121964,14 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296488548A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1296494901": {
    "also": [],
    "checked": "2026-11-27T19:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121959,7 +122008,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296494901A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1296494944": {
    "also": [
@@ -122181,7 +122230,7 @@
    "also": [],
    "dup_of": "bienici:netty-company34197fuz-appt-2884",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122197,10 +122246,10 @@
   },
   "paruvendu:1296733727": {
    "also": [],
-   "checked": "2026-11-25T19:00:40+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-25T10:00:41+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122233,7 +122282,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296733727A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1296755970": {
    "also": [],
@@ -122257,7 +122306,7 @@
    "also": [],
    "dup_of": "bienici:ics-rci_RCI_loc-GES99560058-787",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122266,7 +122315,7 @@
    "also": [],
    "dup_of": "bienici:ag692498-560466485",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-26T13:00:39+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122282,10 +122331,10 @@
   },
   "paruvendu:1296802750": {
    "also": [],
-   "checked": "2026-11-27T09:00:40+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122319,14 +122368,14 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296802750A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1296830606": {
    "also": [],
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122360,7 +122409,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296830606A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1296839590": {
    "also": [],
@@ -122375,7 +122424,7 @@
    "also": [],
    "dup_of": "bienici:ics-anj_ANJALYS_loc-GES20790068-713",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122426,7 +122475,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122459,7 +122508,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296867605A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1296880317": {
    "also": [],
@@ -122552,7 +122601,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES87600013-184",
    "first_seen": "2026-11-25T11:00:44+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122561,7 +122610,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES98670088-184",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122574,7 +122623,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122609,13 +122658,13 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1296923082A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1296941885": {
    "also": [],
    "dup_of": "paruvendu:1297138401",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122624,7 +122673,7 @@
    "also": [],
    "dup_of": "bienici:iad-france-2131957",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122633,7 +122682,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-59269584",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-27T19:10:21+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122642,7 +122691,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES56640654-894",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122651,7 +122700,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES50320017-184",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122678,7 +122727,7 @@
    "also": [],
    "dup_of": "bienici:ag440414-557669600",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122687,7 +122736,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-31417515",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122717,7 +122766,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122750,7 +122799,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297023177A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297041754": {
    "also": [
@@ -122760,7 +122809,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122794,7 +122843,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297041754A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297041755": {
    "also": [],
@@ -122901,7 +122950,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-58852256",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -122919,17 +122968,17 @@
    "also": [],
    "dup_of": "bienici:immo-facile-54748841",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
   },
   "paruvendu:1297093312": {
    "also": [],
-   "checked": "2026-11-27T07:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -122963,13 +123012,13 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297093312A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297103144": {
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES86750038-171",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -123020,7 +123069,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -123052,7 +123101,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297120712A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297123457": {
    "also": [],
@@ -123080,7 +123129,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -123113,7 +123162,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297138401A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297143268": {
    "also": [],
@@ -123170,7 +123219,7 @@
    "also": [],
    "dup_of": "bienici:ics-sag_SAGITER_loc-GES02671017-144",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -123268,7 +123317,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES51810021-184",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -123330,7 +123379,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -123363,7 +123412,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297289718A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297297223": {
    "also": [
@@ -123372,7 +123421,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -123406,13 +123455,13 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297297223A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297299663": {
    "also": [],
    "dup_of": "bienici:immo-facile-61727895",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -123633,7 +123682,7 @@
    "also": [],
    "dup_of": "bienici:netty-company35817qai-appt-1977",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -123792,7 +123841,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -123825,13 +123874,13 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297390427A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297390428": {
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES15500011-171",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -123891,7 +123940,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-45977298",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -123901,7 +123950,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -123932,7 +123981,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297399565A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297413427": {
    "also": [],
@@ -124031,7 +124080,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES52370143-184",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -124040,7 +124089,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES01210006-175",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -124050,7 +124099,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -124083,14 +124132,14 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297450760A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297469876": {
    "also": [],
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -124122,13 +124171,13 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297469876A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297470468": {
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES60160016-175",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -124144,10 +124193,10 @@
   },
   "paruvendu:1297474304": {
    "also": [],
-   "checked": "2026-11-27T07:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T13:00:44+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -124182,7 +124231,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297474304A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297475297": {
    "also": [],
@@ -124255,7 +124304,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES42330052-184",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -124318,7 +124367,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -124356,7 +124405,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297509036A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297509040": {
    "also": [],
@@ -124454,7 +124503,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -124489,7 +124538,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297517021A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297526306": {
    "also": [],
@@ -124535,7 +124584,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -124570,7 +124619,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297529373A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297537590": {
    "also": [
@@ -124622,7 +124671,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -124657,7 +124706,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297545026A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297545027": {
    "also": [],
@@ -124865,7 +124914,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -124899,7 +124948,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297555435A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297557250": {
    "also": [],
@@ -124959,7 +125008,7 @@
    "also": [],
    "dup_of": "bienici:ag696985-560827109",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -124971,7 +125020,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -125007,7 +125056,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297573663A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297573668": {
    "also": [],
@@ -125071,7 +125120,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-52622512",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125080,7 +125129,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-52622556",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125089,7 +125138,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-60193384",
    "first_seen": "2026-11-21T11:54:54+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125098,7 +125147,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-61751779",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125159,7 +125208,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -125191,7 +125240,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297596033A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297596215": {
    "also": [],
@@ -125206,7 +125255,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES14260056-171",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125215,7 +125264,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES26800093-171",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125224,7 +125273,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES76850237-171",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125251,7 +125300,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES60440019-175",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125469,7 +125518,7 @@
    "also": [],
    "dup_of": "bienici:ag696097-560904521",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125588,7 +125637,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5045-GES04120042-173",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125606,7 +125655,7 @@
    "also": [],
    "dup_of": "bienici:hektor-groupe-hapi_1-290",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125616,7 +125665,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -125653,13 +125702,13 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297634139A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297634496": {
    "also": [],
    "dup_of": "bienici:netty-company55016ajm-appt-2246",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125677,7 +125726,7 @@
    "also": [],
    "dup_of": "bienici:netty-company55016ajm-appt-2255",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125686,7 +125735,7 @@
    "also": [],
    "dup_of": "bienici:netty-company55016ajm-appt-2257",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -125821,7 +125870,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -125856,7 +125905,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/duplex-triplex/1297652349A1KILHDU000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297659051": {
    "also": [
@@ -125997,7 +126046,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -126032,7 +126081,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297669327A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297676594": {
    "also": [],
@@ -126078,7 +126127,7 @@
    "also": [],
    "dup_of": "leboncoin:3313282382",
    "first_seen": "2026-11-21T11:13:43+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -126087,7 +126136,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES60390039-894",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -126096,7 +126145,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES02810021-175",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -126105,7 +126154,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES52880420-184",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-25T08:00:43+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -126124,7 +126173,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -126162,7 +126211,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297682148A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297682174": {
    "also": [],
@@ -126187,7 +126236,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -126222,7 +126271,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297685686A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297685801": {
    "also": [
@@ -126500,7 +126549,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-GES85430004-184",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -126509,7 +126558,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5041-LAPP5116900",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -126519,7 +126568,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -126554,7 +126603,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297719095A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297719335": {
    "also": [
@@ -126662,7 +126711,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -126697,7 +126746,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297722928A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297726115": {
    "also": [],
@@ -127021,10 +127070,10 @@
     "leboncoin:3316138037",
     "leboncoin:3317376659"
    ],
-   "checked": "2026-11-27T08:00:40+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T10:20:27+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -127058,17 +127107,17 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297755484A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297758028": {
    "also": [
     "bienici:citya-immobilier-30578588300029-GES30350021-894",
     "leboncoin:3313140367"
    ],
-   "checked": "2026-11-27T08:00:40+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T11:10:18+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -127104,7 +127153,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297758028A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297758029": {
    "also": [],
@@ -127479,7 +127528,7 @@
    "also": [],
    "dup_of": "bienici:ag696581-561969314",
    "first_seen": "2026-11-22T20:00:31+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -127572,7 +127621,7 @@
    "also": [],
    "dup_of": "bienici:ag696718-562064249",
    "first_seen": "2026-11-23T06:40:20+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -127581,7 +127630,7 @@
    "also": [],
    "dup_of": "bienici:ag696718-562064234",
    "first_seen": "2026-11-23T06:40:20+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -127718,7 +127767,7 @@
   },
   "paruvendu:1297789323": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
    "last_seen": "2026-11-28T06:20:21+00:00",
@@ -127762,7 +127811,7 @@
    "checked": "2026-11-27T17:00:57+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T10:20:20+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -127793,7 +127842,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297792192A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297792193": {
    "also": [
@@ -127923,7 +127972,7 @@
   },
   "paruvendu:1297799016": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T12:10:23+00:00",
    "last_seen": "2026-11-28T05:20:19+00:00",
@@ -128339,10 +128388,10 @@
   },
   "paruvendu:1297817921": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T03:30:19+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -128377,13 +128426,13 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297817921A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297817922": {
    "also": [],
    "dup_of": "leboncoin:3283389269",
    "first_seen": "2026-11-24T03:30:19+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -128495,7 +128544,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:50:26+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -128532,14 +128581,14 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297834486A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297834487": {
    "also": [],
-   "checked": "2026-11-27T05:00:42+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T10:20:18+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -128576,7 +128625,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297834487A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297834552": {
    "also": [
@@ -129069,7 +129118,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-96150595500016-GES71270057-142",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -129087,7 +129136,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES18050038-171",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -129105,7 +129154,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES79000051-171",
    "first_seen": "2026-11-24T13:10:29+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -129114,7 +129163,7 @@
    "also": [],
    "dup_of": "bienici:ag696825-557544227",
    "first_seen": "2026-11-24T13:00:44+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -129123,7 +129172,7 @@
    "also": [],
    "dup_of": "bienici:ag690169-560591243",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -129132,7 +129181,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES57410006-175",
    "first_seen": "2026-11-24T19:30:26+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -129394,7 +129443,7 @@
    "also": [],
    "dup_of": "leboncoin:3316879780",
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -129404,7 +129453,7 @@
    "checked": "2026-11-27T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-27T09:00:40+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -129439,14 +129488,14 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297856772A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297856773": {
    "also": [],
    "checked": "2026-11-27T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-27T14:10:30+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -129481,14 +129530,14 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297856773A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297856774": {
    "also": [],
    "checked": "2026-11-27T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-27T15:20:25+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -129523,13 +129572,13 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297856774A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297863033": {
    "also": [],
    "dup_of": "bienici:ag440414-557669600",
    "first_seen": "2026-11-25T06:00:41+00:00",
-   "last_seen": "2026-11-27T16:50:18+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -129930,7 +129979,7 @@
    "checked": "2026-11-28T04:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T10:20:22+00:00",
-   "last_seen": "2026-11-27T18:20:31+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -129965,14 +130014,14 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297879560A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297879561": {
    "also": [],
    "checked": "2026-11-28T04:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T10:20:22+00:00",
-   "last_seen": "2026-11-27T18:20:31+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -130004,7 +130053,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297879561A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297879562": {
    "also": [],
@@ -130051,7 +130100,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-30578588300029-GES53430346-894",
    "first_seen": "2026-11-25T12:01:14+00:00",
-   "last_seen": "2026-11-27T16:50:18+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -130069,7 +130118,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5040-GES41100010-171",
    "first_seen": "2026-11-25T19:20:20+00:00",
-   "last_seen": "2026-11-27T17:50:20+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -130117,10 +130166,10 @@
   },
   "paruvendu:1297883542": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T13:00:46+00:00",
-   "last_seen": "2026-11-28T00:10:21+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -131206,10 +131255,10 @@
   },
   "paruvendu:1297958937": {
    "also": [],
-   "checked": "2026-11-27T09:00:40+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T08:40:22+00:00",
-   "last_seen": "2026-11-27T08:40:22+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -131241,14 +131290,14 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297958937A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297958948": {
    "also": [],
-   "checked": "2026-11-27T09:00:40+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T08:40:22+00:00",
-   "last_seen": "2026-11-27T08:40:22+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -131283,7 +131332,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297958948A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297959006": {
    "also": [],
@@ -131381,10 +131430,10 @@
   },
   "paruvendu:1297959108": {
    "also": [],
-   "checked": "2026-11-27T09:00:40+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T08:40:22+00:00",
-   "last_seen": "2026-11-27T08:40:22+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -131419,7 +131468,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297959108A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297959137": {
    "also": [],
@@ -131471,10 +131520,10 @@
   },
   "paruvendu:1297959143": {
    "also": [],
-   "checked": "2026-11-27T09:00:40+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T08:40:22+00:00",
-   "last_seen": "2026-11-27T08:40:22+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -131506,7 +131555,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297959143A1KILHAP000"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "paruvendu:1297966085": {
    "also": [],
@@ -131681,6 +131730,84 @@
    "last_seen": "2026-11-28T04:40:18+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1297975316": {
+   "also": [],
+   "checked": "2026-11-28T07:00:39+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-28T07:00:39+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "3 500 € CC* Appartement 16 m 2 Villeurbanne (69) 1 pièce DPE : B 110 kWh/m².an 10 kg CO 2 /m².an À Villeurbanne, studio meublé de 16 m2 à louer, entièrement rénové. Douche et cuisine privées. Tramway à 200 mètres, accès rapide à Part-Dieu. Appartement éligible APL, avec machine à laver et toilettes communes. 123loger.com 500 annonces 27/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": true,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/2b/97/L2MtNmIwOTc4MjM0NzM4NWMyYzAzMGE5ZGM5LThlZjg0YzAzYThmZWQzZjgyNDJmOTg5Yzg5MTVjNTE4MWUxY2JiNDY0MzhjNmU1YjI1MjVlYThlNTY4NDc5OTkuanBnPzIwMjYxMTI3MjAyMDQ0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/97/af/L2MtNmIwOTc4MjM0NzM4NWMyYzAzMGE5ZGM5LTkxZWZhMDQwMWE2NjVjY2E5ZDkzOTU4YWIzODc1ZDNiOTNjYjJmYTZhYjA3ZjdiMWIyNjQ1ZTA3Yzk5N2IyNjYuanBnPzIwMjYxMTI3MjAyMDQ0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/de/03/L2MtNmIwOTc4MjM0NzM4NWMyYzAzMGE5ZGM5LTQ3Zjg1MmExYzlhMmQxYmY3NTZhY2ViMDExM2E5OGE4ZTBjZGRlMjZkNjRjNGUzNzFlZTRhN2I2NTIzNDNjODYuanBnPzIwMjYxMTI3MjAyMDQ0_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-27",
+    "rent_cc": 500,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297975316",
+    "surface_m2": 16.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 16 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297975316A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297975336": {
+   "also": [],
+   "checked": "2026-11-28T07:00:39+00:00",
+   "dup_of": null,
+   "first_seen": "2026-11-28T07:00:39+00:00",
+   "last_seen": "2026-11-28T07:00:39+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 3 840 € CC* Appartement 43 m 2 Villeurbanne (69) 1 pièce DPE : D 250 kWh/m².an 50 kg CO 2 /m².an À louer, appartement rénové T1 de 43 m² à Villeurbanne, lumineux et meublé, situé au RdC d'un immeuble sécurisé. Proche des transports (10 min métro), local à vélo et cave. Cuisine équipée, salle de bain avec baignoire. Commodités à 150m. 123loger.com 500 annonces 27/11/2026 Voir Contacter",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/5d/a5/L2MtNmIwOTc4MmQwZWNjMDIzYTlmMGJkZjg1LWQxYmMxOWFjZTRlMjY3ZmEyZTJkN2VmMjBkYTkzMzlmODg1MDdkNGM0YmZmNjA0N2M0ZGMwZDM2NmI1MmU0MGIuanBnPzIwMjYxMTI3MjAyMDQ0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/d6/ca/L2MtNmIwOTc4MmQwZWNjMDIzYTlmMGJkZjg1LWFhN2I1NWNiMzFjY2JkOTUwZTM2ZDhhMjcyZTdkZTYwNDc4M2I1MWYyMWY3NWRhZWQ0NmY1MzQwNTZmMGQwODguanBnPzIwMjYxMTI3MjAyMDQ0_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/f3/7d/L2MtNmIwOTc4MmQwZWNjMDIzYTlmMGJkZjg1LWYyNjA3MDRkNTY1Y2M3Nzg4ZDg2NjgwYWNiM2MyZTliNDY4ZWE0MGRlZTljMTA3NmUxYWNlYjhkNzAyMjIzMmEuanBnPzIwMjYxMTI3MjAyMDQ0_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69100",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-27",
+    "rent_cc": 840,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1297975336",
+    "surface_m2": 43.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 43 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297975336A1KILHAP000"
+   },
+   "notified": false,
    "status": "active"
   },
   "paruvendu:1297978184": {
@@ -133793,7 +133920,7 @@
   },
   "studapart:ca837dd5-9c57-4d0f-917e-533336f46e35": {
    "also": [],
-   "checked": "2026-11-27T15:00:39+00:00",
+   "checked": "2026-11-28T07:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T04:00:38+00:00",
    "last_seen": "2026-11-28T06:01:04+00:00",
