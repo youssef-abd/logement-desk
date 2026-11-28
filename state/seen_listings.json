@@ -29,7 +29,7 @@
    "last_success": "2026-11-28T04:30:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 7,
+   "blocked_runs": 8,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-28T05:10:26+00:00",
    "last_error": "blocked",
@@ -1068,7 +1068,9 @@
    "status": "active"
   },
   "bienici:ag313862-563026700": {
-   "also": [],
+   "also": [
+    "paruvendu:1297998813"
+   ],
    "checked": "2026-11-27T16:00:42+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T23:00:37+00:00",
@@ -84492,7 +84494,7 @@
    "checked": "2026-11-28T04:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-28T03:30:19+00:00",
+   "last_seen": "2026-11-28T06:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85818,7 +85820,7 @@
    "checked": "2026-11-28T04:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-28T03:30:19+00:00",
+   "last_seen": "2026-11-28T06:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -89056,7 +89058,7 @@
    "checked": "2026-11-28T04:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-28T03:30:19+00:00",
+   "last_seen": "2026-11-28T06:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -98874,7 +98876,7 @@
    "checked": "2026-11-28T04:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-28T03:30:19+00:00",
+   "last_seen": "2026-11-28T06:30:20+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -129962,7 +129964,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297879560A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297879561": {
    "also": [],
@@ -130001,7 +130003,7 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297879561A1KILHAP000"
    },
    "notified": false,
-   "status": "active"
+   "status": "stale"
   },
   "paruvendu:1297879562": {
    "also": [],
@@ -131761,6 +131763,15 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297978629A1KILHAP000"
    },
    "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297998813": {
+   "also": [],
+   "dup_of": "bienici:ag313862-563026700",
+   "first_seen": "2026-11-28T06:30:20+00:00",
+   "last_seen": "2026-11-28T06:30:20+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "studapart:08e20664-7672-4ba4-a8f9-e4fc4b6e0c38": {
