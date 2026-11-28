@@ -81934,9 +81934,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-22T00:30:20+00:00",
+   "last_seen": "2026-11-28T09:40:18+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 62 m²",
     "district": "Lyon",
     "flags": [],
@@ -81963,7 +81964,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/1x7929"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:1xlv4p": {
    "also": [],
