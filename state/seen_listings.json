@@ -29,7 +29,7 @@
    "last_success": "2026-11-28T13:40:25+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 0,
+   "blocked_runs": 1,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-28T14:10:19+00:00",
    "last_error": "blocked",
@@ -89618,7 +89618,7 @@
    "checked": "2026-11-25T16:00:43+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T22:20:19+00:00",
-   "last_seen": "2026-11-25T04:25:29+00:00",
+   "last_seen": "2026-11-28T14:20:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -89649,7 +89649,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/fm5cdx"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:frcbcr": {
    "also": [],
@@ -132736,6 +132736,45 @@
     "tags": [],
     "title": "Appartement - 2 pièce(s) - 50 m²",
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1298022473A1KILHAP000"
+   },
+   "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1298025621": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-28T14:20:18+00:00",
+   "last_seen": "2026-11-28T14:20:18+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "Nouveau 4 928 € CC* Appartement 24 m 2 Lyon 8 1 pièce DPE : D 250 kWh/m².an 30 kg CO 2 /m².an Lyon 8e, studio de 24 m2 à louer, refait à neuf dans un immeuble ancien. Grande pièce lumineuse avec parquet, cheminée décorative, kitchenette équipée. Salle de douche, WC suspendus. Studio meublé, toutes charges comprises, proche tramway et commodités. 123loger.com 500 annonces 28/11/2026 Voir Contacter",
+    "district": "Lyon 8e",
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t1",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/ee/f2/L2MtNmIwYWNhMDY4NDU5ZDFkZmIxMDNkMDViLWY5MjUzZjk5MjczM2MzODUxNThkNmYzZDc2ZjNhM2RiZTgwOWVhZjIxZjQwYjBkZTAzYjMxZTZkZWE2ODkzNjQuanBnPzIwMjYxMTI4MTUwOTAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/cd/98/L2MtNmIwYWNhMDY4NDU5ZDFkZmIxMDNkMDViLTI2NmY0NzdiMTY3NjU4NTc0NzI3MzU0ZTNkYTA1OWY2YTQ1NmQwMzY3OTJkYTc0M2Q5NWFlZTdlNTY4M2UxZGIuanBnPzIwMjYxMTI4MTUwOTAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/43/15/L2MtNmIwYWNhMDY4NDU5ZDFkZmIxMDNkMDViLTBlZjI0MjQyZGI5NTViYjlhMWZjMmNjZjcwNDhhNWNiNjA3ZjI0MTFhNmJhOGNmMGE5ODM3ZmYzMTJjMzhkMmUuanBnPzIwMjYxMTI4MTUwOTAz_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/08/36/L2MtNmIwYWNhMDY4NDU5ZDFkZmIxMDNkMDViLTMzOTdjZjc1MDRiMjJhNWE0NmQwZjY1ZjJhMTE4MWU0YzQ4NDU5OWI2ZjJkNjdhZjYzODU5OTQ1YzliYzYzMGMuanBnPzIwMjYxMTI4MTUwOTAz_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69008",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-28",
+    "rent_cc": 928,
+    "rooms": 1,
+    "source": "paruvendu",
+    "source_id": "1298025621",
+    "surface_m2": 24.0,
+    "tags": [],
+    "title": "Appartement - 1 pièce(s) - 24 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1298025621A1KILHAP000"
    },
    "notified": false,
    "status": "active"
