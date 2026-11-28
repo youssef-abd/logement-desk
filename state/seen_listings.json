@@ -29,7 +29,7 @@
    "last_success": "2026-11-28T07:30:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 8,
+   "blocked_runs": 9,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-28T07:30:19+00:00",
    "last_error": "blocked",
@@ -19972,7 +19972,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T20:40:21+00:00",
-   "last_seen": "2026-11-28T05:50:20+00:00",
+   "last_seen": "2026-11-28T08:50:25+00:00",
    "listing": {
     "charges": 20,
     "city": "lyon",
@@ -75868,7 +75868,7 @@
    "checked": "2026-11-27T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:00:41+00:00",
-   "last_seen": "2026-11-28T05:50:20+00:00",
+   "last_seen": "2026-11-28T08:50:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -85788,7 +85788,7 @@
    "checked": "2026-11-28T00:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-28T05:50:20+00:00",
+   "last_seen": "2026-11-28T08:50:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -86511,7 +86511,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T20:30:20+00:00",
-   "last_seen": "2026-11-28T05:50:20+00:00",
+   "last_seen": "2026-11-28T08:50:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -123404,7 +123404,7 @@
    "also": [],
    "dup_of": "bienici:ag696101-556516265",
    "first_seen": "2026-11-25T02:50:20+00:00",
-   "last_seen": "2026-11-28T05:50:20+00:00",
+   "last_seen": "2026-11-28T08:50:25+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -130097,7 +130097,7 @@
    "checked": "2026-11-28T04:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T09:20:21+00:00",
-   "last_seen": "2026-11-28T05:50:20+00:00",
+   "last_seen": "2026-11-28T08:50:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -130248,7 +130248,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T10:20:21+00:00",
-   "last_seen": "2026-11-28T05:50:20+00:00",
+   "last_seen": "2026-11-28T08:50:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -130334,7 +130334,7 @@
    "checked": "2026-11-27T21:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-26T10:20:21+00:00",
-   "last_seen": "2026-11-28T05:50:20+00:00",
+   "last_seen": "2026-11-28T08:50:25+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -131607,7 +131607,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES53320118-175",
    "first_seen": "2026-11-27T11:10:25+00:00",
-   "last_seen": "2026-11-28T05:50:20+00:00",
+   "last_seen": "2026-11-28T08:50:25+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -131937,6 +131937,44 @@
    "last_seen": "2026-11-28T06:30:20+00:00",
    "listing": null,
    "notified": true,
+   "status": "active"
+  },
+  "paruvendu:1298007125": {
+   "also": [],
+   "dup_of": null,
+   "first_seen": "2026-11-28T08:50:25+00:00",
+   "last_seen": "2026-11-28T08:50:25+00:00",
+   "listing": {
+    "charges": null,
+    "city": "lyon",
+    "description": "3 750 € CC* Appartement 38 m 2 Bron (69) 2 pièces DPE : B 110 kWh/m².an 10 kg CO 2 /m².an À Bron, charmant appartement T2 meublé de 38 m2 à louer. Refait à neuf, il est calme et lumineux avec un jardin privatif. Idéalement situé près des facultés, hôpitaux et médiathèque, avec accès facile aux tramways T2 et T5. 123loger.com 500 annonces 28/11/2026 Voir Contacter * Loyer mensuel charges comprises. M'envoyer les prochaines annonces Recevoir les nouvelles annonces Le top villes pour votre recherch",
+    "district": null,
+    "flags": [
+     "charges_cc"
+    ],
+    "found_by": "paruvendu",
+    "furnished": true,
+    "kind": "t2",
+    "match": false,
+    "photos": [
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/34/97/L2MtNmIwYTZlY2M5YmQ2YzI4YmZiMDdhZWQ1LTAwYWIyY2NlMTJmZmJjNWJjMjNlNDhiYzUxYTkwZjA3NDQ0YzM4NTRhODJkYmNmNmZmMjJhMzdjZDkzNGU4NmUuanBnPzIwMjYxMTI4MDk0NzAy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/9d/cc/L2MtNmIwYTZlY2M5YmQ2YzI4YmZiMDdhZWQ1LWFhZWU3NzkyMzllZTNiYzk1ODAxMmY2NWZiMzE2NjJiNmYzZjMxNzE0Y2FiZDk2ZmY1YjYzYTZkYmZhNmRmMzcuanBnPzIwMjYxMTI4MDk0NzAy_rct?func=crop&w=320&gravity=auto",
+     "https://img.paruvendu.fr/media_ext/_https_/aycp-image.s3.rbx.io.cloud.ovh.net/95/a5/L2MtNmIwYTZlY2M5YmQ2YzI4YmZiMDdhZWQ1LTQzY2Y2OGYxNjkzMjQ5MmFjNGRiZTU4YzUzYjBiMjJmZGM0YzA5ZDlkZDYxZGEzOGQxYWIwMzJmNDQ1NTFiMTIuanBnPzIwMjYxMTI4MDk0NzAy_rct?func=crop&w=320&gravity=auto"
+    ],
+    "postal_code": "69500",
+    "poster": "agence",
+    "poster_name": "123loger.com",
+    "published_at": "2026-11-28",
+    "rent_cc": 750,
+    "rooms": 2,
+    "source": "paruvendu",
+    "source_id": "1298007125",
+    "surface_m2": 38.0,
+    "tags": [],
+    "title": "Appartement - 2 pièce(s) - 38 m²",
+    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1298007125A1KILHAP000"
+   },
+   "notified": false,
    "status": "active"
   },
   "studapart:08e20664-7672-4ba4-a8f9-e4fc4b6e0c38": {
