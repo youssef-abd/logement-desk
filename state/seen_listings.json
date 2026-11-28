@@ -29,7 +29,7 @@
    "last_success": "2026-11-28T13:40:25+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 5,
+   "blocked_runs": 6,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-28T14:10:19+00:00",
    "last_error": "blocked",
@@ -19973,7 +19973,7 @@
    "checked": "2026-11-28T13:00:38+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T20:40:21+00:00",
-   "last_seen": "2026-11-28T12:00:39+00:00",
+   "last_seen": "2026-11-28T15:10:18+00:00",
    "listing": {
     "charges": 20,
     "city": "lyon",
@@ -75918,7 +75918,7 @@
    "checked": "2026-11-28T10:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T11:00:41+00:00",
-   "last_seen": "2026-11-28T12:00:39+00:00",
+   "last_seen": "2026-11-28T15:10:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -87333,7 +87333,7 @@
    "checked": "2026-11-28T05:00:34+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T15:00:21+00:00",
-   "last_seen": "2026-11-28T00:30:21+00:00",
+   "last_seen": "2026-11-28T15:10:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -87363,7 +87363,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/baurpv"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:bcbk4x": {
    "also": [],
@@ -123963,7 +123963,7 @@
    "also": [],
    "dup_of": "bienici:ag696101-556516265",
    "first_seen": "2026-11-25T02:50:20+00:00",
-   "last_seen": "2026-11-28T12:00:39+00:00",
+   "last_seen": "2026-11-28T15:10:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -130656,7 +130656,7 @@
    "checked": "2026-11-28T04:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T09:20:21+00:00",
-   "last_seen": "2026-11-28T12:00:39+00:00",
+   "last_seen": "2026-11-28T15:10:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -132175,7 +132175,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-5042-GES53320118-175",
    "first_seen": "2026-11-27T11:10:25+00:00",
-   "last_seen": "2026-11-28T12:00:39+00:00",
+   "last_seen": "2026-11-28T15:10:18+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -132654,7 +132654,7 @@
    "checked": "2026-11-28T09:00:59+00:00",
    "dup_of": null,
    "first_seen": "2026-11-28T08:50:25+00:00",
-   "last_seen": "2026-11-28T12:00:39+00:00",
+   "last_seen": "2026-11-28T15:10:18+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
