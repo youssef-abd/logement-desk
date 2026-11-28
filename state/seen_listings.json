@@ -29,7 +29,7 @@
    "last_success": "2026-11-28T04:30:19+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 6,
+   "blocked_runs": 7,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-28T05:10:26+00:00",
    "last_error": "blocked",
@@ -8130,7 +8130,7 @@
    "checked": "2026-11-28T04:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T11:40:19+00:00",
-   "last_seen": "2026-11-28T03:10:20+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": 159,
     "city": "lyon",
@@ -8169,7 +8169,7 @@
    "checked": "2026-11-28T04:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T11:40:19+00:00",
-   "last_seen": "2026-11-28T03:10:20+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": 90,
     "city": "lyon",
@@ -17867,7 +17867,7 @@
    "checked": "2026-11-27T15:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T15:00:39+00:00",
-   "last_seen": "2026-11-28T03:20:18+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -79861,7 +79861,7 @@
    "checked": "2026-11-28T00:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-28T00:00:40+00:00",
-   "last_seen": "2026-11-28T03:10:20+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -79903,7 +79903,7 @@
    "checked": "2026-11-28T00:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-28T00:00:40+00:00",
-   "last_seen": "2026-11-28T03:10:20+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -84341,9 +84341,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-21T18:20:19+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 130 m². Disponible dès 2026-12-17",
     "district": "Lyon",
     "flags": [],
@@ -84370,7 +84371,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/6izc06"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:6l9pzl": {
    "also": [],
@@ -87870,7 +87871,7 @@
    "checked": "2026-11-27T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-27T18:00:44+00:00",
-   "last_seen": "2026-11-28T03:20:18+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -88941,7 +88942,7 @@
    "checked": "2026-11-28T01:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T20:50:19+00:00",
-   "last_seen": "2026-11-28T03:10:20+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -90909,9 +90910,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-21T15:20:19+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 4 pièces de 90 m². Disponible dès 2026-12-23",
     "district": "Lyon",
     "flags": [],
@@ -90939,7 +90941,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/jm16v2"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:jvrc91": {
    "also": [],
@@ -94964,9 +94966,10 @@
    "also": [],
    "dup_of": null,
    "first_seen": "2026-11-21T12:16:06+00:00",
-   "last_seen": "2026-11-21T15:20:19+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
+    "city": "lyon",
     "description": "Appartement 3 pièces de 80 m². Disponible dès 2026-12-22",
     "district": "Lyon",
     "flags": [],
@@ -94993,7 +94996,7 @@
     "url": "https://www.lacartedescolocs.fr/colocations/fr/auvergne-rhone-alpes/lyon/a/s7zpw9"
    },
    "notified": false,
-   "status": "stale"
+   "status": "active"
   },
   "lacartedescolocs:s8bv9f": {
    "also": [],
@@ -95116,7 +95119,7 @@
    "checked": "2026-11-28T04:00:41+00:00",
    "dup_of": null,
    "first_seen": "2026-11-21T13:00:18+00:00",
-   "last_seen": "2026-11-28T03:20:18+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -120374,7 +120377,7 @@
    "checked": "2026-11-27T20:00:33+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T09:00:39+00:00",
-   "last_seen": "2026-11-28T03:20:18+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -121579,7 +121582,7 @@
    "also": [],
    "dup_of": "bienici:citya-immobilier-47750692700060-GES21680013-746",
    "first_seen": "2026-11-22T12:51:45+00:00",
-   "last_seen": "2026-11-28T03:20:18+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -127168,7 +127171,7 @@
    "checked": "2026-11-28T00:00:40+00:00",
    "dup_of": null,
    "first_seen": "2026-11-22T11:00:54+00:00",
-   "last_seen": "2026-11-28T03:20:18+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -127715,7 +127718,7 @@
    "checked": "2026-11-27T15:00:39+00:00",
    "dup_of": null,
    "first_seen": "2026-11-23T09:01:45+00:00",
-   "last_seen": "2026-11-28T03:20:18+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
@@ -128326,7 +128329,7 @@
    "also": [],
    "dup_of": "bienici:hektor-espacesetlieux-262",
    "first_seen": "2026-11-24T02:00:38+00:00",
-   "last_seen": "2026-11-28T03:20:18+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -128386,7 +128389,7 @@
    "also": [],
    "dup_of": "bienici:immo-facile-61734050",
    "first_seen": "2026-11-24T06:00:43+00:00",
-   "last_seen": "2026-11-28T03:20:18+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": null,
    "notified": true,
    "status": "active"
@@ -128396,7 +128399,7 @@
    "checked": "2026-11-27T18:00:44+00:00",
    "dup_of": null,
    "first_seen": "2026-11-24T06:00:43+00:00",
-   "last_seen": "2026-11-28T03:20:18+00:00",
+   "last_seen": "2026-11-28T06:20:21+00:00",
    "listing": {
     "charges": null,
     "city": "lyon",
