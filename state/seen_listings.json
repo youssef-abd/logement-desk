@@ -29,7 +29,7 @@
    "last_success": "2026-11-28T10:40:17+00:00"
   },
   "leboncoin": {
-   "blocked_runs": 2,
+   "blocked_runs": 3,
    "consecutive_failures": 4,
    "cooldown_until": "2026-11-28T12:00:30+00:00",
    "last_error": "blocked",
@@ -23487,7 +23487,9 @@
    "status": "active"
   },
   "bienici:ag696914-562695305": {
-   "also": [],
+   "also": [
+    "paruvendu:1297965833"
+   ],
    "checked": "2026-11-28T11:00:46+00:00",
    "dup_of": null,
    "first_seen": "2026-11-25T16:40:19+00:00",
@@ -131803,6 +131805,15 @@
     "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297959143A1KILHAP000"
    },
    "notified": false,
+   "status": "active"
+  },
+  "paruvendu:1297965833": {
+   "also": [],
+   "dup_of": "bienici:ag696914-562695305",
+   "first_seen": "2026-11-28T12:20:21+00:00",
+   "last_seen": "2026-11-28T12:20:21+00:00",
+   "listing": null,
+   "notified": true,
    "status": "active"
   },
   "paruvendu:1297966085": {
